@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Référentiel de cartographie d’acteurs",
+  "type": "object",
+  "description": "Schéma indicatif. Les fichiers sont séparés pour garder le dépôt lisible."
+}

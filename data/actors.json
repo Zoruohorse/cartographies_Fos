@@ -1,0 +1,3476 @@
+[
+  {
+    "id": "project_fos",
+    "name": "Ligne THT Fos-Jonquières",
+    "short_name": "Ligne THT Fos-Jonquières",
+    "description": "Projet de ligne aérienne 400 kV entre Jonquières-Saint-Vincent et Fos-sur-Mer, au cœur du conflit entre décarbonation industrielle et protection territoriale.",
+    "categories": [
+      "project"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Ligne THT Fos-Jonquières",
+      "label": "Ligne THT\nFos-Jonquières",
+      "group": "Projet central",
+      "size": 34,
+      "detail": "Projet de ligne aérienne 400 kV entre Jonquières-Saint-Vincent et Fos-sur-Mer, au cœur du conflit entre décarbonation industrielle et protection territoriale."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0001",
+    "name": "RTE",
+    "short_name": "RTE",
+    "description": "Porteur technique du projet. Défend la solution aérienne pour ses délais, coûts et puissance.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "RTE",
+      "label": "RTE",
+      "group": "Porteurs / soutiens industriels",
+      "size": 30,
+      "detail": "Porteur technique du projet. Défend la solution aérienne pour ses délais, coûts et puissance."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0002",
+    "name": "Patrick de Carolis",
+    "short_name": "Patrick de Carolis",
+    "description": "Maire d'Arles / président d'ACCM",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Maire d'Arles / président d'ACCM"
+      }
+    ],
+    "original_graph": {
+      "id": "Patrick de Carolis",
+      "label": "Patrick de\nCarolis",
+      "group": "Élus opposés / critiques",
+      "size": 23,
+      "detail": "Maire d'Arles, opposé au tracé aérien ; demande réexamen des besoins et alternatives[cite: 18, 91]."
+    },
+    "original_card": {
+      "name": "Patrick de Carolis",
+      "category": "elus-opp",
+      "stance": "opposed",
+      "role": "Maire d'Arles / président d'ACCM",
+      "position": "Signe le serment des maires et estime que l'absence de consensus et les recours condamnent le projet aérien à de longs retards.",
+      "evidence": "Nous aurons les pylônes mais pas les industriels.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0003",
+    "name": "Collectif THT 13/30",
+    "short_name": "Collectif THT 13/30",
+    "description": "Coalition interdépartementale",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [
+      {
+        "label": "Coalition interdépartementale"
+      }
+    ],
+    "original_graph": {
+      "id": "Collectif THT 13/30",
+      "label": "Collectif\nTHT 13/30",
+      "group": "Collectifs / associations opposées",
+      "size": 29,
+      "detail": "Coalition centrale opposée au projet, prône l'enfouissement[cite: 22, 103]."
+    },
+    "original_card": {
+      "name": "Collectif THT 13/30",
+      "category": "orgs",
+      "stance": "opposed",
+      "role": "Coalition interdépartementale",
+      "position": "Coalition centrale opposée au projet aérien, prône l'enfouissement systématique ou l'ensouillement.",
+      "evidence": "Organisation structurante de la fronde citoyenne et associative.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0004",
+    "name": "Renaud Muselier",
+    "short_name": "Renaud Muselier",
+    "description": "Président de la Région Sud",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Président de la Région Sud"
+      }
+    ],
+    "original_graph": {
+      "id": "Renaud Muselier",
+      "label": "Renaud\nMuselier",
+      "group": "Élus favorables / institutionnels",
+      "size": 18,
+      "detail": "Président de la Région Sud, appelle à une solution partagée et évoque les SMR[cite: 39, 197]."
+    },
+    "original_card": {
+      "name": "Renaud Muselier",
+      "category": "elus-opp",
+      "stance": "opposed",
+      "role": "Président de la Région Sud",
+      "position": "S'oppose à un passage en force sur la solution aérienne et avertit qu'il provoquerait un blocage irrémédiable.",
+      "evidence": "Un passage en force entraînera un blocage irrémédiable.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0005",
+    "name": "Jean-Luc Moya",
+    "short_name": "Jean-Luc Moya",
+    "description": "Porte-parole du collectif THT 13/30",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Porte-parole du collectif THT 13/30"
+      }
+    ],
+    "original_graph": {
+      "id": "Jean-Luc Moya",
+      "label": "Jean-Luc\nMoya",
+      "group": "Opposants structurants",
+      "size": 20,
+      "detail": "Porte-parole du collectif, très investi contre l'aérien et défenseur de la biodiversité[cite: 349]."
+    },
+    "original_card": {
+      "name": "Jean-Luc Moya",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Porte-parole du collectif THT 13/30",
+      "position": "Très investi contre l'aérien et défenseur de la biodiversité locale.",
+      "evidence": "Prises de parole publiques au nom de l'ensemble du collectif.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0006",
+    "name": "Cédric Bernardi",
+    "short_name": "Cédric Bernardi",
+    "description": "Riziculteur (ASTCC)",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Riziculteur (ASTCC)"
+      }
+    ],
+    "original_graph": {
+      "id": "Cédric Bernardi",
+      "label": "Cédric\nBernardi",
+      "group": "Opposants agricoles",
+      "size": 20,
+      "detail": "Riziculteur, membre de l'ASTCC, s'oppose à l'emprise sur ses terres[cite: 131, 143]."
+    },
+    "original_card": {
+      "name": "Cédric Bernardi",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Riziculteur (ASTCC)",
+      "position": "S'oppose à l'emprise sur ses terres et à la dégradation du paysage agricole.",
+      "evidence": "Mobilisation syndicale et foncière directe.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0007",
+    "name": "Séverine Dellanegra",
+    "short_name": "Séverine Dellanegra",
+    "description": "Maire de Saint-Martin-de-Crau",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Maire de Saint-Martin-de-Crau"
+      }
+    ],
+    "original_graph": {
+      "id": "Séverine Dellanegra",
+      "label": "Séverine\nDellanegra",
+      "group": "Élus opposés / critiques",
+      "size": 22,
+      "detail": "Maire de St-Martin-de-Crau, opposée à la DUP, souligne l'impact sur la biodiversité[cite: 47, 48]."
+    },
+    "original_card": {
+      "name": "Séverine Dellanegra",
+      "category": "elus-opp",
+      "stance": "opposed",
+      "role": "Maire de Saint-Martin-de-Crau",
+      "position": "A porté l'alternative à l'Élysée et demande une table ronde ainsi qu'une étude détaillée des solutions souterraines.",
+      "evidence": "Donnons-nous le temps de ne pas sacrifier des territoires à tout jamais.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0008",
+    "name": "Emmanuel Taché",
+    "short_name": "Emmanuel Taché",
+    "description": "Député RN",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Député RN"
+      }
+    ],
+    "original_graph": {
+      "id": "Emmanuel Taché",
+      "label": "Emmanuel\nTaché",
+      "group": "Élus opposés / critiques",
+      "size": 19,
+      "detail": "Député RN, s'oppose au projet et alerte sur le risque de ZAD[cite: 36, 275, 281]."
+    },
+    "original_card": {
+      "name": "Emmanuel Taché",
+      "category": "elus-opp",
+      "stance": "opposed",
+      "role": "Député RN",
+      "position": "S'oppose au projet et alerte sur le risque de création d'une ZAD.",
+      "evidence": "Intervention législative et relais d'alertes sécuritaires.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0009",
+    "name": "France Chimie Méditerranée",
+    "short_name": "France Chimie Méditerranée",
+    "description": "Syndicat professionnel",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Syndicat professionnel"
+      }
+    ],
+    "original_graph": {
+      "id": "France Chimie Méditerranée",
+      "label": "France Chimie\nMéditerranée",
+      "group": "Porteurs / soutiens industriels",
+      "size": 19,
+      "detail": "Soutient la ligne pour sécuriser la décarbonation industrielle de Fos[cite: 214, 220]."
+    },
+    "original_card": {
+      "name": "France Chimie Méditerranée",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Syndicat professionnel",
+      "position": "Soutient la ligne pour sécuriser la décarbonation industrielle de Fos-sur-Mer.",
+      "evidence": "Défense des intérêts électriques de la ZIP de Fos.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0010",
+    "name": "Jean-Laurent Lucchesi",
+    "short_name": "Jean-Laurent Lucchesi",
+    "description": "Biologiste / porte-parole du Collectif THT 13/30",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Biologiste / porte-parole du Collectif THT 13/30"
+      }
+    ],
+    "original_graph": {
+      "id": "Jean-Laurent Lucchesi",
+      "label": "Jean-Laurent\nLucchesi",
+      "group": "Opposants structurants",
+      "size": 25,
+      "detail": "Biologiste, Vigueirat Nature, FNE13, Collectif THT 13/30. Figure centrale côté biodiversité : avifaune, Camargue, couloirs migratoires, alternative enfouie / sous-marine."
+    },
+    "original_card": {
+      "name": "Jean-Laurent Lucchesi",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Biologiste / porte-parole du Collectif THT 13/30",
+      "position": "Porte une alternative structurée combinant une liaison souterraine de 2 GW en courant continu et une liaison sous-marine ultérieure.",
+      "evidence": "Nous ne proposons que des techniques que RTE sait faire.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0011",
+    "name": "Guillaume Meiffre",
+    "short_name": "Guillaume Meiffre",
+    "description": "Oléiculteur / Coprésident ASTCC",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Oléiculteur / Coprésident ASTCC"
+      }
+    ],
+    "original_graph": {
+      "id": "Guillaume Meiffre",
+      "label": "Guillaume\nMeiffre",
+      "group": "Opposants agricoles",
+      "size": 21,
+      "detail": "Oléiculteur à Mas-Thibert / Saint-Martin-de-Crau, coprésident de l'association de sauvegarde. Évoque une résistance plus dure et une possible ZAD si le projet avance."
+    },
+    "original_card": {
+      "name": "Guillaume Meiffre",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Oléiculteur / Coprésident ASTCC",
+      "position": "Évoque une résistance plus dure et une possible ZAD si le projet avance en force.",
+      "evidence": "Menace de durcissement des actions sur le terrain.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0012",
+    "name": "Carole Guintoli",
+    "short_name": "Carole Guintoli",
+    "description": "Rizicultrice bio en Camargue",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Rizicultrice bio en Camargue"
+      }
+    ],
+    "original_graph": {
+      "id": "Carole Guintoli",
+      "label": "Carole\nGuintoli",
+      "group": "Opposants agricoles",
+      "size": 16,
+      "detail": "Rizicultrice bio en Camargue, membre de l'association de sauvegarde des terres. Associée aux prises de position contre le projet aérien."
+    },
+    "original_card": {
+      "name": "Carole Guintoli",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Rizicultrice bio en Camargue",
+      "position": "Bloque l'accès de ses rizières aux naturalistes mandatés par RTE pour empêcher les études préalables à l'implantation des pylônes.",
+      "evidence": "Carole Guintoli et Cédric Bernardi posent le pied sur leurs rizières [...] Bras croisés, ils attendent de pied ferme les agents de RTE.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0013",
+    "name": "Cyril Marès",
+    "short_name": "Cyril Marès",
+    "description": "Président de la COPA 30 et AOC Costières de Nîmes",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Président de la COPA 30 et AOC Costières de Nîmes"
+      }
+    ],
+    "original_graph": {
+      "id": "Cyril Marès",
+      "label": "Cyril\nMarès",
+      "group": "Opposants agricoles",
+      "size": 19,
+      "detail": "Président de la COPA 30 et de l'AOC Costières de Nîmes. Porte une opposition agricole et viticole ; appelle à une union entre agriculteurs, écologistes et élus."
+    },
+    "original_card": {
+      "name": "Cyril Marès",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Président de la COPA 30 et AOC Costières de Nîmes",
+      "position": "Porte une opposition agricole et viticole ; appelle à une union agriculteurs/écologistes/élus.",
+      "evidence": "Stratégie de convergence des luttes locales.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0014",
+    "name": "Sébastien Mabile",
+    "short_name": "Sébastien Mabile",
+    "description": "Avocat en droit de l'environnement",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Avocat en droit de l'environnement"
+      }
+    ],
+    "original_graph": {
+      "id": "Sébastien Mabile",
+      "label": "Sébastien\nMabile",
+      "group": "Opposants juridiques",
+      "size": 19,
+      "detail": "Avocat spécialisé en droit de l'environnement / coordinateur juridique du collectif. Structure la bataille juridique et les recours contre le projet aérien."
+    },
+    "original_card": {
+      "name": "Sébastien Mabile",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Avocat en droit de l'environnement",
+      "position": "Structure la bataille juridique et les futurs recours administratifs contre le projet aérien.",
+      "evidence": "Cofondateur de la stratégie juridique du collectif THT 13/30.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0015",
+    "name": "Luc Perrin",
+    "short_name": "Luc Perrin",
+    "description": "Coprésident de l'ASTA",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Coprésident de l'ASTA"
+      }
+    ],
+    "original_graph": {
+      "id": "Luc Perrin",
+      "label": "Luc\nPerrin",
+      "group": "Opposants structurants",
+      "size": 19,
+      "detail": "Président / porte-parole de l'ASTA, acteur de la Terre d'Argence. Défend l'enfouissement et alerte sur les impacts oiseaux et territoires gardois."
+    },
+    "original_card": {
+      "name": "Luc Perrin",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Coprésident de l'ASTA",
+      "position": "Alerte sur la détresse des agriculteurs et sur la difficulté croissante à contenir une radicalisation du mouvement.",
+      "evidence": "À un moment, on ne pourra pas canaliser tout le monde.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0016",
+    "name": "Michel Perronet",
+    "short_name": "Michel Perronet",
+    "description": "Ingénieur retraité / expert",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Ingénieur retraité / expert"
+      }
+    ],
+    "original_graph": {
+      "id": "Michel Perronet",
+      "label": "Michel\nPerronet",
+      "group": "Opposants experts",
+      "size": 18,
+      "detail": "Ingénieur retraité, ancien du Port autonome de Marseille. Appui technique des opposants ; contribue à l'alternative enfouie / ensouillée et Midi-Provence."
+    },
+    "original_card": {
+      "name": "Michel Perronet",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Ingénieur retraité / expert",
+      "position": "Alerte sur la dépendance accrue au poste de Tavel et conteste le bénéfice du projet en matière de sécurité d'approvisionnement.",
+      "evidence": "Les industriels de Fos et 12 % de la population dépendront alors d'un seul poste.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0017",
+    "name": "Clément Lajoux",
+    "short_name": "Clément Lajoux",
+    "description": "Porte-parole COPA 13",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Porte-parole COPA 13"
+      }
+    ],
+    "original_graph": {
+      "id": "Clément Lajoux",
+      "label": "Clément\nLajoux",
+      "group": "Opposants agricoles",
+      "size": 19,
+      "detail": "Agriculteur, porte-parole de la COPA 13. Mobilisé contre le tracé aérien ; rappelle que les agriculteurs ne refusent pas la décarbonation mais les pylônes."
+    },
+    "original_card": {
+      "name": "Clément Lajoux",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Porte-parole COPA 13",
+      "position": "Rappelle que les agriculteurs ne refusent pas la décarbonation, mais uniquement les pylônes.",
+      "evidence": "Soutien syndical agricole clair à l'enfouissement.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0018",
+    "name": "Romain Collard",
+    "short_name": "Romain Collard",
+    "description": "Vigneron beaucairois, Domaine Mourgues du Grès. Refuse que les terres viticoles et agricoles soient sacrifiées alors que des alternatives existent.",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Romain Collard",
+      "label": "Romain\nCollard",
+      "group": "Opposants agricoles",
+      "size": 17,
+      "detail": "Vigneron beaucairois, Domaine Mourgues du Grès. Refuse que les terres viticoles et agricoles soient sacrifiées alors que des alternatives existent."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0019",
+    "name": "Anne Collard",
+    "short_name": "Anne Collard",
+    "description": "Vigneronne au Domaine / Château Mourgues du Grès. Alerte sur les impacts terroir, agrotourisme et paysages des Costières de Nîmes.",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Anne Collard",
+      "label": "Anne\nCollard",
+      "group": "Opposants agricoles",
+      "size": 15,
+      "detail": "Vigneronne au Domaine / Château Mourgues du Grès. Alerte sur les impacts terroir, agrotourisme et paysages des Costières de Nîmes."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0020",
+    "name": "François Collard",
+    "short_name": "François Collard",
+    "description": "Vigneron du Domaine / Château Mourgues du Grès, cité dans l'opposition viticole au projet aérien.",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "François Collard",
+      "label": "François\nCollard",
+      "group": "Opposants agricoles",
+      "size": 15,
+      "detail": "Vigneron du Domaine / Château Mourgues du Grès, cité dans l'opposition viticole au projet aérien."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0021",
+    "name": "Rémy Benson",
+    "short_name": "Rémy Benson",
+    "description": "Éleveur (Coordination rurale)",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Éleveur (Coordination rurale)"
+      }
+    ],
+    "original_graph": {
+      "id": "Rémy Benson",
+      "label": "Rémy\nBenson",
+      "group": "Opposants agricoles",
+      "size": 15,
+      "detail": "Éleveur ovins-bovins et producteur de foin, membre de la Coordination rurale. Défend la transmission des exploitations sans pylônes."
+    },
+    "original_card": {
+      "name": "Rémy Benson",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Éleveur (Coordination rurale)",
+      "position": "Défend la transmission des exploitations sans les contraintes de pylônes.",
+      "evidence": "Implication syndicale pour la préservation du foin de Crau.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0022",
+    "name": "Daniel Carlotti",
+    "short_name": "Daniel Carlotti",
+    "description": "Riziculteur",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Riziculteur"
+      }
+    ],
+    "original_graph": {
+      "id": "Daniel Carlotti",
+      "label": "Daniel\nCarlotti",
+      "group": "Opposants agricoles",
+      "size": 15,
+      "detail": "Riziculteur concerné par l'implantation potentielle de pylônes sur son exploitation. Défend l'existence d'alternatives."
+    },
+    "original_card": {
+      "name": "Daniel Carlotti",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Riziculteur",
+      "position": "Concernant l'implantation potentielle de pylônes, défend l'existence d'alternatives.",
+      "evidence": "Opposition foncière directe.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0023",
+    "name": "Isabelle Gex",
+    "short_name": "Isabelle Gex",
+    "description": "Membre Collectif THT 13/30",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Membre Collectif THT 13/30"
+      }
+    ],
+    "original_graph": {
+      "id": "Isabelle Gex",
+      "label": "Isabelle\nGex",
+      "group": "Opposants structurants",
+      "size": 14,
+      "detail": "Membre du Collectif THT 13/30. Répond à l'argument du coût en mettant en avant la volonté politique."
+    },
+    "original_card": {
+      "name": "Isabelle Gex",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Membre Collectif THT 13/30",
+      "position": "Répond à l'argument du coût soulevé par RTE en mettant en avant la volonté politique de l'État.",
+      "evidence": "Déconstruction publique des arguments budgétaires.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0024",
+    "name": "Laura Baudino",
+    "short_name": "Laura Baudino",
+    "description": "Directrice de crèche / Arlésienne",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Directrice de crèche / Arlésienne"
+      }
+    ],
+    "original_graph": {
+      "id": "Laura Baudino",
+      "label": "Laura\nBaudino",
+      "group": "Opposants citoyens",
+      "size": 14,
+      "detail": "Directrice de crèche, mobilisée en costume traditionnel d'Arlésienne. Défend une alternative à l'aérien au nom des paysages, emplois, exploitations et biodiversité."
+    },
+    "original_card": {
+      "name": "Laura Baudino",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Directrice de crèche / Arlésienne",
+      "position": "Défend le patrimoine culturel, les paysages et l'emploi face à la ligne THT.",
+      "evidence": "Mobilisation symbolique et culturelle forte (costume traditionnel).",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0025",
+    "name": "François Cavallo",
+    "short_name": "François Cavallo",
+    "description": "Expert NACICCA / FNE13",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Expert NACICCA / FNE13"
+      }
+    ],
+    "original_graph": {
+      "id": "François Cavallo",
+      "label": "François\nCavallo",
+      "group": "Opposants experts",
+      "size": 16,
+      "detail": "Association NACICCA, FNE13. Porte l'argumentaire avifaune avec les comptages d'oiseaux et espèces protégées."
+    },
+    "original_card": {
+      "name": "François Cavallo",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Expert NACICCA / FNE13",
+      "position": "Porte l'argumentaire avifaune avec les comptages d'oiseaux et espèces protégées.",
+      "evidence": "Production de données naturalistes de terrain.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0026",
+    "name": "Jean-Claude Cheinet",
+    "short_name": "Jean-Claude Cheinet",
+    "description": "Ancien élu / acteur local",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Ancien élu / acteur local"
+      }
+    ],
+    "original_graph": {
+      "id": "Jean-Claude Cheinet",
+      "label": "Jean-Claude\nCheinet",
+      "group": "Critiques nuancés",
+      "size": 16,
+      "detail": "Ancien élu / acteur local. Ne rejette pas la décarbonation ni le principe de la ligne, mais critique les zones d'ombre, l'État et le manque d'infrastructures."
+    },
+    "original_card": {
+      "name": "Jean-Claude Cheinet",
+      "category": "opposants",
+      "stance": "neutral",
+      "role": "Ancien élu / acteur local",
+      "position": "Ne rejette pas la décarbonation mais critique les zones d'ombre, l'État et le manque d'infrastructures.",
+      "evidence": "Critique constructive sur le déficit global d'aménagement.",
+      "certainty": "Moyenne"
+    }
+  },
+  {
+    "id": "actor_0027",
+    "name": "Daniel Moutet",
+    "short_name": "Daniel Moutet",
+    "description": "Président ADPLGF",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Président ADPLGF"
+      }
+    ],
+    "original_graph": {
+      "id": "Daniel Moutet",
+      "label": "Daniel\nMoutet",
+      "group": "Critiques nuancés",
+      "size": 15,
+      "detail": "Président de l'ADPLGF. Critique le débat global Fos-Berre et le risque de dilution des sujets : usines, hydrogène, éolien, THT, transports."
+    },
+    "original_card": {
+      "name": "Daniel Moutet",
+      "category": "opposants",
+      "stance": "neutral",
+      "role": "Président ADPLGF",
+      "position": "Critique le débat global Fos-Berre et le risque de dilution des sujets (hydrogène, THT, etc.).",
+      "evidence": "Dénonce la méthodologie de concertation globale.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0028",
+    "name": "Marie-Hélène Fabre",
+    "short_name": "Marie-Hélène Fabre",
+    "description": "Responsable ACEN",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Responsable ACEN"
+      }
+    ],
+    "original_graph": {
+      "id": "Marie-Hélène Fabre",
+      "label": "Marie-Hélène\nFabre",
+      "group": "Critiques connexes",
+      "size": 14,
+      "detail": "Responsable de l'ACEN. Critique surtout le contournement autoroutier d'Arles et envisage une action juridique sur la concertation."
+    },
+    "original_card": {
+      "name": "Marie-Hélène Fabre",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Responsable ACEN",
+      "position": "Critique le contournement autoroutier d'Arles et envisage une action juridique sur la concertation.",
+      "evidence": "Rapprochement des luttes d'infrastructures locales.",
+      "certainty": "Moyenne"
+    }
+  },
+  {
+    "id": "actor_0029",
+    "name": "Cyril Girard",
+    "short_name": "Cyril Girard",
+    "description": "Élu municipal d'opposition (Arles)",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Élu municipal d'opposition (Arles)"
+      }
+    ],
+    "original_graph": {
+      "id": "Cyril Girard",
+      "label": "Cyril\nGirard",
+      "group": "Critiques connexes",
+      "size": 15,
+      "detail": "Changeons d'avenir, élu municipal d'opposition à Arles. Critique les grands projets d'infrastructures, notamment le contournement d'Arles."
+    },
+    "original_card": {
+      "name": "Cyril Girard",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Élu municipal d'opposition (Arles)",
+      "position": "Critique les grands projets d'infrastructures, notamment le contournement d'Arles et la THT.",
+      "evidence": "Opposition politique aux projets d'aménagement massifs.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0030",
+    "name": "Richard Hardouin",
+    "short_name": "Richard Hardouin",
+    "description": "Président de FNE13",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [
+      {
+        "label": "Président de FNE13"
+      }
+    ],
+    "original_graph": {
+      "id": "Richard Hardouin",
+      "label": "Richard\nHardouin",
+      "group": "Opposants associatifs",
+      "size": 16,
+      "detail": "Président de FNE13. Figure structurante de la fédération environnementale, très impliquée dans le dossier THT."
+    },
+    "original_card": {
+      "name": "Richard Hardouin",
+      "category": "orgs",
+      "stance": "opposed",
+      "role": "Président de FNE13",
+      "position": "Figure structurante de la fédération environnementale, très impliquée dans le dossier THT.",
+      "evidence": "Engagement direct de l'ONG dans la lutte.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0031",
+    "name": "Stéphane Coppey",
+    "short_name": "Stéphane Coppey",
+    "description": "Délégué juridique FNE13",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Délégué juridique FNE13"
+      }
+    ],
+    "original_graph": {
+      "id": "Stéphane Coppey",
+      "label": "Stéphane\nCoppey",
+      "group": "Opposants juridiques",
+      "size": 15,
+      "detail": "Délégué au juridique et à la mobilité de FNE13. Acteur des actions contentieuses et environnementales."
+    },
+    "original_card": {
+      "name": "Stéphane Coppey",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Délégué juridique FNE13",
+      "position": "Acteur des actions contentieuses et environnementales contre RTE.",
+      "evidence": "Expertise contentieuse contre les documents d'urbanisme.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0032",
+    "name": "Isabelle Charnoz",
+    "short_name": "Isabelle Charnoz",
+    "description": "Adjointe à Saint-Martin-de-Crau",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Adjointe à Saint-Martin-de-Crau"
+      }
+    ],
+    "original_graph": {
+      "id": "Isabelle Charnoz",
+      "label": "Isabelle\nCharnoz",
+      "group": "Élus opposés / critiques",
+      "size": 18,
+      "detail": "Adjointe à Saint-Martin-de-Crau, engagée dans la protection de l'environnement et associée à la mobilisation anti-THT."
+    },
+    "original_card": {
+      "name": "Isabelle Charnoz",
+      "category": "elus-opp",
+      "stance": "opposed",
+      "role": "Adjointe à Saint-Martin-de-Crau",
+      "position": "Engagée dans la protection de l'environnement et associée à la mobilisation anti-THT.",
+      "evidence": "Soutien municipal actif à l'opposition.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0033",
+    "name": "Juan Martinez",
+    "short_name": "Juan Martinez",
+    "description": "Maire de Bellegarde, Pdt CC Terre d'Argence",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Maire de Bellegarde, Pdt CC Terre d'Argence"
+      }
+    ],
+    "original_graph": {
+      "id": "Juan Martinez",
+      "label": "Juan\nMartinez",
+      "group": "Élus opposés / critiques",
+      "size": 20,
+      "detail": "Maire de Bellegarde, président de la CC Beaucaire Terre d'Argence. Très critique : refuse que la Terre d'Argence, la Camargue et la Crau soient balafrées."
+    },
+    "original_card": {
+      "name": "Juan Martinez",
+      "category": "elus-opp",
+      "stance": "opposed",
+      "role": "Maire de Bellegarde, Pdt CC Terre d'Argence",
+      "position": "Refuse que la Terre d'Argence, la Camargue et la Crau soient balafrées.",
+      "evidence": "Opposition frontale du bloc institutionnel gardois.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0034",
+    "name": "Bertrand Mazel",
+    "short_name": "Bertrand Mazel",
+    "description": "Adjoint au maire d'Arles",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Adjoint au maire d'Arles"
+      }
+    ],
+    "original_graph": {
+      "id": "Bertrand Mazel",
+      "label": "Bertrand\nMazel",
+      "group": "Élus opposés / critiques",
+      "size": 15,
+      "detail": "Adjoint au maire d'Arles. Relaie la position de Patrick de Carolis et la proposition de Michel Barnier comme tiers facilitateur."
+    },
+    "original_card": {
+      "name": "Bertrand Mazel",
+      "category": "elus-opp",
+      "stance": "opposed",
+      "role": "Adjoint au maire d'Arles",
+      "position": "Relaie la proposition de Michel Barnier comme tiers facilitateur neutre.",
+      "evidence": "Tentative de médiation politique de haut niveau.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0035",
+    "name": "Carole Delga",
+    "short_name": "Carole Delga",
+    "description": "Présidente de la Région Occitanie",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Présidente de la Région Occitanie"
+      }
+    ],
+    "original_graph": {
+      "id": "Carole Delga",
+      "label": "Carole\nDelga",
+      "group": "Élus opposés / critiques",
+      "size": 14,
+      "detail": "Présidente de la Région Occitanie, citée comme soutien contre le projet tel que validé par l'État."
+    },
+    "original_card": {
+      "name": "Carole Delga",
+      "category": "elus-opp",
+      "stance": "opposed",
+      "role": "Présidente de la Région Occitanie",
+      "position": "Demande explicitement l'abandon du projet aérien, l'examen des alternatives et signe la charte des élus.",
+      "evidence": "S'interroge sur la pertinence même de cette ligne THT et en réclame l'abandon.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0036",
+    "name": "Nicolas Koukas",
+    "short_name": "Nicolas Koukas",
+    "description": "Élu d'opposition PCF (Arles)",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Élu d'opposition PCF (Arles)"
+      }
+    ],
+    "original_graph": {
+      "id": "Nicolas Koukas",
+      "label": "Nicolas\nKoukas",
+      "group": "Élus prudents / nuancés",
+      "size": 15,
+      "detail": "Conseiller municipal d'opposition PCF à Arles. Position nuancée : favorable à l'enfouissement technique, critique surtout le contournement et la gouvernance municipale."
+    },
+    "original_card": {
+      "name": "Nicolas Koukas",
+      "category": "elus-opp",
+      "stance": "neutral",
+      "role": "Élu d'opposition PCF (Arles)",
+      "position": "Favorable à l'enfouissement technique, mais critique surtout la gouvernance municipale actuelle.",
+      "evidence": "Critique politique de l'exécutif arlésien.",
+      "certainty": "Moyenne"
+    }
+  },
+  {
+    "id": "actor_0037",
+    "name": "René Raimondi",
+    "short_name": "René Raimondi",
+    "description": "Maire de Fos-sur-Mer",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [
+      {
+        "label": "Maire de Fos-sur-Mer"
+      }
+    ],
+    "original_graph": {
+      "id": "René Raimondi",
+      "label": "René\nRaimondi",
+      "group": "Élus favorables / institutionnels",
+      "size": 16,
+      "detail": "Maire de Fos-sur-Mer. Plutôt favorable à la réindustrialisation et à la décarbonation de Fos ; critique le débat jugé à charge par les opposants."
+    },
+    "original_card": {
+      "name": "René Raimondi",
+      "category": "elus-fav",
+      "stance": "favorable",
+      "role": "Maire de Fos-sur-Mer",
+      "position": "Favorable à la réindustrialisation de Fos ; critique le débat jugé à charge par les opposants.",
+      "evidence": "Défenseur des intérêts de la ZIP et de l'industrie.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0038",
+    "name": "Georges-François Leclerc",
+    "short_name": "Georges-François Leclerc",
+    "description": "Préfet de région PACA",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [
+      {
+        "label": "Préfet de région PACA"
+      }
+    ],
+    "original_graph": {
+      "id": "Georges-François Leclerc",
+      "label": "Georges-François\nLeclerc",
+      "group": "État / institutions",
+      "size": 18,
+      "detail": "Préfet de région PACA / Bouches-du-Rhône. Cadre le débat public et la décision ; perçu par certains opposants comme trop favorable à la ligne aérienne."
+    },
+    "original_card": {
+      "name": "Georges-François Leclerc",
+      "category": "elus-fav",
+      "stance": "favorable",
+      "role": "Préfet de région PACA",
+      "position": "Cadre le débat public et la décision ; perçu par certains opposants comme pro-aérien.",
+      "evidence": "Représentation de l'autorité décisionnelle étatique.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0039",
+    "name": "Christophe Mirmand",
+    "short_name": "Christophe Mirmand",
+    "description": "Ancien préfet de région",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [
+      {
+        "label": "Ancien préfet de région"
+      }
+    ],
+    "original_graph": {
+      "id": "Christophe Mirmand",
+      "label": "Christophe\nMirmand",
+      "group": "État / institutions",
+      "size": 15,
+      "detail": "Ancien préfet de région, à l'origine de la saisine de la CNDP et du débat global Fos-Berre."
+    },
+    "original_card": {
+      "name": "Christophe Mirmand",
+      "category": "elus-fav",
+      "stance": "neutral",
+      "role": "Ancien préfet de région",
+      "position": "À l'origine de la saisine de la CNDP et de l'organisation du débat global Fos-Berre.",
+      "evidence": "Auteur de l'architecture initiale du débat public.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0040",
+    "name": "Jérôme Bonet",
+    "short_name": "Jérôme Bonet",
+    "description": "Préfet du Gard",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [
+      {
+        "label": "Préfet du Gard"
+      }
+    ],
+    "original_graph": {
+      "id": "Jérôme Bonet",
+      "label": "Jérôme\nBonet",
+      "group": "État / institutions",
+      "size": 14,
+      "detail": "Préfet du Gard, acteur décisionnaire avec la préfecture des Bouches-du-Rhône sur le tracé / l'utilité publique."
+    },
+    "original_card": {
+      "name": "Jérôme Bonet",
+      "category": "elus-fav",
+      "stance": "neutral",
+      "role": "Préfet du Gard",
+      "position": "Acteur décisionnaire sur le volet gardois du tracé (Jonquières / Bellegarde).",
+      "evidence": "Autorité de tutelle départementale associée.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0041",
+    "name": "Jacques Witkowski",
+    "short_name": "Jacques Witkowski",
+    "description": "Nouveau préfet de région PACA",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [
+      {
+        "label": "Nouveau préfet de région PACA"
+      }
+    ],
+    "original_graph": {
+      "id": "Jacques Witkowski",
+      "label": "Jacques\nWitkowski",
+      "group": "État / institutions",
+      "size": 14,
+      "detail": "Nouveau préfet de région PACA / Bouches-du-Rhône cité comme acteur institutionnel du dossier."
+    },
+    "original_card": {
+      "name": "Jacques Witkowski",
+      "category": "elus-fav",
+      "stance": "neutral",
+      "role": "Nouveau préfet de région PACA",
+      "position": "Hérite du dossier administratif et des arbitrages sur la DUP.",
+      "evidence": "Garant de la continuité de l'État sur le dossier.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0042",
+    "name": "Gilles Odone",
+    "short_name": "Gilles Odone",
+    "description": "Délégué RTE Méditerranée",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Délégué RTE Méditerranée"
+      }
+    ],
+    "original_graph": {
+      "id": "Gilles Odone",
+      "label": "Gilles\nOdone",
+      "group": "Porteurs / soutiens industriels",
+      "size": 20,
+      "detail": "Délégué / directeur délégué RTE Méditerranée. Défend le renforcement du réseau, les besoins électriques et l'impossibilité de tenir les délais avec l'enfouissement."
+    },
+    "original_card": {
+      "name": "Gilles Odone",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Délégué RTE Méditerranée",
+      "position": "Maintient la nécessité de la ligne aérienne et annonce une enquête publique avant fin 2026.",
+      "evidence": "L'ordre de grandeur entre certaines solutions envisagées et celle-là, c'est 3,5 milliards d'euros d'écart.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0043",
+    "name": "Vincent Fletin",
+    "short_name": "Vincent Fletin",
+    "description": "Expert national grands projets chez RTE. Porte l'argumentaire technique de RTE en réunion publique.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Vincent Fletin",
+      "label": "Vincent\nFletin",
+      "group": "Porteurs / soutiens industriels",
+      "size": 17,
+      "detail": "Expert national grands projets chez RTE. Porte l'argumentaire technique de RTE en réunion publique."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0044",
+    "name": "Arthur Audouard",
+    "short_name": "Arthur Audouard",
+    "description": "Responsable national du programme 400 kV chez RTE. Intervient avec Vincent Fletin sur la solution aérienne.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Arthur Audouard",
+      "label": "Arthur\nAudouard",
+      "group": "Porteurs / soutiens industriels",
+      "size": 17,
+      "detail": "Responsable national du programme 400 kV chez RTE. Intervient avec Vincent Fletin sur la solution aérienne."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0045",
+    "name": "Emmanuel Macron",
+    "short_name": "Emmanuel Macron",
+    "description": "Président de la République",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [
+      {
+        "label": "Président de la République"
+      }
+    ],
+    "original_graph": {
+      "id": "Emmanuel Macron",
+      "label": "Emmanuel\nMacron",
+      "group": "État / institutions",
+      "size": 20,
+      "detail": "Président de la République. Soutient explicitement la ligne, jugée nécessaire pour donner de la visibilité aux industriels et viser une mise en service rapide."
+    },
+    "original_card": {
+      "name": "Emmanuel Macron",
+      "category": "elus-fav",
+      "stance": "favorable",
+      "role": "Président de la République",
+      "position": "Soutient la ligne, jugée nécessaire pour donner de la visibilité aux industriels.",
+      "evidence": "Cadrage politique national en faveur de l'accélération.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0046",
+    "name": "État / gouvernement",
+    "short_name": "État / gouvernement",
+    "description": "Appareil d'État",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [
+      {
+        "label": "Appareil d'État"
+      }
+    ],
+    "original_graph": {
+      "id": "État / gouvernement",
+      "label": "État /\ngouvernement",
+      "group": "État / institutions",
+      "size": 24,
+      "detail": "Porte l'objectif de sécurisation électrique, décarbonation et réindustrialisation de Fos-Berre ; engage l'instruction de la DUP et cadre les arbitrages."
+    },
+    "original_card": {
+      "name": "État / gouvernement",
+      "category": "elus-fav",
+      "stance": "favorable",
+      "role": "Appareil d'État",
+      "position": "Engage l'instruction de la DUP et cadre les arbitrages de réindustrialisation.",
+      "evidence": "Garant de l'objectif souverain de décarbonation.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0047",
+    "name": "Provence Fabrique des Possibles",
+    "short_name": "Provence Fabrique des Possibles",
+    "description": "Collectif industriel",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Collectif industriel"
+      }
+    ],
+    "original_graph": {
+      "id": "Provence Fabrique des Possibles",
+      "label": "Provence\nFabrique des\nPossibles",
+      "group": "Porteurs / soutiens industriels",
+      "size": 22,
+      "detail": "Collectif industriel soutenant la ligne comme condition de la décarbonation, des investissements et des emplois sur Fos-Berre."
+    },
+    "original_card": {
+      "name": "Provence Fabrique des Possibles",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Collectif industriel",
+      "position": "Soutient la ligne comme condition sine qua non des investissements sur Fos-Berre.",
+      "evidence": "Lobbying industriel régional pro-infrastructure.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0048",
+    "name": "Jean-Luc Chauvin",
+    "short_name": "Jean-Luc Chauvin",
+    "description": "Président de la CCI Aix-Marseille",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Président de la CCI Aix-Marseille"
+      }
+    ],
+    "original_graph": {
+      "id": "Jean-Luc Chauvin",
+      "label": "Jean-Luc\nChauvin",
+      "group": "Porteurs / soutiens industriels",
+      "size": 17,
+      "detail": "Président de la CCI Aix-Marseille Provence. Défend la ligne au nom de la souveraineté, de la sécurité d'approvisionnement et des usages électriques."
+    },
+    "original_card": {
+      "name": "Jean-Luc Chauvin",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Président de la CCI Aix-Marseille",
+      "position": "Défend la ligne au nom de la souveraineté et de la sécurité d'approvisionnement.",
+      "evidence": "Représentation du monde patronal régional.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0049",
+    "name": "Grand Port Maritime de Marseille-Fos",
+    "short_name": "Grand Port Maritime de Marseille-Fos",
+    "description": "Maître d'ouvrage portuaire",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Maître d'ouvrage portuaire"
+      }
+    ],
+    "original_graph": {
+      "id": "Grand Port Maritime de Marseille-Fos",
+      "label": "Grand Port\nMaritime de\nMarseille-Fos",
+      "group": "Porteurs / soutiens industriels",
+      "size": 21,
+      "detail": "Acteur central de la ZIP et de la réindustrialisation ; maître d'ouvrage portuaire, aménageur foncier et pilote de démarches environnementales."
+    },
+    "original_card": {
+      "name": "Grand Port Maritime de Marseille-Fos",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Maître d'ouvrage portuaire",
+      "position": "Acteur central de la ZIP, aménageur foncier nécessitant une forte puissance électrique.",
+      "evidence": "Bénéficiaire final essentiel de l'alimentation électrique.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0050",
+    "name": "Rémi Costantino",
+    "short_name": "Rémi Costantino",
+    "description": "DGA du GPMM",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "DGA du GPMM"
+      }
+    ],
+    "original_graph": {
+      "id": "Rémi Costantino",
+      "label": "Rémi\nCostantino",
+      "group": "Porteurs / soutiens industriels",
+      "size": 14,
+      "detail": "Directeur général adjoint du Grand Port Maritime de Marseille-Fos. Défend le desserrement foncier et la recherche de fonciers disponibles."
+    },
+    "original_card": {
+      "name": "Rémi Costantino",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "DGA du GPMM",
+      "position": "Défend le desserrement foncier et la recherche de fonciers disponibles pour l'industrie.",
+      "evidence": "Prises de parole sur la gestion des espaces industriels.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0051",
+    "name": "Régis Passerieux",
+    "short_name": "Régis Passerieux",
+    "description": "Commissaire à la transition",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [
+      {
+        "label": "Commissaire à la transition"
+      }
+    ],
+    "original_graph": {
+      "id": "Régis Passerieux",
+      "label": "Régis\nPasserieux",
+      "group": "État / institutions",
+      "size": 14,
+      "detail": "Commissaire à la transition industrielle écologique et énergétique pour Fos-Berre."
+    },
+    "original_card": {
+      "name": "Régis Passerieux",
+      "category": "elus-fav",
+      "stance": "neutral",
+      "role": "Commissaire à la transition",
+      "position": "Coordonne la transition industrielle, écologique et énergétique de Fos-Berre.",
+      "evidence": "Acteur de liaison entre l'État et le territoire.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0052",
+    "name": "NGE / Jean Bernadet",
+    "short_name": "NGE / Jean Bernadet",
+    "description": "Groupe de BTP / Président",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Groupe de BTP / Président"
+      }
+    ],
+    "original_graph": {
+      "id": "NGE / Jean Bernadet",
+      "label": "NGE /\nJean Bernadet",
+      "group": "Porteurs / soutiens industriels",
+      "size": 17,
+      "detail": "NGE / président Jean Bernadet. Soutient fortement la ligne et estime que l'enfouissement causerait davantage de dégâts."
+    },
+    "original_card": {
+      "name": "NGE / Jean Bernadet",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Groupe de BTP / Président",
+      "position": "Soutient fortement la ligne et estime paradoxalement que l'enfouissement causerait davantage de dégâts.",
+      "evidence": "Avis technique d'un acteur majeur des travaux publics.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0053",
+    "name": "Club Top 20",
+    "short_name": "Club Top 20",
+    "description": "Club de grandes entreprises de la Métropole Aix-Marseille Provence, cité comme soutien à la dynamique industrielle.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Club Top 20",
+      "label": "Club\nTop 20",
+      "group": "Porteurs / soutiens industriels",
+      "size": 14,
+      "detail": "Club de grandes entreprises de la Métropole Aix-Marseille Provence, cité comme soutien à la dynamique industrielle."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0054",
+    "name": "Marc Petit",
+    "short_name": "Marc Petit",
+    "description": "Professeur CentraleSupélec",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Professeur CentraleSupélec"
+      }
+    ],
+    "original_graph": {
+      "id": "Marc Petit",
+      "label": "Marc\nPetit",
+      "group": "Experts / débat public",
+      "size": 17,
+      "detail": "Professeur à CentraleSupélec, auteur de la tierce expertise. Juge l'alternative du collectif techniquement pertinente tout en notant les avantages techniques de la solution RTE hors impacts."
+    },
+    "original_card": {
+      "name": "Marc Petit",
+      "category": "opposants",
+      "stance": "neutral",
+      "role": "Professeur CentraleSupélec",
+      "position": "Auteur de la tierce expertise. Valide l'alternative enfouie du collectif tout en reconnaissant les avantages techniques RTE.",
+      "evidence": "Rapport d'expertise indépendante versé au débat.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0055",
+    "name": "FNE13",
+    "short_name": "FNE13",
+    "description": "Fédération environnementale",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [
+      {
+        "label": "Fédération environnementale"
+      }
+    ],
+    "original_graph": {
+      "id": "FNE13",
+      "label": "FNE13",
+      "group": "Collectifs / associations opposées",
+      "size": 25,
+      "detail": "France Nature Environnement Bouches-du-Rhône. Pilier du Collectif THT 13/30, relais juridique et environnemental."
+    },
+    "original_card": {
+      "name": "FNE13",
+      "category": "orgs",
+      "stance": "opposed",
+      "role": "Fédération environnementale",
+      "position": "Pilier du Collectif THT 13/30, apporte le relais juridique et d'expertise environnementale.",
+      "evidence": "Porteur d'actions contentieuses et de contre-études.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0056",
+    "name": "Association sauvegarde terres Camargue-Crau",
+    "short_name": "Association sauvegarde terres Camargue-Crau",
+    "description": "Association agricole",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [
+      {
+        "label": "Association agricole"
+      }
+    ],
+    "original_graph": {
+      "id": "Association sauvegarde terres Camargue-Crau",
+      "label": "Sauvegarde\nterres\nCamargue-Crau",
+      "group": "Collectifs / associations opposées",
+      "size": 22,
+      "detail": "Association agricole et citoyenne fondée / animée par Cédric Bernardi et Guillaume Meiffre. Mot d'ordre : zéro pylône."
+    },
+    "original_card": {
+      "name": "Sauvegarde terres Camargue-Crau",
+      "category": "orgs",
+      "stance": "opposed",
+      "role": "Association agricole",
+      "position": "Fondée par les exploitants impactés, mot d'ordre strict : zéro pylône.",
+      "evidence": "Fronde foncière de la profession agricole locale.",
+      "certainty": "Haute"
+    },
+    "aliases": [
+      "Sauvegarde terres Camargue-Crau"
+    ]
+  },
+  {
+    "id": "actor_0057",
+    "name": "ASTA",
+    "short_name": "ASTA",
+    "description": "Association gardoise",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [
+      {
+        "label": "Association gardoise"
+      }
+    ],
+    "original_graph": {
+      "id": "ASTA",
+      "label": "ASTA\nTerre d'Argence",
+      "group": "Collectifs / associations opposées",
+      "size": 20,
+      "detail": "Association pour la sauvegarde de la Terre d'Argence. Structuration de l'opposition côté Gard / Beaucaire / Bellegarde."
+    },
+    "original_card": {
+      "name": "ASTA",
+      "category": "orgs",
+      "stance": "opposed",
+      "role": "Association gardoise",
+      "position": "Structure l'opposition côté Gard (Beaucaire / Bellegarde) et Terre d'Argence.",
+      "evidence": "Mobilisation citoyenne du côté Occitanie.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0058",
+    "name": "Vigueirat Nature",
+    "short_name": "Vigueirat Nature",
+    "description": "Association naturaliste présidée / représentée par Jean-Laurent Lucchesi. Membre du collectif et appui biodiversité.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Vigueirat Nature",
+      "label": "Vigueirat\nNature",
+      "group": "Collectifs / associations opposées",
+      "size": 20,
+      "detail": "Association naturaliste présidée / représentée par Jean-Laurent Lucchesi. Membre du collectif et appui biodiversité."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0059",
+    "name": "Agir pour la Crau",
+    "short_name": "Agir pour la Crau",
+    "description": "Association locale associée à Jean-Luc Moya et au réseau FNE13.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Agir pour la Crau",
+      "label": "Agir pour\nla Crau",
+      "group": "Collectifs / associations opposées",
+      "size": 18,
+      "detail": "Association locale associée à Jean-Luc Moya et au réseau FNE13."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0060",
+    "name": "NACICCA",
+    "short_name": "NACICCA",
+    "description": "Association naturaliste. Réalise des comptages d'oiseaux sur le tracé potentiel et alimente l'argumentaire avifaune.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "NACICCA",
+      "label": "NACICCA",
+      "group": "Collectifs / associations opposées",
+      "size": 18,
+      "detail": "Association naturaliste. Réalise des comptages d'oiseaux sur le tracé potentiel et alimente l'argumentaire avifaune."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0061",
+    "name": "COPA 13",
+    "short_name": "COPA 13",
+    "description": "Organisation agricole opposée au tracé aérien, représentée notamment par Clément Lajoux.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "COPA 13",
+      "label": "COPA 13",
+      "group": "Organisations agricoles",
+      "size": 19,
+      "detail": "Organisation agricole opposée au tracé aérien, représentée notamment par Clément Lajoux."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0062",
+    "name": "COPA 30",
+    "short_name": "COPA 30",
+    "description": "Organisation agricole gardoise, représentée par Cyril Marès, mobilisée contre la ligne aérienne.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "COPA 30",
+      "label": "COPA 30",
+      "group": "Organisations agricoles",
+      "size": 18,
+      "detail": "Organisation agricole gardoise, représentée par Cyril Marès, mobilisée contre la ligne aérienne."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0063",
+    "name": "AOC Costières de Nîmes",
+    "short_name": "AOC Costières de Nîmes",
+    "description": "Filière viticole mobilisée contre les impacts paysagers, touristiques et agricoles des pylônes.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "AOC Costières de Nîmes",
+      "label": "AOC\nCostières\nde Nîmes",
+      "group": "Organisations agricoles",
+      "size": 17,
+      "detail": "Filière viticole mobilisée contre les impacts paysagers, touristiques et agricoles des pylônes."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0064",
+    "name": "Domaine Mourgues du Grès",
+    "short_name": "Domaine Mourgues du Grès",
+    "description": "Domaine viticole beaucairois, incarné par Anne, François et Romain Collard dans l'opposition viticole.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Domaine Mourgues du Grès",
+      "label": "Domaine\nMourgues\ndu Grès",
+      "group": "Organisations agricoles",
+      "size": 16,
+      "detail": "Domaine viticole beaucairois, incarné par Anne, François et Romain Collard dans l'opposition viticole."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0065",
+    "name": "FDSEA / Jeunes Agriculteurs",
+    "short_name": "FDSEA / Jeunes Agriculteurs",
+    "description": "Organisations agricoles fédérées notamment dans la COPA 13 et citées dans la mobilisation contre l'impact foncier.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "FDSEA / Jeunes Agriculteurs",
+      "label": "FDSEA /\nJeunes\nAgriculteurs",
+      "group": "Organisations agricoles",
+      "size": 17,
+      "detail": "Organisations agricoles fédérées notamment dans la COPA 13 et citées dans la mobilisation contre l'impact foncier."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0066",
+    "name": "Coordination rurale",
+    "short_name": "Coordination rurale",
+    "description": "Syndicat agricole cité dans la mobilisation, notamment via Rémy Benson.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Coordination rurale",
+      "label": "Coordination\nrurale",
+      "group": "Organisations agricoles",
+      "size": 16,
+      "detail": "Syndicat agricole cité dans la mobilisation, notamment via Rémy Benson."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0067",
+    "name": "Chambres d'agriculture",
+    "short_name": "Chambres d'agriculture",
+    "description": "Institutions agricoles citées parmi les acteurs mobilisés sur les impacts agricoles.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Chambres d'agriculture",
+      "label": "Chambres\nd'agriculture",
+      "group": "Organisations agricoles",
+      "size": 15,
+      "detail": "Institutions agricoles citées parmi les acteurs mobilisés sur les impacts agricoles."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0068",
+    "name": "AOP Foin de Crau",
+    "short_name": "AOP Foin de Crau",
+    "description": "Filière / label agricole cité comme potentiellement affecté par le projet.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "AOP Foin de Crau",
+      "label": "AOP Foin\nde Crau",
+      "group": "Organisations agricoles",
+      "size": 14,
+      "detail": "Filière / label agricole cité comme potentiellement affecté par le projet."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0069",
+    "name": "IGP Riz de Camargue",
+    "short_name": "IGP Riz de Camargue",
+    "description": "Filière / label agricole cité dans les impacts potentiels de la ligne.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "IGP Riz de Camargue",
+      "label": "IGP Riz\nde Camargue",
+      "group": "Organisations agricoles",
+      "size": 14,
+      "detail": "Filière / label agricole cité dans les impacts potentiels de la ligne."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0070",
+    "name": "LPO",
+    "short_name": "LPO",
+    "description": "Ligue pour la protection des oiseaux. Alerte sur les oiseaux migrateurs et habitats naturels ; acteur biodiversité majeur.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "LPO",
+      "label": "LPO",
+      "group": "Acteurs biodiversité / espaces protégés",
+      "size": 19,
+      "detail": "Ligue pour la protection des oiseaux. Alerte sur les oiseaux migrateurs et habitats naturels ; acteur biodiversité majeur."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0071",
+    "name": "WWF France",
+    "short_name": "WWF France",
+    "description": "ONG environnementale signataire d'appels contre la ligne aérienne.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "WWF France",
+      "label": "WWF\nFrance",
+      "group": "Acteurs biodiversité / espaces protégés",
+      "size": 17,
+      "detail": "ONG environnementale signataire d'appels contre la ligne aérienne."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0072",
+    "name": "Tour du Valat",
+    "short_name": "Tour du Valat",
+    "description": "Institut de recherche sur les zones humides méditerranéennes. Source scientifique majeure sur Camargue, tourbières, oiseaux et zones humides.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Tour du Valat",
+      "label": "Tour du\nValat",
+      "group": "Acteurs biodiversité / espaces protégés",
+      "size": 21,
+      "detail": "Institut de recherche sur les zones humides méditerranéennes. Source scientifique majeure sur Camargue, tourbières, oiseaux et zones humides."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0073",
+    "name": "CEN PACA",
+    "short_name": "CEN PACA",
+    "description": "Conservatoire d'espaces naturels PACA. Alerte sur les espèces protégées, le Ganga cata et l'aigle de Bonelli.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "CEN PACA",
+      "label": "CEN\nPACA",
+      "group": "Acteurs biodiversité / espaces protégés",
+      "size": 18,
+      "detail": "Conservatoire d'espaces naturels PACA. Alerte sur les espèces protégées, le Ganga cata et l'aigle de Bonelli."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0074",
+    "name": "SNPN",
+    "short_name": "SNPN",
+    "description": "Société nationale de protection de la nature, citée dans les contenus naturalistes et les alertes environnementales.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "SNPN",
+      "label": "SNPN",
+      "group": "Acteurs biodiversité / espaces protégés",
+      "size": 16,
+      "detail": "Société nationale de protection de la nature, citée dans les contenus naturalistes et les alertes environnementales."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0075",
+    "name": "Réseau des Grands Sites de France",
+    "short_name": "Réseau des Grands Sites de France",
+    "description": "Réseau d'espaces protégés appelant à abandonner la ligne aérienne et à préserver Camargue / Crau / Terre d'Argence.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Réseau des Grands Sites de France",
+      "label": "Réseau des\nGrands Sites\nde France",
+      "group": "Acteurs biodiversité / espaces protégés",
+      "size": 17,
+      "detail": "Réseau d'espaces protégés appelant à abandonner la ligne aérienne et à préserver Camargue / Crau / Terre d'Argence."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0076",
+    "name": "Ramsar France / MAB France / Réserves naturelles",
+    "short_name": "Ramsar France / MAB France / Réserves naturelles",
+    "description": "Réseaux d'aires protégées et zones humides, signataires ou interpellés sur les impacts du projet.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Ramsar France / MAB France / Réserves naturelles",
+      "label": "Ramsar /\nMAB /\nRéserves",
+      "group": "Acteurs biodiversité / espaces protégés",
+      "size": 17,
+      "detail": "Réseaux d'aires protégées et zones humides, signataires ou interpellés sur les impacts du projet."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0077",
+    "name": "OFB",
+    "short_name": "OFB",
+    "description": "Office français de la biodiversité. Intervient dans les constats biodiversité et les programmes scientifiques.",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "OFB",
+      "label": "OFB",
+      "group": "État / institutions",
+      "size": 15,
+      "detail": "Office français de la biodiversité. Intervient dans les constats biodiversité et les programmes scientifiques."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0078",
+    "name": "PNR de Camargue",
+    "short_name": "PNR de Camargue",
+    "description": "Gestionnaire territorial et naturel, porteur de missions Natura 2000 et de plans de gestion des zones humides.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "PNR de Camargue",
+      "label": "PNR de\nCamargue",
+      "group": "Acteurs biodiversité / espaces protégés",
+      "size": 17,
+      "detail": "Gestionnaire territorial et naturel, porteur de missions Natura 2000 et de plans de gestion des zones humides."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0079",
+    "name": "Nacioun Gardiano",
+    "short_name": "Nacioun Gardiano",
+    "description": "Organisation culturelle camarguaise présente dans la mobilisation, symbole de l'ancrage culturel territorial.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Nacioun Gardiano",
+      "label": "Nacioun\nGardiano",
+      "group": "Collectifs / associations opposées",
+      "size": 15,
+      "detail": "Organisation culturelle camarguaise présente dans la mobilisation, symbole de l'ancrage culturel territorial."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0080",
+    "name": "ADPLGF",
+    "short_name": "ADPLGF",
+    "description": "Association de défense et de protection du littoral du golfe de Fos. Critique la gouvernance du débat global et les effets cumulés.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "ADPLGF",
+      "label": "ADPLGF",
+      "group": "Collectifs / associations opposées",
+      "size": 15,
+      "detail": "Association de défense et de protection du littoral du golfe de Fos. Critique la gouvernance du débat global et les effets cumulés."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0081",
+    "name": "ACEN",
+    "short_name": "ACEN",
+    "description": "Association Camargue Environnement. Plutôt liée au contournement d'Arles mais dans l'écosystème de contestation territoriale.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "ACEN",
+      "label": "ACEN",
+      "group": "Collectifs / associations opposées",
+      "size": 15,
+      "detail": "Association Camargue Environnement. Plutôt liée au contournement d'Arles mais dans l'écosystème de contestation territoriale."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0082",
+    "name": "Sauvons nos Étangs",
+    "short_name": "Sauvons nos Étangs",
+    "description": "Collectif local né de l'opposition à HyVence, porteur d'une demande de Parc naturel régional des étangs du golfe de Fos.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Sauvons nos Étangs",
+      "label": "Sauvons\nnos Étangs",
+      "group": "Collectifs / associations opposées",
+      "size": 15,
+      "detail": "Collectif local né de l'opposition à HyVence, porteur d'une demande de Parc naturel régional des étangs du golfe de Fos."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0083",
+    "name": "MCTB Golfe de Fos Environnement",
+    "short_name": "MCTB Golfe de Fos Environnement",
+    "description": "Association associée à Sauvons nos Étangs pour la demande de Parc naturel régional des étangs.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "MCTB Golfe de Fos Environnement",
+      "label": "MCTB\nGolfe de Fos\nEnvironnement",
+      "group": "Collectifs / associations opposées",
+      "size": 14,
+      "detail": "Association associée à Sauvons nos Étangs pour la demande de Parc naturel régional des étangs."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0084",
+    "name": "GravitHy",
+    "short_name": "GravitHy",
+    "description": "Projet d'acier bas-carbone / DRI-HBI à partir d'hydrogène, emblématique des besoins électriques de Fos.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "GravitHy",
+      "label": "GravitHy",
+      "group": "Projets industriels / énergie",
+      "size": 18,
+      "detail": "Projet d'acier bas-carbone / DRI-HBI à partir d'hydrogène, emblématique des besoins électriques de Fos."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0085",
+    "name": "Marcegaglia",
+    "short_name": "Marcegaglia",
+    "description": "Industriel sidérurgique, projet de restructuration à Fos et synergies avec GravitHy.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Marcegaglia",
+      "label": "Marcegaglia",
+      "group": "Projets industriels / énergie",
+      "size": 16,
+      "detail": "Industriel sidérurgique, projet de restructuration à Fos et synergies avec GravitHy."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0086",
+    "name": "ArcelorMittal Méditerranée",
+    "short_name": "ArcelorMittal Méditerranée",
+    "description": "Industriel sidérurgique : four à arc électrique et décarbonation, mais aussi dossier contentieux pollution.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "ArcelorMittal Méditerranée",
+      "label": "ArcelorMittal\nMéditerranée",
+      "group": "Projets industriels / énergie",
+      "size": 17,
+      "detail": "Industriel sidérurgique : four à arc électrique et décarbonation, mais aussi dossier contentieux pollution."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0087",
+    "name": "Carbon",
+    "short_name": "Carbon",
+    "description": "Projet photovoltaïque cité dans les besoins électriques et la réindustrialisation, abandonné dans les documents.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Carbon",
+      "label": "Carbon",
+      "group": "Projets industriels / énergie",
+      "size": 15,
+      "detail": "Projet photovoltaïque cité dans les besoins électriques et la réindustrialisation, abandonné dans les documents."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0088",
+    "name": "Elyse / Neocarb",
+    "short_name": "Elyse / Neocarb",
+    "description": "Projet de carburants de synthèse / hydrogène bas-carbone à Fos.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Elyse / Neocarb",
+      "label": "Elyse /\nNeocarb",
+      "group": "Projets industriels / énergie",
+      "size": 16,
+      "detail": "Projet de carburants de synthèse / hydrogène bas-carbone à Fos."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0089",
+    "name": "H2V / Hy2Gen",
+    "short_name": "H2V / Hy2Gen",
+    "description": "Producteurs d'hydrogène / carburants renouvelables cités dans la dynamique Fos-Berre.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "H2V / Hy2Gen",
+      "label": "H2V /\nHy2Gen",
+      "group": "Projets industriels / énergie",
+      "size": 15,
+      "detail": "Producteurs d'hydrogène / carburants renouvelables cités dans la dynamique Fos-Berre."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0090",
+    "name": "NaTran",
+    "short_name": "NaTran",
+    "description": "Opérateur de réseau hydrogène, porteur du réseau de transport d'hydrogène en région Sud.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "NaTran",
+      "label": "NaTran",
+      "group": "Projets industriels / énergie",
+      "size": 15,
+      "detail": "Opérateur de réseau hydrogène, porteur du réseau de transport d'hydrogène en région Sud."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0091",
+    "name": "Geométhane",
+    "short_name": "Geométhane",
+    "description": "Acteur du stockage d'hydrogène à Manosque.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Geométhane",
+      "label": "Geométhane",
+      "group": "Projets industriels / énergie",
+      "size": 14,
+      "detail": "Acteur du stockage d'hydrogène à Manosque."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0092",
+    "name": "ENGIE",
+    "short_name": "ENGIE",
+    "description": "Énergéticien, porteur d'un projet de production d'hydrogène à Villeneuve.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "ENGIE",
+      "label": "ENGIE",
+      "group": "Projets industriels / énergie",
+      "size": 14,
+      "detail": "Énergéticien, porteur d'un projet de production d'hydrogène à Villeneuve."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0093",
+    "name": "PIICTO / Syrius",
+    "short_name": "PIICTO / Syrius",
+    "description": "Plateforme et programme de décarbonation industrielle Fos-Berre.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "PIICTO / Syrius",
+      "label": "PIICTO /\nSyrius",
+      "group": "Projets industriels / énergie",
+      "size": 16,
+      "detail": "Plateforme et programme de décarbonation industrielle Fos-Berre."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0094",
+    "name": "France Hydrogène",
+    "short_name": "France Hydrogène",
+    "description": "Organisation professionnelle hydrogène, demande du soutien public pour structurer la filière.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "France Hydrogène",
+      "label": "France\nHydrogène",
+      "group": "Projets industriels / énergie",
+      "size": 15,
+      "detail": "Organisation professionnelle hydrogène, demande du soutien public pour structurer la filière."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0095",
+    "name": "Newcleo",
+    "short_name": "Newcleo",
+    "description": "Acteur nucléaire innovant implanté près de Marcoule ; hors THT direct mais lié au contexte énergétique régional.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Newcleo",
+      "label": "Newcleo",
+      "group": "Projets industriels / énergie",
+      "size": 14,
+      "detail": "Acteur nucléaire innovant implanté près de Marcoule ; hors THT direct mais lié au contexte énergétique régional."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0096",
+    "name": "CNDP",
+    "short_name": "CNDP",
+    "description": "Instances de concertation",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [
+      {
+        "label": "Instances de concertation"
+      }
+    ],
+    "original_graph": {
+      "id": "CNDP",
+      "label": "CNDP",
+      "group": "Experts / débat public",
+      "size": 22,
+      "detail": "Commission nationale du débat public. Organise le débat global Fos-Berre et cadre la discussion sur industrie, énergie, mobilité, risques, logement et gouvernance."
+    },
+    "original_card": {
+      "name": "Context d'évaluation (CNDP)",
+      "category": "orgs",
+      "stance": "neutral",
+      "role": "Instances de concertation",
+      "position": "Organisent le débat global Fos-Berre, rappelant que l'exercice est consultatif et non référendaire.",
+      "evidence": "Cadrage de la méthodologie de participation du public.",
+      "certainty": "Haute"
+    },
+    "aliases": [
+      "Context d'évaluation (CNDP)"
+    ]
+  },
+  {
+    "id": "actor_0097",
+    "name": "Audrey Richard-Ferroudji",
+    "short_name": "Audrey Richard-Ferroudji",
+    "description": "Présidente du débat public Fos-Berre Provence / CPDP. Cadre le débat, rappelle que ce n'est pas un référendum.",
+    "categories": [
+      "experts"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Audrey Richard-Ferroudji",
+      "label": "Audrey\nRichard-Ferroudji",
+      "group": "Experts / débat public",
+      "size": 16,
+      "detail": "Présidente du débat public Fos-Berre Provence / CPDP. Cadre le débat, rappelle que ce n'est pas un référendum."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0098",
+    "name": "Marc Papinutti",
+    "short_name": "Marc Papinutti",
+    "description": "Président de la CNDP cité dans les documents.",
+    "categories": [
+      "experts"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Marc Papinutti",
+      "label": "Marc\nPapinutti",
+      "group": "Experts / débat public",
+      "size": 15,
+      "detail": "Président de la CNDP cité dans les documents."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0099",
+    "name": "Étienne Ballan",
+    "short_name": "Étienne Ballan",
+    "description": "Animateur de la concertation, cité dans les instances du débat public.",
+    "categories": [
+      "experts"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Étienne Ballan",
+      "label": "Étienne\nBallan",
+      "group": "Experts / débat public",
+      "size": 14,
+      "detail": "Animateur de la concertation, cité dans les instances du débat public."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0100",
+    "name": "DREAL Occitanie",
+    "short_name": "DREAL Occitanie",
+    "description": "Service de l'État dont la note environnementale est utilisée par les opposants sur les espèces protégées et le risque juridique.",
+    "categories": [
+      "experts"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "DREAL Occitanie",
+      "label": "DREAL\nOccitanie",
+      "group": "Experts / débat public",
+      "size": 17,
+      "detail": "Service de l'État dont la note environnementale est utilisée par les opposants sur les espèces protégées et le risque juridique."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0101",
+    "name": "DREAL PACA / MRAe PACA",
+    "short_name": "DREAL PACA / MRAe PACA",
+    "description": "Institutions environnementales citées, notamment sur le contournement d'Arles et les procédures.",
+    "categories": [
+      "experts"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "DREAL PACA / MRAe PACA",
+      "label": "DREAL PACA /\nMRAe PACA",
+      "group": "Experts / débat public",
+      "size": 15,
+      "detail": "Institutions environnementales citées, notamment sur le contournement d'Arles et les procédures."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0102",
+    "name": "Commission européenne / Berne / Ramsar",
+    "short_name": "Commission européenne / Berne / Ramsar",
+    "description": "Instances européennes / internationales évoquées comme leviers de saisine sur les zones humides et espèces protégées.",
+    "categories": [
+      "experts"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Commission européenne / Berne / Ramsar",
+      "label": "Commission UE /\nBerne /\nRamsar",
+      "group": "Experts / débat public",
+      "size": 15,
+      "detail": "Instances européennes / internationales évoquées comme leviers de saisine sur les zones humides et espèces protégées."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0103",
+    "name": "La Provence",
+    "short_name": "La Provence",
+    "description": "Source locale majeure sur Arles, Camargue, élus, associations et projets industriels.",
+    "categories": [
+      "medias"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "La Provence",
+      "label": "La\nProvence",
+      "group": "Médias / sources",
+      "size": 15,
+      "detail": "Source locale majeure sur Arles, Camargue, élus, associations et projets industriels."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0104",
+    "name": "Objectif Gard",
+    "short_name": "Objectif Gard",
+    "description": "Source très présente sur Terre d'Argence, Beaucaire, réunion d'Arles, CNDP et contestation gardoise.",
+    "categories": [
+      "medias"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Objectif Gard",
+      "label": "Objectif\nGard",
+      "group": "Médias / sources",
+      "size": 16,
+      "detail": "Source très présente sur Terre d'Argence, Beaucaire, réunion d'Arles, CNDP et contestation gardoise."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0105",
+    "name": "La Marseillaise",
+    "short_name": "La Marseillaise",
+    "description": "Source sur réindustrialisation, débats sociaux, Fos-Berre, biomasse, hydrogène et critiques locales.",
+    "categories": [
+      "medias"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "La Marseillaise",
+      "label": "La\nMarseillaise",
+      "group": "Médias / sources",
+      "size": 16,
+      "detail": "Source sur réindustrialisation, débats sociaux, Fos-Berre, biomasse, hydrogène et critiques locales."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0106",
+    "name": "France 3 / Franceinfo",
+    "short_name": "France 3 / Franceinfo",
+    "description": "Source nationale-régionale sur biodiversité, cigognes, DREAL, mobilisation agricole et oppositions.",
+    "categories": [
+      "medias"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "France 3 / Franceinfo",
+      "label": "France 3 /\nFranceinfo",
+      "group": "Médias / sources",
+      "size": 15,
+      "detail": "Source nationale-régionale sur biodiversité, cigognes, DREAL, mobilisation agricole et oppositions."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0107",
+    "name": "FNE13.fr",
+    "short_name": "FNE13.fr",
+    "description": "Source militante et associative sur le collectif, la tierce expertise, les recours, la biodiversité et les plaintes.",
+    "categories": [
+      "medias"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "FNE13.fr",
+      "label": "FNE13.fr",
+      "group": "Médias / sources",
+      "size": 15,
+      "detail": "Source militante et associative sur le collectif, la tierce expertise, les recours, la biodiversité et les plaintes."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0108",
+    "name": "Marsactu",
+    "short_name": "Marsactu",
+    "description": "Source d'analyse critique sur RTE, espèces protégées et controverses territoriales.",
+    "categories": [
+      "medias"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Marsactu",
+      "label": "Marsactu",
+      "group": "Médias / sources",
+      "size": 14,
+      "detail": "Source d'analyse critique sur RTE, espèces protégées et controverses territoriales."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0109",
+    "name": "GoMet",
+    "short_name": "GoMet",
+    "description": "Source sur débat industriel, Syrius et Parc naturel régional des étangs.",
+    "categories": [
+      "medias"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "GoMet",
+      "label": "GoMet",
+      "group": "Médias / sources",
+      "size": 14,
+      "detail": "Source sur débat industriel, Syrius et Parc naturel régional des étangs."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0110",
+    "name": "La Tribune Région Sud",
+    "short_name": "La Tribune Région Sud",
+    "description": "Source sur NGE, GravitHy, Newcleo, filières industrielles et énergétiques.",
+    "categories": [
+      "medias"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "La Tribune Région Sud",
+      "label": "La Tribune\nRégion Sud",
+      "group": "Médias / sources",
+      "size": 14,
+      "detail": "Source sur NGE, GravitHy, Newcleo, filières industrielles et énergétiques."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0111",
+    "name": "Tourduvalat.org",
+    "short_name": "Tourduvalat.org",
+    "description": "Source scientifique sur zones humides, oiseaux d'eau, tourbières et Camargue.",
+    "categories": [
+      "medias"
+    ],
+    "roles": [],
+    "original_graph": {
+      "id": "Tourduvalat.org",
+      "label": "Tour du Valat\n(source)",
+      "group": "Médias / sources",
+      "size": 14,
+      "detail": "Source scientifique sur zones humides, oiseaux d'eau, tourbières et Camargue."
+    },
+    "original_card": null
+  },
+  {
+    "id": "actor_0112",
+    "name": "Romain, Anne et François Collard",
+    "short_name": "Romain, Anne et François Collard",
+    "description": "Vignerons (Domaine Mourgues du Grès)",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Vignerons (Domaine Mourgues du Grès)"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Romain, Anne et François Collard",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Vignerons (Domaine Mourgues du Grès)",
+      "position": "Refusent que les terres viticoles soient sacrifiées et alertent sur les impacts agrotouristiques.",
+      "evidence": "Mobilisation de la filière viticole des Costières de Nîmes.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0113",
+    "name": "Vincent Fletin & Arthur Audouard",
+    "short_name": "Vincent Fletin & Arthur Audouard",
+    "description": "Experts nationaux RTE",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Experts nationaux RTE"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Vincent Fletin & Arthur Audouard",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Experts nationaux RTE",
+      "position": "Portent l'argumentaire technique de RTE en réunion publique sur le 400 kV.",
+      "evidence": "Expertise technique déployée face aux collectifs.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0114",
+    "name": "Acteurs de la Biodiversité (LPO, Tour du Valat, CEN PACA, WWF)",
+    "short_name": "Acteurs de la Biodiversité (LPO, Tour du Valat, CEN PACA, WWF)",
+    "description": "Réseau scientifique et ONG",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [
+      {
+        "label": "Réseau scientifique et ONG"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Acteurs de la Biodiversité (LPO, Tour du Valat, CEN PACA, WWF)",
+      "category": "orgs",
+      "stance": "opposed",
+      "role": "Réseau scientifique et ONG",
+      "position": "Alertent massivement sur les oiseaux migrateurs (Aigle de Bonelli, Ganga cata) et l'impact sur les zones humides.",
+      "evidence": "Production d'inventaires naturalistes critiques.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0115",
+    "name": "Syndicats Agricoles (COPA 13, COPA 30, FDSEA, CR)",
+    "short_name": "Syndicats Agricoles (COPA 13, COPA 30, FDSEA, CR)",
+    "description": "Organisations professionnelles",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [
+      {
+        "label": "Organisations professionnelles"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Syndicats Agricoles (COPA 13, COPA 30, FDSEA, CR)",
+      "category": "orgs",
+      "stance": "opposed",
+      "role": "Organisations professionnelles",
+      "position": "S'opposent unanimement au tracé aérien détruisant les paysages (AOC Costières) et les filières (Foin de Crau, Riz).",
+      "evidence": "Communiqués inter-syndicaux et blocages annoncés.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0116",
+    "name": "MAB France",
+    "short_name": "MAB France",
+    "description": "Réseau des réserves de biosphères (Unesco)",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [
+      {
+        "label": "Réseau des réserves de biosphères (Unesco)"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "MAB France",
+      "category": "orgs",
+      "stance": "opposed",
+      "role": "Réseau des réserves de biosphères (Unesco)",
+      "position": "Alerte officiellement le gouvernement sur le risque de déclassement de la Camargue de son statut de réserve de biosphère.",
+      "evidence": "Cela va contre les engagements de la France.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0117",
+    "name": "La Camargue à l'Unesco",
+    "short_name": "La Camargue à l'Unesco",
+    "description": "Association",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [
+      {
+        "label": "Association"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "La Camargue à l'Unesco",
+      "category": "orgs",
+      "stance": "opposed",
+      "role": "Association",
+      "position": "Soutient l'inscription du territoire au patrimoine mondial, démarche menacée par la THT.",
+      "evidence": "La demande étant en cours et soutenue depuis 2023 par l'association.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0118",
+    "name": "Stéphan Bonistalli",
+    "short_name": "Stéphan Bonistalli",
+    "description": "Riziculteur",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Riziculteur"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Stéphan Bonistalli",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Riziculteur",
+      "position": "Accuse les agents de RTE d'intrusion nocturne sur ses terres et dépose plainte pour harcèlement.",
+      "evidence": "Ces gens sont passés outre une barrière et un panneau 'propriété privée'.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0119",
+    "name": "Julien Besançon",
+    "short_name": "Julien Besançon",
+    "description": "1er adjoint, St-Martin-de-Crau",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "1er adjoint, St-Martin-de-Crau"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Julien Besançon",
+      "category": "elus-opp",
+      "stance": "opposed",
+      "role": "1er adjoint, St-Martin-de-Crau",
+      "position": "Rejette les arguments de coûts de l'État et soutient la contestation unanime au-delà des clivages politiques.",
+      "evidence": "L’État avance sans les élus du territoire qui eux se battront jusqu’au bout.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0120",
+    "name": "Robert Crauste",
+    "short_name": "Robert Crauste",
+    "description": "Président syndicat mixte Camargue gardoise",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Président syndicat mixte Camargue gardoise"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Robert Crauste",
+      "category": "elus-opp",
+      "stance": "opposed",
+      "role": "Président syndicat mixte Camargue gardoise",
+      "position": "Rappelle sa mission de protection du vivant et signe le manifeste anti-THT face à l'urgence.",
+      "evidence": "Décarboner Fos, oui, mais pas à n'importe quel prix.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0121",
+    "name": "Anne Claudius-Petit",
+    "short_name": "Anne Claudius-Petit",
+    "description": "Présidente PNR Camargue",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Présidente PNR Camargue"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Anne Claudius-Petit",
+      "category": "elus-opp",
+      "stance": "neutral",
+      "role": "Présidente PNR Camargue",
+      "position": "Tente de maintenir le cap stratégique du PNR face à la perte du label et aux tensions générées par le passage de la THT.",
+      "evidence": "RTE et l’État doivent trouver des solutions face au rejet massif.",
+      "certainty": "Moyenne"
+    }
+  },
+  {
+    "id": "actor_0122",
+    "name": "Monique Barbut",
+    "short_name": "Monique Barbut",
+    "description": "Ministre de la Transition écologique",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [
+      {
+        "label": "Ministre de la Transition écologique"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Monique Barbut",
+      "category": "elus-fav",
+      "stance": "favorable",
+      "role": "Ministre de la Transition écologique",
+      "position": "Interpellée par l'Unesco sur l'atteinte potentielle à la biodiversité causée par l'infrastructure.",
+      "evidence": "Une lettre lui rappelant ses craintes au sujet de plusieurs projets d'envergure.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0123",
+    "name": "Maud Bregeon",
+    "short_name": "Maud Bregeon",
+    "description": "Ministre de l'énergie",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [
+      {
+        "label": "Ministre de l'énergie"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Maud Bregeon",
+      "category": "elus-fav",
+      "stance": "favorable",
+      "role": "Ministre de l'énergie",
+      "position": "Mandate deux facilitateurs, mais ses services maintiennent publiquement que le tracé aérien est la seule option viable.",
+      "evidence": "Le tracé choisi [...] est le seul répondant aux besoins de puissance.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0124",
+    "name": "B. Huet",
+    "short_name": "B. Huet",
+    "description": "Commissaire général au développement durable",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Commissaire général au développement durable"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "B. Huet",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Commissaire général au développement durable",
+      "position": "A ratifié l'arrêté d'exemption d'évaluation environnementale pour les raccordements sur la zone de Fos.",
+      "evidence": "Pour la ministre et par délégation : Le commissaire [...] B. HUET.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0125",
+    "name": "Christophe Barassen",
+    "short_name": "Christophe Barassen",
+    "description": "Directeur programme électrification (RTE)",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Directeur programme électrification (RTE)"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Christophe Barassen",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Directeur programme électrification (RTE)",
+      "position": "Défend le dispositif de compensation (1 pylône installé = 3 enlevés) et minimise l'emprise au sol.",
+      "evidence": "Chaque implantation sera négociée avec les acteurs locaux.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0126",
+    "name": "Jean Jalbert",
+    "short_name": "Jean Jalbert",
+    "description": "Directeur général de la Tour du Valat",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Directeur général de la Tour du Valat"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Jean Jalbert",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Directeur général de la Tour du Valat",
+      "position": "Dénonce une politique opposant transition énergétique et transition écologique et annonce un conflit majeur en cas de DUP.",
+      "evidence": "Un aménagement du territoire qui oppose transition écologique et transition énergétique est un non-sens absolu.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0127",
+    "name": "Nelson Chaudon",
+    "short_name": "Nelson Chaudon",
+    "description": "Maire de Beaucaire / Pdt CC Terre d'Argence",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Maire de Beaucaire / Pdt CC Terre d'Argence"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Nelson Chaudon",
+      "category": "elus-opp",
+      "stance": "opposed",
+      "role": "Maire de Beaucaire / Pdt CC Terre d'Argence",
+      "position": "Demande soit l'enfouissement, soit l'abandon du projet aérien, et engage les élus aux côtés du territoire.",
+      "evidence": "L'État n'a que deux choix : la solution alternative d'enfouissement ou l'abandon pur et simple de ce projet.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0128",
+    "name": "Delphine Batho",
+    "short_name": "Delphine Batho",
+    "description": "Députée / Présidente Génération Écologie",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Députée / Présidente Génération Écologie"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Delphine Batho",
+      "category": "elus-opp",
+      "stance": "opposed",
+      "role": "Députée / Présidente Génération Écologie",
+      "position": "Demande l'arrêt du projet dans sa forme aérienne et l'ouverture d'une concertation territoriale sur l'enfouissement.",
+      "evidence": "Le gouvernement n'entend pas ce que dit un territoire.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0129",
+    "name": "Françoise Nyssen",
+    "short_name": "Françoise Nyssen",
+    "description": "Ancienne ministre de la Culture",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Ancienne ministre de la Culture"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Françoise Nyssen",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Ancienne ministre de la Culture",
+      "position": "Soutient publiquement la mobilisation au nom de la protection du vivant et du patrimoine.",
+      "evidence": "Intervention publique lors du rassemblement d'Arles en faveur de la préservation du vivant.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0130",
+    "name": "Stéphane Ravier",
+    "short_name": "Stéphane Ravier",
+    "description": "Sénateur",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Sénateur"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Stéphane Ravier",
+      "category": "elus-opp",
+      "stance": "opposed",
+      "role": "Sénateur",
+      "position": "Participe au front transpartisan opposé à la ligne aérienne.",
+      "evidence": "Présence documentée parmi les élus réunis au théâtre antique d'Arles.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0131",
+    "name": "Hendrik Davi",
+    "short_name": "Hendrik Davi",
+    "description": "Député de Marseille",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Député de Marseille"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Hendrik Davi",
+      "category": "elus-opp",
+      "stance": "opposed",
+      "role": "Député de Marseille",
+      "position": "Soutient la mobilisation tout en critiquant l'opportunisme environnemental de certains élus.",
+      "evidence": "Ils sont écolos quand ça se passe dans leur territoire.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0132",
+    "name": "David Ausset",
+    "short_name": "David Ausset",
+    "description": "Propriétaire du Domaine des Clos",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Propriétaire du Domaine des Clos"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "David Ausset",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Propriétaire du Domaine des Clos",
+      "position": "Alerte sur la perte d'attractivité des hébergements touristiques exposés aux pylônes.",
+      "evidence": "Témoignage commun des acteurs touristiques sur l'impact paysager du projet.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0133",
+    "name": "Gaël Briez",
+    "short_name": "Gaël Briez",
+    "description": "Propriétaire d'Un Mas en Provence",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Propriétaire d'Un Mas en Provence"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Gaël Briez",
+      "category": "opposants",
+      "stance": "opposed",
+      "role": "Propriétaire d'Un Mas en Provence",
+      "position": "Alerte sur les annulations et pertes de clientèle que pourrait provoquer la proximité visuelle de la ligne.",
+      "evidence": "Qui va vouloir faire un séjour avec vue sur des pylônes de 40 à 100 mètres de haut ?",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0134",
+    "name": "Autorité environnementale",
+    "short_name": "Autorité environnementale",
+    "description": "Instance indépendante",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [
+      {
+        "label": "Instance indépendante"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Autorité environnementale",
+      "category": "orgs",
+      "stance": "neutral",
+      "role": "Instance indépendante",
+      "position": "Demande de consolider les besoins, le calendrier, les impacts et la comparaison des solutions alternatives.",
+      "evidence": "Le coût, le délai ou la complexité ne suffisent pas à écarter une solution sensiblement moins dommageable.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0135",
+    "name": "Pascal Galéoté",
+    "short_name": "Pascal Galéoté",
+    "description": "Responsable syndical CGT",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Responsable syndical CGT"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Pascal Galéoté",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Responsable syndical CGT",
+      "position": "Soutient la réalisation et l'accélération de la ligne au nom de l'emploi, de l'industrie et de la sécurité électrique.",
+      "evidence": "C'est un projet d'intérêt national vital.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0136",
+    "name": "Jean-Christophe Amarantinis",
+    "short_name": "Jean-Christophe Amarantinis",
+    "description": "Président de l'UPE 13",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Président de l'UPE 13"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Jean-Christophe Amarantinis",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Président de l'UPE 13",
+      "position": "Exige une décision rapide, un calendrier formalisé et un engagement irrévocable de l'État.",
+      "evidence": "L'État joue la montre. Ce n'est pas acceptable !",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0137",
+    "name": "UPE 13",
+    "short_name": "UPE 13",
+    "description": "Union pour les entreprises des Bouches-du-Rhône",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Union pour les entreprises des Bouches-du-Rhône"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "UPE 13",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Union pour les entreprises des Bouches-du-Rhône",
+      "position": "Soutient la liaison Fos-Jonquières tout en demandant un pacte territorial et des compensations renforcées.",
+      "evidence": "Position officielle en faveur de la liaison électrique Fos-Jonquières.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0138",
+    "name": "Stéphane Benhamou",
+    "short_name": "Stéphane Benhamou",
+    "description": "Président du Medef Sud",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Président du Medef Sud"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Stéphane Benhamou",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Président du Medef Sud",
+      "position": "Demande une décision courageuse sur la DUP sans report lié aux échéances électorales.",
+      "evidence": "Les pouvoirs publics doivent prendre des décisions courageuses.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0139",
+    "name": "Medef Sud",
+    "short_name": "Medef Sud",
+    "description": "Organisation patronale régionale",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Organisation patronale régionale"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Medef Sud",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Organisation patronale régionale",
+      "position": "Participe à la coalition patronale et syndicale favorable à une accélération du projet.",
+      "evidence": "Mobilisation commune en faveur de l'emploi, de l'investissement et de l'attractivité régionale.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0140",
+    "name": "Pascal Kuhn",
+    "short_name": "Pascal Kuhn",
+    "description": "Président de l'UIMM Alpes-Méditerranée",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Président de l'UIMM Alpes-Méditerranée"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Pascal Kuhn",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Président de l'UIMM Alpes-Méditerranée",
+      "position": "Présente l'électrification comme une condition vitale de survie industrielle et soutient la solution aérienne pour respecter les délais.",
+      "evidence": "Sans électricité pas de décarbonation ; c'est vital.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0141",
+    "name": "UIMM Alpes-Méditerranée",
+    "short_name": "UIMM Alpes-Méditerranée",
+    "description": "Organisation professionnelle de la métallurgie",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Organisation professionnelle de la métallurgie"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "UIMM Alpes-Méditerranée",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Organisation professionnelle de la métallurgie",
+      "position": "Réclame une déclaration rapide d'utilité publique pour sécuriser les investissements industriels.",
+      "evidence": "Il faut que le projet soit rapidement déclaré d'utilité publique.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0142",
+    "name": "Stéphane Bergamini",
+    "short_name": "Stéphane Bergamini",
+    "description": "Délégué général de France Chimie Méditerranée",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Délégué général de France Chimie Méditerranée"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Stéphane Bergamini",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Délégué général de France Chimie Méditerranée",
+      "position": "Défend la ligne comme un besoin absolu pour la décarbonation et la compétitivité de la filière chimique.",
+      "evidence": "La filière chimie a besoin de cette THT.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0143",
+    "name": "Franck Bergamini",
+    "short_name": "Franck Bergamini",
+    "description": "Secrétaire général de Force Ouvrière 13",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Secrétaire général de Force Ouvrière 13"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Franck Bergamini",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Secrétaire général de Force Ouvrière 13",
+      "position": "Soutient le projet au nom du maintien et de la création d'emplois industriels.",
+      "evidence": "Les retards pourraient conduire des industriels à s'installer ailleurs.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0144",
+    "name": "Jérôme Yvernault",
+    "short_name": "Jérôme Yvernault",
+    "description": "Délégué régional de la CFE-CGC",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [
+      {
+        "label": "Délégué régional de la CFE-CGC"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Jérôme Yvernault",
+      "category": "porteurs",
+      "stance": "favorable",
+      "role": "Délégué régional de la CFE-CGC",
+      "position": "Défend une transition énergétique ambitieuse et économiquement réaliste.",
+      "evidence": "Une transition énergétique ambitieuse, économiquement réaliste, socialement responsable.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0145",
+    "name": "Philippe Maurizot",
+    "short_name": "Philippe Maurizot",
+    "description": "Maire de Fos-sur-Mer",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [
+      {
+        "label": "Maire de Fos-sur-Mer"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Philippe Maurizot",
+      "category": "elus-fav",
+      "stance": "favorable",
+      "role": "Maire de Fos-sur-Mer",
+      "position": "Soutient l'avancement des infrastructures électriques tout en demandant de la prudence.",
+      "evidence": "Ce que je crains, c'est l'indécision et l'allongement permanent des délais.",
+      "certainty": "Haute"
+    }
+  },
+  {
+    "id": "actor_0146",
+    "name": "Mathieu Lefèvre",
+    "short_name": "Mathieu Lefèvre",
+    "description": "Ministre délégué à la Transition écologique",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [
+      {
+        "label": "Ministre délégué à la Transition écologique"
+      }
+    ],
+    "original_graph": null,
+    "original_card": {
+      "name": "Mathieu Lefèvre",
+      "category": "elus-fav",
+      "stance": "favorable",
+      "role": "Ministre délégué à la Transition écologique",
+      "position": "Évoque une accélération et une simplification administrative du projet selon la méthode Notre-Dame.",
+      "evidence": "Projet éligible à la méthode Notre-Dame.",
+      "certainty": "Haute"
+    }
+  }
+]

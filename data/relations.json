@@ -1,0 +1,2956 @@
+[
+  {
+    "id": "relation_0001",
+    "source_id": "actor_0001",
+    "target_id": "project_fos",
+    "type": "Maître d'ouvrage",
+    "summary": "RTE — Maître d'ouvrage — Ligne THT Fos-Jonquières",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "Ligne THT Fos-Jonquières",
+      "kind": "Maître d'ouvrage"
+    }
+  },
+  {
+    "id": "relation_0002",
+    "source_id": "actor_0002",
+    "target_id": "project_fos",
+    "type": "Opposé",
+    "summary": "Patrick de Carolis — Opposé — Ligne THT Fos-Jonquières",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Patrick de Carolis",
+      "target": "Ligne THT Fos-Jonquières",
+      "kind": "Opposé"
+    }
+  },
+  {
+    "id": "relation_0003",
+    "source_id": "actor_0003",
+    "target_id": "project_fos",
+    "type": "Opposé",
+    "summary": "Collectif THT 13/30 — Opposé — Ligne THT Fos-Jonquières",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "Ligne THT Fos-Jonquières",
+      "kind": "Opposé"
+    }
+  },
+  {
+    "id": "relation_0004",
+    "source_id": "actor_0005",
+    "target_id": "actor_0003",
+    "type": "Porte-parole",
+    "summary": "Jean-Luc Moya — Porte-parole — Collectif THT 13/30",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Jean-Luc Moya",
+      "target": "Collectif THT 13/30",
+      "kind": "Porte-parole"
+    }
+  },
+  {
+    "id": "relation_0005",
+    "source_id": "actor_0006",
+    "target_id": "actor_0003",
+    "type": "Membre",
+    "summary": "Cédric Bernardi — Membre — Collectif THT 13/30",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Cédric Bernardi",
+      "target": "Collectif THT 13/30",
+      "kind": "Membre"
+    }
+  },
+  {
+    "id": "relation_0006",
+    "source_id": "actor_0007",
+    "target_id": "project_fos",
+    "type": "Opposée",
+    "summary": "Séverine Dellanegra — Opposée — Ligne THT Fos-Jonquières",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Séverine Dellanegra",
+      "target": "Ligne THT Fos-Jonquières",
+      "kind": "Opposée"
+    }
+  },
+  {
+    "id": "relation_0007",
+    "source_id": "actor_0008",
+    "target_id": "project_fos",
+    "type": "Opposé",
+    "summary": "Emmanuel Taché — Opposé — Ligne THT Fos-Jonquières",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Emmanuel Taché",
+      "target": "Ligne THT Fos-Jonquières",
+      "kind": "Opposé"
+    }
+  },
+  {
+    "id": "relation_0008",
+    "source_id": "actor_0009",
+    "target_id": "project_fos",
+    "type": "Soutien",
+    "summary": "France Chimie Méditerranée — Soutien — Ligne THT Fos-Jonquières",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "France Chimie Méditerranée",
+      "target": "Ligne THT Fos-Jonquières",
+      "kind": "Soutien"
+    }
+  },
+  {
+    "id": "relation_0009",
+    "source_id": "actor_0004",
+    "target_id": "project_fos",
+    "type": "Critique nuancé",
+    "summary": "Renaud Muselier — Critique nuancé — Ligne THT Fos-Jonquières",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Renaud Muselier",
+      "target": "Ligne THT Fos-Jonquières",
+      "kind": "Critique nuancé"
+    }
+  },
+  {
+    "id": "relation_0010",
+    "source_id": "project_fos",
+    "target_id": "actor_0005",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Jean-Luc Moya",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Jean-Luc Moya",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0011",
+    "source_id": "project_fos",
+    "target_id": "actor_0010",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Jean-Laurent Lucchesi",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Jean-Laurent Lucchesi",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0012",
+    "source_id": "project_fos",
+    "target_id": "actor_0006",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Cédric Bernardi",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Cédric Bernardi",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0013",
+    "source_id": "project_fos",
+    "target_id": "actor_0011",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Guillaume Meiffre",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Guillaume Meiffre",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0014",
+    "source_id": "project_fos",
+    "target_id": "actor_0012",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Carole Guintoli",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Carole Guintoli",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0015",
+    "source_id": "project_fos",
+    "target_id": "actor_0013",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Cyril Marès",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Cyril Marès",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0016",
+    "source_id": "project_fos",
+    "target_id": "actor_0014",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Sébastien Mabile",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Sébastien Mabile",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0017",
+    "source_id": "project_fos",
+    "target_id": "actor_0015",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Luc Perrin",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Luc Perrin",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0018",
+    "source_id": "project_fos",
+    "target_id": "actor_0016",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Michel Perronet",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Michel Perronet",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0019",
+    "source_id": "project_fos",
+    "target_id": "actor_0017",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Clément Lajoux",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Clément Lajoux",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0020",
+    "source_id": "project_fos",
+    "target_id": "actor_0018",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Romain Collard",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Romain Collard",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0021",
+    "source_id": "project_fos",
+    "target_id": "actor_0019",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Anne Collard",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Anne Collard",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0022",
+    "source_id": "project_fos",
+    "target_id": "actor_0020",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — François Collard",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "François Collard",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0023",
+    "source_id": "project_fos",
+    "target_id": "actor_0021",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Rémy Benson",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Rémy Benson",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0024",
+    "source_id": "project_fos",
+    "target_id": "actor_0022",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Daniel Carlotti",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Daniel Carlotti",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0025",
+    "source_id": "project_fos",
+    "target_id": "actor_0023",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Isabelle Gex",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Isabelle Gex",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0026",
+    "source_id": "project_fos",
+    "target_id": "actor_0025",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — François Cavallo",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "François Cavallo",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0027",
+    "source_id": "project_fos",
+    "target_id": "actor_0026",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Jean-Claude Cheinet",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Jean-Claude Cheinet",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0028",
+    "source_id": "project_fos",
+    "target_id": "actor_0027",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Daniel Moutet",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Daniel Moutet",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0029",
+    "source_id": "project_fos",
+    "target_id": "actor_0028",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Marie-Hélène Fabre",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Marie-Hélène Fabre",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0030",
+    "source_id": "project_fos",
+    "target_id": "actor_0029",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Cyril Girard",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Cyril Girard",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0031",
+    "source_id": "project_fos",
+    "target_id": "actor_0030",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Richard Hardouin",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Richard Hardouin",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0032",
+    "source_id": "project_fos",
+    "target_id": "actor_0031",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Stéphane Coppey",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Stéphane Coppey",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0033",
+    "source_id": "project_fos",
+    "target_id": "actor_0032",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Isabelle Charnoz",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Isabelle Charnoz",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0034",
+    "source_id": "project_fos",
+    "target_id": "actor_0033",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Juan Martinez",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Juan Martinez",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0035",
+    "source_id": "project_fos",
+    "target_id": "actor_0034",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Bertrand Mazel",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Bertrand Mazel",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0036",
+    "source_id": "project_fos",
+    "target_id": "actor_0035",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Carole Delga",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Carole Delga",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0037",
+    "source_id": "project_fos",
+    "target_id": "actor_0036",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Nicolas Koukas",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Nicolas Koukas",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0038",
+    "source_id": "project_fos",
+    "target_id": "actor_0037",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — René Raimondi",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "René Raimondi",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0039",
+    "source_id": "project_fos",
+    "target_id": "actor_0038",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Georges-François Leclerc",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Georges-François Leclerc",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0040",
+    "source_id": "project_fos",
+    "target_id": "actor_0039",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Christophe Mirmand",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Christophe Mirmand",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0041",
+    "source_id": "project_fos",
+    "target_id": "actor_0040",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Jérôme Bonet",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Jérôme Bonet",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0042",
+    "source_id": "project_fos",
+    "target_id": "actor_0041",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Jacques Witkowski",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Jacques Witkowski",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0043",
+    "source_id": "project_fos",
+    "target_id": "actor_0042",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Gilles Odone",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Gilles Odone",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0044",
+    "source_id": "project_fos",
+    "target_id": "actor_0043",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Vincent Fletin",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Vincent Fletin",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0045",
+    "source_id": "project_fos",
+    "target_id": "actor_0044",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Arthur Audouard",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Arthur Audouard",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0046",
+    "source_id": "project_fos",
+    "target_id": "actor_0045",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Emmanuel Macron",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Emmanuel Macron",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0047",
+    "source_id": "project_fos",
+    "target_id": "actor_0046",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — État / gouvernement",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "État / gouvernement",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0048",
+    "source_id": "project_fos",
+    "target_id": "actor_0047",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Provence Fabrique des Possibles",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Provence Fabrique des Possibles",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0049",
+    "source_id": "project_fos",
+    "target_id": "actor_0048",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Jean-Luc Chauvin",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Jean-Luc Chauvin",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0050",
+    "source_id": "project_fos",
+    "target_id": "actor_0049",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Grand Port Maritime de Marseille-Fos",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Grand Port Maritime de Marseille-Fos",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0051",
+    "source_id": "project_fos",
+    "target_id": "actor_0050",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Rémi Costantino",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Rémi Costantino",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0052",
+    "source_id": "project_fos",
+    "target_id": "actor_0051",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Régis Passerieux",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Régis Passerieux",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0053",
+    "source_id": "project_fos",
+    "target_id": "actor_0052",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — NGE / Jean Bernadet",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "NGE / Jean Bernadet",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0054",
+    "source_id": "project_fos",
+    "target_id": "actor_0053",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Club Top 20",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Club Top 20",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0055",
+    "source_id": "project_fos",
+    "target_id": "actor_0054",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Marc Petit",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Marc Petit",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0056",
+    "source_id": "project_fos",
+    "target_id": "actor_0055",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — FNE13",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "FNE13",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0057",
+    "source_id": "project_fos",
+    "target_id": "actor_0056",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Association sauvegarde terres Camargue-Crau",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Association sauvegarde terres Camargue-Crau",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0058",
+    "source_id": "project_fos",
+    "target_id": "actor_0057",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — ASTA",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "ASTA",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0059",
+    "source_id": "project_fos",
+    "target_id": "actor_0058",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Vigueirat Nature",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Vigueirat Nature",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0060",
+    "source_id": "project_fos",
+    "target_id": "actor_0059",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Agir pour la Crau",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Agir pour la Crau",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0061",
+    "source_id": "project_fos",
+    "target_id": "actor_0060",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — NACICCA",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "NACICCA",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0062",
+    "source_id": "project_fos",
+    "target_id": "actor_0061",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — COPA 13",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "COPA 13",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0063",
+    "source_id": "project_fos",
+    "target_id": "actor_0062",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — COPA 30",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "COPA 30",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0064",
+    "source_id": "project_fos",
+    "target_id": "actor_0063",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — AOC Costières de Nîmes",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "AOC Costières de Nîmes",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0065",
+    "source_id": "project_fos",
+    "target_id": "actor_0064",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Domaine Mourgues du Grès",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Domaine Mourgues du Grès",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0066",
+    "source_id": "project_fos",
+    "target_id": "actor_0065",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — FDSEA / Jeunes Agriculteurs",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "FDSEA / Jeunes Agriculteurs",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0067",
+    "source_id": "project_fos",
+    "target_id": "actor_0066",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Coordination rurale",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Coordination rurale",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0068",
+    "source_id": "project_fos",
+    "target_id": "actor_0067",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Chambres d'agriculture",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Chambres d'agriculture",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0069",
+    "source_id": "project_fos",
+    "target_id": "actor_0068",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — AOP Foin de Crau",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "AOP Foin de Crau",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0070",
+    "source_id": "project_fos",
+    "target_id": "actor_0069",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — IGP Riz de Camargue",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "IGP Riz de Camargue",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0071",
+    "source_id": "project_fos",
+    "target_id": "actor_0070",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — LPO",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "LPO",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0072",
+    "source_id": "project_fos",
+    "target_id": "actor_0071",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — WWF France",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "WWF France",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0073",
+    "source_id": "project_fos",
+    "target_id": "actor_0072",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Tour du Valat",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Tour du Valat",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0074",
+    "source_id": "project_fos",
+    "target_id": "actor_0073",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — CEN PACA",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "CEN PACA",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0075",
+    "source_id": "project_fos",
+    "target_id": "actor_0074",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — SNPN",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "SNPN",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0076",
+    "source_id": "project_fos",
+    "target_id": "actor_0075",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Réseau des Grands Sites de France",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Réseau des Grands Sites de France",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0077",
+    "source_id": "project_fos",
+    "target_id": "actor_0076",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Ramsar France / MAB France / Réserves naturelles",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Ramsar France / MAB France / Réserves naturelles",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0078",
+    "source_id": "project_fos",
+    "target_id": "actor_0077",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — OFB",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "OFB",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0079",
+    "source_id": "project_fos",
+    "target_id": "actor_0078",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — PNR de Camargue",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "PNR de Camargue",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0080",
+    "source_id": "project_fos",
+    "target_id": "actor_0079",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Nacioun Gardiano",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Nacioun Gardiano",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0081",
+    "source_id": "project_fos",
+    "target_id": "actor_0080",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — ADPLGF",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "ADPLGF",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0082",
+    "source_id": "project_fos",
+    "target_id": "actor_0081",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — ACEN",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "ACEN",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0083",
+    "source_id": "project_fos",
+    "target_id": "actor_0082",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Sauvons nos Étangs",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Sauvons nos Étangs",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0084",
+    "source_id": "project_fos",
+    "target_id": "actor_0083",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — MCTB Golfe de Fos Environnement",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "MCTB Golfe de Fos Environnement",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0085",
+    "source_id": "project_fos",
+    "target_id": "actor_0084",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — GravitHy",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "GravitHy",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0086",
+    "source_id": "project_fos",
+    "target_id": "actor_0085",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Marcegaglia",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Marcegaglia",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0087",
+    "source_id": "project_fos",
+    "target_id": "actor_0086",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — ArcelorMittal Méditerranée",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "ArcelorMittal Méditerranée",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0088",
+    "source_id": "project_fos",
+    "target_id": "actor_0087",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Carbon",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Carbon",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0089",
+    "source_id": "project_fos",
+    "target_id": "actor_0088",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Elyse / Neocarb",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Elyse / Neocarb",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0090",
+    "source_id": "project_fos",
+    "target_id": "actor_0089",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — H2V / Hy2Gen",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "H2V / Hy2Gen",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0091",
+    "source_id": "project_fos",
+    "target_id": "actor_0090",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — NaTran",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "NaTran",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0092",
+    "source_id": "project_fos",
+    "target_id": "actor_0091",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Geométhane",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Geométhane",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0093",
+    "source_id": "project_fos",
+    "target_id": "actor_0092",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — ENGIE",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "ENGIE",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0094",
+    "source_id": "project_fos",
+    "target_id": "actor_0093",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — PIICTO / Syrius",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "PIICTO / Syrius",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0095",
+    "source_id": "project_fos",
+    "target_id": "actor_0094",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — France Hydrogène",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "France Hydrogène",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0096",
+    "source_id": "project_fos",
+    "target_id": "actor_0095",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Newcleo",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Newcleo",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0097",
+    "source_id": "project_fos",
+    "target_id": "actor_0096",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — CNDP",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "CNDP",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0098",
+    "source_id": "project_fos",
+    "target_id": "actor_0097",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Audrey Richard-Ferroudji",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Audrey Richard-Ferroudji",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0099",
+    "source_id": "project_fos",
+    "target_id": "actor_0098",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Marc Papinutti",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Marc Papinutti",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0100",
+    "source_id": "project_fos",
+    "target_id": "actor_0099",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Étienne Ballan",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Étienne Ballan",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0101",
+    "source_id": "project_fos",
+    "target_id": "actor_0100",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — DREAL Occitanie",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "DREAL Occitanie",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0102",
+    "source_id": "project_fos",
+    "target_id": "actor_0101",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — DREAL PACA / MRAe PACA",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "DREAL PACA / MRAe PACA",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0103",
+    "source_id": "project_fos",
+    "target_id": "actor_0102",
+    "type": "position / rattachement au dossier",
+    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Commission européenne / Berne / Ramsar",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Commission européenne / Berne / Ramsar",
+      "kind": "position / rattachement au dossier"
+    }
+  },
+  {
+    "id": "relation_0104",
+    "source_id": "actor_0005",
+    "target_id": "actor_0055",
+    "type": "rattachement / proximité",
+    "summary": "Jean-Luc Moya — rattachement / proximité — FNE13",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Jean-Luc Moya",
+      "target": "FNE13",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0105",
+    "source_id": "actor_0005",
+    "target_id": "actor_0059",
+    "type": "rattachement / proximité",
+    "summary": "Jean-Luc Moya — rattachement / proximité — Agir pour la Crau",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Jean-Luc Moya",
+      "target": "Agir pour la Crau",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0106",
+    "source_id": "actor_0010",
+    "target_id": "actor_0003",
+    "type": "rattachement / proximité",
+    "summary": "Jean-Laurent Lucchesi — rattachement / proximité — Collectif THT 13/30",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Jean-Laurent Lucchesi",
+      "target": "Collectif THT 13/30",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0107",
+    "source_id": "actor_0010",
+    "target_id": "actor_0058",
+    "type": "rattachement / proximité",
+    "summary": "Jean-Laurent Lucchesi — rattachement / proximité — Vigueirat Nature",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Jean-Laurent Lucchesi",
+      "target": "Vigueirat Nature",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0108",
+    "source_id": "actor_0010",
+    "target_id": "actor_0055",
+    "type": "rattachement / proximité",
+    "summary": "Jean-Laurent Lucchesi — rattachement / proximité — FNE13",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Jean-Laurent Lucchesi",
+      "target": "FNE13",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0109",
+    "source_id": "actor_0006",
+    "target_id": "actor_0056",
+    "type": "rattachement / proximité",
+    "summary": "Cédric Bernardi — rattachement / proximité — Association sauvegarde terres Camargue-Crau",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Cédric Bernardi",
+      "target": "Association sauvegarde terres Camargue-Crau",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0110",
+    "source_id": "actor_0011",
+    "target_id": "actor_0056",
+    "type": "rattachement / proximité",
+    "summary": "Guillaume Meiffre — rattachement / proximité — Association sauvegarde terres Camargue-Crau",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Guillaume Meiffre",
+      "target": "Association sauvegarde terres Camargue-Crau",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0111",
+    "source_id": "actor_0012",
+    "target_id": "actor_0056",
+    "type": "rattachement / proximité",
+    "summary": "Carole Guintoli — rattachement / proximité — Association sauvegarde terres Camargue-Crau",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Carole Guintoli",
+      "target": "Association sauvegarde terres Camargue-Crau",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0112",
+    "source_id": "actor_0013",
+    "target_id": "actor_0062",
+    "type": "rattachement / proximité",
+    "summary": "Cyril Marès — rattachement / proximité — COPA 30",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Cyril Marès",
+      "target": "COPA 30",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0113",
+    "source_id": "actor_0013",
+    "target_id": "actor_0063",
+    "type": "rattachement / proximité",
+    "summary": "Cyril Marès — rattachement / proximité — AOC Costières de Nîmes",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Cyril Marès",
+      "target": "AOC Costières de Nîmes",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0114",
+    "source_id": "actor_0014",
+    "target_id": "actor_0003",
+    "type": "rattachement / proximité",
+    "summary": "Sébastien Mabile — rattachement / proximité — Collectif THT 13/30",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Sébastien Mabile",
+      "target": "Collectif THT 13/30",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0115",
+    "source_id": "actor_0015",
+    "target_id": "actor_0057",
+    "type": "rattachement / proximité",
+    "summary": "Luc Perrin — rattachement / proximité — ASTA",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Luc Perrin",
+      "target": "ASTA",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0116",
+    "source_id": "actor_0016",
+    "target_id": "actor_0003",
+    "type": "rattachement / proximité",
+    "summary": "Michel Perronet — rattachement / proximité — Collectif THT 13/30",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Michel Perronet",
+      "target": "Collectif THT 13/30",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0117",
+    "source_id": "actor_0017",
+    "target_id": "actor_0061",
+    "type": "rattachement / proximité",
+    "summary": "Clément Lajoux — rattachement / proximité — COPA 13",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Clément Lajoux",
+      "target": "COPA 13",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0118",
+    "source_id": "actor_0017",
+    "target_id": "actor_0065",
+    "type": "rattachement / proximité",
+    "summary": "Clément Lajoux — rattachement / proximité — FDSEA / Jeunes Agriculteurs",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Clément Lajoux",
+      "target": "FDSEA / Jeunes Agriculteurs",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0119",
+    "source_id": "actor_0018",
+    "target_id": "actor_0064",
+    "type": "rattachement / proximité",
+    "summary": "Romain Collard — rattachement / proximité — Domaine Mourgues du Grès",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Romain Collard",
+      "target": "Domaine Mourgues du Grès",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0120",
+    "source_id": "actor_0019",
+    "target_id": "actor_0064",
+    "type": "rattachement / proximité",
+    "summary": "Anne Collard — rattachement / proximité — Domaine Mourgues du Grès",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Anne Collard",
+      "target": "Domaine Mourgues du Grès",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0121",
+    "source_id": "actor_0020",
+    "target_id": "actor_0064",
+    "type": "rattachement / proximité",
+    "summary": "François Collard — rattachement / proximité — Domaine Mourgues du Grès",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "François Collard",
+      "target": "Domaine Mourgues du Grès",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0122",
+    "source_id": "actor_0021",
+    "target_id": "actor_0066",
+    "type": "rattachement / proximité",
+    "summary": "Rémy Benson — rattachement / proximité — Coordination rurale",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Rémy Benson",
+      "target": "Coordination rurale",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0123",
+    "source_id": "actor_0025",
+    "target_id": "actor_0060",
+    "type": "rattachement / proximité",
+    "summary": "François Cavallo — rattachement / proximité — NACICCA",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "François Cavallo",
+      "target": "NACICCA",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0124",
+    "source_id": "actor_0025",
+    "target_id": "actor_0055",
+    "type": "rattachement / proximité",
+    "summary": "François Cavallo — rattachement / proximité — FNE13",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "François Cavallo",
+      "target": "FNE13",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0125",
+    "source_id": "actor_0030",
+    "target_id": "actor_0055",
+    "type": "rattachement / proximité",
+    "summary": "Richard Hardouin — rattachement / proximité — FNE13",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Richard Hardouin",
+      "target": "FNE13",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0126",
+    "source_id": "actor_0031",
+    "target_id": "actor_0055",
+    "type": "rattachement / proximité",
+    "summary": "Stéphane Coppey — rattachement / proximité — FNE13",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Stéphane Coppey",
+      "target": "FNE13",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0127",
+    "source_id": "actor_0002",
+    "target_id": "actor_0003",
+    "type": "rattachement / proximité",
+    "summary": "Patrick de Carolis — rattachement / proximité — Collectif THT 13/30",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Patrick de Carolis",
+      "target": "Collectif THT 13/30",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0128",
+    "source_id": "actor_0007",
+    "target_id": "actor_0003",
+    "type": "rattachement / proximité",
+    "summary": "Séverine Dellanegra — rattachement / proximité — Collectif THT 13/30",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Séverine Dellanegra",
+      "target": "Collectif THT 13/30",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0129",
+    "source_id": "actor_0032",
+    "target_id": "actor_0055",
+    "type": "rattachement / proximité",
+    "summary": "Isabelle Charnoz — rattachement / proximité — FNE13",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Isabelle Charnoz",
+      "target": "FNE13",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0130",
+    "source_id": "actor_0001",
+    "target_id": "actor_0042",
+    "type": "rattachement / proximité",
+    "summary": "RTE — rattachement / proximité — Gilles Odone",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "Gilles Odone",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0131",
+    "source_id": "actor_0001",
+    "target_id": "actor_0043",
+    "type": "rattachement / proximité",
+    "summary": "RTE — rattachement / proximité — Vincent Fletin",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "Vincent Fletin",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0132",
+    "source_id": "actor_0001",
+    "target_id": "actor_0044",
+    "type": "rattachement / proximité",
+    "summary": "RTE — rattachement / proximité — Arthur Audouard",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "Arthur Audouard",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0133",
+    "source_id": "actor_0047",
+    "target_id": "actor_0009",
+    "type": "rattachement / proximité",
+    "summary": "Provence Fabrique des Possibles — rattachement / proximité — France Chimie Méditerranée",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Provence Fabrique des Possibles",
+      "target": "France Chimie Méditerranée",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0134",
+    "source_id": "actor_0049",
+    "target_id": "actor_0050",
+    "type": "rattachement / proximité",
+    "summary": "Grand Port Maritime de Marseille-Fos — rattachement / proximité — Rémi Costantino",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Grand Port Maritime de Marseille-Fos",
+      "target": "Rémi Costantino",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0135",
+    "source_id": "actor_0084",
+    "target_id": "actor_0085",
+    "type": "rattachement / proximité",
+    "summary": "GravitHy — rattachement / proximité — Marcegaglia",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "GravitHy",
+      "target": "Marcegaglia",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0136",
+    "source_id": "actor_0084",
+    "target_id": "actor_0092",
+    "type": "rattachement / proximité",
+    "summary": "GravitHy — rattachement / proximité — ENGIE",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "GravitHy",
+      "target": "ENGIE",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0137",
+    "source_id": "actor_0088",
+    "target_id": "actor_0094",
+    "type": "rattachement / proximité",
+    "summary": "Elyse / Neocarb — rattachement / proximité — France Hydrogène",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Elyse / Neocarb",
+      "target": "France Hydrogène",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0138",
+    "source_id": "actor_0089",
+    "target_id": "actor_0094",
+    "type": "rattachement / proximité",
+    "summary": "H2V / Hy2Gen — rattachement / proximité — France Hydrogène",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "H2V / Hy2Gen",
+      "target": "France Hydrogène",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0139",
+    "source_id": "actor_0093",
+    "target_id": "actor_0049",
+    "type": "rattachement / proximité",
+    "summary": "PIICTO / Syrius — rattachement / proximité — Grand Port Maritime de Marseille-Fos",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "PIICTO / Syrius",
+      "target": "Grand Port Maritime de Marseille-Fos",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0140",
+    "source_id": "actor_0096",
+    "target_id": "actor_0097",
+    "type": "rattachement / proximité",
+    "summary": "CNDP — rattachement / proximité — Audrey Richard-Ferroudji",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "CNDP",
+      "target": "Audrey Richard-Ferroudji",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0141",
+    "source_id": "actor_0096",
+    "target_id": "actor_0098",
+    "type": "rattachement / proximité",
+    "summary": "CNDP — rattachement / proximité — Marc Papinutti",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "CNDP",
+      "target": "Marc Papinutti",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0142",
+    "source_id": "actor_0096",
+    "target_id": "actor_0099",
+    "type": "rattachement / proximité",
+    "summary": "CNDP — rattachement / proximité — Étienne Ballan",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "CNDP",
+      "target": "Étienne Ballan",
+      "kind": "rattachement / proximité"
+    }
+  },
+  {
+    "id": "relation_0143",
+    "source_id": "actor_0003",
+    "target_id": "actor_0055",
+    "type": "coalition / appui",
+    "summary": "Collectif THT 13/30 — coalition / appui — FNE13",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "FNE13",
+      "kind": "coalition / appui"
+    }
+  },
+  {
+    "id": "relation_0144",
+    "source_id": "actor_0003",
+    "target_id": "actor_0058",
+    "type": "coalition / appui",
+    "summary": "Collectif THT 13/30 — coalition / appui — Vigueirat Nature",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "Vigueirat Nature",
+      "kind": "coalition / appui"
+    }
+  },
+  {
+    "id": "relation_0145",
+    "source_id": "actor_0003",
+    "target_id": "actor_0059",
+    "type": "coalition / appui",
+    "summary": "Collectif THT 13/30 — coalition / appui — Agir pour la Crau",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "Agir pour la Crau",
+      "kind": "coalition / appui"
+    }
+  },
+  {
+    "id": "relation_0146",
+    "source_id": "actor_0003",
+    "target_id": "actor_0056",
+    "type": "coalition / appui",
+    "summary": "Collectif THT 13/30 — coalition / appui — Association sauvegarde terres Camargue-Crau",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "Association sauvegarde terres Camargue-Crau",
+      "kind": "coalition / appui"
+    }
+  },
+  {
+    "id": "relation_0147",
+    "source_id": "actor_0003",
+    "target_id": "actor_0057",
+    "type": "coalition / appui",
+    "summary": "Collectif THT 13/30 — coalition / appui — ASTA",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "ASTA",
+      "kind": "coalition / appui"
+    }
+  },
+  {
+    "id": "relation_0148",
+    "source_id": "actor_0003",
+    "target_id": "actor_0060",
+    "type": "coalition / appui",
+    "summary": "Collectif THT 13/30 — coalition / appui — NACICCA",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "NACICCA",
+      "kind": "coalition / appui"
+    }
+  },
+  {
+    "id": "relation_0149",
+    "source_id": "actor_0003",
+    "target_id": "actor_0061",
+    "type": "coalition / appui",
+    "summary": "Collectif THT 13/30 — coalition / appui — COPA 13",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "COPA 13",
+      "kind": "coalition / appui"
+    }
+  },
+  {
+    "id": "relation_0150",
+    "source_id": "actor_0003",
+    "target_id": "actor_0062",
+    "type": "coalition / appui",
+    "summary": "Collectif THT 13/30 — coalition / appui — COPA 30",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "COPA 30",
+      "kind": "coalition / appui"
+    }
+  },
+  {
+    "id": "relation_0151",
+    "source_id": "actor_0003",
+    "target_id": "actor_0070",
+    "type": "coalition / appui",
+    "summary": "Collectif THT 13/30 — coalition / appui — LPO",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "LPO",
+      "kind": "coalition / appui"
+    }
+  },
+  {
+    "id": "relation_0152",
+    "source_id": "actor_0003",
+    "target_id": "actor_0073",
+    "type": "coalition / appui",
+    "summary": "Collectif THT 13/30 — coalition / appui — CEN PACA",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "CEN PACA",
+      "kind": "coalition / appui"
+    }
+  },
+  {
+    "id": "relation_0153",
+    "source_id": "actor_0003",
+    "target_id": "actor_0072",
+    "type": "coalition / appui",
+    "summary": "Collectif THT 13/30 — coalition / appui — Tour du Valat",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "Tour du Valat",
+      "kind": "coalition / appui"
+    }
+  },
+  {
+    "id": "relation_0154",
+    "source_id": "actor_0003",
+    "target_id": "actor_0079",
+    "type": "coalition / appui",
+    "summary": "Collectif THT 13/30 — coalition / appui — Nacioun Gardiano",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "Nacioun Gardiano",
+      "kind": "coalition / appui"
+    }
+  },
+  {
+    "id": "relation_0155",
+    "source_id": "actor_0003",
+    "target_id": "actor_0080",
+    "type": "coalition / appui",
+    "summary": "Collectif THT 13/30 — coalition / appui — ADPLGF",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "ADPLGF",
+      "kind": "coalition / appui"
+    }
+  },
+  {
+    "id": "relation_0156",
+    "source_id": "actor_0003",
+    "target_id": "actor_0081",
+    "type": "coalition / appui",
+    "summary": "Collectif THT 13/30 — coalition / appui — ACEN",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "ACEN",
+      "kind": "coalition / appui"
+    }
+  },
+  {
+    "id": "relation_0157",
+    "source_id": "actor_0061",
+    "target_id": "actor_0063",
+    "type": "écosystème agricole",
+    "summary": "COPA 13 — écosystème agricole — AOC Costières de Nîmes",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "COPA 13",
+      "target": "AOC Costières de Nîmes",
+      "kind": "écosystème agricole"
+    }
+  },
+  {
+    "id": "relation_0158",
+    "source_id": "actor_0062",
+    "target_id": "actor_0063",
+    "type": "écosystème agricole",
+    "summary": "COPA 30 — écosystème agricole — AOC Costières de Nîmes",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "COPA 30",
+      "target": "AOC Costières de Nîmes",
+      "kind": "écosystème agricole"
+    }
+  },
+  {
+    "id": "relation_0159",
+    "source_id": "actor_0061",
+    "target_id": "actor_0064",
+    "type": "écosystème agricole",
+    "summary": "COPA 13 — écosystème agricole — Domaine Mourgues du Grès",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "COPA 13",
+      "target": "Domaine Mourgues du Grès",
+      "kind": "écosystème agricole"
+    }
+  },
+  {
+    "id": "relation_0160",
+    "source_id": "actor_0062",
+    "target_id": "actor_0064",
+    "type": "écosystème agricole",
+    "summary": "COPA 30 — écosystème agricole — Domaine Mourgues du Grès",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "COPA 30",
+      "target": "Domaine Mourgues du Grès",
+      "kind": "écosystème agricole"
+    }
+  },
+  {
+    "id": "relation_0161",
+    "source_id": "actor_0061",
+    "target_id": "actor_0065",
+    "type": "écosystème agricole",
+    "summary": "COPA 13 — écosystème agricole — FDSEA / Jeunes Agriculteurs",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "COPA 13",
+      "target": "FDSEA / Jeunes Agriculteurs",
+      "kind": "écosystème agricole"
+    }
+  },
+  {
+    "id": "relation_0162",
+    "source_id": "actor_0062",
+    "target_id": "actor_0065",
+    "type": "écosystème agricole",
+    "summary": "COPA 30 — écosystème agricole — FDSEA / Jeunes Agriculteurs",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "COPA 30",
+      "target": "FDSEA / Jeunes Agriculteurs",
+      "kind": "écosystème agricole"
+    }
+  },
+  {
+    "id": "relation_0163",
+    "source_id": "actor_0061",
+    "target_id": "actor_0066",
+    "type": "écosystème agricole",
+    "summary": "COPA 13 — écosystème agricole — Coordination rurale",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "COPA 13",
+      "target": "Coordination rurale",
+      "kind": "écosystème agricole"
+    }
+  },
+  {
+    "id": "relation_0164",
+    "source_id": "actor_0062",
+    "target_id": "actor_0066",
+    "type": "écosystème agricole",
+    "summary": "COPA 30 — écosystème agricole — Coordination rurale",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "COPA 30",
+      "target": "Coordination rurale",
+      "kind": "écosystème agricole"
+    }
+  },
+  {
+    "id": "relation_0165",
+    "source_id": "actor_0061",
+    "target_id": "actor_0067",
+    "type": "écosystème agricole",
+    "summary": "COPA 13 — écosystème agricole — Chambres d'agriculture",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "COPA 13",
+      "target": "Chambres d'agriculture",
+      "kind": "écosystème agricole"
+    }
+  },
+  {
+    "id": "relation_0166",
+    "source_id": "actor_0062",
+    "target_id": "actor_0067",
+    "type": "écosystème agricole",
+    "summary": "COPA 30 — écosystème agricole — Chambres d'agriculture",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "COPA 30",
+      "target": "Chambres d'agriculture",
+      "kind": "écosystème agricole"
+    }
+  },
+  {
+    "id": "relation_0167",
+    "source_id": "actor_0061",
+    "target_id": "actor_0068",
+    "type": "écosystème agricole",
+    "summary": "COPA 13 — écosystème agricole — AOP Foin de Crau",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "COPA 13",
+      "target": "AOP Foin de Crau",
+      "kind": "écosystème agricole"
+    }
+  },
+  {
+    "id": "relation_0168",
+    "source_id": "actor_0062",
+    "target_id": "actor_0068",
+    "type": "écosystème agricole",
+    "summary": "COPA 30 — écosystème agricole — AOP Foin de Crau",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "COPA 30",
+      "target": "AOP Foin de Crau",
+      "kind": "écosystème agricole"
+    }
+  },
+  {
+    "id": "relation_0169",
+    "source_id": "actor_0061",
+    "target_id": "actor_0069",
+    "type": "écosystème agricole",
+    "summary": "COPA 13 — écosystème agricole — IGP Riz de Camargue",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "COPA 13",
+      "target": "IGP Riz de Camargue",
+      "kind": "écosystème agricole"
+    }
+  },
+  {
+    "id": "relation_0170",
+    "source_id": "actor_0062",
+    "target_id": "actor_0069",
+    "type": "écosystème agricole",
+    "summary": "COPA 30 — écosystème agricole — IGP Riz de Camargue",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "COPA 30",
+      "target": "IGP Riz de Camargue",
+      "kind": "écosystème agricole"
+    }
+  },
+  {
+    "id": "relation_0171",
+    "source_id": "actor_0072",
+    "target_id": "actor_0071",
+    "type": "écosystème biodiversité",
+    "summary": "Tour du Valat — écosystème biodiversité — WWF France",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Tour du Valat",
+      "target": "WWF France",
+      "kind": "écosystème biodiversité"
+    }
+  },
+  {
+    "id": "relation_0172",
+    "source_id": "actor_0070",
+    "target_id": "actor_0071",
+    "type": "écosystème biodiversité",
+    "summary": "LPO — écosystème biodiversité — WWF France",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "LPO",
+      "target": "WWF France",
+      "kind": "écosystème biodiversité"
+    }
+  },
+  {
+    "id": "relation_0173",
+    "source_id": "actor_0072",
+    "target_id": "actor_0075",
+    "type": "écosystème biodiversité",
+    "summary": "Tour du Valat — écosystème biodiversité — Réseau des Grands Sites de France",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Tour du Valat",
+      "target": "Réseau des Grands Sites de France",
+      "kind": "écosystème biodiversité"
+    }
+  },
+  {
+    "id": "relation_0174",
+    "source_id": "actor_0070",
+    "target_id": "actor_0075",
+    "type": "écosystème biodiversité",
+    "summary": "LPO — écosystème biodiversité — Réseau des Grands Sites de France",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "LPO",
+      "target": "Réseau des Grands Sites de France",
+      "kind": "écosystème biodiversité"
+    }
+  },
+  {
+    "id": "relation_0175",
+    "source_id": "actor_0072",
+    "target_id": "actor_0076",
+    "type": "écosystème biodiversité",
+    "summary": "Tour du Valat — écosystème biodiversité — Ramsar France / MAB France / Réserves naturelles",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Tour du Valat",
+      "target": "Ramsar France / MAB France / Réserves naturelles",
+      "kind": "écosystème biodiversité"
+    }
+  },
+  {
+    "id": "relation_0176",
+    "source_id": "actor_0070",
+    "target_id": "actor_0076",
+    "type": "écosystème biodiversité",
+    "summary": "LPO — écosystème biodiversité — Ramsar France / MAB France / Réserves naturelles",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "LPO",
+      "target": "Ramsar France / MAB France / Réserves naturelles",
+      "kind": "écosystème biodiversité"
+    }
+  },
+  {
+    "id": "relation_0177",
+    "source_id": "actor_0072",
+    "target_id": "actor_0074",
+    "type": "écosystème biodiversité",
+    "summary": "Tour du Valat — écosystème biodiversité — SNPN",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Tour du Valat",
+      "target": "SNPN",
+      "kind": "écosystème biodiversité"
+    }
+  },
+  {
+    "id": "relation_0178",
+    "source_id": "actor_0070",
+    "target_id": "actor_0074",
+    "type": "écosystème biodiversité",
+    "summary": "LPO — écosystème biodiversité — SNPN",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "LPO",
+      "target": "SNPN",
+      "kind": "écosystème biodiversité"
+    }
+  },
+  {
+    "id": "relation_0179",
+    "source_id": "actor_0072",
+    "target_id": "actor_0077",
+    "type": "écosystème biodiversité",
+    "summary": "Tour du Valat — écosystème biodiversité — OFB",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Tour du Valat",
+      "target": "OFB",
+      "kind": "écosystème biodiversité"
+    }
+  },
+  {
+    "id": "relation_0180",
+    "source_id": "actor_0070",
+    "target_id": "actor_0077",
+    "type": "écosystème biodiversité",
+    "summary": "LPO — écosystème biodiversité — OFB",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "LPO",
+      "target": "OFB",
+      "kind": "écosystème biodiversité"
+    }
+  },
+  {
+    "id": "relation_0181",
+    "source_id": "actor_0072",
+    "target_id": "actor_0078",
+    "type": "écosystème biodiversité",
+    "summary": "Tour du Valat — écosystème biodiversité — PNR de Camargue",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Tour du Valat",
+      "target": "PNR de Camargue",
+      "kind": "écosystème biodiversité"
+    }
+  },
+  {
+    "id": "relation_0182",
+    "source_id": "actor_0070",
+    "target_id": "actor_0078",
+    "type": "écosystème biodiversité",
+    "summary": "LPO — écosystème biodiversité — PNR de Camargue",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "LPO",
+      "target": "PNR de Camargue",
+      "kind": "écosystème biodiversité"
+    }
+  },
+  {
+    "id": "relation_0183",
+    "source_id": "actor_0001",
+    "target_id": "actor_0047",
+    "type": "besoins industriels / raccordement",
+    "summary": "RTE — besoins industriels / raccordement — Provence Fabrique des Possibles",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "Provence Fabrique des Possibles",
+      "kind": "besoins industriels / raccordement"
+    }
+  },
+  {
+    "id": "relation_0184",
+    "source_id": "actor_0001",
+    "target_id": "actor_0009",
+    "type": "besoins industriels / raccordement",
+    "summary": "RTE — besoins industriels / raccordement — France Chimie Méditerranée",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "France Chimie Méditerranée",
+      "kind": "besoins industriels / raccordement"
+    }
+  },
+  {
+    "id": "relation_0185",
+    "source_id": "actor_0001",
+    "target_id": "actor_0049",
+    "type": "besoins industriels / raccordement",
+    "summary": "RTE — besoins industriels / raccordement — Grand Port Maritime de Marseille-Fos",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "Grand Port Maritime de Marseille-Fos",
+      "kind": "besoins industriels / raccordement"
+    }
+  },
+  {
+    "id": "relation_0186",
+    "source_id": "actor_0001",
+    "target_id": "actor_0084",
+    "type": "besoins industriels / raccordement",
+    "summary": "RTE — besoins industriels / raccordement — GravitHy",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "GravitHy",
+      "kind": "besoins industriels / raccordement"
+    }
+  },
+  {
+    "id": "relation_0187",
+    "source_id": "actor_0001",
+    "target_id": "actor_0085",
+    "type": "besoins industriels / raccordement",
+    "summary": "RTE — besoins industriels / raccordement — Marcegaglia",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "Marcegaglia",
+      "kind": "besoins industriels / raccordement"
+    }
+  },
+  {
+    "id": "relation_0188",
+    "source_id": "actor_0001",
+    "target_id": "actor_0086",
+    "type": "besoins industriels / raccordement",
+    "summary": "RTE — besoins industriels / raccordement — ArcelorMittal Méditerranée",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "ArcelorMittal Méditerranée",
+      "kind": "besoins industriels / raccordement"
+    }
+  },
+  {
+    "id": "relation_0189",
+    "source_id": "actor_0001",
+    "target_id": "actor_0087",
+    "type": "besoins industriels / raccordement",
+    "summary": "RTE — besoins industriels / raccordement — Carbon",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "Carbon",
+      "kind": "besoins industriels / raccordement"
+    }
+  },
+  {
+    "id": "relation_0190",
+    "source_id": "actor_0001",
+    "target_id": "actor_0088",
+    "type": "besoins industriels / raccordement",
+    "summary": "RTE — besoins industriels / raccordement — Elyse / Neocarb",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "Elyse / Neocarb",
+      "kind": "besoins industriels / raccordement"
+    }
+  },
+  {
+    "id": "relation_0191",
+    "source_id": "actor_0001",
+    "target_id": "actor_0090",
+    "type": "besoins industriels / raccordement",
+    "summary": "RTE — besoins industriels / raccordement — NaTran",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "NaTran",
+      "kind": "besoins industriels / raccordement"
+    }
+  },
+  {
+    "id": "relation_0192",
+    "source_id": "actor_0001",
+    "target_id": "actor_0091",
+    "type": "besoins industriels / raccordement",
+    "summary": "RTE — besoins industriels / raccordement — Geométhane",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "Geométhane",
+      "kind": "besoins industriels / raccordement"
+    }
+  },
+  {
+    "id": "relation_0193",
+    "source_id": "actor_0001",
+    "target_id": "actor_0092",
+    "type": "besoins industriels / raccordement",
+    "summary": "RTE — besoins industriels / raccordement — ENGIE",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "ENGIE",
+      "kind": "besoins industriels / raccordement"
+    }
+  },
+  {
+    "id": "relation_0194",
+    "source_id": "actor_0001",
+    "target_id": "actor_0093",
+    "type": "besoins industriels / raccordement",
+    "summary": "RTE — besoins industriels / raccordement — PIICTO / Syrius",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "PIICTO / Syrius",
+      "kind": "besoins industriels / raccordement"
+    }
+  },
+  {
+    "id": "relation_0195",
+    "source_id": "actor_0001",
+    "target_id": "actor_0052",
+    "type": "besoins industriels / raccordement",
+    "summary": "RTE — besoins industriels / raccordement — NGE / Jean Bernadet",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "NGE / Jean Bernadet",
+      "kind": "besoins industriels / raccordement"
+    }
+  },
+  {
+    "id": "relation_0196",
+    "source_id": "actor_0001",
+    "target_id": "actor_0053",
+    "type": "besoins industriels / raccordement",
+    "summary": "RTE — besoins industriels / raccordement — Club Top 20",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "RTE",
+      "target": "Club Top 20",
+      "kind": "besoins industriels / raccordement"
+    }
+  },
+  {
+    "id": "relation_0197",
+    "source_id": "actor_0003",
+    "target_id": "actor_0001",
+    "type": "controverse / procédure",
+    "summary": "Collectif THT 13/30 — controverse / procédure — RTE",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "RTE",
+      "kind": "controverse / procédure"
+    }
+  },
+  {
+    "id": "relation_0198",
+    "source_id": "actor_0003",
+    "target_id": "actor_0046",
+    "type": "controverse / procédure",
+    "summary": "Collectif THT 13/30 — controverse / procédure — État / gouvernement",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "État / gouvernement",
+      "kind": "controverse / procédure"
+    }
+  },
+  {
+    "id": "relation_0199",
+    "source_id": "actor_0003",
+    "target_id": "actor_0096",
+    "type": "controverse / procédure",
+    "summary": "Collectif THT 13/30 — controverse / procédure — CNDP",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "CNDP",
+      "kind": "controverse / procédure"
+    }
+  },
+  {
+    "id": "relation_0200",
+    "source_id": "actor_0003",
+    "target_id": "actor_0100",
+    "type": "controverse / procédure",
+    "summary": "Collectif THT 13/30 — controverse / procédure — DREAL Occitanie",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "DREAL Occitanie",
+      "kind": "controverse / procédure"
+    }
+  },
+  {
+    "id": "relation_0201",
+    "source_id": "actor_0003",
+    "target_id": "actor_0101",
+    "type": "controverse / procédure",
+    "summary": "Collectif THT 13/30 — controverse / procédure — DREAL PACA / MRAe PACA",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "DREAL PACA / MRAe PACA",
+      "kind": "controverse / procédure"
+    }
+  },
+  {
+    "id": "relation_0202",
+    "source_id": "actor_0003",
+    "target_id": "actor_0102",
+    "type": "controverse / procédure",
+    "summary": "Collectif THT 13/30 — controverse / procédure — Commission européenne / Berne / Ramsar",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Collectif THT 13/30",
+      "target": "Commission européenne / Berne / Ramsar",
+      "kind": "controverse / procédure"
+    }
+  },
+  {
+    "id": "relation_0203",
+    "source_id": "project_fos",
+    "target_id": "actor_0103",
+    "type": "source / couverture",
+    "summary": "Ligne THT Fos-Jonquières — source / couverture — La Provence",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "La Provence",
+      "kind": "source / couverture"
+    }
+  },
+  {
+    "id": "relation_0204",
+    "source_id": "project_fos",
+    "target_id": "actor_0104",
+    "type": "source / couverture",
+    "summary": "Ligne THT Fos-Jonquières — source / couverture — Objectif Gard",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Objectif Gard",
+      "kind": "source / couverture"
+    }
+  },
+  {
+    "id": "relation_0205",
+    "source_id": "project_fos",
+    "target_id": "actor_0105",
+    "type": "source / couverture",
+    "summary": "Ligne THT Fos-Jonquières — source / couverture — La Marseillaise",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "La Marseillaise",
+      "kind": "source / couverture"
+    }
+  },
+  {
+    "id": "relation_0206",
+    "source_id": "project_fos",
+    "target_id": "actor_0106",
+    "type": "source / couverture",
+    "summary": "Ligne THT Fos-Jonquières — source / couverture — France 3 / Franceinfo",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "France 3 / Franceinfo",
+      "kind": "source / couverture"
+    }
+  },
+  {
+    "id": "relation_0207",
+    "source_id": "project_fos",
+    "target_id": "actor_0107",
+    "type": "source / couverture",
+    "summary": "Ligne THT Fos-Jonquières — source / couverture — FNE13.fr",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "FNE13.fr",
+      "kind": "source / couverture"
+    }
+  },
+  {
+    "id": "relation_0208",
+    "source_id": "project_fos",
+    "target_id": "actor_0108",
+    "type": "source / couverture",
+    "summary": "Ligne THT Fos-Jonquières — source / couverture — Marsactu",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Marsactu",
+      "kind": "source / couverture"
+    }
+  },
+  {
+    "id": "relation_0209",
+    "source_id": "project_fos",
+    "target_id": "actor_0109",
+    "type": "source / couverture",
+    "summary": "Ligne THT Fos-Jonquières — source / couverture — GoMet",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "GoMet",
+      "kind": "source / couverture"
+    }
+  },
+  {
+    "id": "relation_0210",
+    "source_id": "project_fos",
+    "target_id": "actor_0110",
+    "type": "source / couverture",
+    "summary": "Ligne THT Fos-Jonquières — source / couverture — La Tribune Région Sud",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "La Tribune Région Sud",
+      "kind": "source / couverture"
+    }
+  },
+  {
+    "id": "relation_0211",
+    "source_id": "project_fos",
+    "target_id": "actor_0111",
+    "type": "source / couverture",
+    "summary": "Ligne THT Fos-Jonquières — source / couverture — Tourduvalat.org",
+    "certainty": "unqualified",
+    "evidence_ids": [],
+    "original_link": {
+      "source": "Ligne THT Fos-Jonquières",
+      "target": "Tourduvalat.org",
+      "kind": "source / couverture"
+    }
+  }
+]

@@ -1,0 +1,1634 @@
+[
+  {
+    "id": "claim_actor_0001",
+    "subject_id": "actor_0001",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Porteur technique du projet. Défend la solution aérienne pour ses délais, coûts et puissance.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0002",
+    "subject_id": "actor_0002",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Signe le serment des maires et estime que l'absence de consensus et les recours condamnent le projet aérien à de longs retards.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0002"
+    ]
+  },
+  {
+    "id": "claim_actor_0003",
+    "subject_id": "actor_0003",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Coalition centrale opposée au projet aérien, prône l'enfouissement systématique ou l'ensouillement.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0003"
+    ]
+  },
+  {
+    "id": "claim_actor_0004",
+    "subject_id": "actor_0004",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "S'oppose à un passage en force sur la solution aérienne et avertit qu'il provoquerait un blocage irrémédiable.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0004"
+    ]
+  },
+  {
+    "id": "claim_actor_0005",
+    "subject_id": "actor_0005",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Très investi contre l'aérien et défenseur de la biodiversité locale.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0005"
+    ]
+  },
+  {
+    "id": "claim_actor_0006",
+    "subject_id": "actor_0006",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "S'oppose à l'emprise sur ses terres et à la dégradation du paysage agricole.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0006"
+    ]
+  },
+  {
+    "id": "claim_actor_0007",
+    "subject_id": "actor_0007",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "A porté l'alternative à l'Élysée et demande une table ronde ainsi qu'une étude détaillée des solutions souterraines.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0007"
+    ]
+  },
+  {
+    "id": "claim_actor_0008",
+    "subject_id": "actor_0008",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "S'oppose au projet et alerte sur le risque de création d'une ZAD.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0008"
+    ]
+  },
+  {
+    "id": "claim_actor_0009",
+    "subject_id": "actor_0009",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Soutient la ligne pour sécuriser la décarbonation industrielle de Fos-sur-Mer.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0009"
+    ]
+  },
+  {
+    "id": "claim_actor_0010",
+    "subject_id": "actor_0010",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Porte une alternative structurée combinant une liaison souterraine de 2 GW en courant continu et une liaison sous-marine ultérieure.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0010"
+    ]
+  },
+  {
+    "id": "claim_actor_0011",
+    "subject_id": "actor_0011",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Évoque une résistance plus dure et une possible ZAD si le projet avance en force.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0011"
+    ]
+  },
+  {
+    "id": "claim_actor_0012",
+    "subject_id": "actor_0012",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Bloque l'accès de ses rizières aux naturalistes mandatés par RTE pour empêcher les études préalables à l'implantation des pylônes.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0012"
+    ]
+  },
+  {
+    "id": "claim_actor_0013",
+    "subject_id": "actor_0013",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Porte une opposition agricole et viticole ; appelle à une union agriculteurs/écologistes/élus.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0013"
+    ]
+  },
+  {
+    "id": "claim_actor_0014",
+    "subject_id": "actor_0014",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Structure la bataille juridique et les futurs recours administratifs contre le projet aérien.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0014"
+    ]
+  },
+  {
+    "id": "claim_actor_0015",
+    "subject_id": "actor_0015",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Alerte sur la détresse des agriculteurs et sur la difficulté croissante à contenir une radicalisation du mouvement.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0015"
+    ]
+  },
+  {
+    "id": "claim_actor_0016",
+    "subject_id": "actor_0016",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Alerte sur la dépendance accrue au poste de Tavel et conteste le bénéfice du projet en matière de sécurité d'approvisionnement.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0016"
+    ]
+  },
+  {
+    "id": "claim_actor_0017",
+    "subject_id": "actor_0017",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Rappelle que les agriculteurs ne refusent pas la décarbonation, mais uniquement les pylônes.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0017"
+    ]
+  },
+  {
+    "id": "claim_actor_0018",
+    "subject_id": "actor_0018",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Vigneron beaucairois, Domaine Mourgues du Grès. Refuse que les terres viticoles et agricoles soient sacrifiées alors que des alternatives existent.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0019",
+    "subject_id": "actor_0019",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Vigneronne au Domaine / Château Mourgues du Grès. Alerte sur les impacts terroir, agrotourisme et paysages des Costières de Nîmes.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0020",
+    "subject_id": "actor_0020",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Vigneron du Domaine / Château Mourgues du Grès, cité dans l'opposition viticole au projet aérien.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0021",
+    "subject_id": "actor_0021",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Défend la transmission des exploitations sans les contraintes de pylônes.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0021"
+    ]
+  },
+  {
+    "id": "claim_actor_0022",
+    "subject_id": "actor_0022",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Concernant l'implantation potentielle de pylônes, défend l'existence d'alternatives.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0022"
+    ]
+  },
+  {
+    "id": "claim_actor_0023",
+    "subject_id": "actor_0023",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Répond à l'argument du coût soulevé par RTE en mettant en avant la volonté politique de l'État.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0023"
+    ]
+  },
+  {
+    "id": "claim_actor_0024",
+    "subject_id": "actor_0024",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Défend le patrimoine culturel, les paysages et l'emploi face à la ligne THT.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0024"
+    ]
+  },
+  {
+    "id": "claim_actor_0025",
+    "subject_id": "actor_0025",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Porte l'argumentaire avifaune avec les comptages d'oiseaux et espèces protégées.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0025"
+    ]
+  },
+  {
+    "id": "claim_actor_0026",
+    "subject_id": "actor_0026",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Ne rejette pas la décarbonation mais critique les zones d'ombre, l'État et le manque d'infrastructures.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_actor_0026"
+    ]
+  },
+  {
+    "id": "claim_actor_0027",
+    "subject_id": "actor_0027",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Critique le débat global Fos-Berre et le risque de dilution des sujets (hydrogène, THT, etc.).",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0027"
+    ]
+  },
+  {
+    "id": "claim_actor_0028",
+    "subject_id": "actor_0028",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Critique le contournement autoroutier d'Arles et envisage une action juridique sur la concertation.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_actor_0028"
+    ]
+  },
+  {
+    "id": "claim_actor_0029",
+    "subject_id": "actor_0029",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Critique les grands projets d'infrastructures, notamment le contournement d'Arles et la THT.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0029"
+    ]
+  },
+  {
+    "id": "claim_actor_0030",
+    "subject_id": "actor_0030",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Figure structurante de la fédération environnementale, très impliquée dans le dossier THT.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0030"
+    ]
+  },
+  {
+    "id": "claim_actor_0031",
+    "subject_id": "actor_0031",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Acteur des actions contentieuses et environnementales contre RTE.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0031"
+    ]
+  },
+  {
+    "id": "claim_actor_0032",
+    "subject_id": "actor_0032",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Engagée dans la protection de l'environnement et associée à la mobilisation anti-THT.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0032"
+    ]
+  },
+  {
+    "id": "claim_actor_0033",
+    "subject_id": "actor_0033",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Refuse que la Terre d'Argence, la Camargue et la Crau soient balafrées.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0033"
+    ]
+  },
+  {
+    "id": "claim_actor_0034",
+    "subject_id": "actor_0034",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Relaie la proposition de Michel Barnier comme tiers facilitateur neutre.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0034"
+    ]
+  },
+  {
+    "id": "claim_actor_0035",
+    "subject_id": "actor_0035",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Demande explicitement l'abandon du projet aérien, l'examen des alternatives et signe la charte des élus.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0035"
+    ]
+  },
+  {
+    "id": "claim_actor_0036",
+    "subject_id": "actor_0036",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Favorable à l'enfouissement technique, mais critique surtout la gouvernance municipale actuelle.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_actor_0036"
+    ]
+  },
+  {
+    "id": "claim_actor_0037",
+    "subject_id": "actor_0037",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Favorable à la réindustrialisation de Fos ; critique le débat jugé à charge par les opposants.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0037"
+    ]
+  },
+  {
+    "id": "claim_actor_0038",
+    "subject_id": "actor_0038",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Cadre le débat public et la décision ; perçu par certains opposants comme pro-aérien.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0038"
+    ]
+  },
+  {
+    "id": "claim_actor_0039",
+    "subject_id": "actor_0039",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "À l'origine de la saisine de la CNDP et de l'organisation du débat global Fos-Berre.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0039"
+    ]
+  },
+  {
+    "id": "claim_actor_0040",
+    "subject_id": "actor_0040",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Acteur décisionnaire sur le volet gardois du tracé (Jonquières / Bellegarde).",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0040"
+    ]
+  },
+  {
+    "id": "claim_actor_0041",
+    "subject_id": "actor_0041",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Hérite du dossier administratif et des arbitrages sur la DUP.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0041"
+    ]
+  },
+  {
+    "id": "claim_actor_0042",
+    "subject_id": "actor_0042",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Maintient la nécessité de la ligne aérienne et annonce une enquête publique avant fin 2026.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0042"
+    ]
+  },
+  {
+    "id": "claim_actor_0043",
+    "subject_id": "actor_0043",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Expert national grands projets chez RTE. Porte l'argumentaire technique de RTE en réunion publique.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0044",
+    "subject_id": "actor_0044",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Responsable national du programme 400 kV chez RTE. Intervient avec Vincent Fletin sur la solution aérienne.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0045",
+    "subject_id": "actor_0045",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Soutient la ligne, jugée nécessaire pour donner de la visibilité aux industriels.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0045"
+    ]
+  },
+  {
+    "id": "claim_actor_0046",
+    "subject_id": "actor_0046",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Engage l'instruction de la DUP et cadre les arbitrages de réindustrialisation.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0046"
+    ]
+  },
+  {
+    "id": "claim_actor_0047",
+    "subject_id": "actor_0047",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Soutient la ligne comme condition sine qua non des investissements sur Fos-Berre.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0047"
+    ]
+  },
+  {
+    "id": "claim_actor_0048",
+    "subject_id": "actor_0048",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Défend la ligne au nom de la souveraineté et de la sécurité d'approvisionnement.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0048"
+    ]
+  },
+  {
+    "id": "claim_actor_0049",
+    "subject_id": "actor_0049",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Acteur central de la ZIP, aménageur foncier nécessitant une forte puissance électrique.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0049"
+    ]
+  },
+  {
+    "id": "claim_actor_0050",
+    "subject_id": "actor_0050",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Défend le desserrement foncier et la recherche de fonciers disponibles pour l'industrie.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0050"
+    ]
+  },
+  {
+    "id": "claim_actor_0051",
+    "subject_id": "actor_0051",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Coordonne la transition industrielle, écologique et énergétique de Fos-Berre.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0051"
+    ]
+  },
+  {
+    "id": "claim_actor_0052",
+    "subject_id": "actor_0052",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Soutient fortement la ligne et estime paradoxalement que l'enfouissement causerait davantage de dégâts.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0052"
+    ]
+  },
+  {
+    "id": "claim_actor_0053",
+    "subject_id": "actor_0053",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Club de grandes entreprises de la Métropole Aix-Marseille Provence, cité comme soutien à la dynamique industrielle.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0054",
+    "subject_id": "actor_0054",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Auteur de la tierce expertise. Valide l'alternative enfouie du collectif tout en reconnaissant les avantages techniques RTE.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0054"
+    ]
+  },
+  {
+    "id": "claim_actor_0055",
+    "subject_id": "actor_0055",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Pilier du Collectif THT 13/30, apporte le relais juridique et d'expertise environnementale.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0055"
+    ]
+  },
+  {
+    "id": "claim_actor_0056",
+    "subject_id": "actor_0056",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Fondée par les exploitants impactés, mot d'ordre strict : zéro pylône.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0056"
+    ]
+  },
+  {
+    "id": "claim_actor_0057",
+    "subject_id": "actor_0057",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Structure l'opposition côté Gard (Beaucaire / Bellegarde) et Terre d'Argence.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0057"
+    ]
+  },
+  {
+    "id": "claim_actor_0058",
+    "subject_id": "actor_0058",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Association naturaliste présidée / représentée par Jean-Laurent Lucchesi. Membre du collectif et appui biodiversité.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0059",
+    "subject_id": "actor_0059",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Association locale associée à Jean-Luc Moya et au réseau FNE13.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0060",
+    "subject_id": "actor_0060",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Association naturaliste. Réalise des comptages d'oiseaux sur le tracé potentiel et alimente l'argumentaire avifaune.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0061",
+    "subject_id": "actor_0061",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Organisation agricole opposée au tracé aérien, représentée notamment par Clément Lajoux.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0062",
+    "subject_id": "actor_0062",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Organisation agricole gardoise, représentée par Cyril Marès, mobilisée contre la ligne aérienne.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0063",
+    "subject_id": "actor_0063",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Filière viticole mobilisée contre les impacts paysagers, touristiques et agricoles des pylônes.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0064",
+    "subject_id": "actor_0064",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Domaine viticole beaucairois, incarné par Anne, François et Romain Collard dans l'opposition viticole.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0065",
+    "subject_id": "actor_0065",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Organisations agricoles fédérées notamment dans la COPA 13 et citées dans la mobilisation contre l'impact foncier.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0066",
+    "subject_id": "actor_0066",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Syndicat agricole cité dans la mobilisation, notamment via Rémy Benson.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0067",
+    "subject_id": "actor_0067",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Institutions agricoles citées parmi les acteurs mobilisés sur les impacts agricoles.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0068",
+    "subject_id": "actor_0068",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Filière / label agricole cité comme potentiellement affecté par le projet.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0069",
+    "subject_id": "actor_0069",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Filière / label agricole cité dans les impacts potentiels de la ligne.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0070",
+    "subject_id": "actor_0070",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Ligue pour la protection des oiseaux. Alerte sur les oiseaux migrateurs et habitats naturels ; acteur biodiversité majeur.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0071",
+    "subject_id": "actor_0071",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "ONG environnementale signataire d'appels contre la ligne aérienne.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0072",
+    "subject_id": "actor_0072",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Institut de recherche sur les zones humides méditerranéennes. Source scientifique majeure sur Camargue, tourbières, oiseaux et zones humides.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0073",
+    "subject_id": "actor_0073",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Conservatoire d'espaces naturels PACA. Alerte sur les espèces protégées, le Ganga cata et l'aigle de Bonelli.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0074",
+    "subject_id": "actor_0074",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Société nationale de protection de la nature, citée dans les contenus naturalistes et les alertes environnementales.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0075",
+    "subject_id": "actor_0075",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Réseau d'espaces protégés appelant à abandonner la ligne aérienne et à préserver Camargue / Crau / Terre d'Argence.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0076",
+    "subject_id": "actor_0076",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Réseaux d'aires protégées et zones humides, signataires ou interpellés sur les impacts du projet.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0077",
+    "subject_id": "actor_0077",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Office français de la biodiversité. Intervient dans les constats biodiversité et les programmes scientifiques.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0078",
+    "subject_id": "actor_0078",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Gestionnaire territorial et naturel, porteur de missions Natura 2000 et de plans de gestion des zones humides.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0079",
+    "subject_id": "actor_0079",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Organisation culturelle camarguaise présente dans la mobilisation, symbole de l'ancrage culturel territorial.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0080",
+    "subject_id": "actor_0080",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Association de défense et de protection du littoral du golfe de Fos. Critique la gouvernance du débat global et les effets cumulés.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0081",
+    "subject_id": "actor_0081",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Association Camargue Environnement. Plutôt liée au contournement d'Arles mais dans l'écosystème de contestation territoriale.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0082",
+    "subject_id": "actor_0082",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Collectif local né de l'opposition à HyVence, porteur d'une demande de Parc naturel régional des étangs du golfe de Fos.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0083",
+    "subject_id": "actor_0083",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Association associée à Sauvons nos Étangs pour la demande de Parc naturel régional des étangs.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0084",
+    "subject_id": "actor_0084",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Projet d'acier bas-carbone / DRI-HBI à partir d'hydrogène, emblématique des besoins électriques de Fos.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0085",
+    "subject_id": "actor_0085",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Industriel sidérurgique, projet de restructuration à Fos et synergies avec GravitHy.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0086",
+    "subject_id": "actor_0086",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Industriel sidérurgique : four à arc électrique et décarbonation, mais aussi dossier contentieux pollution.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0087",
+    "subject_id": "actor_0087",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Projet photovoltaïque cité dans les besoins électriques et la réindustrialisation, abandonné dans les documents.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0088",
+    "subject_id": "actor_0088",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Projet de carburants de synthèse / hydrogène bas-carbone à Fos.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0089",
+    "subject_id": "actor_0089",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Producteurs d'hydrogène / carburants renouvelables cités dans la dynamique Fos-Berre.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0090",
+    "subject_id": "actor_0090",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Opérateur de réseau hydrogène, porteur du réseau de transport d'hydrogène en région Sud.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0091",
+    "subject_id": "actor_0091",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Acteur du stockage d'hydrogène à Manosque.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0092",
+    "subject_id": "actor_0092",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Énergéticien, porteur d'un projet de production d'hydrogène à Villeneuve.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0093",
+    "subject_id": "actor_0093",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Plateforme et programme de décarbonation industrielle Fos-Berre.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0094",
+    "subject_id": "actor_0094",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Organisation professionnelle hydrogène, demande du soutien public pour structurer la filière.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0095",
+    "subject_id": "actor_0095",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Acteur nucléaire innovant implanté près de Marcoule ; hors THT direct mais lié au contexte énergétique régional.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0096",
+    "subject_id": "actor_0096",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Organisent le débat global Fos-Berre, rappelant que l'exercice est consultatif et non référendaire.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0096"
+    ]
+  },
+  {
+    "id": "claim_actor_0097",
+    "subject_id": "actor_0097",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Présidente du débat public Fos-Berre Provence / CPDP. Cadre le débat, rappelle que ce n'est pas un référendum.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0098",
+    "subject_id": "actor_0098",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Président de la CNDP cité dans les documents.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0099",
+    "subject_id": "actor_0099",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Animateur de la concertation, cité dans les instances du débat public.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0100",
+    "subject_id": "actor_0100",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Service de l'État dont la note environnementale est utilisée par les opposants sur les espèces protégées et le risque juridique.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0101",
+    "subject_id": "actor_0101",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Institutions environnementales citées, notamment sur le contournement d'Arles et les procédures.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0102",
+    "subject_id": "actor_0102",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Instances européennes / internationales évoquées comme leviers de saisine sur les zones humides et espèces protégées.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0103",
+    "subject_id": "actor_0103",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Source locale majeure sur Arles, Camargue, élus, associations et projets industriels.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0104",
+    "subject_id": "actor_0104",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Source très présente sur Terre d'Argence, Beaucaire, réunion d'Arles, CNDP et contestation gardoise.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0105",
+    "subject_id": "actor_0105",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Source sur réindustrialisation, débats sociaux, Fos-Berre, biomasse, hydrogène et critiques locales.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0106",
+    "subject_id": "actor_0106",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Source nationale-régionale sur biodiversité, cigognes, DREAL, mobilisation agricole et oppositions.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0107",
+    "subject_id": "actor_0107",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Source militante et associative sur le collectif, la tierce expertise, les recours, la biodiversité et les plaintes.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0108",
+    "subject_id": "actor_0108",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Source d'analyse critique sur RTE, espèces protégées et controverses territoriales.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0109",
+    "subject_id": "actor_0109",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Source sur débat industriel, Syrius et Parc naturel régional des étangs.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0110",
+    "subject_id": "actor_0110",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Source sur NGE, GravitHy, Newcleo, filières industrielles et énergétiques.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0111",
+    "subject_id": "actor_0111",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "unknown",
+    "summary": "Source scientifique sur zones humides, oiseaux d'eau, tourbières et Camargue.",
+    "certainty": "unqualified",
+    "evidence_ids": []
+  },
+  {
+    "id": "claim_actor_0112",
+    "subject_id": "actor_0112",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Refusent que les terres viticoles soient sacrifiées et alertent sur les impacts agrotouristiques.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0112"
+    ]
+  },
+  {
+    "id": "claim_actor_0113",
+    "subject_id": "actor_0113",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Portent l'argumentaire technique de RTE en réunion publique sur le 400 kV.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0113"
+    ]
+  },
+  {
+    "id": "claim_actor_0114",
+    "subject_id": "actor_0114",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Alertent massivement sur les oiseaux migrateurs (Aigle de Bonelli, Ganga cata) et l'impact sur les zones humides.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0114"
+    ]
+  },
+  {
+    "id": "claim_actor_0115",
+    "subject_id": "actor_0115",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "S'opposent unanimement au tracé aérien détruisant les paysages (AOC Costières) et les filières (Foin de Crau, Riz).",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0115"
+    ]
+  },
+  {
+    "id": "claim_actor_0116",
+    "subject_id": "actor_0116",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Alerte officiellement le gouvernement sur le risque de déclassement de la Camargue de son statut de réserve de biosphère.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0116"
+    ]
+  },
+  {
+    "id": "claim_actor_0117",
+    "subject_id": "actor_0117",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Soutient l'inscription du territoire au patrimoine mondial, démarche menacée par la THT.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0117"
+    ]
+  },
+  {
+    "id": "claim_actor_0118",
+    "subject_id": "actor_0118",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Accuse les agents de RTE d'intrusion nocturne sur ses terres et dépose plainte pour harcèlement.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0118"
+    ]
+  },
+  {
+    "id": "claim_actor_0119",
+    "subject_id": "actor_0119",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Rejette les arguments de coûts de l'État et soutient la contestation unanime au-delà des clivages politiques.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0119"
+    ]
+  },
+  {
+    "id": "claim_actor_0120",
+    "subject_id": "actor_0120",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Rappelle sa mission de protection du vivant et signe le manifeste anti-THT face à l'urgence.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0120"
+    ]
+  },
+  {
+    "id": "claim_actor_0121",
+    "subject_id": "actor_0121",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Tente de maintenir le cap stratégique du PNR face à la perte du label et aux tensions générées par le passage de la THT.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_actor_0121"
+    ]
+  },
+  {
+    "id": "claim_actor_0122",
+    "subject_id": "actor_0122",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Interpellée par l'Unesco sur l'atteinte potentielle à la biodiversité causée par l'infrastructure.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0122"
+    ]
+  },
+  {
+    "id": "claim_actor_0123",
+    "subject_id": "actor_0123",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Mandate deux facilitateurs, mais ses services maintiennent publiquement que le tracé aérien est la seule option viable.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0123"
+    ]
+  },
+  {
+    "id": "claim_actor_0124",
+    "subject_id": "actor_0124",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "A ratifié l'arrêté d'exemption d'évaluation environnementale pour les raccordements sur la zone de Fos.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0124"
+    ]
+  },
+  {
+    "id": "claim_actor_0125",
+    "subject_id": "actor_0125",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Défend le dispositif de compensation (1 pylône installé = 3 enlevés) et minimise l'emprise au sol.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0125"
+    ]
+  },
+  {
+    "id": "claim_actor_0126",
+    "subject_id": "actor_0126",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Dénonce une politique opposant transition énergétique et transition écologique et annonce un conflit majeur en cas de DUP.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0126"
+    ]
+  },
+  {
+    "id": "claim_actor_0127",
+    "subject_id": "actor_0127",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Demande soit l'enfouissement, soit l'abandon du projet aérien, et engage les élus aux côtés du territoire.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0127"
+    ]
+  },
+  {
+    "id": "claim_actor_0128",
+    "subject_id": "actor_0128",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Demande l'arrêt du projet dans sa forme aérienne et l'ouverture d'une concertation territoriale sur l'enfouissement.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0128"
+    ]
+  },
+  {
+    "id": "claim_actor_0129",
+    "subject_id": "actor_0129",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Soutient publiquement la mobilisation au nom de la protection du vivant et du patrimoine.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0129"
+    ]
+  },
+  {
+    "id": "claim_actor_0130",
+    "subject_id": "actor_0130",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Participe au front transpartisan opposé à la ligne aérienne.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0130"
+    ]
+  },
+  {
+    "id": "claim_actor_0131",
+    "subject_id": "actor_0131",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Soutient la mobilisation tout en critiquant l'opportunisme environnemental de certains élus.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0131"
+    ]
+  },
+  {
+    "id": "claim_actor_0132",
+    "subject_id": "actor_0132",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Alerte sur la perte d'attractivité des hébergements touristiques exposés aux pylônes.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0132"
+    ]
+  },
+  {
+    "id": "claim_actor_0133",
+    "subject_id": "actor_0133",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Alerte sur les annulations et pertes de clientèle que pourrait provoquer la proximité visuelle de la ligne.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0133"
+    ]
+  },
+  {
+    "id": "claim_actor_0134",
+    "subject_id": "actor_0134",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Demande de consolider les besoins, le calendrier, les impacts et la comparaison des solutions alternatives.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0134"
+    ]
+  },
+  {
+    "id": "claim_actor_0135",
+    "subject_id": "actor_0135",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Soutient la réalisation et l'accélération de la ligne au nom de l'emploi, de l'industrie et de la sécurité électrique.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0135"
+    ]
+  },
+  {
+    "id": "claim_actor_0136",
+    "subject_id": "actor_0136",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Exige une décision rapide, un calendrier formalisé et un engagement irrévocable de l'État.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0136"
+    ]
+  },
+  {
+    "id": "claim_actor_0137",
+    "subject_id": "actor_0137",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Soutient la liaison Fos-Jonquières tout en demandant un pacte territorial et des compensations renforcées.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0137"
+    ]
+  },
+  {
+    "id": "claim_actor_0138",
+    "subject_id": "actor_0138",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Demande une décision courageuse sur la DUP sans report lié aux échéances électorales.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0138"
+    ]
+  },
+  {
+    "id": "claim_actor_0139",
+    "subject_id": "actor_0139",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Participe à la coalition patronale et syndicale favorable à une accélération du projet.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0139"
+    ]
+  },
+  {
+    "id": "claim_actor_0140",
+    "subject_id": "actor_0140",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Présente l'électrification comme une condition vitale de survie industrielle et soutient la solution aérienne pour respecter les délais.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0140"
+    ]
+  },
+  {
+    "id": "claim_actor_0141",
+    "subject_id": "actor_0141",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Réclame une déclaration rapide d'utilité publique pour sécuriser les investissements industriels.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0141"
+    ]
+  },
+  {
+    "id": "claim_actor_0142",
+    "subject_id": "actor_0142",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Défend la ligne comme un besoin absolu pour la décarbonation et la compétitivité de la filière chimique.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0142"
+    ]
+  },
+  {
+    "id": "claim_actor_0143",
+    "subject_id": "actor_0143",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Soutient le projet au nom du maintien et de la création d'emplois industriels.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0143"
+    ]
+  },
+  {
+    "id": "claim_actor_0144",
+    "subject_id": "actor_0144",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Défend une transition énergétique ambitieuse et économiquement réaliste.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0144"
+    ]
+  },
+  {
+    "id": "claim_actor_0145",
+    "subject_id": "actor_0145",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Soutient l'avancement des infrastructures électriques tout en demandant de la prudence.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0145"
+    ]
+  },
+  {
+    "id": "claim_actor_0146",
+    "subject_id": "actor_0146",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "Évoque une accélération et une simplification administrative du projet selon la méthode Notre-Dame.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_actor_0146"
+    ]
+  }
+]

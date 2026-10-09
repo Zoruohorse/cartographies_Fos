@@ -1,0 +1,17 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Vue en cartes — Fos-Jonquières</title><link rel="stylesheet" href="../../assets/css/cards.css?v=20261009-fos"></head><body><header><a href="../../">← Accueil</a><div><h1 id="title"></h1><p id="subtitle"></p></div><a class="switch" href="../network/">Vue réseau</a></header>
+<nav class="tabs" role="tablist" aria-label="Navigation de la vue cartes">
+  <button id="tab-button-carto" class="tab-btn active" type="button" role="tab" data-tab="carto" aria-controls="tab-carto" aria-selected="true">Cartographie des acteurs</button>
+  <button id="tab-button-griefs" class="tab-btn" type="button" role="tab" data-tab="griefs" aria-controls="tab-griefs" aria-selected="false" tabindex="-1">Synthèse des oppositions</button>
+  <button id="tab-button-vigilance" class="tab-btn" type="button" role="tab" data-tab="vigilance" aria-controls="tab-vigilance" aria-selected="false" tabindex="-1">Points de vigilance et sources</button>
+</nav>
+<section id="tab-carto" class="tab-content active" role="tabpanel" aria-labelledby="tab-button-carto">
+<main class="layout"><aside><label>Rechercher<input id="search" type="search" placeholder="Nom, rôle, position, preuve"></label><section><h2>Catégories</h2><div id="categories"></div></section><section><h2>Positions</h2><div id="stances"></div></section><button id="reset">Réinitialiser</button><p class="data-notice" id="notice"></p></aside><section><p id="count"></p><div id="grid" class="grid"></div></section></main></section>
+<section id="tab-griefs" class="tab-content editorial-tab" role="tabpanel" aria-labelledby="tab-button-griefs" hidden>
+  <article class="list-card"><h2>Synthèse des oppositions</h2><p id="griefs-intro"></p></article>
+  <div id="griefs-grid" class="griefs-grid"></div>
+</section>
+<section id="tab-vigilance" class="tab-content editorial-tab" role="tabpanel" aria-labelledby="tab-button-vigilance" hidden>
+  <article class="list-card"><h2>Points de vigilance majeurs</h2><p id="vigilance-count" class="muted"></p><div id="vigilance-list"></div></article>
+  <article class="list-card"><h2>Sources répertoriées</h2><p id="sources-count" class="muted"></p><div id="sources-list"></div></article>
+</section>
+<dialog id="dialog"><button class="close" aria-label="Fermer">×</button><div id="detail"></div></dialog><script type="module" src="../../assets/js/cards.js?v=20261009-fos"></script></body></html>

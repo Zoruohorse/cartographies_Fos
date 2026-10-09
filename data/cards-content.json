@@ -1,0 +1,231 @@
+{
+  "intro": "Les synthèses ci-dessous reprennent les analyses du fichier Fos-Jonquières fourni. Les extraits associés permettent de retrouver les éléments des fiches acteurs ; ils ne remplacent pas les sources primaires, dont les URL ne sont pas renseignées.",
+  "griefs": [
+    {
+      "title": "🌍 Risque de déclassement Unesco",
+      "text": "Le passage de la THT dans la zone tampon enfreint les engagements internationaux de la France. Le PNR Camargue a déjà perdu son label et MAB France alerte sur la perte imminente du statut mondial de Réserve de biosphère.",
+      "evidence_ids": [
+        "evidence_actor_0116",
+        "evidence_actor_0117"
+      ],
+      "source_ids": []
+    },
+    {
+      "title": "⚖️ Exemption environnementale (Loi APER)",
+      "text": "Le gouvernement a validé un arrêté d'exemption d'évaluation environnementale pour le projet de raccordement Minéralier (Fos), attisant le sentiment de passage en force de l'État et de violation des procédures démocratiques.",
+      "evidence_ids": [
+        "evidence_actor_0124"
+      ],
+      "source_ids": []
+    },
+    {
+      "title": "🚔 Plaintes et harcèlement",
+      "text": "La phase d'inventaire sur le terrain a dégénéré : les agriculteurs portent plainte contre RTE pour intrusion nocturne et harcèlement moral, face à un opérateur dénonçant des actes de vandalisme (pneus crevés) contre ses écologues.",
+      "evidence_ids": [
+        "evidence_actor_0118",
+        "evidence_actor_0012"
+      ],
+      "source_ids": []
+    },
+    {
+      "title": "⚖️ Avis critique de l'Autorité environnementale",
+      "text": "L'avis du 27 août 2026 demande de consolider les besoins électriques, leur calendrier et la comparaison des alternatives. Il estime que le coût, les délais ou la complexité ne suffisent pas à écarter une solution moins dommageable pour Natura 2000.",
+      "evidence_ids": [
+        "evidence_actor_0134"
+      ],
+      "source_ids": []
+    },
+    {
+      "title": "🤝 Institutionnalisation du front anti-aérien",
+      "text": "Six maires ont signé un serment en faveur d'une solution alternative, au sein d'un rassemblement réunissant environ 2 500 personnes et une centaine d'élus de sensibilités très diverses.",
+      "evidence_ids": [
+        "evidence_actor_0002",
+        "evidence_actor_0007",
+        "evidence_actor_0127"
+      ],
+      "source_ids": []
+    },
+    {
+      "title": "🏭 Coalition patronale et syndicale favorable",
+      "text": "Medef Sud, UPE 13, UIMM Alpes-Méditerranée, France Chimie Méditerranée, FO 13 et CFE-CGC réclament désormais publiquement une décision rapide au nom de l'emploi, de l'investissement et de la sécurité électrique.",
+      "evidence_ids": [
+        "evidence_actor_0139",
+        "evidence_actor_0137",
+        "evidence_actor_0141",
+        "evidence_actor_0143",
+        "evidence_actor_0144"
+      ],
+      "source_ids": []
+    },
+    {
+      "title": "🦅 Impact sur la biodiversité",
+      "text": "Crainte documentée (Tour du Valat, LPO, CEN) de destruction d'habitats et de couloirs migratoires vitaux pour l'avifaune (Aigle de Bonelli, Ganga cata) sur les espaces protégés uniques de Camargue et de Crau.",
+      "evidence_ids": [
+        "evidence_actor_0114",
+        "evidence_actor_0025",
+        "evidence_actor_0126"
+      ],
+      "source_ids": []
+    },
+    {
+      "title": "🌾 Sacrifice des terres agricoles",
+      "text": "Fronde unanime des syndicats (COPA, FDSEA) et AOC face à la perte foncière, paysagère et économique induite par les pylônes géants (Foin de Crau, Riz de Camargue, Vignes des Costières).",
+      "evidence_ids": [
+        "evidence_actor_0115",
+        "evidence_actor_0006",
+        "evidence_actor_0013"
+      ],
+      "source_ids": []
+    },
+    {
+      "title": "⚡ Refus de l'enfouissement technique",
+      "text": "Le collectif dénonce la posture de RTE qui rejette l'option enfouie/sous-marine sous prétexte de surcoûts et de délais (argument battu en brèche par la tierce expertise indépendante de M. Petit).",
+      "evidence_ids": [
+        "evidence_actor_0010",
+        "evidence_actor_0054",
+        "evidence_actor_0016"
+      ],
+      "source_ids": []
+    },
+    {
+      "title": "⚖️ Passage en force réglementaire",
+      "text": "Les élus et riverains dénoncent une DUP expéditive pilotée par l'État, ignorant l'opposition territoriale unanime sous couvert d'urgence industrielle et de souveraineté nationale.",
+      "evidence_ids": [
+        "evidence_actor_0128",
+        "evidence_actor_0002"
+      ],
+      "source_ids": []
+    },
+    {
+      "title": "🏭 Effets cumulés sur Fos-Berre",
+      "text": "Inquiétude face à la méthode de concertation globale noyant le projet THT au milieu d'autres méga-projets (GravitHy, Carbon, H2V), brouillant l'évaluation environnementale globale.",
+      "evidence_ids": [
+        "evidence_actor_0027"
+      ],
+      "source_ids": []
+    }
+  ],
+  "vigilance": [
+    {
+      "id": "vigilance_0001",
+      "title": "Menace de radicalisation (ZAD)",
+      "text": "Plusieurs acteurs agricoles (G. Meiffre) et élus (E. Taché) alertent publiquement sur le risque de création d'une ZAD si le passage en force de l'État se confirme, illustrant l'impasse du dialogue local.",
+      "evidence_ids": [
+        "evidence_actor_0011",
+        "evidence_actor_0008"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "vigilance_0002",
+      "title": "Front institutionnel inédit",
+      "text": "Le dossier réunit une alliance rare entre monde agricole (syndicats de tous bords), écologistes (FNE, LPO) et élus locaux (Arles, St-Martin, Gard, Région Occitanie) contre RTE et l'État.",
+      "evidence_ids": [
+        "evidence_actor_0003",
+        "evidence_actor_0115"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "vigilance_0003",
+      "title": "Le paradoxe de la décarbonation",
+      "text": "La THT mettre en lumière la contradiction entre la volonté nationale de décarboner l'industrie lourde (Fos) et les destructions écologiques directes (Camargue/Crau) que nécessitent ces nouvelles infrastructures électriques.",
+      "evidence_ids": [
+        "evidence_actor_0126",
+        "evidence_actor_0009"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "vigilance_0004",
+      "title": "Recours juridiques européens",
+      "text": "La stratégie des opposants (Me Mabile, FNE13) vise ouvertement une saisine des instances internationales (Conventions de Berne et Ramsar) s'appuyant sur les propres notes d'alerte de la DREAL.",
+      "evidence_ids": [
+        "evidence_actor_0014",
+        "evidence_actor_0055"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "vigilance_0005",
+      "title": "Passage à l'action directe (Blocage)",
+      "text": "L'opposition théorique et syndicale se matérialise désormais par des blocages physiques sur le terrain. L'utilisation de tracteurs et de drones par les agriculteurs pour empêcher les inventaires écologiques de RTE marque une escalade dans la tension locale.",
+      "evidence_ids": [
+        "evidence_actor_0012",
+        "evidence_actor_0006"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "vigilance_0006",
+      "title": "Surenchère sur les compensations",
+      "text": "Le discours d'acceptabilité de RTE repose massivement sur le retrait de 83 km de lignes 63 kV (1 pylône installé pour 3 retirés) et une enveloppe de 20 M€ d'indemnisation financière pour tenter de fracturer l'opposition locale.",
+      "evidence_ids": [
+        "evidence_actor_0125"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "vigilance_0007",
+      "title": "Judiciarisation accélérée",
+      "text": "Sept agriculteurs opposés à l'accès de RTE à leurs parcelles sont assignés devant la juridiction administrative, faisant passer le conflit du registre politique au registre contentieux immédiat.",
+      "evidence_ids": [],
+      "source_ids": []
+    },
+    {
+      "id": "vigilance_0008",
+      "title": "Risque de radicalisation à qualifier",
+      "text": "Les références à une ZAD, à une déclaration de guerre ou à l'emploi de la force signalent une tension élevée mais ne démontrent pas encore l'existence d'une organisation violente structurée.",
+      "evidence_ids": [
+        "evidence_actor_0015",
+        "evidence_actor_0011"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "vigilance_0009",
+      "title": "Front institutionnel consolidé",
+      "text": "La signature d'un serment commun par les maires et la présence d'élus nationaux transpartisans compliquent fortement la stratégie d'acceptabilité territoriale de RTE.",
+      "evidence_ids": [
+        "evidence_actor_0002",
+        "evidence_actor_0007",
+        "evidence_actor_0035"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "vigilance_0010",
+      "title": "Front économique structuré",
+      "text": "La mobilisation conjointe d'organisations patronales et syndicales transforme le soutien industriel en campagne publique coordonnée pour accélérer la DUP.",
+      "evidence_ids": [
+        "evidence_actor_0139",
+        "evidence_actor_0137",
+        "evidence_actor_0143"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "vigilance_0011",
+      "title": "Avis environnemental juridiquement sensible",
+      "text": "L'Autorité environnementale ne rejette pas le projet, mais ses réserves sur les besoins, Natura 2000 et les alternatives pourraient alimenter les futurs recours.",
+      "evidence_ids": [
+        "evidence_actor_0134"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "vigilance_0012",
+      "title": "Fiabilité des chiffres",
+      "text": "Les nombres de pylônes, coûts des scénarios, emplois concernés et effectifs associatifs varient fortement selon les sources et leurs périmètres de calcul.",
+      "evidence_ids": [],
+      "source_ids": []
+    },
+    {
+      "id": "vigilance_0013",
+      "title": "Évolution des besoins industriels",
+      "text": "L'abandon de Carbon et le report de certains projets nourrissent la demande d'un scénario phasé, même si RTE affirme que les besoins globaux restent très supérieurs à la contribution de Carbon.",
+      "evidence_ids": [],
+      "source_ids": []
+    }
+  ]
+}

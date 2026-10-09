@@ -1,0 +1,92 @@
+[
+  {
+    "id": "source_0001",
+    "title": "La Provence",
+    "publisher": "La Provence",
+    "description": "Source locale majeure sur Arles, Camargue, élus, associations et projets industriels.",
+    "url": null,
+    "status": "url_to_add",
+    "original_html": "<strong>La Provence :</strong> Source locale majeure sur Arles, Camargue, élus, associations et projets industriels."
+  },
+  {
+    "id": "source_0002",
+    "title": "Objectif Gard",
+    "publisher": "Objectif Gard",
+    "description": "Source très présente sur Terre d'Argence, Beaucaire, et la contestation gardoise.",
+    "url": null,
+    "status": "url_to_add",
+    "original_html": "<strong>Objectif Gard :</strong> Source très présente sur Terre d'Argence, Beaucaire, et la contestation gardoise."
+  },
+  {
+    "id": "source_0003",
+    "title": "La Marseillaise",
+    "publisher": "La Marseillaise",
+    "description": "Source axée sur la réindustrialisation, les débats sociaux de Fos-Berre et les critiques locales.",
+    "url": null,
+    "status": "url_to_add",
+    "original_html": "<strong>La Marseillaise :</strong> Source axée sur la réindustrialisation, les débats sociaux de Fos-Berre et les critiques locales."
+  },
+  {
+    "id": "source_0004",
+    "title": "France 3 / Franceinfo",
+    "publisher": "France 3 / Franceinfo",
+    "description": "Relais national-régional sur la biodiversité, la mobilisation agricole et les oppositions.",
+    "url": null,
+    "status": "url_to_add",
+    "original_html": "<strong>France 3 / Franceinfo :</strong> Relais national-régional sur la biodiversité, la mobilisation agricole et les oppositions."
+  },
+  {
+    "id": "source_0005",
+    "title": "FNE13.fr",
+    "publisher": "FNE13.fr",
+    "description": "Source militante détaillant la tierce expertise, les recours juridiques et l'argumentaire biodiversité.",
+    "url": null,
+    "status": "url_to_add",
+    "original_html": "<strong>FNE13.fr :</strong> Source militante détaillant la tierce expertise, les recours juridiques et l'argumentaire biodiversité."
+  },
+  {
+    "id": "source_0006",
+    "title": "Marsactu",
+    "publisher": "Marsactu",
+    "description": "Média d'investigation critique sur RTE, les espèces protégées et les controverses de gouvernance.",
+    "url": null,
+    "status": "url_to_add",
+    "original_html": "<strong>Marsactu :</strong> Média d'investigation critique sur RTE, les espèces protégées et les controverses de gouvernance."
+  },
+  {
+    "id": "source_0007",
+    "title": "Tourduvalat.org",
+    "publisher": "Tourduvalat.org",
+    "description": "Référence scientifique centrale sur la préservation des zones humides, tourbières et oiseaux de Camargue.",
+    "url": null,
+    "status": "url_to_add",
+    "original_html": "<strong>Tourduvalat.org :</strong> Référence scientifique centrale sur la préservation des zones humides, tourbières et oiseaux de Camargue."
+  },
+  {
+    "id": "source_0008",
+    "title": "Objectif Gard",
+    "publisher": "Objectif Gard",
+    "description": "Analyse les implications internationales (Unesco) et la mobilisation politique transpartisane au théâtre antique d'Arles.",
+    "url": null,
+    "status": "url_to_add",
+    "original_html": "<strong>Objectif Gard :</strong> Analyse les implications internationales (Unesco) et la mobilisation politique transpartisane au théâtre antique d'Arles."
+  },
+  {
+    "id": "source_0009",
+    "title": "Banque des Territoires / Légifrance",
+    "publisher": "Banque des Territoires / Légifrance",
+    "description": "Documentation juridique de l'arrêté de dispense d'évaluation environnementale.",
+    "url": null,
+    "status": "url_to_add",
+    "original_html": "<strong>Banque des Territoires / Légifrance :</strong> Documentation juridique de l'arrêté de dispense d'évaluation environnementale."
+  },
+  {
+    "id": "source_0010",
+    "title": "Le Monde",
+    "publisher": "Le Monde",
+    "description": "Enquête de terrain sur l'escalade des tensions entre RTE (Gilles Odone) et les agriculteurs, ainsi que les positions de la ministre Maud Bregeon.",
+    "url": null,
+    "status": "url_to_add",
+    "original_html": "<strong>Le Monde :</strong> Enquête de terrain sur l'escalade des tensions entre RTE (Gilles Odone) et les agriculteurs, ainsi que les positions de la ministre Maud Bregeon."
+  }
+]
