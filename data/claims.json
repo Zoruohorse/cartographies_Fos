@@ -4,10 +4,12 @@
     "subject_id": "actor_0001",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Porteur technique du projet. Défend la solution aérienne pour ses délais, coûts et puissance.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "favorable",
+    "summary": "RTE, maître d’ouvrage, soutient explicitement la réalisation de la ligne 400 kV aérienne et défend ce choix contre les solutions souterraines.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0022"
+    ]
   },
   {
     "id": "claim_actor_0002",
@@ -31,7 +33,8 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_actor_0003",
-      "evidence_update_0006"
+      "evidence_update_0006",
+      "evidence_update_0019"
     ]
   },
   {
@@ -115,7 +118,8 @@
     "summary": "Porte une alternative structurée combinant une liaison souterraine de 2 GW en courant continu et une liaison sous-marine ultérieure.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0010"
+      "evidence_actor_0010",
+      "evidence_update_0006"
     ]
   },
   {
@@ -151,7 +155,9 @@
     "summary": "Porte une opposition agricole et viticole ; appelle à une union agriculteurs/écologistes/élus.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0013"
+      "evidence_actor_0013",
+      "evidence_update_0026",
+      "evidence_update_0008"
     ]
   },
   {
@@ -199,7 +205,9 @@
     "summary": "Rappelle que les agriculteurs ne refusent pas la décarbonation, mais uniquement les pylônes.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0017"
+      "evidence_actor_0017",
+      "evidence_update_0026",
+      "evidence_update_0008"
     ]
   },
   {
@@ -217,10 +225,13 @@
     "subject_id": "actor_0019",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Vigneronne au Domaine / Château Mourgues du Grès. Alerte sur les impacts terroir, agrotourisme et paysages des Costières de Nîmes.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Anne Collard s’oppose à l’impact de la ligne aérienne sur le paysage viticole, l’activité agricole et le tourisme de son domaine.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0023",
+      "evidence_update_0024"
+    ]
   },
   {
     "id": "claim_actor_0020",
@@ -670,7 +681,8 @@
     "summary": "Structure l'opposition côté Gard (Beaucaire / Bellegarde) et Terre d'Argence.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0057"
+      "evidence_actor_0057",
+      "evidence_update_0018"
     ]
   },
   {
@@ -678,30 +690,36 @@
     "subject_id": "actor_0058",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Association naturaliste présidée / représentée par Jean-Laurent Lucchesi. Membre du collectif et appui biodiversité.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Vigueirat Nature conteste officiellement les adaptations d’urbanisme pour la ligne aérienne et demande l’examen des solutions alternatives.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0019"
+    ]
   },
   {
     "id": "claim_actor_0059",
     "subject_id": "actor_0059",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Association locale associée à Jean-Luc Moya et au réseau FNE13.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Agir pour la Crau conteste officiellement les adaptations d’urbanisme pour la ligne aérienne et demande l’examen des solutions alternatives.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0019"
+    ]
   },
   {
     "id": "claim_actor_0060",
     "subject_id": "actor_0060",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Association naturaliste. Réalise des comptages d'oiseaux sur le tracé potentiel et alimente l'argumentaire avifaune.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "NACICCA formule une critique explicite des adaptations d’urbanisme de la ligne aérienne et de ses impacts écologiques, sans qu’un refus de toute infrastructure soit démontré.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_update_0020"
+    ]
   },
   {
     "id": "claim_actor_0061",
@@ -712,7 +730,8 @@
     "summary": "Le COPA 13 maintient explicitement son refus du tracé aérien Jonquières–Fos malgré l’accord national RTE–FNSEA–Chambres d’agriculture du 12 octobre 2026.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_update_0008"
+      "evidence_update_0008",
+      "evidence_update_0026"
     ]
   },
   {
@@ -724,7 +743,8 @@
     "summary": "Le COPA 30 maintient explicitement son refus du tracé aérien Jonquières–Fos malgré l’accord national RTE–FNSEA–Chambres d’agriculture du 12 octobre 2026.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_update_0008"
+      "evidence_update_0008",
+      "evidence_update_0026"
     ]
   },
   {
@@ -822,10 +842,14 @@
     "subject_id": "actor_0072",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Institut de recherche sur les zones humides méditerranéennes. Source scientifique majeure sur Camargue, tourbières, oiseaux et zones humides.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "La Tour du Valat critique explicitement les adaptations d’urbanisme du projet touchant les continuités écologiques et soutient scientifiquement les opposants, sans être membre du collectif.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_update_0021",
+      "evidence_update_0025",
+      "evidence_update_0013"
+    ]
   },
   {
     "id": "claim_actor_0073",
@@ -1397,7 +1421,9 @@
     "summary": "Dénonce une politique opposant transition énergétique et transition écologique et annonce un conflit majeur en cas de DUP.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0126"
+      "evidence_actor_0126",
+      "evidence_update_0025",
+      "evidence_update_0013"
     ]
   },
   {

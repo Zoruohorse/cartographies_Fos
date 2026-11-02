@@ -242,5 +242,38 @@
     "status": "qualified",
     "access": "article reproduit dans le lot Curebot",
     "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
+  },
+  {
+    "id": "source_0025",
+    "title": "Midi Libre : RTE défend le projet aérien",
+    "publisher": "midilibre.fr",
+    "author": null,
+    "date": null,
+    "url": "https://www.midilibre.fr/2026/09/06/indispensable-moindre-impact-compensations-rte-defend-son-projet-de-ligne-a-tres-haute-tension-a-travers-la-camargue-13535689.php",
+    "status": "qualified",
+    "access": "Extrait issu de MAJ Fos(1).xlsx ; consultation directe non présumée",
+    "description": "Ressource Curebot de veille Fos–Jonquières"
+  },
+  {
+    "id": "source_0026",
+    "title": "Midi Libre : projet d’enfouissement défendu par les opposants",
+    "publisher": "midilibre.fr",
+    "author": null,
+    "date": null,
+    "url": "https://www.midilibre.fr/2026/09/16/mobilisation-autour-du-projet-tres-haute-tension-en-camargue-enterrez-la-ligne-et-il-ny-aura-plus-de-probleme-13552673.php",
+    "status": "qualified",
+    "access": "Extrait issu de MAJ Fos(1).xlsx ; consultation directe non présumée",
+    "description": "Ressource Curebot de veille Fos–Jonquières"
+  },
+  {
+    "id": "source_0027",
+    "title": "La Marseillaise : unité territoriale contre la ligne",
+    "publisher": "lamarseillaise.fr",
+    "author": null,
+    "date": null,
+    "url": "https://www.lamarseillaise.fr/societe/ligne-tht-le-territoire-arlesien-affiche-son-unite-contre-la-methode-du-gestionnaire-MF20703395",
+    "status": "qualified",
+    "access": "Extrait issu de MAJ Fos(1).xlsx ; consultation directe non présumée",
+    "description": "Ressource Curebot de veille Fos–Jonquières"
   }
 ]

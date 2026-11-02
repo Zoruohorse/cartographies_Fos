@@ -890,5 +890,122 @@
     "source_status": "qualified",
     "location": "Introduction et première citation de l’article",
     "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0018",
+    "type": "reported_fact",
+    "text": "L’ASTA conteste l’adaptation des documents d’urbanisme au tracé aérien.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "official_document",
+    "documentary_basis": "Résumé non verbatim établi à partir de la ressource du fichier fourni",
+    "location": "MAJ Fos(1).xlsx / ✅ Informations qualifiées / F8",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0019",
+    "type": "reported_fact",
+    "text": "Les contributions du collectif THT 13/30, de Vigueirat Nature et d’Agir pour la Crau contestent les modifications d’urbanisme et réclament des alternatives.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "official_document",
+    "documentary_basis": "Résumé non verbatim établi à partir de la ressource du fichier fourni",
+    "location": "MAJ Fos(1).xlsx / ✅ Informations qualifiées / F8",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0020",
+    "type": "reported_fact",
+    "text": "NACICCA critique la modification des SCoT et PLU permettant la ligne, au regard des impacts écologiques et agricoles.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "official_document",
+    "documentary_basis": "Résumé non verbatim établi à partir de la ressource du fichier fourni",
+    "location": "MAJ Fos(1).xlsx / ✅ Informations qualifiées / F8",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0021",
+    "type": "reported_fact",
+    "text": "La Tour du Valat considère la suppression de continuités écologiques du PLU d’Arles incompatible avec les engagements environnementaux du territoire.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "official_document",
+    "documentary_basis": "Résumé non verbatim établi à partir de la ressource du fichier fourni",
+    "location": "MAJ Fos(1).xlsx / ✅ Informations qualifiées / F8",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0022",
+    "type": "reported_fact",
+    "text": "RTE défend publiquement la nouvelle ligne aérienne 400 kV comme indispensable et expose les objections techniques aux alternatives souterraines.",
+    "source_id": "source_0025",
+    "source_ids": [
+      "source_0025"
+    ],
+    "source_status": "excerpt_from_user_workbook",
+    "documentary_basis": "Résumé non verbatim établi à partir de la ressource du fichier fourni",
+    "location": "MAJ Fos(1).xlsx / ✅ Informations qualifiées / F87",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0023",
+    "type": "reported_fact",
+    "text": "Anne Collard dénonce l’impact paysager de la ligne aérienne sur le domaine Mourgues du Grès et ses activités viticoles et touristiques.",
+    "source_id": "source_0026",
+    "source_ids": [
+      "source_0026"
+    ],
+    "source_status": "excerpt_from_user_workbook",
+    "documentary_basis": "Résumé non verbatim établi à partir de la ressource du fichier fourni",
+    "location": "MAJ Fos(1).xlsx / ✅ Informations qualifiées / F74",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0024",
+    "type": "reported_fact",
+    "text": "Anne Collard alerte sur les menaces pour les labels et exploitations agricoles affectées par le tracé.",
+    "source_id": "source_0027",
+    "source_ids": [
+      "source_0027"
+    ],
+    "source_status": "excerpt_from_user_workbook",
+    "documentary_basis": "Résumé non verbatim établi à partir de la ressource du fichier fourni",
+    "location": "MAJ Fos(1).xlsx / ✅ Informations qualifiées / F48",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0025",
+    "type": "reported_fact",
+    "text": "Jean Jalbert précise que la Tour du Valat soutient scientifiquement le collectif mais n’en est pas membre.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "excerpt_from_user_workbook",
+    "documentary_basis": "Résumé non verbatim établi à partir de la ressource du fichier fourni",
+    "location": "MAJ Fos(1).xlsx / ✅ Informations qualifiées / F26",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0026",
+    "type": "reported_fact",
+    "text": "Les présidents des COPA 13 et 30, Cyril Marès et Clément Lajoux, réaffirment leur refus du tracé aérien malgré un accord national distinct.",
+    "source_id": "source_0016",
+    "source_ids": [
+      "source_0016"
+    ],
+    "source_status": "excerpt_from_user_workbook",
+    "documentary_basis": "Résumé non verbatim établi à partir de la ressource du fichier fourni",
+    "location": "MAJ Fos(1).xlsx / ✅ Informations qualifiées / F10",
+    "recorded_at": "2026-11-02"
   }
 ]
