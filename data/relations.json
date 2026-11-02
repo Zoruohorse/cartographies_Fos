@@ -1473,10 +1473,12 @@
     "id": "relation_0106",
     "source_id": "actor_0010",
     "target_id": "actor_0003",
-    "type": "rattachement / proximité",
-    "summary": "Jean-Laurent Lucchesi — rattachement / proximité — Collectif THT 13/30",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Porte-parole",
+    "summary": "Jean-Laurent Lucchesi — porte-parole confirmé du Collectif THT 13/30 au 23 octobre 2026",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0017"
+    ],
     "original_link": {
       "source": "Jean-Laurent Lucchesi",
       "target": "Collectif THT 13/30",
@@ -2132,9 +2134,11 @@
     "source_id": "actor_0003",
     "target_id": "actor_0072",
     "type": "coalition / appui",
-    "summary": "Collectif THT 13/30 — coalition / appui — Tour du Valat",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Tour du Valat — appui scientifique et solidarité avec le Collectif THT 13/30, sans adhésion au collectif",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0013"
+    ],
     "original_link": {
       "source": "Collectif THT 13/30",
       "target": "Tour du Valat",
@@ -2952,5 +2956,77 @@
       "target": "Tourduvalat.org",
       "kind": "source / couverture"
     }
+  },
+  {
+    "id": "relation_0212",
+    "source_id": "actor_0147",
+    "target_id": "actor_0148",
+    "type": "rattachement / proximité",
+    "summary": "Stéphane Paglia préside la CCI du Pays d’Arles.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0009"
+    ],
+    "original_link": null
+  },
+  {
+    "id": "relation_0213",
+    "source_id": "actor_0148",
+    "target_id": "project_fos",
+    "type": "Critique nuancé",
+    "summary": "La CCI du Pays d’Arles réclame une conciliation pour éviter les retards et les blocages de la liaison.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0009"
+    ],
+    "original_link": null
+  },
+  {
+    "id": "relation_0214",
+    "source_id": "actor_0149",
+    "target_id": "project_fos",
+    "type": "position / rattachement au dossier",
+    "summary": "Isabelle Campagnola-Savon défend le besoin régional en électricité et une conciliation des intérêts locaux.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0010"
+    ],
+    "original_link": null
+  },
+  {
+    "id": "relation_0215",
+    "source_id": "actor_0150",
+    "target_id": "project_fos",
+    "type": "Critique nuancé",
+    "summary": "Jean-Louis Geiger demande une réindustrialisation conditionnée à la prise en compte des impacts territoriaux de la ligne.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0011"
+    ],
+    "original_link": null
+  },
+  {
+    "id": "relation_0216",
+    "source_id": "actor_0151",
+    "target_id": "project_fos",
+    "type": "position / rattachement au dossier",
+    "summary": "Caroline Ritzenthaler souligne le besoin de renforcer le 400 kV régional, sans aval explicite de l’aérien.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0012"
+    ],
+    "original_link": null
+  },
+  {
+    "id": "relation_0217",
+    "source_id": "actor_0121",
+    "target_id": "project_fos",
+    "type": "Opposée",
+    "summary": "Anne Claudius-Petit s’oppose explicitement au projet de solution aérienne.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0004"
+    ],
+    "original_link": null
   }
 ]

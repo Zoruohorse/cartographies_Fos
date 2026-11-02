@@ -686,5 +686,209 @@
     "source_id": null,
     "source_ids": [],
     "source_status": "to_qualify"
+  },
+  {
+    "id": "evidence_update_0001",
+    "type": "official_fact",
+    "text": "L’arrêté inter-préfectoral du 14 octobre 2026 prescrit l’enquête publique unique du 9 novembre au 11 décembre 2026 dans sept communes, pour la DUP, les mises en compatibilité des documents d’urbanisme et la dérogation à la loi Littoral.",
+    "source_id": "source_0011",
+    "source_ids": [
+      "source_0011"
+    ],
+    "source_status": "qualified",
+    "location": "Présentation des modalités de l’enquête, rubrique « Les modalités de déroulement prévues »",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0002",
+    "type": "official_fact",
+    "text": "L’arrêté ministériel du 16 octobre 2026 approuve le bilan de la concertation préalable du 15 juin au 15 juillet 2026 concernant les documents d’urbanisme de sept communes et les SCoT Pays d’Arles et Sud Gard ; il ne vaut pas déclaration d’utilité publique.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "qualified",
+    "location": "Article 1, annexe et visas de l’arrêté",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0003",
+    "type": "official_fact",
+    "text": "Délibération 2026-203 : 2 500 MW de capacité supplémentaire de raccordement dans la zone Fos-Lavéra à horizon fin 2029, en plus de 600 MW existants ; coût prévisionnel des ouvrages mutualisés 406,1 M€, quote-part après réfaction HTB2/HTB3 de 116,06 k€/MW (et non 116,06 €/MW). La ligne Feuillane-Jonquières figure parmi les ouvrages intégrés au mécanisme, sans que les 2 500 MW soient sa puissance nominale.",
+    "source_id": "source_0013",
+    "source_ids": [
+      "source_0013"
+    ],
+    "source_status": "qualified",
+    "location": "Pages 4, 6, 8 et 9 de la délibération",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0004",
+    "type": "verbatim",
+    "text": "On est contre le projet aérien mortifère pour les paysages, les agriculteurs, les oiseaux.",
+    "source_id": "source_0015",
+    "source_ids": [
+      "source_0015"
+    ],
+    "source_status": "qualified",
+    "location": "Déclaration attribuée à Anne Claudius-Petit dans l’article",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0005",
+    "type": "verbatim",
+    "text": "projet d’intérêt majeur dont on ne peut se passer",
+    "source_id": "source_0018",
+    "source_ids": [
+      "source_0018"
+    ],
+    "source_status": "qualified",
+    "location": "Propos attribués au préfet Jacques Witkowski à l’occasion de son point presse du 14 octobre",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0006",
+    "type": "verbatim",
+    "text": "Nous allons jouer le jeu, leur expliquer ce que nous disons depuis trois ans.",
+    "source_id": "source_0014",
+    "source_ids": [
+      "source_0014"
+    ],
+    "source_status": "qualified",
+    "location": "Déclaration de Jean-Laurent Lucchesi, porte-parole du collectif, après la réunion du 23 octobre 2026",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0007",
+    "type": "reported_fact",
+    "text": "Le collectif Provence Fabrique des Possibles propose un Pacte territorial conduit sous l’égide de l’État, avec les maires, RTE, le monde agricole et les acteurs économiques, et une séquence de cent jours visant notamment à achever l’enquête publique et à fixer les engagements d’accompagnement.",
+    "source_id": "source_0017",
+    "source_ids": [
+      "source_0017"
+    ],
+    "source_status": "qualified",
+    "location": "Corps de l’article, passages « Pacte territorial » et « Cent jours »",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0008",
+    "type": "reported_fact",
+    "text": "L’accord national du 12 octobre 2026 entre RTE, la FNSEA et Chambres d’agriculture France ne vaut pas approbation du tracé Jonquières–Fos ; Clément Lajoux (COPA 13) et Cyril Marès (COPA 30) maintiennent leur refus de la ligne aérienne.",
+    "source_id": "source_0016",
+    "source_ids": [
+      "source_0016"
+    ],
+    "source_status": "qualified",
+    "location": "Introduction de l’article et encadré visible ; suite réservée aux abonnés",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0009",
+    "type": "verbatim",
+    "text": "Il faut que l’État remette tout le monde autour de la table pour passer de la confrontation à la conciliation.",
+    "source_id": "source_0019",
+    "source_ids": [
+      "source_0019"
+    ],
+    "source_status": "qualified",
+    "location": "Entretien avec Stéphane Paglia, président de la CCI du Pays d’Arles, rubrique sur la ligne THT",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0010",
+    "type": "verbatim",
+    "text": "Nous allons faire en sorte de faire un pas en avant, pour que chacun se dise qu’il a été entendu",
+    "source_id": "source_0020",
+    "source_ids": [
+      "source_0020"
+    ],
+    "source_status": "qualified",
+    "location": "Propos attribués à Isabelle Campagnola-Savon, conseil régional",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0011",
+    "type": "verbatim",
+    "text": "Oui à la réindustrialisation de Fos, mais pas à n’importe quel prix",
+    "source_id": "source_0020",
+    "source_ids": [
+      "source_0020"
+    ],
+    "source_status": "qualified",
+    "location": "Propos de Jean-Louis Geiger au conseil régional",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0012",
+    "type": "reported_fact",
+    "text": "Caroline Ritzenthaler, directrice Transition écologique et Grands Projets d’EDF, défend l’importance de renforcer les interconnexions électriques régionales à 400 kV ; ses propos ne valident pas expressément le tracé aérien précis Feuillane–Jonquières.",
+    "source_id": "source_0017",
+    "source_ids": [
+      "source_0017"
+    ],
+    "source_status": "qualified",
+    "location": "Citation de Caroline Ritzenthaler en fin d’article",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0013",
+    "type": "verbatim",
+    "text": "Nous ne sommes pas membres, mais on leur apporte nos connaissances avec plaisir.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "qualified",
+    "location": "Citation de Jean Jalbert, directeur de la Tour du Valat, sur le collectif THT 13/30",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0014",
+    "type": "reported_fact",
+    "text": "Le conseil métropolitain d’Aix-Marseille-Provence a émis le 15 octobre 2026 un avis favorable sous conditions sur la création d’une OIN industrielle Fos-Berre. Sa création effective reste subordonnée à un décret en Conseil d’État ; il ne s’agit pas d’une autorisation de la ligne THT.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "qualified",
+    "location": "Passages « feu vert », « conditions » et conclusion de l’article",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0015",
+    "type": "reported_fact",
+    "text": "L’article décrit un projet de 145 pylônes pour 65 km, hauteur annoncée de 40 à 60 mètres.",
+    "source_id": "source_0023",
+    "source_ids": [
+      "source_0023"
+    ],
+    "source_status": "qualified",
+    "location": "Description technique du projet dans l’article",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0016",
+    "type": "reported_fact",
+    "text": "L’article décrit un projet de 180 pylônes pour environ 65 km, sans préciser le périmètre documentaire à l’origine de l’écart.",
+    "source_id": "source_0024",
+    "source_ids": [
+      "source_0024"
+    ],
+    "source_status": "qualified",
+    "location": "Description technique du projet dans l’article",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_update_0017",
+    "type": "reported_fact",
+    "text": "Jean-Laurent Lucchesi est présenté explicitement comme porte-parole du Collectif THT 13/30 lors de la réunion du 23 octobre 2026.",
+    "source_id": "source_0014",
+    "source_ids": [
+      "source_0014"
+    ],
+    "source_status": "qualified",
+    "location": "Introduction et première citation de l’article",
+    "recorded_at": "2026-11-02"
   }
 ]

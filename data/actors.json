@@ -3472,5 +3472,65 @@
       "evidence": "Projet éligible à la méthode Notre-Dame.",
       "certainty": "Haute"
     }
+  },
+  {
+    "id": "actor_0147",
+    "name": "Stéphane Paglia",
+    "short_name": "Président de la CCI du Pays d’Arles",
+    "description": "Président de la CCI du Pays d’Arles. Plaide pour une conciliation entre intérêts industriels, agricoles et touristiques plutôt que pour un tracé imposé.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": null,
+    "original_card": null
+  },
+  {
+    "id": "actor_0148",
+    "name": "CCI du Pays d’Arles",
+    "short_name": "CCI du Pays d’Arles",
+    "description": "Chambre consulaire représentant un monde économique local divisé sur le tracé aérien. Appelle au dialogue et à une solution assurant l’électricité à temps.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": null,
+    "original_card": null
+  },
+  {
+    "id": "actor_0149",
+    "name": "Isabelle Campagnola-Savon",
+    "short_name": "Isabelle Campagnola-Savon",
+    "description": "Conseillère régionale et présidente de la commission entreprises de la Région Sud. Défend le besoin électrique régional et recherche une conciliation territoriale sans approbation explicite du tracé aérien.",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [],
+    "original_graph": null,
+    "original_card": null
+  },
+  {
+    "id": "actor_0150",
+    "name": "Jean-Louis Geiger",
+    "short_name": "Jean-Louis Geiger",
+    "description": "Conseiller régional RN, favorable à la réindustrialisation de Fos sous réserve des conséquences de la ligne THT ; position précise sur la solution aérienne non établie.",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [],
+    "original_graph": null,
+    "original_card": null
+  },
+  {
+    "id": "actor_0151",
+    "name": "Caroline Ritzenthaler",
+    "short_name": "Caroline Ritzenthaler",
+    "description": "Directrice Transition écologique et Grands Projets d’EDF. Défend le renforcement des liaisons 400 kV régionales sans aval explicite du tracé aérien Feuillane–Jonquières.",
+    "categories": [
+      "porteurs"
+    ],
+    "roles": [],
+    "original_graph": null,
+    "original_card": null
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "intro": "Les synthèses ci-dessous reprennent les analyses du fichier Fos-Jonquières fourni. Les extraits associés permettent de retrouver les éléments des fiches acteurs ; ils ne remplacent pas les sources primaires, dont les URL ne sont pas renseignées.",
+  "intro": "Les synthèses historiques proviennent de la base initiale, dont de nombreuses preuves ne disposent pas d’URL qualifiée. Les points ajoutés le 2 novembre 2026 distinguent textes réglementaires consultés, délibération officielle et extraits d’articles du lot de veille.",
   "griefs": [
     {
       "title": "🌍 Risque de déclassement Unesco",
@@ -216,9 +216,15 @@
     {
       "id": "vigilance_0012",
       "title": "Fiabilité des chiffres",
-      "text": "Les nombres de pylônes, coûts des scénarios, emplois concernés et effectifs associatifs varient fortement selon les sources et leurs périmètres de calcul.",
-      "evidence_ids": [],
-      "source_ids": []
+      "text": "Les quantités publiées ne sont pas homogènes : ICI évoque 145 pylônes (40–60 m), tandis que La Provence en annonce 180 sur un tracé d’environ 65 km. Les périmètres ou versions documentaires ne sont pas établis. Ne pas retenir un nombre unique sans plan de référence. Les coûts et emplois associés demandent également une vérification de périmètre.",
+      "evidence_ids": [
+        "evidence_update_0015",
+        "evidence_update_0016"
+      ],
+      "source_ids": [
+        "source_0023",
+        "source_0024"
+      ]
     },
     {
       "id": "vigilance_0013",
@@ -226,6 +232,74 @@
       "text": "L'abandon de Carbon et le report de certains projets nourrissent la demande d'un scénario phasé, même si RTE affirme que les besoins globaux restent très supérieurs à la contribution de Carbon.",
       "evidence_ids": [],
       "source_ids": []
+    },
+    {
+      "id": "vigilance_0014",
+      "title": "Enquête publique programmée : DUP non accordée",
+      "text": "L’enquête publique unique est fixée du 9 novembre au 11 décembre 2026 dans sept communes. Elle couvre la DUP, les mises en compatibilité d’urbanisme et une dérogation à la loi Littoral. L’arrêté du 16 octobre approuve le bilan d’une concertation distincte, sans emporter autorisation définitive.",
+      "evidence_ids": [
+        "evidence_update_0001",
+        "evidence_update_0002"
+      ],
+      "source_ids": [
+        "source_0011",
+        "source_0012"
+      ]
+    },
+    {
+      "id": "vigilance_0015",
+      "title": "Pacte territorial et accélération industrielle",
+      "text": "Provence Fabrique des Possibles propose un Pacte territorial associant l’État, les maires, RTE, les agriculteurs et les acteurs socio-économiques, avec un calendrier de cent jours. À ce stade, il s’agit d’une proposition du collectif, non d’un accord institutionnel conclu.",
+      "evidence_ids": [
+        "evidence_update_0007"
+      ],
+      "source_ids": [
+        "source_0017"
+      ]
+    },
+    {
+      "id": "vigilance_0016",
+      "title": "OIN Fos-Berre : avis favorable assorti de conditions",
+      "text": "La Métropole Aix-Marseille-Provence a voté le 15 octobre un avis favorable conditionnel à la création d’une OIN industrielle Fos-Berre. La création exige encore un décret en Conseil d’État ; cet avis ne constitue ni la DUP ni une autorisation du projet THT.",
+      "evidence_ids": [
+        "evidence_update_0014"
+      ],
+      "source_ids": [
+        "source_0021"
+      ]
+    },
+    {
+      "id": "vigilance_0017",
+      "title": "Accord agricole national sans ralliement local",
+      "text": "L’accord-cadre national du 12 octobre 2026 entre RTE, la FNSEA et Chambres d’agriculture France ne vaut pas approbation du tracé aérien Jonquières–Fos : les COPA 13 et 30 réaffirment leur opposition.",
+      "evidence_ids": [
+        "evidence_update_0008"
+      ],
+      "source_ids": [
+        "source_0016"
+      ]
+    },
+    {
+      "id": "vigilance_0018",
+      "title": "Raccordements Fos-Lavéra : capacité, coût et périmètre",
+      "text": "La délibération CRE n° 2026-203 autorise un ensemble d’ouvrages mutualisés fournissant 2 500 MW supplémentaires d’accueil pour Fos-Lavéra d’ici fin 2029 (soit 3 100 MW avec l’existant), pour un coût prévisionnel de 406,1 M€. Quote-part HTB2/HTB3 après réfaction : 116,06 k€/MW, pas 116,06 €/MW comme dans une ressource du lot. La ligne Feuillane–Jonquières est comprise parmi les ouvrages considérés, mais sa procédure de DUP reste distincte.",
+      "evidence_ids": [
+        "evidence_update_0003"
+      ],
+      "source_ids": [
+        "source_0013"
+      ]
+    },
+    {
+      "id": "vigilance_0019",
+      "title": "Mobilisation des opposants pendant l’enquête",
+      "text": "Réuni le 23 octobre 2026, le Collectif THT 13/30 annonce participer à l’enquête, solliciter des expertises et des contributions publiques, et privilégier les voies légales et juridiques. Ce choix nouveau ne change pas son opposition au tracé aérien.",
+      "evidence_ids": [
+        "evidence_update_0006"
+      ],
+      "source_ids": [
+        "source_0014"
+      ]
     }
   ]
 }

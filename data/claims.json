@@ -27,10 +27,11 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "Coalition centrale opposée au projet aérien, prône l'enfouissement systématique ou l'ensouillement.",
+    "summary": "Opposé au tracé aérien et favorable aux alternatives enterrées ou sous-marines. Lors de sa réunion du 23 octobre 2026, le collectif a décidé de participer à l’enquête publique et de mobiliser les contributions et expertises juridiques dans le cadre légal.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0003"
+      "evidence_actor_0003",
+      "evidence_update_0006"
     ]
   },
   {
@@ -476,11 +477,13 @@
     "subject_id": "actor_0041",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "neutral",
-    "summary": "Hérite du dossier administratif et des arbitrages sur la DUP.",
+    "value": "favorable",
+    "summary": "Le préfet de région conduit la procédure de DUP et a publiquement défendu la ligne comme un projet d’intérêt majeur dont la région ne peut se passer ; la DUP reste à décider.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0041"
+      "evidence_actor_0041",
+      "evidence_update_0005",
+      "evidence_update_0001"
     ]
   },
   {
@@ -545,10 +548,11 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "favorable",
-    "summary": "Soutient la ligne comme condition sine qua non des investissements sur Fos-Berre.",
+    "summary": "Soutient la réalisation rapide de la ligne pour l’électrification de Fos-Berre et propose désormais un Pacte territorial piloté par l’État, avec une séquence de cent jours afin de sécuriser la procédure et de négocier les mesures d’accompagnement.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0047"
+      "evidence_actor_0047",
+      "evidence_update_0007"
     ]
   },
   {
@@ -704,20 +708,24 @@
     "subject_id": "actor_0061",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Organisation agricole opposée au tracé aérien, représentée notamment par Clément Lajoux.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Le COPA 13 maintient explicitement son refus du tracé aérien Jonquières–Fos malgré l’accord national RTE–FNSEA–Chambres d’agriculture du 12 octobre 2026.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0008"
+    ]
   },
   {
     "id": "claim_actor_0062",
     "subject_id": "actor_0062",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Organisation agricole gardoise, représentée par Cyril Marès, mobilisée contre la ligne aérienne.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Le COPA 30 maintient explicitement son refus du tracé aérien Jonquières–Fos malgré l’accord national RTE–FNSEA–Chambres d’agriculture du 12 octobre 2026.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0008"
+    ]
   },
   {
     "id": "claim_actor_0063",
@@ -1324,11 +1332,12 @@
     "subject_id": "actor_0121",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "neutral",
-    "summary": "Tente de maintenir le cap stratégique du PNR face à la perte du label et aux tensions générées par le passage de la THT.",
-    "certainty": "medium",
+    "value": "opposed",
+    "summary": "La présidente du Parc naturel régional de Camargue s’oppose explicitement à la solution aérienne, invoquant ses impacts paysagers, agricoles et avifaunistiques.",
+    "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0121"
+      "evidence_actor_0121",
+      "evidence_update_0004"
     ]
   },
   {
@@ -1629,6 +1638,66 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_actor_0146"
+    ]
+  },
+  {
+    "id": "claim_actor_0147",
+    "subject_id": "actor_0147",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Prône une remise autour de la table et un suivi partagé du projet ; met en garde contre les blocages si la solution aérienne est imposée.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0009"
+    ]
+  },
+  {
+    "id": "claim_actor_0148",
+    "subject_id": "actor_0148",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Son président décrit un tissu économique local partagé entre activité touristique sensible à l’aérien et industrie demandeuse d’électricité rapide, et réclame une conciliation.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_update_0009"
+    ]
+  },
+  {
+    "id": "claim_actor_0149",
+    "subject_id": "actor_0149",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Affirme la nécessité de l’énergie pour la région et promet de rechercher une solution conciliant les préoccupations locales ; ne valide pas expressément le tracé aérien.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0010"
+    ]
+  },
+  {
+    "id": "claim_actor_0150",
+    "subject_id": "actor_0150",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Soutient la réindustrialisation de Fos, mais exprime des réserves sur son coût territorial et la ligne THT ; opposition à toute liaison aérienne non démontrée.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_update_0011"
+    ]
+  },
+  {
+    "id": "claim_actor_0151",
+    "subject_id": "actor_0151",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Met en avant le besoin de renforcer le réseau régional à 400 kV, sans prise de position explicite sur le mode aérien ou souterrain du projet Feuillane–Jonquières.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_update_0012"
     ]
   }
 ]

@@ -88,5 +88,159 @@
     "url": null,
     "status": "url_to_add",
     "original_html": "<strong>Le Monde :</strong> Enquête de terrain sur l'escalade des tensions entre RTE (Gilles Odone) et les agriculteurs, ainsi que les positions de la ministre Maud Bregeon."
+  },
+  {
+    "id": "source_0011",
+    "title": "Enquête publique — création d’une ligne électrique aérienne à deux circuits 400 000 V entre Fos et Jonquières",
+    "publisher": "Préfecture du Gard",
+    "author": null,
+    "date": null,
+    "url": "https://www.gard.gouv.fr/publications/enquetes-publiques/enquetes-publiques-publiees-en-2026/fos-sur-mer-et-jonquieres-saint-vincent-creation-dune-ligne-electrique-aerienne-2-circuits-400000-1",
+    "status": "qualified",
+    "access": "source officielle consultée",
+    "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
+  },
+  {
+    "id": "source_0012",
+    "title": "Arrêté du 16 octobre 2026 approuvant le bilan de concertation préalable à la MECDU",
+    "publisher": "Journal officiel / Légifrance",
+    "author": null,
+    "date": "2026-10-23",
+    "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055009179",
+    "status": "qualified",
+    "access": "texte officiel consulté",
+    "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
+  },
+  {
+    "id": "source_0013",
+    "title": "Délibération n° 2026-203 du 8 octobre 2026 — zone de mutualisation Fos-Lavéra",
+    "publisher": "Commission de régulation de l’énergie (CRE)",
+    "author": null,
+    "date": "2026-10-09",
+    "url": "https://www.cre.fr/fileadmin/Documents/Deliberations/2026/261008_2026-203_Zone_de_mutualisation_Fos-sur-Mer.pdf",
+    "status": "qualified",
+    "access": "délibération officielle consultée (PDF)",
+    "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
+  },
+  {
+    "id": "source_0014",
+    "title": "Arles — Collectif Stop THT : « On joue le jeu de l’enquête publique »",
+    "publisher": "Objectif Sud",
+    "author": null,
+    "date": null,
+    "url": "https://www.objectifsud.fr/actualites/arles-collectif-stop-tht-on-joue-le-jeu-de-lenquete-publique-171290.php",
+    "status": "qualified",
+    "access": "article reproduit dans le lot Curebot",
+    "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
+  },
+  {
+    "id": "source_0015",
+    "title": "Camargue : objectif Unesco",
+    "publisher": "Objectif Sud",
+    "author": null,
+    "date": null,
+    "url": "https://www.objectifsud.fr/gard/fait-du-jour-camargue-objectif-unesco-170392.php",
+    "status": "qualified",
+    "access": "article reproduit dans le lot Curebot",
+    "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
+  },
+  {
+    "id": "source_0016",
+    "title": "L’accord national ne désarme pas les agriculteurs",
+    "publisher": "Pressagrimed",
+    "author": null,
+    "date": null,
+    "url": "https://www.pressagrimed.fr/article/l-accord-national-ne-desarme-pas-les-agriculteurs_1469841",
+    "status": "qualified",
+    "access": "extrait d’article payant reproduit dans le lot Curebot",
+    "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
+  },
+  {
+    "id": "source_0017",
+    "title": "Électricité : dans le Sud-Est, les acteurs économiques veulent accélérer la construction de la ligne à 400 000 volts",
+    "publisher": "Les Petites Affiches",
+    "author": null,
+    "date": null,
+    "url": "https://www.petitesaffiches.fr/politique,104/electricite-dans-le-sud-est-les,46821.html?lang=fr",
+    "status": "qualified",
+    "access": "article reproduit dans le lot Curebot",
+    "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
+  },
+  {
+    "id": "source_0018",
+    "title": "Ligne THT Fos-Jonquières : l’enquête publique démarrera le 9 novembre",
+    "publisher": "Les Nouvelles Publications / MesInfos",
+    "author": null,
+    "date": null,
+    "url": "https://mesinfos.fr/provence-alpes-cote-d-azur/ligne-tht-fos-jonquieres-l-enquete-publique-demarrera-le-9-novembre-341125.html",
+    "status": "qualified",
+    "access": "article reproduit dans le lot Curebot",
+    "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
+  },
+  {
+    "id": "source_0019",
+    "title": "Ligne THT en Camargue : « Il faut que l’État remette tout le monde autour de la table »",
+    "publisher": "Les Nouvelles Publications / MesInfos",
+    "author": null,
+    "date": null,
+    "url": "https://mesinfos.fr/13104-arles/ligne-tht-en-camargue-il-faut-que-l-etat-remette-tout-le-monde-autour-de-la-table-340679.html",
+    "status": "qualified",
+    "access": "entretien reproduit dans le lot Curebot",
+    "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
+  },
+  {
+    "id": "source_0020",
+    "title": "La Région Sud veut « faire un pas » sur la ligne THT",
+    "publisher": "La Marseillaise",
+    "author": null,
+    "date": null,
+    "url": "https://www.lamarseillaise.fr/economie/la-region-sud-veut-faire-un-pas-sur-la-ligne-tht-OJ20839744",
+    "status": "qualified",
+    "access": "article reproduit dans le lot Curebot",
+    "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
+  },
+  {
+    "id": "source_0021",
+    "title": "Fos-Berre : la Métropole donne son feu vert à l’OIN industrielle, sous conditions",
+    "publisher": "Les Nouvelles Publications / MesInfos",
+    "author": null,
+    "date": null,
+    "url": "https://mesinfos.fr/13270-fos-sur-mer/fos-berre-la-metropole-donne-son-feu-vert-a-l-oin-industrielle-sous-conditions-341670.html",
+    "status": "qualified",
+    "access": "article reproduit dans le lot Curebot",
+    "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
+  },
+  {
+    "id": "source_0022",
+    "title": "Ligne THT : de la Camargue à la révolution des flamants roses en Albanie",
+    "publisher": "La Provence",
+    "author": null,
+    "date": null,
+    "url": "https://www.laprovence.com/article/ecoplanete/4766978067080314/ligne-tht-de-la-camargue-a-la-revolution-des-flamants-roses-en-albanie-rencontre-entre-defenseurs-des-deltas?id=4766978067080314",
+    "status": "qualified",
+    "access": "article reproduit dans le lot Curebot",
+    "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
+  },
+  {
+    "id": "source_0023",
+    "title": "Le préfet des Bouches-du-Rhône lance une enquête publique sur la ligne aérienne électrique en Camargue",
+    "publisher": "ICI Provence",
+    "author": null,
+    "date": null,
+    "url": "https://www.ici.fr/infos/environnement/le-prefet-des-bouches-du-rhone-lance-une-enquete-publique-sur-la-ligne-aerienne-electrique-en-camargue-7906320",
+    "status": "qualified",
+    "access": "article reproduit dans le lot Curebot",
+    "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
+  },
+  {
+    "id": "source_0024",
+    "title": "Ligne THT en Camargue et Crau : le préfet ouvre la voie à l’enquête publique",
+    "publisher": "La Provence",
+    "author": null,
+    "date": null,
+    "url": "https://www.laprovence.com/article/ecoplanete/96394538118475/ligne-tht-en-camargue-et-crau-le-prefet-ouvre-la-voie-a-lenquete-publique-provoquant-la-colere-des-opposants",
+    "status": "qualified",
+    "access": "article reproduit dans le lot Curebot",
+    "description": "Nouvelle ressource du lot de veille arrêté au 2 novembre 2026."
   }
 ]
