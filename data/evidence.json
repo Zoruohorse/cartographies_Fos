@@ -1007,5 +1007,413 @@
     "documentary_basis": "Résumé non verbatim établi à partir de la ressource du fichier fourni",
     "location": "MAJ Fos(1).xlsx / ✅ Informations qualifiées / F10",
     "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_001",
+    "type": "reported_fact",
+    "text": "Le collectif THT 13/30 annonce participer à l’enquête publique et y présenter ses expertises et alternatives.",
+    "source_id": "source_0028",
+    "source_ids": [
+      "source_0028"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé fidèle de l'entretien présenté dans le fichier Excel, ressource du 25 octobre",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_002",
+    "type": "reported_fact",
+    "text": "Jean-Laurent Lucchesi, porte-parole du collectif, affirme qu'une solution enterrée a été proposée et sera défendue dans l'enquête publique.",
+    "source_id": "source_0028",
+    "source_ids": [
+      "source_0028"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé d'un passage attribué à Jean-Laurent Lucchesi dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_003",
+    "type": "reported_fact",
+    "text": "Jacques Witkowski intervient comme préfet de région sur la réindustrialisation décarbonée et annonce des mesures facilitant les implantations industrielles.",
+    "source_id": "source_0029",
+    "source_ids": [
+      "source_0029"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article « Industrie décarbonée » dans l'Excel ; ne vaut pas adhésion à chaque tracé",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_004",
+    "type": "reported_fact",
+    "text": "Jean-Luc Chauvin intervient avec le préfet de région dans les échanges avec les industriels sur la réindustrialisation et l'accès aux infrastructures.",
+    "source_id": "source_0029",
+    "source_ids": [
+      "source_0029"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article « Industrie décarbonée » dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_005",
+    "type": "reported_fact",
+    "text": "Le collectif THT 13/30 indique vouloir participer à l'enquête publique, tout en maintenant son opposition au tracé aérien.",
+    "source_id": "source_0014",
+    "source_ids": [
+      "source_0014"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article Objectif Sud dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_006",
+    "type": "reported_fact",
+    "text": "Cyril Marès, président du COPA 30, maintient son opposition au tracé aérien malgré la signature d'un accord national agricole avec RTE.",
+    "source_id": "source_0016",
+    "source_ids": [
+      "source_0016"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article Pressagrimed dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_007",
+    "type": "reported_fact",
+    "text": "Clément Lajoux, président du COPA 13, maintient son opposition au tracé aérien malgré la signature d'un accord national agricole avec RTE.",
+    "source_id": "source_0016",
+    "source_ids": [
+      "source_0016"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article Pressagrimed dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_008",
+    "type": "reported_fact",
+    "text": "La COPA 13 refuse toujours le tracé aérien Jonquières–Fos malgré l'accord national entre RTE et les instances agricoles.",
+    "source_id": "source_0016",
+    "source_ids": [
+      "source_0016"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article Pressagrimed dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_009",
+    "type": "reported_fact",
+    "text": "La COPA 30 refuse toujours le tracé aérien Jonquières–Fos malgré l'accord national entre RTE et les instances agricoles.",
+    "source_id": "source_0016",
+    "source_ids": [
+      "source_0016"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article Pressagrimed dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_010",
+    "type": "reported_fact",
+    "text": "Provence Fabrique des Possibles propose un pacte territorial et une séquence de cent jours pour accompagner le projet électrique.",
+    "source_id": "source_0017",
+    "source_ids": [
+      "source_0017"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article Les Petites Affiches dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_011",
+    "type": "reported_fact",
+    "text": "Caroline Ritzenthaler, directrice Transition écologique et Grands Projets d'EDF, expose la nécessité du renforcement des interconnexions régionales à 400 kV, sans se prononcer sur le tracé aérien exact.",
+    "source_id": "source_0017",
+    "source_ids": [
+      "source_0017"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article Les Petites Affiches dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_012",
+    "type": "reported_fact",
+    "text": "Stéphane Paglia défend une remise autour de la table associant État et parties prenantes pour passer de la confrontation à la conciliation.",
+    "source_id": "source_0019",
+    "source_ids": [
+      "source_0019"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'entretien MesInfos dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_013",
+    "type": "reported_fact",
+    "text": "La CCI du Pays d'Arles, représentée par Stéphane Paglia, expose les tensions entre besoin d'électricité industrielle et impacts sur les activités locales.",
+    "source_id": "source_0019",
+    "source_ids": [
+      "source_0019"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'entretien MesInfos dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_014",
+    "type": "reported_fact",
+    "text": "Isabelle Campagnola-Savon souhaite avancer en tenant compte des différentes préoccupations territoriales.",
+    "source_id": "source_0020",
+    "source_ids": [
+      "source_0020"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article La Marseillaise dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_015",
+    "type": "reported_fact",
+    "text": "Jean-Louis Geiger soutient le principe de la réindustrialisation de Fos, tout en contestant l'idée qu'elle puisse se faire à n'importe quel prix.",
+    "source_id": "source_0020",
+    "source_ids": [
+      "source_0020"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article La Marseillaise dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_016",
+    "type": "reported_fact",
+    "text": "La contribution de Vigueirat Nature, jointe à celle du Collectif THT 13/30 et d'Agir pour la Crau, conteste la légitimité des modifications d'urbanisme et demande l'examen d'alternatives.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de la contribution n° 186/192 figurant dans le bilan de concertation repris dans le fichier Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_017",
+    "type": "reported_fact",
+    "text": "Agir pour la Crau conteste, avec le collectif et Vigueirat Nature, la mise en compatibilité des documents d'urbanisme motivée par le projet et défend les alternatives.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de la contribution n° 186/192 figurant dans le bilan de concertation repris dans le fichier Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_018",
+    "type": "reported_fact",
+    "text": "NACICCA estime que la mise en compatibilité des documents d’urbanisme vise à permettre un projet dont les incidences environnementales restent contestées.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de la contribution n° 85 reproduite dans le bilan de concertation présent dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_019",
+    "type": "reported_fact",
+    "text": "L'ASTA critique une mise en compatibilité des documents d'urbanisme qu'elle considère trop orientée vers les seuls besoins du projet.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de la contribution n° 74 du bilan de concertation dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_020",
+    "type": "reported_fact",
+    "text": "La Tour du Valat relève que la suppression de continuités écologiques dans le PLU d'Arles serait incompatible avec les engagements environnementaux du territoire.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé des contributions n° 137 et 138 du bilan de concertation dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_021",
+    "type": "reported_fact",
+    "text": "Le Parc naturel régional de Camargue est concerné par les modifications des documents d'urbanisme et par la prise en compte des continuités écologiques ; ceci n'établit pas à lui seul une position institutionnelle globale.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "qualified",
+    "location": "Fait de contexte, non utilisé pour une position",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_022",
+    "type": "reported_fact",
+    "text": "Anne Claudius-Petit, présidente du PNR de Camargue, exprime son opposition au tracé aérien au motif de ses impacts sur les paysages, les agriculteurs et les oiseaux.",
+    "source_id": "source_0015",
+    "source_ids": [
+      "source_0015"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé d'une déclaration attribuée dans l'article Objectif Sud",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_023",
+    "type": "reported_fact",
+    "text": "Anne Collard souligne le risque de dégradation de l'image des vignobles et des labels locaux avec l'implantation des pylônes.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article La Provence dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_024",
+    "type": "reported_fact",
+    "text": "Jean Jalbert souligne les dommages potentiels du tracé aérien pour les couloirs migratoires et les zones protégées de Camargue.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article La Provence dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_025",
+    "type": "reported_fact",
+    "text": "Jean-Luc Moya, porte-parole du collectif, affirme que les opposants défendent une solution enfouie.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article La Provence dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_026",
+    "type": "reported_fact",
+    "text": "Jean-Laurent Lucchesi décrit les conséquences agricoles, paysagères et environnementales du tracé aérien et les alternatives étudiées.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article La Provence dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_027",
+    "type": "reported_fact",
+    "text": "Gilles Odone, délégué Méditerranée de RTE, présente les contraintes et optimisations envisagées pour le projet aérien.",
+    "source_id": "source_0025",
+    "source_ids": [
+      "source_0025"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article Midi Libre dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_028",
+    "type": "reported_fact",
+    "text": "RTE défend la nécessité de renforcer le réseau électrique à 400 kV pour satisfaire les besoins industriels de Fos.",
+    "source_id": "source_0025",
+    "source_ids": [
+      "source_0025"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article Midi Libre dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_029",
+    "type": "reported_fact",
+    "text": "Jean-Christophe Amarantinis demande de sécuriser rapidement la décision et le calendrier de la ligne au nom de l'activité économique.",
+    "source_id": "source_0017",
+    "source_ids": [
+      "source_0017"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article Les Petites Affiches dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_030",
+    "type": "reported_fact",
+    "text": "L'UPE 13 appelle à accélérer le projet tout en construisant un accompagnement territorial avec les parties prenantes.",
+    "source_id": "source_0017",
+    "source_ids": [
+      "source_0017"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé de l'article Les Petites Affiches dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_031",
+    "type": "reported_fact",
+    "text": "Stéphane Bergamini, délégué général de France Chimie Méditerranée, affirme la nécessité de la liaison THT pour la filière chimique.",
+    "source_id": "source_0027",
+    "source_ids": [
+      "source_0027"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé d'une déclaration dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_032",
+    "type": "reported_fact",
+    "text": "France Chimie Méditerranée demande la réalisation de l'infrastructure électrique afin de soutenir l'industrie chimique et sa décarbonation.",
+    "source_id": "source_0027",
+    "source_ids": [
+      "source_0027"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé d'une déclaration de son délégué général dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_033",
+    "type": "reported_fact",
+    "text": "Carole Delga est explicitement citée parmi les opposants au tracé aérien et défend un examen des alternatives.",
+    "source_id": "source_0027",
+    "source_ids": [
+      "source_0027"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé des prises de position rapportées dans l'Excel",
+    "recorded_at": "2026-11-02"
+  },
+  {
+    "id": "evidence_excel_20261102_034",
+    "type": "reported_fact",
+    "text": "Renaud Muselier est cité pour son opposition au tracé aérien et sa demande de solutions alternatives.",
+    "source_id": "source_0027",
+    "source_ids": [
+      "source_0027"
+    ],
+    "source_status": "qualified",
+    "location": "Résumé des prises de position rapportées dans l'Excel",
+    "recorded_at": "2026-11-02"
   }
 ]

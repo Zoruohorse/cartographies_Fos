@@ -8,7 +8,8 @@
     "summary": "RTE, maître d’ouvrage, soutient explicitement la réalisation de la ligne 400 kV aérienne et défend ce choix contre les solutions souterraines.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_update_0022"
+      "evidence_update_0022",
+      "evidence_excel_20261102_028"
     ]
   },
   {
@@ -34,7 +35,9 @@
     "evidence_ids": [
       "evidence_actor_0003",
       "evidence_update_0006",
-      "evidence_update_0019"
+      "evidence_update_0019",
+      "evidence_excel_20261102_001",
+      "evidence_excel_20261102_005"
     ]
   },
   {
@@ -46,7 +49,8 @@
     "summary": "S'oppose à un passage en force sur la solution aérienne et avertit qu'il provoquerait un blocage irrémédiable.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0004"
+      "evidence_actor_0004",
+      "evidence_excel_20261102_034"
     ]
   },
   {
@@ -58,7 +62,8 @@
     "summary": "Très investi contre l'aérien et défenseur de la biodiversité locale.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0005"
+      "evidence_actor_0005",
+      "evidence_excel_20261102_025"
     ]
   },
   {
@@ -106,7 +111,8 @@
     "summary": "Soutient la ligne pour sécuriser la décarbonation industrielle de Fos-sur-Mer.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0009"
+      "evidence_actor_0009",
+      "evidence_excel_20261102_032"
     ]
   },
   {
@@ -119,7 +125,9 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_actor_0010",
-      "evidence_update_0006"
+      "evidence_update_0006",
+      "evidence_excel_20261102_002",
+      "evidence_excel_20261102_026"
     ]
   },
   {
@@ -157,7 +165,8 @@
     "evidence_ids": [
       "evidence_actor_0013",
       "evidence_update_0026",
-      "evidence_update_0008"
+      "evidence_update_0008",
+      "evidence_excel_20261102_006"
     ]
   },
   {
@@ -207,7 +216,8 @@
     "evidence_ids": [
       "evidence_actor_0017",
       "evidence_update_0026",
-      "evidence_update_0008"
+      "evidence_update_0008",
+      "evidence_excel_20261102_007"
     ]
   },
   {
@@ -230,7 +240,8 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_update_0023",
-      "evidence_update_0024"
+      "evidence_update_0024",
+      "evidence_excel_20261102_023"
     ]
   },
   {
@@ -420,7 +431,8 @@
     "summary": "Demande explicitement l'abandon du projet aérien, l'examen des alternatives et signe la charte des élus.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0035"
+      "evidence_actor_0035",
+      "evidence_excel_20261102_033"
     ]
   },
   {
@@ -494,7 +506,8 @@
     "evidence_ids": [
       "evidence_actor_0041",
       "evidence_update_0005",
-      "evidence_update_0001"
+      "evidence_update_0001",
+      "evidence_excel_20261102_003"
     ]
   },
   {
@@ -506,7 +519,8 @@
     "summary": "Maintient la nécessité de la ligne aérienne et annonce une enquête publique avant fin 2026.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0042"
+      "evidence_actor_0042",
+      "evidence_excel_20261102_027"
     ]
   },
   {
@@ -563,7 +577,8 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_actor_0047",
-      "evidence_update_0007"
+      "evidence_update_0007",
+      "evidence_excel_20261102_010"
     ]
   },
   {
@@ -575,7 +590,8 @@
     "summary": "Défend la ligne au nom de la souveraineté et de la sécurité d'approvisionnement.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0048"
+      "evidence_actor_0048",
+      "evidence_excel_20261102_004"
     ]
   },
   {
@@ -682,7 +698,8 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_actor_0057",
-      "evidence_update_0018"
+      "evidence_update_0018",
+      "evidence_excel_20261102_019"
     ]
   },
   {
@@ -694,7 +711,8 @@
     "summary": "Vigueirat Nature conteste officiellement les adaptations d’urbanisme pour la ligne aérienne et demande l’examen des solutions alternatives.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_update_0019"
+      "evidence_update_0019",
+      "evidence_excel_20261102_016"
     ]
   },
   {
@@ -706,7 +724,8 @@
     "summary": "Agir pour la Crau conteste officiellement les adaptations d’urbanisme pour la ligne aérienne et demande l’examen des solutions alternatives.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_update_0019"
+      "evidence_update_0019",
+      "evidence_excel_20261102_017"
     ]
   },
   {
@@ -718,7 +737,8 @@
     "summary": "NACICCA formule une critique explicite des adaptations d’urbanisme de la ligne aérienne et de ses impacts écologiques, sans qu’un refus de toute infrastructure soit démontré.",
     "certainty": "medium",
     "evidence_ids": [
-      "evidence_update_0020"
+      "evidence_update_0020",
+      "evidence_excel_20261102_018"
     ]
   },
   {
@@ -731,7 +751,8 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_update_0008",
-      "evidence_update_0026"
+      "evidence_update_0026",
+      "evidence_excel_20261102_008"
     ]
   },
   {
@@ -744,7 +765,8 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_update_0008",
-      "evidence_update_0026"
+      "evidence_update_0026",
+      "evidence_excel_20261102_009"
     ]
   },
   {
@@ -848,7 +870,8 @@
     "evidence_ids": [
       "evidence_update_0021",
       "evidence_update_0025",
-      "evidence_update_0013"
+      "evidence_update_0013",
+      "evidence_excel_20261102_020"
     ]
   },
   {
@@ -909,7 +932,9 @@
     "value": "unknown",
     "summary": "Gestionnaire territorial et naturel, porteur de missions Natura 2000 et de plans de gestion des zones humides.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_excel_20261102_021"
+    ]
   },
   {
     "id": "claim_actor_0079",
@@ -1361,7 +1386,8 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_actor_0121",
-      "evidence_update_0004"
+      "evidence_update_0004",
+      "evidence_excel_20261102_022"
     ]
   },
   {
@@ -1423,7 +1449,8 @@
     "evidence_ids": [
       "evidence_actor_0126",
       "evidence_update_0025",
-      "evidence_update_0013"
+      "evidence_update_0013",
+      "evidence_excel_20261102_024"
     ]
   },
   {
@@ -1543,7 +1570,8 @@
     "summary": "Exige une décision rapide, un calendrier formalisé et un engagement irrévocable de l'État.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0136"
+      "evidence_actor_0136",
+      "evidence_excel_20261102_029"
     ]
   },
   {
@@ -1555,7 +1583,8 @@
     "summary": "Soutient la liaison Fos-Jonquières tout en demandant un pacte territorial et des compensations renforcées.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0137"
+      "evidence_actor_0137",
+      "evidence_excel_20261102_030"
     ]
   },
   {
@@ -1615,7 +1644,8 @@
     "summary": "Défend la ligne comme un besoin absolu pour la décarbonation et la compétitivité de la filière chimique.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0142"
+      "evidence_actor_0142",
+      "evidence_excel_20261102_031"
     ]
   },
   {
@@ -1675,7 +1705,8 @@
     "summary": "Prône une remise autour de la table et un suivi partagé du projet ; met en garde contre les blocages si la solution aérienne est imposée.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_update_0009"
+      "evidence_update_0009",
+      "evidence_excel_20261102_012"
     ]
   },
   {
@@ -1687,7 +1718,8 @@
     "summary": "Son président décrit un tissu économique local partagé entre activité touristique sensible à l’aérien et industrie demandeuse d’électricité rapide, et réclame une conciliation.",
     "certainty": "medium",
     "evidence_ids": [
-      "evidence_update_0009"
+      "evidence_update_0009",
+      "evidence_excel_20261102_013"
     ]
   },
   {
@@ -1699,7 +1731,8 @@
     "summary": "Affirme la nécessité de l’énergie pour la région et promet de rechercher une solution conciliant les préoccupations locales ; ne valide pas expressément le tracé aérien.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_update_0010"
+      "evidence_update_0010",
+      "evidence_excel_20261102_014"
     ]
   },
   {
@@ -1711,7 +1744,8 @@
     "summary": "Soutient la réindustrialisation de Fos, mais exprime des réserves sur son coût territorial et la ligne THT ; opposition à toute liaison aérienne non démontrée.",
     "certainty": "medium",
     "evidence_ids": [
-      "evidence_update_0011"
+      "evidence_update_0011",
+      "evidence_excel_20261102_015"
     ]
   },
   {
@@ -1723,7 +1757,8 @@
     "summary": "Met en avant le besoin de renforcer le réseau régional à 400 kV, sans prise de position explicite sur le mode aérien ou souterrain du projet Feuillane–Jonquières.",
     "certainty": "medium",
     "evidence_ids": [
-      "evidence_update_0012"
+      "evidence_update_0012",
+      "evidence_excel_20261102_011"
     ]
   }
 ]

@@ -275,5 +275,27 @@
     "status": "qualified",
     "access": "Extrait issu de MAJ Fos(1).xlsx ; consultation directe non présumée",
     "description": "Ressource Curebot de veille Fos–Jonquières"
+  },
+  {
+    "id": "source_0028",
+    "title": "L’enquête publique pour le projet de ligne à très haute tension va débuter : « un tsunami d’opposition »",
+    "publisher": "Midi Libre",
+    "url": "https://www.midilibre.fr/2026/10/25/lenquete-publique-pour-le-projet-de-ligne-a-tres-haute-tension-tht-a-travers-la-camargue-va-debuter-ils-vont-avoir-un-tsunami-dopposition-13617266.php",
+    "date": null,
+    "author": null,
+    "status": "qualified",
+    "access": "Texte reproduit dans l'Excel MAJ Fos(1).xlsx ; consultation directe non revendiquée",
+    "description": "Source provenant exclusivement du fichier Excel fourni par l'utilisateur."
+  },
+  {
+    "id": "source_0029",
+    "title": "Industrie décarbonée : le préfet Witkowski promet du foncier réservé et un État réactif",
+    "publisher": "La Provence",
+    "url": "https://www.laprovence.com/article/economie/13060685661228/industrie-decarbonee-le-prefet-witkowski-promet-du-foncier-reserve-et-un-etat-reactif",
+    "date": null,
+    "author": null,
+    "status": "qualified",
+    "access": "Texte reproduit dans l'Excel MAJ Fos(1).xlsx ; consultation directe non revendiquée",
+    "description": "Source provenant exclusivement du fichier Excel fourni par l'utilisateur."
   }
 ]
