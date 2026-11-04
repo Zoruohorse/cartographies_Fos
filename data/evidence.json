@@ -2730,5 +2730,343 @@
     "location": "FNE13, liste « Premiers signataires » du 22 janvier 2026",
     "verification": "web_consulted",
     "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_001",
+    "type": "documented_summary",
+    "text": "Nicolas Koukas indique vouloir recourir aux mécanismes internationaux de protection du patrimoine si l'État impose la ligne aérienne en Camargue ; il réclame une solution différente du tracé proposé.",
+    "source_id": "source_0100",
+    "source_ids": [
+      "source_0100"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 11, passage relatif à Nicolas Koukas",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_002",
+    "type": "documented_summary",
+    "text": "Jérôme Bonet est identifié comme préfet du Gard compétent pour l'instruction et les décisions administratives du projet Feuillane–Jonquières ; le document ne lui attribue pas de préférence personnelle sur le tracé.",
+    "source_id": "source_0114",
+    "source_ids": [
+      "source_0114"
+    ],
+    "source_status": "qualified",
+    "verification": "web_consulted",
+    "location": "Fos(2).xlsx, ligne 70, passage relatif à Jérôme Bonet",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_003",
+    "type": "documented_summary",
+    "text": "Rémi Costantino, directeur général adjoint du GPMM, indique que le port oriente une partie de son plan d'investissement pluriannuel selon les résultats du programme de décarbonation Syrius. Aucune approbation explicite du tracé aérien THT n'est rapportée.",
+    "source_id": "source_0118",
+    "source_ids": [
+      "source_0118"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 90, passage relatif à Rémi Costantino",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_004",
+    "type": "documented_summary",
+    "text": "Le CEN PACA conteste publiquement les impacts du tracé THT aérien sur les espèces protégées de Crau, notamment le Ganga cata, et critique le caractère insuffisant de plusieurs mesures compensatoires de RTE.",
+    "source_id": "source_0113",
+    "source_ids": [
+      "source_0113"
+    ],
+    "source_status": "qualified",
+    "verification": "web_consulted",
+    "location": "Fos(2).xlsx, ligne 69, passage relatif à CEN PACA",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_005",
+    "type": "documented_summary",
+    "text": "Le 27 mars 2024, le CEN PACA fait partie de six gestionnaires de réserves naturelles cosignataires d'une note d'opposition explicite à la liaison aérienne Feuillane–Jonquières.",
+    "source_id": "source_0122",
+    "source_ids": [
+      "source_0122"
+    ],
+    "source_status": "qualified",
+    "verification": "web_consulted",
+    "location": "Publication CEN PACA, passage relatif à CEN PACA",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_006",
+    "type": "documented_summary",
+    "text": "En février 2026, le CEN PACA annonce cosigner la tribune opposée au tracé aérien et demande de préserver les territoires agricoles et naturels de Crau et de Camargue.",
+    "source_id": "source_0123",
+    "source_ids": [
+      "source_0123"
+    ],
+    "source_status": "qualified",
+    "verification": "web_consulted",
+    "location": "Publication CEN PACA, passage relatif à CEN PACA",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_007",
+    "type": "documented_summary",
+    "text": "Le collectif Sauvons nos Étangs cosigne avec plusieurs associations du golfe de Fos un plaidoyer municipal sur les impacts sanitaires, l'eau et la biodiversité des projets industriels. Cette action ne démontre pas une opposition de ce collectif à la ligne THT.",
+    "source_id": "source_0101",
+    "source_ids": [
+      "source_0101"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 16, passage relatif à Sauvons nos Étangs",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_008",
+    "type": "documented_summary",
+    "text": "ArcelorMittal figure parmi les six principaux maîtres d'ouvrage industriels ayant répondu aux recommandations du débat public Fos–Étang de Berre. Le projet de four électrique est distinct de la ligne RTE ; aucune position d'ArcelorMittal sur son tracé aérien n'est démontrée.",
+    "source_id": "source_0106",
+    "source_ids": [
+      "source_0106"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 35, passage relatif à ArcelorMittal Méditerranée",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_009",
+    "type": "documented_summary",
+    "text": "NeoCarb est cité parmi les cinq projets industriels envisagés sur le môle central de Fos, avec un calendrier et des caractéristiques propres. Cette mention n'établit pas une prise de position sur la ligne THT.",
+    "source_id": "source_0107",
+    "source_ids": [
+      "source_0107"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 42, passage relatif à Elyse / Neocarb",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_010",
+    "type": "documented_summary",
+    "text": "Elyse Energy porte le projet NeoCarb de carburants de synthèse bas carbone dans la ZIP de Fos, accompagné par des acteurs régionaux. Aucune position explicite sur la variante aérienne THT n'est rapportée.",
+    "source_id": "source_0116",
+    "source_ids": [
+      "source_0116"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 82, passage relatif à Elyse / Neocarb",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_011",
+    "type": "documented_summary",
+    "text": "Géométhane figure parmi les six maîtres d'ouvrage du débat public Fos–Berre ; son projet de stockage GéoH2 relève d'une procédure distincte de la ligne 400 kV.",
+    "source_id": "source_0106",
+    "source_ids": [
+      "source_0106"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 35, passage relatif à Geométhane",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_012",
+    "type": "documented_summary",
+    "text": "ENGIE figure parmi les maîtres d'ouvrage du débat public Fos–Berre, notamment pour le projet d'hydrogène Hygreen. Cela ne démontre pas de préférence d'ENGIE sur le tracé aérien de RTE.",
+    "source_id": "source_0106",
+    "source_ids": [
+      "source_0106"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 35, passage relatif à ENGIE",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_013",
+    "type": "documented_summary",
+    "text": "Le programme Syrius, porté par PIICTO et ses partenaires, a présenté le bilan de sa phase 2023–2025 et prépare une phase 2026–2030 de décarbonation industrielle avec plusieurs scénarios d'infrastructures.",
+    "source_id": "source_0117",
+    "source_ids": [
+      "source_0117"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 89, passage relatif à PIICTO / Syrius",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_014",
+    "type": "documented_summary",
+    "text": "PIICTO, l'Ademe et des partenaires industriels et publics coordonnent Syrius, un programme de décarbonation du bassin Fos–Berre. Le texte présente l'électrification comme un levier, sans engagement explicite de PIICTO sur le tracé aérien Jonquières–Fos.",
+    "source_id": "source_0119",
+    "source_ids": [
+      "source_0119"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 91, passage relatif à PIICTO / Syrius",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_015",
+    "type": "documented_summary",
+    "text": "La Tribune Région Sud a publié un article sur les arbitrages de tracé, le report de l'instruction de DUP et les besoins d'électricité industrielle liés à la ligne Fos–Jonquières. Une couverture journalistique ne constitue pas un soutien du média au projet.",
+    "source_id": "source_0103",
+    "source_ids": [
+      "source_0103"
+    ],
+    "source_status": "qualified",
+    "verification": "web_consulted",
+    "location": "Fos(2).xlsx, ligne 20, passage relatif à La Tribune Région Sud",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_016",
+    "type": "documented_summary",
+    "text": "Lors du comptage associatif du 25 janvier 2026 sur le fuseau envisagé par RTE, NACICCA indique avoir recensé environ 17 800 oiseaux de 24 espèces. L'association précise que ces comptages sont symboliques et ne constituent pas une étude scientifique exhaustive.",
+    "source_id": "source_0102",
+    "source_ids": [
+      "source_0102"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 19, passage relatif à NACICCA",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_017",
+    "type": "documented_summary",
+    "text": "Un article d'Objectif Gard décrit une note de la DREAL Occitanie du 6 novembre 2025 faisant état de risques significatifs pour cinq espèces protégées sur le tracé aérien. Il s'agit d'une analyse environnementale, pas d'une opposition politique de la DREAL.",
+    "source_id": "source_0114",
+    "source_ids": [
+      "source_0114"
+    ],
+    "source_status": "qualified",
+    "verification": "web_consulted",
+    "location": "Fos(2).xlsx, ligne 70, passage relatif à DREAL Occitanie",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_018",
+    "type": "documented_summary",
+    "text": "Le Collectif THT 13/30 a formellement contesté les conclusions de l'État rendues fin 2025, estimant que la variante aérienne avait été retenue sans traitement suffisant des alternatives.",
+    "source_id": "source_0109",
+    "source_ids": [
+      "source_0109"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 50, passage relatif à Collectif THT 13/30",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_019",
+    "type": "documented_summary",
+    "text": "FNE13 publie une analyse critique des arguments de RTE et demande une appréciation environnementale plus complète des variantes du projet, sans remettre en cause le principe de décarbonation industrielle.",
+    "source_id": "source_0105",
+    "source_ids": [
+      "source_0105"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 31, passage relatif à FNE13",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_020",
+    "type": "documented_summary",
+    "text": "La LPO demande l'abandon de la solution aérienne au profit de variantes compatibles avec les espèces protégées. Son président Allain Bougrain Dubourg évoque la possibilité de recours contre l'option retenue.",
+    "source_id": "source_0108",
+    "source_ids": [
+      "source_0108"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 43, passage relatif à LPO",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_021",
+    "type": "documented_summary",
+    "text": "ACEN a déposé des observations sur les effets cumulés du contournement d'Arles et de la ligne THT sur la Crau et les espaces agricoles et naturels ; son argumentation rapproche les deux projets sans confondre leurs autorisations.",
+    "source_id": "source_0111",
+    "source_ids": [
+      "source_0111"
+    ],
+    "source_status": "qualified",
+    "verification": "web_consulted",
+    "location": "Fos(2).xlsx, ligne 57, passage relatif à ACEN",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_022",
+    "type": "documented_summary",
+    "text": "Provence Fabrique des Possibles rapporte un appel signé par plus de 120 acteurs économiques demandant à l'État de sécuriser la capacité électrique de Fos–Berre dans les délais industriels. Les projections d'investissement et d'emplois relèvent de l'argumentaire des signataires.",
+    "source_id": "source_0115",
+    "source_ids": [
+      "source_0115"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 80, passage relatif à Provence Fabrique des Possibles",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_023",
+    "type": "documented_summary",
+    "text": "L'Association de sauvegarde des terres de Camargue et de Crau réunit des agriculteurs, éleveurs et propriétaires mobilisés contre le tracé aérien ; ses coprésidents Cédric Bernardi et Guillaume Meiffre réclament l'enfouissement.",
+    "source_id": "source_0121",
+    "source_ids": [
+      "source_0121"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 99, passage relatif à Association sauvegarde terres Camargue-Crau",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_024",
+    "type": "documented_summary",
+    "text": "Cédric Bernardi témoigne avoir fondé l'Association de sauvegarde des terres de Camargue et de Crau pour organiser l'opposition au tracé aérien et protéger les exploitations et les oiseaux migrateurs.",
+    "source_id": "source_0120",
+    "source_ids": [
+      "source_0120"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 98, passage relatif à Cédric Bernardi",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_025",
+    "type": "documented_summary",
+    "text": "Le GPMM participe au dialogue territorial Fos–Berre comme maître d'ouvrage de projets industriels distincts de la ligne THT ; cette responsabilité ne vaut pas approbation individuelle de Rémi Costantino sur le tracé.",
+    "source_id": "source_0106",
+    "source_ids": [
+      "source_0106"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 35, passage relatif à Rémi Costantino",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_026",
+    "type": "documented_summary",
+    "text": "La CNDP relève dans son avis du 12 janvier 2026 des lacunes sur les effets cumulés et la comparaison des solutions électriques, et regrette l'absence de procédure de conciliation ; il ne s'agit pas d'un refus de principe du projet.",
+    "source_id": "source_0106",
+    "source_ids": [
+      "source_0106"
+    ],
+    "source_status": "qualified",
+    "verification": "excel_content_original_url",
+    "location": "Fos(2).xlsx, ligne 35, passage relatif à CNDP",
+    "recorded_at": "2026-11-04"
   }
 ]

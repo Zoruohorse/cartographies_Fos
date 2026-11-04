@@ -42,7 +42,7 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_update_0006",
-      "evidence_update_0019"
+      "evidence_fos2_20261104_018"
     ],
     "original_link": {
       "source": "Collectif THT 13/30",
@@ -182,7 +182,8 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_retro_fos_20261104_005",
-      "evidence_retro_fos_20261104_006"
+      "evidence_retro_fos_20261104_006",
+      "evidence_fos2_20261104_024"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -564,11 +565,12 @@
     "id": "relation_0037",
     "source_id": "project_fos",
     "target_id": "actor_0036",
-    "type": "position / rattachement au dossier",
-    "summary": "Nicolas Koukas intervient au conseil municipal d'Arles sur les risques de transfert de décisions d'urbanisme à l'État ; sa position sur la ligne elle-même reste nuancée.",
+    "type": "Opposé",
+    "summary": "Nicolas Koukas indique vouloir recourir aux mécanismes internationaux de protection du patrimoine si l'État impose la ligne aérienne en Camargue ; il réclame une solution différente du tracé proposé.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_025"
+      "evidence_retro_fos_20261104_025",
+      "evidence_fos2_20261104_001"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -743,7 +745,8 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_update_0007",
-      "evidence_excel_20261102_010"
+      "evidence_excel_20261102_010",
+      "evidence_fos2_20261104_022"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -861,7 +864,8 @@
     "summary": "FNE Bouches-du-Rhône soutient les solutions alternatives à l'aérien et critique les incidences écologiques et les faiblesses de l'analyse du projet.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_036"
+      "evidence_retro_fos_20261104_036",
+      "evidence_fos2_20261104_019"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -877,7 +881,8 @@
     "summary": "L'Association de sauvegarde des terres de Camargue et de Crau, coprésidée par Cédric Bernardi et Guillaume Meiffre, mène des actions publiques contre les pylônes.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_037"
+      "evidence_retro_fos_20261104_037",
+      "evidence_fos2_20261104_023"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -944,8 +949,8 @@
     "summary": "NACICCA formule une critique explicite des adaptations d’urbanisme de la ligne aérienne et de ses impacts écologiques, sans qu’un refus de toute infrastructure soit démontré.",
     "certainty": "medium",
     "evidence_ids": [
-      "evidence_update_0020",
-      "evidence_excel_20261102_018"
+      "evidence_excel_20261102_018",
+      "evidence_fos2_20261104_016"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -1106,7 +1111,8 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_fos1_20261104_009",
-      "evidence_fos1_20261104_010"
+      "evidence_fos1_20261104_010",
+      "evidence_fos2_20261104_020"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -1152,10 +1158,14 @@
     "id": "relation_0074",
     "source_id": "project_fos",
     "target_id": "actor_0073",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Le CEN PACA conteste publiquement les impacts du tracé THT aérien sur les espèces protégées de Crau, notamment le Ganga cata, et critique le caractère insuffisant de plusieurs mesures compensatoires de RTE.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos2_20261104_004",
+      "evidence_fos2_20261104_005",
+      "evidence_fos2_20261104_006"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "CEN PACA",
@@ -1276,7 +1286,8 @@
     "summary": "Arles Camargue Environnement Nature figure parmi les signataires d'une tribune environnementale de mobilisation contre la THT, recensés par FNE13.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_fos1_20261104_015"
+      "evidence_fos1_20261104_015",
+      "evidence_fos2_20261104_021"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -1557,10 +1568,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0100",
     "type": "position / rattachement au dossier",
-    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. La DREAL Occitanie est citée parmi les services ayant signalé les risques de collision pour plusieurs espèces d'oiseaux ; cela ne démontre pas une opposition institutionnelle.",
+    "summary": "Rôle et contexte documentés ; aucune position explicite sur le tracé aérien n'est démontrée. Un article d'Objectif Gard décrit une note de la DREAL Occitanie du 6 novembre 2025 faisant état de risques significatifs pour cinq espèces protégées sur le tracé aérien. Il s'agit d'une analyse environnementale, pas d'une opposition politique de la DREAL.",
     "certainty": "unqualified",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_056"
+      "evidence_retro_fos_20261104_056",
+      "evidence_fos2_20261104_017"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -2023,9 +2035,11 @@
     "source_id": "actor_0049",
     "target_id": "actor_0050",
     "type": "rattachement / proximité",
-    "summary": "Grand Port Maritime de Marseille-Fos — rattachement / proximité — Rémi Costantino",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Rémi Costantino est directeur général adjoint du Grand Port Maritime de Marseille–Fos et intervient sur son plan d'investissement dans le programme Syrius.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos2_20261104_003"
+    ],
     "original_link": {
       "source": "Grand Port Maritime de Marseille-Fos",
       "target": "Rémi Costantino",
@@ -3102,10 +3116,12 @@
     "id": "relation_0210",
     "source_id": "project_fos",
     "target_id": "actor_0110",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "source / couverture",
+    "summary": "La Tribune Région Sud a publié un article sur les arbitrages de tracé, le report de l'instruction de DUP et les besoins d'électricité industrielle liés à la ligne Fos–Jonquières. Une couverture journalistique ne constitue pas un soutien du média au projet.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos2_20261104_015"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "La Tribune Région Sud",

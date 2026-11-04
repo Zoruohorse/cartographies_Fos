@@ -35,12 +35,12 @@
     "summary": "Opposé au tracé aérien et favorable aux alternatives enterrées ou sous-marines. Lors de sa réunion du 23 octobre 2026, le collectif a décidé de participer à l’enquête publique et de mobiliser les contributions et expertises juridiques dans le cadre légal.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0003",
       "evidence_update_0006",
-      "evidence_update_0019",
       "evidence_excel_20261102_001",
-      "evidence_excel_20261102_005"
-    ]
+      "evidence_excel_20261102_005",
+      "evidence_fos2_20261104_018"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0004",
@@ -79,7 +79,8 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_retro_fos_20261104_005",
-      "evidence_retro_fos_20261104_006"
+      "evidence_retro_fos_20261104_006",
+      "evidence_fos2_20261104_024"
     ],
     "updated_at": "2026-11-04"
   },
@@ -440,11 +441,12 @@
     "subject_id": "actor_0036",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "neutral",
-    "summary": "Nicolas Koukas intervient au conseil municipal d'Arles sur les risques de transfert de décisions d'urbanisme à l'État ; sa position sur la ligne elle-même reste nuancée.",
+    "value": "opposed",
+    "summary": "Nicolas Koukas indique vouloir recourir aux mécanismes internationaux de protection du patrimoine si l'État impose la ligne aérienne en Camargue ; il réclame une solution différente du tracé proposé.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_025"
+      "evidence_retro_fos_20261104_025",
+      "evidence_fos2_20261104_001"
     ],
     "updated_at": "2026-11-04"
   },
@@ -490,9 +492,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "Jérôme Bonet est identifié comme préfet du Gard compétent pour l'instruction et les décisions administratives du projet Feuillane–Jonquières ; le document ne lui attribue pas de préférence personnelle sur le tracé.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos2_20261104_002"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0041",
@@ -583,10 +588,11 @@
     "summary": "Soutient la réalisation rapide de la ligne pour l’électrification de Fos-Berre et propose désormais un Pacte territorial piloté par l’État, avec une séquence de cent jours afin de sécuriser la procédure et de négocier les mesures d’accompagnement.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_actor_0047",
       "evidence_update_0007",
-      "evidence_excel_20261102_010"
-    ]
+      "evidence_excel_20261102_010",
+      "evidence_fos2_20261104_022"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0048",
@@ -620,9 +626,13 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "Rémi Costantino, directeur général adjoint du GPMM, indique que le port oriente une partie de son plan d'investissement pluriannuel selon les résultats du programme de décarbonation Syrius. Aucune approbation explicite du tracé aérien THT n'est rapportée. Le GPMM participe au dialogue territorial Fos–Berre comme maître d'ouvrage de projets industriels distincts de la ligne THT ; cette responsabilité ne vaut pas approbation individuelle de Rémi Costantino sur le tracé.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos2_20261104_003",
+      "evidence_fos2_20261104_025"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0051",
@@ -676,7 +686,8 @@
     "summary": "FNE Bouches-du-Rhône soutient les solutions alternatives à l'aérien et critique les incidences écologiques et les faiblesses de l'analyse du projet.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_036"
+      "evidence_retro_fos_20261104_036",
+      "evidence_fos2_20261104_019"
     ],
     "updated_at": "2026-11-04"
   },
@@ -689,7 +700,8 @@
     "summary": "L'Association de sauvegarde des terres de Camargue et de Crau, coprésidée par Cédric Bernardi et Guillaume Meiffre, mène des actions publiques contre les pylônes.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_037"
+      "evidence_retro_fos_20261104_037",
+      "evidence_fos2_20261104_023"
     ],
     "updated_at": "2026-11-04"
   },
@@ -742,9 +754,10 @@
     "summary": "NACICCA formule une critique explicite des adaptations d’urbanisme de la ligne aérienne et de ses impacts écologiques, sans qu’un refus de toute infrastructure soit démontré.",
     "certainty": "medium",
     "evidence_ids": [
-      "evidence_update_0020",
-      "evidence_excel_20261102_018"
-    ]
+      "evidence_excel_20261102_018",
+      "evidence_fos2_20261104_016"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0061",
@@ -873,7 +886,8 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_fos1_20261104_009",
-      "evidence_fos1_20261104_010"
+      "evidence_fos1_20261104_010",
+      "evidence_fos2_20261104_020"
     ],
     "updated_at": "2026-11-04"
   },
@@ -910,10 +924,15 @@
     "subject_id": "actor_0073",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Le CEN PACA conteste publiquement les impacts du tracé THT aérien sur les espèces protégées de Crau, notamment le Ganga cata, et critique le caractère insuffisant de plusieurs mesures compensatoires de RTE.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos2_20261104_004",
+      "evidence_fos2_20261104_005",
+      "evidence_fos2_20261104_006"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0074",
@@ -1009,7 +1028,8 @@
     "summary": "Arles Camargue Environnement Nature figure parmi les signataires d'une tribune environnementale de mobilisation contre la THT, recensés par FNE13.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_fos1_20261104_015"
+      "evidence_fos1_20261104_015",
+      "evidence_fos2_20261104_021"
     ],
     "updated_at": "2026-11-04"
   },
@@ -1019,9 +1039,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "Le collectif Sauvons nos Étangs cosigne avec plusieurs associations du golfe de Fos un plaidoyer municipal sur les impacts sanitaires, l'eau et la biodiversité des projets industriels. Cette action ne démontre pas une opposition de ce collectif à la ligne THT.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos2_20261104_007"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0083",
@@ -1065,9 +1088,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "ArcelorMittal figure parmi les six principaux maîtres d'ouvrage industriels ayant répondu aux recommandations du débat public Fos–Étang de Berre. Le projet de four électrique est distinct de la ligne RTE ; aucune position d'ArcelorMittal sur son tracé aérien n'est démontrée.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos2_20261104_008"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0087",
@@ -1088,9 +1114,13 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "NeoCarb est cité parmi les cinq projets industriels envisagés sur le môle central de Fos, avec un calendrier et des caractéristiques propres. Cette mention n'établit pas une prise de position sur la ligne THT. Elyse Energy porte le projet NeoCarb de carburants de synthèse bas carbone dans la ZIP de Fos, accompagné par des acteurs régionaux. Aucune position explicite sur la variante aérienne THT n'est rapportée.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos2_20261104_009",
+      "evidence_fos2_20261104_010"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0089",
@@ -1124,9 +1154,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "Géométhane figure parmi les six maîtres d'ouvrage du débat public Fos–Berre ; son projet de stockage GéoH2 relève d'une procédure distincte de la ligne 400 kV.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos2_20261104_011"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0092",
@@ -1134,9 +1167,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "ENGIE figure parmi les maîtres d'ouvrage du débat public Fos–Berre, notamment pour le projet d'hydrogène Hygreen. Cela ne démontre pas de préférence d'ENGIE sur le tracé aérien de RTE.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos2_20261104_012"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0093",
@@ -1144,9 +1180,13 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "Le programme Syrius, porté par PIICTO et ses partenaires, a présenté le bilan de sa phase 2023–2025 et prépare une phase 2026–2030 de décarbonation industrielle avec plusieurs scénarios d'infrastructures. PIICTO, l'Ademe et des partenaires industriels et publics coordonnent Syrius, un programme de décarbonation du bassin Fos–Berre. Le texte présente l'électrification comme un levier, sans engagement explicite de PIICTO sur le tracé aérien Jonquières–Fos.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos2_20261104_013",
+      "evidence_fos2_20261104_014"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0094",
@@ -1177,7 +1217,8 @@
     "summary": "Une concertation préalable sur les documents d'urbanisme, distincte de la concertation CNDP, a eu lieu du 15 juin au 15 juillet 2026.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_052"
+      "evidence_retro_fos_20261104_052",
+      "evidence_fos2_20261104_026"
     ],
     "updated_at": "2026-11-04"
   },
@@ -1229,7 +1270,8 @@
     "summary": "La DREAL Occitanie est citée parmi les services ayant signalé les risques de collision pour plusieurs espèces d'oiseaux ; cela ne démontre pas une opposition institutionnelle.",
     "certainty": "unqualified",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_056"
+      "evidence_retro_fos_20261104_056",
+      "evidence_fos2_20261104_017"
     ],
     "updated_at": "2026-11-04"
   },
@@ -1350,9 +1392,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "La Tribune Région Sud a publié un article sur les arbitrages de tracé, le report de l'instruction de DUP et les besoins d'électricité industrielle liés à la ligne Fos–Jonquières. Une couverture journalistique ne constitue pas un soutien du média au projet.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos2_20261104_015"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0111",

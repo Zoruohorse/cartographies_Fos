@@ -1,0 +1,777 @@
+{
+  "file": "Fos(2).xlsx",
+  "project": "Fos–Jonquières",
+  "date": "2026-11-04",
+  "resource_count": 100,
+  "rows_with_new_claim_or_proof": [
+    11,
+    16,
+    19,
+    20,
+    31,
+    35,
+    42,
+    43,
+    50,
+    57,
+    69,
+    70,
+    80,
+    82,
+    89,
+    90,
+    91,
+    98,
+    99
+  ],
+  "rows_excluded_or_existing": 81,
+  "exclusion_note": "Ressources sans nouveau delta, hors du périmètre THT, doublons ou mention d'acteurs insuffisante pour prouver une position. Les articles sur l'autoroute d'Arles, les élections ou d'autres projets ne valent pas prise de position sur la THT.",
+  "baseline": {
+    "actorCards": 151,
+    "proofs": 221,
+    "relations": 217,
+    "sources": 89,
+    "qualifiedCards": 121,
+    "edgesQualified": 85
+  },
+  "final": {
+    "actorCards": 151,
+    "qualifiedCards": 131,
+    "edgesQualified": 88,
+    "evidence": 247,
+    "sources": 113,
+    "relations": 217,
+    "coverage_percent": 86.75
+  },
+  "changes": {
+    "sources_created": 24,
+    "new_proofs": 26,
+    "actor_cards_edited": 21,
+    "project_relations_edited": 13,
+    "positions_requalified": [
+      {
+        "id": "actor_0036",
+        "name": "Nicolas Koukas",
+        "from": "neutral",
+        "to": "opposed"
+      },
+      {
+        "id": "actor_0073",
+        "name": "CEN PACA",
+        "from": "unknown",
+        "to": "opposed"
+      }
+    ],
+    "old_claim_proof_links_removed": 4,
+    "old_proof_objects_deleted": 0
+  },
+  "source_provenance": [
+    {
+      "row": 11,
+      "id": "source_0100",
+      "url": "https://www.laprovence.com/article/elections/2020443233624714/municipales-2026-a-arles-les-positions-des-candidats-sur-la-ligne-tht-et-le-contournement-autoroutier?id=2020443233624714"
+    },
+    {
+      "row": 16,
+      "id": "source_0101",
+      "url": "https://www.laprovence.com/article/elections/2681076051393914/municipales-2026-les-candidats-du-golfe-de-fos-alertes-sur-les-enjeux-de-sante-publique-et-d-environnement?id=2681076051393914"
+    },
+    {
+      "row": 19,
+      "id": "source_0102",
+      "url": "http://nacicca.org/2026/02/06/bilan-du-comptage-des-oiseaux-sur-le-trace-tht-25-01-2026/"
+    },
+    {
+      "row": 20,
+      "id": "source_0103",
+      "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/2152896586038114/ligne-haute-tension-a-fos-reculer-pour-mieux-sauter?id=2152896586038114"
+    },
+    {
+      "row": 22,
+      "id": "source_0104",
+      "url": "https://www.lemonde.fr/idees/article/2026/02/04/la-camargue-la-crau-et-la-terre-d-argence-seront-sacrifiees-sur-l-autel-de-la-reindustrialisation-et-du-developpement-de-l-intelligence-artificielle_6665406_3232.html"
+    },
+    {
+      "row": 31,
+      "id": "source_0105",
+      "url": "https://www.fne13.fr/le-monde-a-change-sauf-rte/"
+    },
+    {
+      "row": 35,
+      "id": "source_0106",
+      "url": "https://mesinfos.fr/provence-alpes-cote-d-azur/reindustrialisation-de-fos-berre-la-cndp-pointe-des-fragilites-de-gouvernance-et-de-concertation-238021.html"
+    },
+    {
+      "row": 42,
+      "id": "source_0107",
+      "url": "https://www.laprovence.com/article/region/18910594831937/cinq-projets-de-decarbonation-de-la-zone-industrialo-portuaire-de-fos-sur-mer-passes-au-crible?id=18910594831937"
+    },
+    {
+      "row": 43,
+      "id": "source_0108",
+      "url": "https://paca.lpo.fr/association-protection-nature/s-informer/toute-l-actualite/actualite/18940-ligne-tht-vers-fos-sur-mer-letat-sacrifie-la-nature"
+    },
+    {
+      "row": 50,
+      "id": "source_0109",
+      "url": "https://www.fne13.fr/ligne-tht-le-collectif-tht13-30-conteste-et-refute-les-conclusions-du-rapport-de-letat/"
+    },
+    {
+      "row": 53,
+      "id": "source_0110",
+      "url": "https://www.connaissancedesenergies.org/afp/ligne-tres-haute-tension-vers-fos-letat-veut-que-rte-poursuive-les-travaux-251219-0"
+    },
+    {
+      "row": 57,
+      "id": "source_0111",
+      "url": "https://www.acen-asso.fr/les-observations-deposees-sur-le-registre-de-lenquete-publique/"
+    },
+    {
+      "row": 63,
+      "id": "source_0112",
+      "url": "https://gomet.net/fos-berre-le-programme-syrius-ouvre-sa-phase-ii-pour-accelerer-la-decarbonation/"
+    },
+    {
+      "row": 69,
+      "id": "source_0113",
+      "url": "https://cen-paca.org/decouvrir/les-actualites/divers/ligne-tht-ligne-rouge-pour-les-especes-protegees/"
+    },
+    {
+      "row": 70,
+      "id": "source_0114",
+      "url": "https://www.objectifgard.com/gard/arles/gard-arles-ligne-tht-cinq-especes-doiseaux-protegees-sont-menacees-selon-la-dreal-155914.php"
+    },
+    {
+      "row": 80,
+      "id": "source_0115",
+      "url": "https://mesinfos.fr/13130-berre-letang/ligne-tht-120-industriels-interpellent-l-etat-sur-l-avenir-de-la-zone-fos-berre-234209.html"
+    },
+    {
+      "row": 82,
+      "id": "source_0116",
+      "url": "https://www.lamarseillaise.fr/economie/ces-entreprises-qui-investissent-dans-la-region-sud-OM19159722"
+    },
+    {
+      "row": 89,
+      "id": "source_0117",
+      "url": "https://mesinfos.fr/13270-fos-sur-mer/etang-de-berre-le-programme-syrius-se-projette-sur-sa-phase-2-233318.html"
+    },
+    {
+      "row": 90,
+      "id": "source_0118",
+      "url": "https://www.lamarseillaise.fr/economie/le-programme-syrius-cherche-des-synergies-pour-decarboner-KA19085285"
+    },
+    {
+      "row": 91,
+      "id": "source_0119",
+      "url": "https://www.laprovence.com/article/economie/126824154282915/syrius-vers-une-industrie-decarbonee-et-cooperative-dans-la-zone-industrielle-de-fos-berre?id=126824154282915"
+    },
+    {
+      "row": 98,
+      "id": "source_0120",
+      "url": "https://www.laprovence.com/article/ecoplanete/3145622875371914/une-nouvelle-association-d-agriculteurs-et-habitants-de-camargue-rejoint-le-collectif-stop-tht-13-30?id=3145622875371914"
+    },
+    {
+      "row": 99,
+      "id": "source_0121",
+      "url": "https://www.objectifgard.com/gard/arles/camargue-zero-pylone-sur-nos-terres-agriculteurs-eleveurs-et-proprietaires-unis-face-a-la-tht-154557.php"
+    }
+  ],
+  "additional_web_sources": [
+    {
+      "row": 1001,
+      "id": "source_0122",
+      "url": "https://cen-paca.org/decouvrir/les-actualites/divers/les-gestionnaires-de-reserves-naturelles-affirment-leur-opposition-au-projet-de-ligne-aerienne-tht-entre-fos-sur-mer-et-jonquieres-saint-vincent/"
+    },
+    {
+      "row": 1002,
+      "id": "source_0123",
+      "url": "https://cen-paca.org/decouvrir/les-actualites/divers/nature-et-agriculture-sacrifiees-face-a-une-ligne-tht/"
+    }
+  ],
+  "claim_deltas": [
+    {
+      "id": "actor_0036",
+      "from": "neutral",
+      "to": "opposed",
+      "before": "Nicolas Koukas intervient au conseil municipal d'Arles sur les risques de transfert de décisions d'urbanisme à l'État ; sa position sur la ligne elle-même reste nuancée.",
+      "after": "Nicolas Koukas indique vouloir recourir aux mécanismes internationaux de protection du patrimoine si l'État impose la ligne aérienne en Camargue ; il réclame une solution différente du tracé proposé.",
+      "added": [
+        "evidence_fos2_20261104_001"
+      ]
+    },
+    {
+      "id": "actor_0040",
+      "from": "unknown",
+      "to": "unknown",
+      "before": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+      "after": "Jérôme Bonet est identifié comme préfet du Gard compétent pour l'instruction et les décisions administratives du projet Feuillane–Jonquières ; le document ne lui attribue pas de préférence personnelle sur le tracé.",
+      "added": [
+        "evidence_fos2_20261104_002"
+      ]
+    },
+    {
+      "id": "actor_0050",
+      "from": "unknown",
+      "to": "unknown",
+      "before": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+      "after": "Rémi Costantino, directeur général adjoint du GPMM, indique que le port oriente une partie de son plan d'investissement pluriannuel selon les résultats du programme de décarbonation Syrius. Aucune approbation explicite du tracé aérien THT n'est rapportée. Le GPMM participe au dialogue territorial Fos–Berre comme maître d'ouvrage de projets industriels distincts de la ligne THT ; cette responsabilité ne vaut pas approbation individuelle de Rémi Costantino sur le tracé.",
+      "added": [
+        "evidence_fos2_20261104_003",
+        "evidence_fos2_20261104_025"
+      ]
+    },
+    {
+      "id": "actor_0073",
+      "from": "unknown",
+      "to": "opposed",
+      "before": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+      "after": "Le CEN PACA conteste publiquement les impacts du tracé THT aérien sur les espèces protégées de Crau, notamment le Ganga cata, et critique le caractère insuffisant de plusieurs mesures compensatoires de RTE.",
+      "added": [
+        "evidence_fos2_20261104_004",
+        "evidence_fos2_20261104_005",
+        "evidence_fos2_20261104_006"
+      ]
+    },
+    {
+      "id": "actor_0082",
+      "from": "unknown",
+      "to": "unknown",
+      "before": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+      "after": "Le collectif Sauvons nos Étangs cosigne avec plusieurs associations du golfe de Fos un plaidoyer municipal sur les impacts sanitaires, l'eau et la biodiversité des projets industriels. Cette action ne démontre pas une opposition de ce collectif à la ligne THT.",
+      "added": [
+        "evidence_fos2_20261104_007"
+      ]
+    },
+    {
+      "id": "actor_0086",
+      "from": "unknown",
+      "to": "unknown",
+      "before": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+      "after": "ArcelorMittal figure parmi les six principaux maîtres d'ouvrage industriels ayant répondu aux recommandations du débat public Fos–Étang de Berre. Le projet de four électrique est distinct de la ligne RTE ; aucune position d'ArcelorMittal sur son tracé aérien n'est démontrée.",
+      "added": [
+        "evidence_fos2_20261104_008"
+      ]
+    },
+    {
+      "id": "actor_0088",
+      "from": "unknown",
+      "to": "unknown",
+      "before": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+      "after": "NeoCarb est cité parmi les cinq projets industriels envisagés sur le môle central de Fos, avec un calendrier et des caractéristiques propres. Cette mention n'établit pas une prise de position sur la ligne THT. Elyse Energy porte le projet NeoCarb de carburants de synthèse bas carbone dans la ZIP de Fos, accompagné par des acteurs régionaux. Aucune position explicite sur la variante aérienne THT n'est rapportée.",
+      "added": [
+        "evidence_fos2_20261104_009",
+        "evidence_fos2_20261104_010"
+      ]
+    },
+    {
+      "id": "actor_0091",
+      "from": "unknown",
+      "to": "unknown",
+      "before": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+      "after": "Géométhane figure parmi les six maîtres d'ouvrage du débat public Fos–Berre ; son projet de stockage GéoH2 relève d'une procédure distincte de la ligne 400 kV.",
+      "added": [
+        "evidence_fos2_20261104_011"
+      ]
+    },
+    {
+      "id": "actor_0092",
+      "from": "unknown",
+      "to": "unknown",
+      "before": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+      "after": "ENGIE figure parmi les maîtres d'ouvrage du débat public Fos–Berre, notamment pour le projet d'hydrogène Hygreen. Cela ne démontre pas de préférence d'ENGIE sur le tracé aérien de RTE.",
+      "added": [
+        "evidence_fos2_20261104_012"
+      ]
+    },
+    {
+      "id": "actor_0093",
+      "from": "unknown",
+      "to": "unknown",
+      "before": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+      "after": "Le programme Syrius, porté par PIICTO et ses partenaires, a présenté le bilan de sa phase 2023–2025 et prépare une phase 2026–2030 de décarbonation industrielle avec plusieurs scénarios d'infrastructures. PIICTO, l'Ademe et des partenaires industriels et publics coordonnent Syrius, un programme de décarbonation du bassin Fos–Berre. Le texte présente l'électrification comme un levier, sans engagement explicite de PIICTO sur le tracé aérien Jonquières–Fos.",
+      "added": [
+        "evidence_fos2_20261104_013",
+        "evidence_fos2_20261104_014"
+      ]
+    },
+    {
+      "id": "actor_0110",
+      "from": "unknown",
+      "to": "unknown",
+      "before": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+      "after": "La Tribune Région Sud a publié un article sur les arbitrages de tracé, le report de l'instruction de DUP et les besoins d'électricité industrielle liés à la ligne Fos–Jonquières. Une couverture journalistique ne constitue pas un soutien du média au projet.",
+      "added": [
+        "evidence_fos2_20261104_015"
+      ]
+    },
+    {
+      "id": "actor_0060",
+      "from": "opposed",
+      "to": "opposed",
+      "before": "NACICCA formule une critique explicite des adaptations d’urbanisme de la ligne aérienne et de ses impacts écologiques, sans qu’un refus de toute infrastructure soit démontré.",
+      "after": "NACICCA formule une critique explicite des adaptations d’urbanisme de la ligne aérienne et de ses impacts écologiques, sans qu’un refus de toute infrastructure soit démontré.",
+      "added": [
+        "evidence_fos2_20261104_016"
+      ]
+    },
+    {
+      "id": "actor_0100",
+      "from": "unknown",
+      "to": "unknown",
+      "before": "La DREAL Occitanie est citée parmi les services ayant signalé les risques de collision pour plusieurs espèces d'oiseaux ; cela ne démontre pas une opposition institutionnelle.",
+      "after": "La DREAL Occitanie est citée parmi les services ayant signalé les risques de collision pour plusieurs espèces d'oiseaux ; cela ne démontre pas une opposition institutionnelle.",
+      "added": [
+        "evidence_fos2_20261104_017"
+      ]
+    },
+    {
+      "id": "actor_0003",
+      "from": "opposed",
+      "to": "opposed",
+      "before": "Opposé au tracé aérien et favorable aux alternatives enterrées ou sous-marines. Lors de sa réunion du 23 octobre 2026, le collectif a décidé de participer à l’enquête publique et de mobiliser les contributions et expertises juridiques dans le cadre légal.",
+      "after": "Opposé au tracé aérien et favorable aux alternatives enterrées ou sous-marines. Lors de sa réunion du 23 octobre 2026, le collectif a décidé de participer à l’enquête publique et de mobiliser les contributions et expertises juridiques dans le cadre légal.",
+      "added": [
+        "evidence_fos2_20261104_018"
+      ]
+    },
+    {
+      "id": "actor_0055",
+      "from": "opposed",
+      "to": "opposed",
+      "before": "FNE Bouches-du-Rhône soutient les solutions alternatives à l'aérien et critique les incidences écologiques et les faiblesses de l'analyse du projet.",
+      "after": "FNE Bouches-du-Rhône soutient les solutions alternatives à l'aérien et critique les incidences écologiques et les faiblesses de l'analyse du projet.",
+      "added": [
+        "evidence_fos2_20261104_019"
+      ]
+    },
+    {
+      "id": "actor_0070",
+      "from": "opposed",
+      "to": "opposed",
+      "before": "La LPO cosigne l'appel de quinze organismes demandant à l'État de renoncer à la ligne aérienne en Camargue et de rechercher une autre solution. L'AFP cite aussi la LPO parmi les organisations qui s'opposent à la solution aérienne et demandent une variante moins dommageable.",
+      "after": "La LPO cosigne l'appel de quinze organismes demandant à l'État de renoncer à la ligne aérienne en Camargue et de rechercher une autre solution. L'AFP cite aussi la LPO parmi les organisations qui s'opposent à la solution aérienne et demandent une variante moins dommageable.",
+      "added": [
+        "evidence_fos2_20261104_020"
+      ]
+    },
+    {
+      "id": "actor_0081",
+      "from": "opposed",
+      "to": "opposed",
+      "before": "Arles Camargue Environnement Nature figure parmi les signataires d'une tribune environnementale de mobilisation contre la THT, recensés par FNE13.",
+      "after": "Arles Camargue Environnement Nature figure parmi les signataires d'une tribune environnementale de mobilisation contre la THT, recensés par FNE13.",
+      "added": [
+        "evidence_fos2_20261104_021"
+      ]
+    },
+    {
+      "id": "actor_0047",
+      "from": "favorable",
+      "to": "favorable",
+      "before": "Soutient la réalisation rapide de la ligne pour l’électrification de Fos-Berre et propose désormais un Pacte territorial piloté par l’État, avec une séquence de cent jours afin de sécuriser la procédure et de négocier les mesures d’accompagnement.",
+      "after": "Soutient la réalisation rapide de la ligne pour l’électrification de Fos-Berre et propose désormais un Pacte territorial piloté par l’État, avec une séquence de cent jours afin de sécuriser la procédure et de négocier les mesures d’accompagnement.",
+      "added": [
+        "evidence_fos2_20261104_022"
+      ]
+    },
+    {
+      "id": "actor_0056",
+      "from": "opposed",
+      "to": "opposed",
+      "before": "L'Association de sauvegarde des terres de Camargue et de Crau, coprésidée par Cédric Bernardi et Guillaume Meiffre, mène des actions publiques contre les pylônes.",
+      "after": "L'Association de sauvegarde des terres de Camargue et de Crau, coprésidée par Cédric Bernardi et Guillaume Meiffre, mène des actions publiques contre les pylônes.",
+      "added": [
+        "evidence_fos2_20261104_023"
+      ]
+    },
+    {
+      "id": "actor_0006",
+      "from": "opposed",
+      "to": "opposed",
+      "before": "Cédric Bernardi, riziculteur et éleveur, déclare soutenir le renforcement électrique mais refuser la solution aérienne en Camargue. Cédric Bernardi copréside l'association de sauvegarde des terres de Camargue et de Crau, opposée à la ligne aérienne.",
+      "after": "Cédric Bernardi, riziculteur et éleveur, déclare soutenir le renforcement électrique mais refuser la solution aérienne en Camargue. Cédric Bernardi copréside l'association de sauvegarde des terres de Camargue et de Crau, opposée à la ligne aérienne.",
+      "added": [
+        "evidence_fos2_20261104_024"
+      ]
+    },
+    {
+      "id": "actor_0096",
+      "from": "neutral",
+      "to": "neutral",
+      "before": "Une concertation préalable sur les documents d'urbanisme, distincte de la concertation CNDP, a eu lieu du 15 juin au 15 juillet 2026.",
+      "after": "Une concertation préalable sur les documents d'urbanisme, distincte de la concertation CNDP, a eu lieu du 15 juin au 15 juillet 2026.",
+      "added": [
+        "evidence_fos2_20261104_026"
+      ]
+    }
+  ],
+  "relation_deltas": [
+    {
+      "id": "relation_0037",
+      "actor_id": "actor_0036",
+      "added": [
+        "evidence_fos2_20261104_001"
+      ]
+    },
+    {
+      "id": "relation_0074",
+      "actor_id": "actor_0073",
+      "added": [
+        "evidence_fos2_20261104_004",
+        "evidence_fos2_20261104_005",
+        "evidence_fos2_20261104_006"
+      ]
+    },
+    {
+      "id": "relation_0210",
+      "actor_id": "actor_0110",
+      "added": [
+        "evidence_fos2_20261104_015"
+      ]
+    },
+    {
+      "id": "relation_0061",
+      "actor_id": "actor_0060",
+      "added": [
+        "evidence_fos2_20261104_016"
+      ]
+    },
+    {
+      "id": "relation_0101",
+      "actor_id": "actor_0100",
+      "added": [
+        "evidence_fos2_20261104_017"
+      ]
+    },
+    {
+      "id": "relation_0003",
+      "actor_id": "actor_0003",
+      "added": [
+        "evidence_fos2_20261104_018"
+      ]
+    },
+    {
+      "id": "relation_0056",
+      "actor_id": "actor_0055",
+      "added": [
+        "evidence_fos2_20261104_019"
+      ]
+    },
+    {
+      "id": "relation_0071",
+      "actor_id": "actor_0070",
+      "added": [
+        "evidence_fos2_20261104_020"
+      ]
+    },
+    {
+      "id": "relation_0082",
+      "actor_id": "actor_0081",
+      "added": [
+        "evidence_fos2_20261104_021"
+      ]
+    },
+    {
+      "id": "relation_0048",
+      "actor_id": "actor_0047",
+      "added": [
+        "evidence_fos2_20261104_022"
+      ]
+    },
+    {
+      "id": "relation_0057",
+      "actor_id": "actor_0056",
+      "added": [
+        "evidence_fos2_20261104_023"
+      ]
+    },
+    {
+      "id": "relation_0012",
+      "actor_id": "actor_0006",
+      "added": [
+        "evidence_fos2_20261104_024"
+      ]
+    },
+    {
+      "id": "relation_0134",
+      "actor_id": "actor_0050",
+      "added": [
+        "evidence_fos2_20261104_003"
+      ]
+    }
+  ],
+  "proof_registry": [
+    {
+      "id": "evidence_fos2_20261104_001",
+      "actor_id": "actor_0036",
+      "row": 11,
+      "source_id": "source_0100",
+      "scope": "position"
+    },
+    {
+      "id": "evidence_fos2_20261104_002",
+      "actor_id": "actor_0040",
+      "row": 70,
+      "source_id": "source_0114",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_003",
+      "actor_id": "actor_0050",
+      "row": 90,
+      "source_id": "source_0118",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_004",
+      "actor_id": "actor_0073",
+      "row": 69,
+      "source_id": "source_0113",
+      "scope": "position"
+    },
+    {
+      "id": "evidence_fos2_20261104_005",
+      "actor_id": "actor_0073",
+      "row": 1001,
+      "source_id": "source_0122",
+      "scope": "position"
+    },
+    {
+      "id": "evidence_fos2_20261104_006",
+      "actor_id": "actor_0073",
+      "row": 1002,
+      "source_id": "source_0123",
+      "scope": "position"
+    },
+    {
+      "id": "evidence_fos2_20261104_007",
+      "actor_id": "actor_0082",
+      "row": 16,
+      "source_id": "source_0101",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_008",
+      "actor_id": "actor_0086",
+      "row": 35,
+      "source_id": "source_0106",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_009",
+      "actor_id": "actor_0088",
+      "row": 42,
+      "source_id": "source_0107",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_010",
+      "actor_id": "actor_0088",
+      "row": 82,
+      "source_id": "source_0116",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_011",
+      "actor_id": "actor_0091",
+      "row": 35,
+      "source_id": "source_0106",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_012",
+      "actor_id": "actor_0092",
+      "row": 35,
+      "source_id": "source_0106",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_013",
+      "actor_id": "actor_0093",
+      "row": 89,
+      "source_id": "source_0117",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_014",
+      "actor_id": "actor_0093",
+      "row": 91,
+      "source_id": "source_0119",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_015",
+      "actor_id": "actor_0110",
+      "row": 20,
+      "source_id": "source_0103",
+      "scope": "media"
+    },
+    {
+      "id": "evidence_fos2_20261104_016",
+      "actor_id": "actor_0060",
+      "row": 19,
+      "source_id": "source_0102",
+      "scope": "new_fact"
+    },
+    {
+      "id": "evidence_fos2_20261104_017",
+      "actor_id": "actor_0100",
+      "row": 70,
+      "source_id": "source_0114",
+      "scope": "new_fact"
+    },
+    {
+      "id": "evidence_fos2_20261104_018",
+      "actor_id": "actor_0003",
+      "row": 50,
+      "source_id": "source_0109",
+      "scope": "new_fact"
+    },
+    {
+      "id": "evidence_fos2_20261104_019",
+      "actor_id": "actor_0055",
+      "row": 31,
+      "source_id": "source_0105",
+      "scope": "new_fact"
+    },
+    {
+      "id": "evidence_fos2_20261104_020",
+      "actor_id": "actor_0070",
+      "row": 43,
+      "source_id": "source_0108",
+      "scope": "new_fact"
+    },
+    {
+      "id": "evidence_fos2_20261104_021",
+      "actor_id": "actor_0081",
+      "row": 57,
+      "source_id": "source_0111",
+      "scope": "new_fact"
+    },
+    {
+      "id": "evidence_fos2_20261104_022",
+      "actor_id": "actor_0047",
+      "row": 80,
+      "source_id": "source_0115",
+      "scope": "new_fact"
+    },
+    {
+      "id": "evidence_fos2_20261104_023",
+      "actor_id": "actor_0056",
+      "row": 99,
+      "source_id": "source_0121",
+      "scope": "new_fact"
+    },
+    {
+      "id": "evidence_fos2_20261104_024",
+      "actor_id": "actor_0006",
+      "row": 98,
+      "source_id": "source_0120",
+      "scope": "new_fact"
+    },
+    {
+      "id": "evidence_fos2_20261104_025",
+      "actor_id": "actor_0050",
+      "row": 35,
+      "source_id": "source_0106",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_026",
+      "actor_id": "actor_0096",
+      "row": 35,
+      "source_id": "source_0106",
+      "scope": "new_fact"
+    }
+  ],
+  "remaining_unqualified": [
+    {
+      "id": "actor_0021",
+      "name": "Rémy Benson"
+    },
+    {
+      "id": "actor_0022",
+      "name": "Daniel Carlotti"
+    },
+    {
+      "id": "actor_0024",
+      "name": "Laura Baudino"
+    },
+    {
+      "id": "actor_0026",
+      "name": "Jean-Claude Cheinet"
+    },
+    {
+      "id": "actor_0027",
+      "name": "Daniel Moutet"
+    },
+    {
+      "id": "actor_0028",
+      "name": "Marie-Hélène Fabre"
+    },
+    {
+      "id": "actor_0030",
+      "name": "Richard Hardouin"
+    },
+    {
+      "id": "actor_0031",
+      "name": "Stéphane Coppey"
+    },
+    {
+      "id": "actor_0032",
+      "name": "Isabelle Charnoz"
+    },
+    {
+      "id": "actor_0037",
+      "name": "René Raimondi"
+    },
+    {
+      "id": "actor_0051",
+      "name": "Régis Passerieux"
+    },
+    {
+      "id": "actor_0052",
+      "name": "NGE / Jean Bernadet"
+    },
+    {
+      "id": "actor_0053",
+      "name": "Club Top 20"
+    },
+    {
+      "id": "actor_0079",
+      "name": "Nacioun Gardiano"
+    },
+    {
+      "id": "actor_0080",
+      "name": "ADPLGF"
+    },
+    {
+      "id": "actor_0083",
+      "name": "MCTB Golfe de Fos Environnement"
+    },
+    {
+      "id": "actor_0094",
+      "name": "France Hydrogène"
+    },
+    {
+      "id": "actor_0095",
+      "name": "Newcleo"
+    },
+    {
+      "id": "actor_0101",
+      "name": "DREAL PACA / MRAe PACA"
+    },
+    {
+      "id": "actor_0102",
+      "name": "Commission européenne / Berne / Ramsar"
+    }
+  ],
+  "vigilance": [
+    "Des sources du classeur ne sont accessibles que par leur texte reproduit : la vérification directe est distinguée dans sources.json.",
+    "Un rôle de maître d'ouvrage dans Fos–Berre ne constitue pas une prise de position sur le tracé aérien Feuillane–Jonquières.",
+    "L'ancien article sur les municipales d'Arles n'est pas utilisé comme preuve de position lorsqu'il ne traite pas précisément du projet.",
+    "La mesure de comptage NACICCA est explicitement qualifiée de comptage symbolique par l'association, et non d'étude représentative sur toute la période.",
+    "Les articles 2025–mars 2026 n'effacent pas la procédure d'enquête publique prévue novembre–décembre 2026."
+  ]
+}

@@ -86,12 +86,18 @@
         "evidence_retro_fos_20261104_020",
         "evidence_retro_fos_20261104_044",
         "evidence_retro_fos_20261104_065",
-        "evidence_retro_fos_20261104_045"
+        "evidence_retro_fos_20261104_045",
+        "evidence_fos2_20261104_004",
+        "evidence_fos2_20261104_016",
+        "evidence_fos2_20261104_020"
       ],
       "source_ids": [
         "source_0066",
         "source_0022",
-        "source_0070"
+        "source_0070",
+        "source_0113",
+        "source_0102",
+        "source_0108"
       ]
     },
     {
@@ -129,15 +135,23 @@
     },
     {
       "title": "⚖️ Passage en force réglementaire",
-      "text": "Enjeu historique maintenu en vigilance ; les affirmations initiales non sourcées ne sont plus présentées comme établies.",
-      "evidence_ids": [],
-      "source_ids": []
+      "text": "Le collectif considère la poursuite de la procédure aérienne comme une décision imposée et conteste les alternatives examinées. Cette qualification est son appréciation politique et juridique, distincte de l'état réel des autorisations et recours.",
+      "evidence_ids": [
+        "evidence_fos2_20261104_018"
+      ],
+      "source_ids": [
+        "source_0109"
+      ]
     },
     {
       "title": "🏭 Effets cumulés sur Fos-Berre",
-      "text": "Enjeu historique maintenu en vigilance ; les affirmations initiales non sourcées ne sont plus présentées comme établies.",
-      "evidence_ids": [],
-      "source_ids": []
+      "text": "La CNDP appelle à mieux analyser les effets cumulés des projets Fos–Berre, notamment les besoins électriques, les impacts sanitaires et environnementaux et les scénarios de raccordement. Les projets industriels et la ligne RTE conservent leurs procédures distinctes.",
+      "evidence_ids": [
+        "evidence_fos2_20261104_026"
+      ],
+      "source_ids": [
+        "source_0106"
+      ]
     }
   ],
   "vigilance": [
