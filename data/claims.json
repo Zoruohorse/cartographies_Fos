@@ -816,10 +816,13 @@
     "subject_id": "actor_0066",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "La Coordination rurale des Bouches-du-Rhône est citée nommément parmi les signataires de la tribune recensés par FNE13 contre le projet de ligne aérienne THT en Camargue et en Crau. Cette signature ne vaut pas position de toutes les fédérations départementales ou nationales du syndicat.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_034"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0067",
@@ -852,10 +855,13 @@
     "subject_id": "actor_0069",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "L'IGP Riz de Camargue figure nommément sur la liste de premiers signataires de la tribune publiée par FNE Bouches-du-Rhône contre le projet de ligne aérienne THT en Camargue et en Crau.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_035"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0070",

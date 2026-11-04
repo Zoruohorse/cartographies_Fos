@@ -1,0 +1,180 @@
+{
+  "project": "Ligne THT Fos–Jonquières",
+  "input": "Fos(1).xlsx",
+  "date": "2026-11-04",
+  "repository": "Zoruohorse/cartographies_Fos",
+  "excel_rows_examined": 100,
+  "baseline": {
+    "actor_cards": 151,
+    "qualified_cards": 94,
+    "edges_with_proof": 68,
+    "proofs": 186,
+    "sources": 69
+  },
+  "final": {
+    "actor_cards": 151,
+    "qualified_cards": 121,
+    "actor_coverage_percent": 80.13,
+    "edges_with_proof": 85,
+    "proofs": 221,
+    "sources": 89,
+    "relations": 217
+  },
+  "changes": {
+    "initial_commit": "bd641232e96bad785ef26423a4302106372664c6",
+    "new_evidences": 35,
+    "new_sources": 20,
+    "actor_records_enriched": 30,
+    "positions_requalified": 16,
+    "documented_actor_project_edges_added": 20,
+    "unsourced_claim_assertions_removed": 0,
+    "historical_unverified_assertions_remaining": 36
+  },
+  "verification_note": "Une URL est un lien documentaire, mais toutes les sources reprises du classeur ne sont pas directement ouvertes ; la provenance est distinguée par champs de vérification. Signataires de la tribune FNE13 consultée directement. Pas de preuve inventée pour les autres acteurs.",
+  "notably_qualified": [
+    {
+      "id": "actor_0066",
+      "name": "Coordination rurale",
+      "from": "unknown",
+      "to": "opposed",
+      "evId": "evidence_fos1_20261104_034",
+      "edges": [
+        "relation_0067"
+      ]
+    },
+    {
+      "id": "actor_0069",
+      "name": "IGP Riz de Camargue",
+      "from": "unknown",
+      "to": "opposed",
+      "evId": "evidence_fos1_20261104_035",
+      "edges": [
+        "relation_0070"
+      ]
+    }
+  ],
+  "remaining_unqualified": [
+    {
+      "id": "actor_0021",
+      "name": "Rémy Benson"
+    },
+    {
+      "id": "actor_0022",
+      "name": "Daniel Carlotti"
+    },
+    {
+      "id": "actor_0024",
+      "name": "Laura Baudino"
+    },
+    {
+      "id": "actor_0026",
+      "name": "Jean-Claude Cheinet"
+    },
+    {
+      "id": "actor_0027",
+      "name": "Daniel Moutet"
+    },
+    {
+      "id": "actor_0028",
+      "name": "Marie-Hélène Fabre"
+    },
+    {
+      "id": "actor_0030",
+      "name": "Richard Hardouin"
+    },
+    {
+      "id": "actor_0031",
+      "name": "Stéphane Coppey"
+    },
+    {
+      "id": "actor_0032",
+      "name": "Isabelle Charnoz"
+    },
+    {
+      "id": "actor_0037",
+      "name": "René Raimondi"
+    },
+    {
+      "id": "actor_0040",
+      "name": "Jérôme Bonet"
+    },
+    {
+      "id": "actor_0050",
+      "name": "Rémi Costantino"
+    },
+    {
+      "id": "actor_0051",
+      "name": "Régis Passerieux"
+    },
+    {
+      "id": "actor_0052",
+      "name": "NGE / Jean Bernadet"
+    },
+    {
+      "id": "actor_0053",
+      "name": "Club Top 20"
+    },
+    {
+      "id": "actor_0073",
+      "name": "CEN PACA"
+    },
+    {
+      "id": "actor_0079",
+      "name": "Nacioun Gardiano"
+    },
+    {
+      "id": "actor_0080",
+      "name": "ADPLGF"
+    },
+    {
+      "id": "actor_0082",
+      "name": "Sauvons nos Étangs"
+    },
+    {
+      "id": "actor_0083",
+      "name": "MCTB Golfe de Fos Environnement"
+    },
+    {
+      "id": "actor_0086",
+      "name": "ArcelorMittal Méditerranée"
+    },
+    {
+      "id": "actor_0088",
+      "name": "Elyse / Neocarb"
+    },
+    {
+      "id": "actor_0091",
+      "name": "Geométhane"
+    },
+    {
+      "id": "actor_0092",
+      "name": "ENGIE"
+    },
+    {
+      "id": "actor_0093",
+      "name": "PIICTO / Syrius"
+    },
+    {
+      "id": "actor_0094",
+      "name": "France Hydrogène"
+    },
+    {
+      "id": "actor_0095",
+      "name": "Newcleo"
+    },
+    {
+      "id": "actor_0101",
+      "name": "DREAL PACA / MRAe PACA"
+    },
+    {
+      "id": "actor_0102",
+      "name": "Commission européenne / Berne / Ramsar"
+    },
+    {
+      "id": "actor_0110",
+      "name": "La Tribune Région Sud"
+    }
+  ],
+  "source_warning": "Les médias et projets industriels simplement mentionnés ne sont pas automatiquement favorables ou opposés. Les relations entre acteurs autres que le projet demandent un audit individuel.",
+  "conservation": "Architecture, taxonomie, moteurs JS et styles inchangés."
+}
