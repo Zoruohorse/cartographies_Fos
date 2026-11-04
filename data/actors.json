@@ -219,7 +219,7 @@
     "id": "actor_0008",
     "name": "Emmanuel Taché",
     "short_name": "Emmanuel Taché",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "Emmanuel Taché indique s'opposer depuis 2023 à la solution aérienne et avoir présenté les objections des acteurs locaux au cabinet de la ministre de l'Énergie.",
     "categories": [
       "elus-opp"
     ],
@@ -309,7 +309,7 @@
     "id": "actor_0011",
     "name": "Guillaume Meiffre",
     "short_name": "Guillaume Meiffre",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "Guillaume Meiffre, coprésident de l'ASTCC avec Cédric Bernardi, participe à l'action du conteneur symbolisant la hauteur des pylônes et s'oppose au tracé aérien. Guillaume Meiffre dénonce les conditions des visites agricoles réalisées pour les études RTE ; il s'agit de son témoignage, non d'une conclusion judiciaire.",
     "categories": [
       "opposants"
     ],
@@ -633,7 +633,7 @@
     "id": "actor_0023",
     "name": "Isabelle Gex",
     "short_name": "Isabelle Gex",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "Isabelle Gex défend, au nom d'un collectif de riverains, un maillage électrique différent et des alternatives sous-marines plutôt que la solution aérienne proposée.",
     "categories": [
       "opposants"
     ],
@@ -1269,7 +1269,7 @@
     "id": "actor_0045",
     "name": "Emmanuel Macron",
     "short_name": "Emmanuel Macron",
-    "description": "Le collectif a interpellé Emmanuel Macron pour solliciter une réunion et demander l'étude d'une alternative non aérienne ; cette interpellation n'établit pas sa position personnelle.",
+    "description": "Emmanuel Macron déclare le 26 mai 2026 que la ligne entre le Gard et Fos est nécessaire et demande une mise en service envisagée pour 2029. Emmanuel Macron soutient explicitement le renforcement électrique 400 kV destiné aux industriels de Fos, tout en faisant face à des oppositions locales.",
     "categories": [
       "elus-fav"
     ],
@@ -1389,7 +1389,7 @@
     "id": "actor_0049",
     "name": "Grand Port Maritime de Marseille-Fos",
     "short_name": "Grand Port Maritime de Marseille-Fos",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "Le Grand Port Maritime de Marseille intervient dans les mesures d'évitement, réduction et compensation liées aux installations industrielles de la ZIP ; cette source ne prouve pas sa position sur le tracé THT.",
     "categories": [
       "porteurs"
     ],
@@ -1830,7 +1830,7 @@
     "id": "actor_0068",
     "name": "AOP Foin de Crau",
     "short_name": "AOP Foin de Crau",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "L'AOP Foin de Crau figure parmi les signataires de la tribune contre la ligne aérienne cités par FNE13.",
     "categories": [
       "orgs"
     ],
@@ -1866,7 +1866,7 @@
     "id": "actor_0070",
     "name": "LPO",
     "short_name": "LPO",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "La LPO cosigne l'appel de quinze organismes demandant à l'État de renoncer à la ligne aérienne en Camargue et de rechercher une autre solution. L'AFP cite aussi la LPO parmi les organisations qui s'opposent à la solution aérienne et demandent une variante moins dommageable.",
     "categories": [
       "orgs"
     ],
@@ -1884,7 +1884,7 @@
     "id": "actor_0071",
     "name": "WWF France",
     "short_name": "WWF France",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "WWF France cosigne l'appel de quinze organisations contre le tracé aérien à travers les espaces protégés de Camargue. WWF France figure parmi les signataires de la lettre environnementale contre la ligne aérienne, relayée par France 3.",
     "categories": [
       "orgs"
     ],
@@ -1974,7 +1974,7 @@
     "id": "actor_0076",
     "name": "Ramsar France / MAB France / Réserves naturelles",
     "short_name": "Ramsar France / MAB France / Réserves naturelles",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "Ramsar France, MAB France et Réserves naturelles de France figurent toutes trois parmi les signataires d'un appel conjoint contre la solution aérienne. Cette fiche est un regroupement documentaire, pas une personne morale unique.",
     "categories": [
       "orgs"
     ],
@@ -1992,7 +1992,7 @@
     "id": "actor_0077",
     "name": "OFB",
     "short_name": "OFB",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "L'Office français de la biodiversité participe aux échanges scientifiques organisés avec la Tour du Valat sur les oiseaux d'eau de Camargue ; aucune position de l'OFB sur le tracé n'en découle.",
     "categories": [
       "elus-fav"
     ],
@@ -2064,7 +2064,7 @@
     "id": "actor_0081",
     "name": "ACEN",
     "short_name": "ACEN",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "Arles Camargue Environnement Nature figure parmi les signataires d'une tribune environnementale de mobilisation contre la THT, recensés par FNE13.",
     "categories": [
       "orgs"
     ],
@@ -2226,7 +2226,7 @@
     "id": "actor_0090",
     "name": "NaTran",
     "short_name": "NaTran",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "NaTran participe au corridor hydrogène H2Med/BarMar lié à l'écosystème industriel Fos-Marseille, sans prise de position démontrée sur le tracé aérien THT.",
     "categories": [
       "porteurs"
     ],
@@ -2475,7 +2475,7 @@
     "id": "actor_0103",
     "name": "La Provence",
     "short_name": "La Provence",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "La Provence publie le récit d'exploitants dénonçant les visites de RTE, en présentant leurs accusations comme des témoignages non judiciairement établis.",
     "categories": [
       "medias"
     ],
@@ -2493,7 +2493,7 @@
     "id": "actor_0104",
     "name": "Objectif Gard",
     "short_name": "Objectif Gard",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "Objectif Gard relate le conteneur de douze mètres installé par l'ASTCC dans son opposition au tracé aérien.",
     "categories": [
       "medias"
     ],
@@ -2511,7 +2511,7 @@
     "id": "actor_0105",
     "name": "La Marseillaise",
     "short_name": "La Marseillaise",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "La Marseillaise décrit la mobilisation locale contre le tracé aérien et reproduit des propos de Julien Besançon.",
     "categories": [
       "medias"
     ],
@@ -2529,7 +2529,7 @@
     "id": "actor_0106",
     "name": "France 3 / Franceinfo",
     "short_name": "France 3 / Franceinfo",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "France 3 / Franceinfo relate l'appel de quinze organisations environnementales contre la ligne aérienne en Camargue.",
     "categories": [
       "medias"
     ],
@@ -2547,7 +2547,7 @@
     "id": "actor_0107",
     "name": "FNE13.fr",
     "short_name": "FNE13.fr",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "FNE13 publie un article associant son anniversaire au domaine Mourgues du Grès, présenté comme un symbole de sa mobilisation contre la THT aérienne.",
     "categories": [
       "medias"
     ],
@@ -2565,7 +2565,7 @@
     "id": "actor_0108",
     "name": "Marsactu",
     "short_name": "Marsactu",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "Marsactu relate les réserves formulées par l'Autorité environnementale sur les besoins électriques, l'analyse environnementale et la biodiversité.",
     "categories": [
       "medias"
     ],
@@ -2583,7 +2583,7 @@
     "id": "actor_0109",
     "name": "GoMet",
     "short_name": "GoMet",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "GoMet rapporte la demande de Renaud Muselier d'une solution partagée intégrant les enjeux de territoire.",
     "categories": [
       "medias"
     ],
@@ -2619,7 +2619,7 @@
     "id": "actor_0111",
     "name": "Tourduvalat.org",
     "short_name": "Tourduvalat.org",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "Le site de la Tour du Valat publie la contribution défavorable de la fondation à la MECDU du projet THT, portant notamment sur les continuités écologiques.",
     "categories": [
       "medias"
     ],
@@ -2733,7 +2733,7 @@
     "id": "actor_0116",
     "name": "MAB France",
     "short_name": "MAB France",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "MAB France alerte le ministère sur les risques de la ligne aérienne pour la réserve de biosphère de Camargue et les engagements de protection des habitats. MAB France est également signataire de l'appel conjoint pour renoncer à la solution aérienne.",
     "categories": [
       "orgs"
     ],
@@ -2805,7 +2805,7 @@
     "id": "actor_0119",
     "name": "Julien Besançon",
     "short_name": "Julien Besançon",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "Julien Besançon, premier adjoint de Saint-Martin-de-Crau, exige une autre solution que le tracé aérien et soutient la mobilisation des élus locaux.",
     "categories": [
       "elus-opp"
     ],
@@ -2829,7 +2829,7 @@
     "id": "actor_0120",
     "name": "Robert Crauste",
     "short_name": "Robert Crauste",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "Robert Crauste, président du syndicat mixte de Camargue gardoise, dit avoir signé un manifeste d'opposition à la ligne aérienne tout en défendant la décarbonation.",
     "categories": [
       "elus-opp"
     ],
@@ -2877,7 +2877,7 @@
     "id": "actor_0122",
     "name": "Monique Barbut",
     "short_name": "Monique Barbut",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "Monique Barbut est destinataire d'un courrier de MAB France alertant sur les risques de la THT pour la réserve de biosphère ; aucune position personnelle de la ministre n'est prouvée.",
     "categories": [
       "elus-fav"
     ],
@@ -2901,7 +2901,7 @@
     "id": "actor_0123",
     "name": "Maud Bregeon",
     "short_name": "Maud Bregeon",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "Le cabinet de Maud Bregeon a échangé avec Emmanuel Taché sur la ligne et les objections locales ; cela ne prouve pas une préférence personnelle de la ministre sur le tracé.",
     "categories": [
       "elus-fav"
     ],
@@ -2925,7 +2925,7 @@
     "id": "actor_0124",
     "name": "B. Huet",
     "short_name": "B. Huet",
-    "description": "Acteur historique du référentiel : les affirmations initiales sur sa position et son rôle restent à corroborer par des sources vérifiables.",
+    "description": "B. Huet signe par délégation un arrêté concernant le projet Minéralier, distinct de la ligne Feuillane–Jonquières ; cet acte ne démontre aucune préférence sur la THT.",
     "categories": [
       "porteurs"
     ],

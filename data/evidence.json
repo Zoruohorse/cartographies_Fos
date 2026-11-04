@@ -2275,5 +2275,434 @@
     "access": "texte_repris_excel_ou_source_indexee",
     "verification": "excel_text_link",
     "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_001",
+    "type": "documented_summary",
+    "text": "Emmanuel Taché indique s'opposer depuis 2023 à la solution aérienne et avoir présenté les objections des acteurs locaux au cabinet de la ministre de l'Énergie.",
+    "source_id": "source_0086",
+    "source_ids": [
+      "source_0086"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 41, passage sur Emmanuel Taché",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_002",
+    "type": "documented_summary",
+    "text": "Guillaume Meiffre, coprésident de l'ASTCC avec Cédric Bernardi, participe à l'action du conteneur symbolisant la hauteur des pylônes et s'oppose au tracé aérien.",
+    "source_id": "source_0084",
+    "source_ids": [
+      "source_0084"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 14, passage sur Guillaume Meiffre",
+    "verification": "web_consulted",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_003",
+    "type": "documented_summary",
+    "text": "Guillaume Meiffre dénonce les conditions des visites agricoles réalisées pour les études RTE ; il s'agit de son témoignage, non d'une conclusion judiciaire.",
+    "source_id": "source_0080",
+    "source_ids": [
+      "source_0080"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 4, passage sur Guillaume Meiffre",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_004",
+    "type": "documented_summary",
+    "text": "Isabelle Gex défend, au nom d'un collectif de riverains, un maillage électrique différent et des alternatives sous-marines plutôt que la solution aérienne proposée.",
+    "source_id": "source_0087",
+    "source_ids": [
+      "source_0087"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 49, passage sur Isabelle Gex",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_005",
+    "type": "documented_summary",
+    "text": "Emmanuel Macron déclare le 26 mai 2026 que la ligne entre le Gard et Fos est nécessaire et demande une mise en service envisagée pour 2029.",
+    "source_id": "source_0091",
+    "source_ids": [
+      "source_0091"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 72, passage sur Emmanuel Macron",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_006",
+    "type": "documented_summary",
+    "text": "Emmanuel Macron soutient explicitement le renforcement électrique 400 kV destiné aux industriels de Fos, tout en faisant face à des oppositions locales.",
+    "source_id": "source_0093",
+    "source_ids": [
+      "source_0093"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 74, passage sur Emmanuel Macron",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_007",
+    "type": "documented_summary",
+    "text": "Le Grand Port Maritime de Marseille intervient dans les mesures d'évitement, réduction et compensation liées aux installations industrielles de la ZIP ; cette source ne prouve pas sa position sur le tracé THT.",
+    "source_id": "source_0096",
+    "source_ids": [
+      "source_0096"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 97, passage sur Grand Port Maritime de Marseille-Fos",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_008",
+    "type": "documented_summary",
+    "text": "L'AOP Foin de Crau figure parmi les signataires de la tribune contre la ligne aérienne cités par FNE13.",
+    "source_id": "source_0097",
+    "source_ids": [
+      "source_0097"
+    ],
+    "source_status": "qualified",
+    "location": "Publication directement consultée — passage sur AOP Foin de Crau",
+    "verification": "web_consulted",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_009",
+    "type": "documented_summary",
+    "text": "La LPO cosigne l'appel de quinze organismes demandant à l'État de renoncer à la ligne aérienne en Camargue et de rechercher une autre solution.",
+    "source_id": "source_0071",
+    "source_ids": [
+      "source_0071"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 64, passage sur LPO",
+    "verification": "web_indexed",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_010",
+    "type": "documented_summary",
+    "text": "L'AFP cite aussi la LPO parmi les organisations qui s'opposent à la solution aérienne et demandent une variante moins dommageable.",
+    "source_id": "source_0088",
+    "source_ids": [
+      "source_0088"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 61, passage sur LPO",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_011",
+    "type": "documented_summary",
+    "text": "WWF France cosigne l'appel de quinze organisations contre le tracé aérien à travers les espaces protégés de Camargue.",
+    "source_id": "source_0071",
+    "source_ids": [
+      "source_0071"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 64, passage sur WWF France",
+    "verification": "web_indexed",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_012",
+    "type": "documented_summary",
+    "text": "WWF France figure parmi les signataires de la lettre environnementale contre la ligne aérienne, relayée par France 3.",
+    "source_id": "source_0089",
+    "source_ids": [
+      "source_0089"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 63, passage sur WWF France",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_013",
+    "type": "documented_summary",
+    "text": "Ramsar France, MAB France et Réserves naturelles de France figurent toutes trois parmi les signataires d'un appel conjoint contre la solution aérienne. Cette fiche est un regroupement documentaire, pas une personne morale unique.",
+    "source_id": "source_0071",
+    "source_ids": [
+      "source_0071"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 64, passage sur Ramsar France / MAB France / Réserves naturelles",
+    "verification": "web_indexed",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_014",
+    "type": "documented_summary",
+    "text": "L'Office français de la biodiversité participe aux échanges scientifiques organisés avec la Tour du Valat sur les oiseaux d'eau de Camargue ; aucune position de l'OFB sur le tracé n'en découle.",
+    "source_id": "source_0092",
+    "source_ids": [
+      "source_0092"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 73, passage sur OFB",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_015",
+    "type": "documented_summary",
+    "text": "Arles Camargue Environnement Nature figure parmi les signataires d'une tribune environnementale de mobilisation contre la THT, recensés par FNE13.",
+    "source_id": "source_0097",
+    "source_ids": [
+      "source_0097"
+    ],
+    "source_status": "qualified",
+    "location": "Publication directement consultée — passage sur ACEN",
+    "verification": "web_consulted",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_016",
+    "type": "documented_summary",
+    "text": "NaTran participe au corridor hydrogène H2Med/BarMar lié à l'écosystème industriel Fos-Marseille, sans prise de position démontrée sur le tracé aérien THT.",
+    "source_id": "source_0096",
+    "source_ids": [
+      "source_0096"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 97, passage sur NaTran",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_017",
+    "type": "documented_summary",
+    "text": "MAB France alerte le ministère sur les risques de la ligne aérienne pour la réserve de biosphère de Camargue et les engagements de protection des habitats.",
+    "source_id": "source_0081",
+    "source_ids": [
+      "source_0081"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 10, passage sur MAB France",
+    "verification": "web_consulted",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_018",
+    "type": "documented_summary",
+    "text": "MAB France est également signataire de l'appel conjoint pour renoncer à la solution aérienne.",
+    "source_id": "source_0071",
+    "source_ids": [
+      "source_0071"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 64, passage sur MAB France",
+    "verification": "web_indexed",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_019",
+    "type": "documented_summary",
+    "text": "Julien Besançon, premier adjoint de Saint-Martin-de-Crau, exige une autre solution que le tracé aérien et soutient la mobilisation des élus locaux.",
+    "source_id": "source_0083",
+    "source_ids": [
+      "source_0083"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 13, passage sur Julien Besançon",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_020",
+    "type": "documented_summary",
+    "text": "Robert Crauste, président du syndicat mixte de Camargue gardoise, dit avoir signé un manifeste d'opposition à la ligne aérienne tout en défendant la décarbonation.",
+    "source_id": "source_0081",
+    "source_ids": [
+      "source_0081"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 10, passage sur Robert Crauste",
+    "verification": "web_consulted",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_021",
+    "type": "documented_summary",
+    "text": "Monique Barbut est destinataire d'un courrier de MAB France alertant sur les risques de la THT pour la réserve de biosphère ; aucune position personnelle de la ministre n'est prouvée.",
+    "source_id": "source_0081",
+    "source_ids": [
+      "source_0081"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 10, passage sur Monique Barbut",
+    "verification": "web_consulted",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_022",
+    "type": "documented_summary",
+    "text": "Le cabinet de Maud Bregeon a échangé avec Emmanuel Taché sur la ligne et les objections locales ; cela ne prouve pas une préférence personnelle de la ministre sur le tracé.",
+    "source_id": "source_0086",
+    "source_ids": [
+      "source_0086"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 41, passage sur Maud Bregeon",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_023",
+    "type": "documented_summary",
+    "text": "B. Huet signe par délégation un arrêté concernant le projet Minéralier, distinct de la ligne Feuillane–Jonquières ; cet acte ne démontre aucune préférence sur la THT.",
+    "source_id": "source_0082",
+    "source_ids": [
+      "source_0082"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 12, passage sur B. Huet",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_024",
+    "type": "documented_summary",
+    "text": "La Provence publie le récit d'exploitants dénonçant les visites de RTE, en présentant leurs accusations comme des témoignages non judiciairement établis.",
+    "source_id": "source_0080",
+    "source_ids": [
+      "source_0080"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 4, passage sur La Provence",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_025",
+    "type": "documented_summary",
+    "text": "Objectif Gard relate le conteneur de douze mètres installé par l'ASTCC dans son opposition au tracé aérien.",
+    "source_id": "source_0084",
+    "source_ids": [
+      "source_0084"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 14, passage sur Objectif Gard",
+    "verification": "web_consulted",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_026",
+    "type": "documented_summary",
+    "text": "La Marseillaise décrit la mobilisation locale contre le tracé aérien et reproduit des propos de Julien Besançon.",
+    "source_id": "source_0083",
+    "source_ids": [
+      "source_0083"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 13, passage sur La Marseillaise",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_027",
+    "type": "documented_summary",
+    "text": "France 3 / Franceinfo relate l'appel de quinze organisations environnementales contre la ligne aérienne en Camargue.",
+    "source_id": "source_0089",
+    "source_ids": [
+      "source_0089"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 63, passage sur France 3 / Franceinfo",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_028",
+    "type": "documented_summary",
+    "text": "FNE13 publie un article associant son anniversaire au domaine Mourgues du Grès, présenté comme un symbole de sa mobilisation contre la THT aérienne.",
+    "source_id": "source_0095",
+    "source_ids": [
+      "source_0095"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 96, passage sur FNE13.fr",
+    "verification": "excel_text",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_029",
+    "type": "documented_summary",
+    "text": "Marsactu relate les réserves formulées par l'Autorité environnementale sur les besoins électriques, l'analyse environnementale et la biodiversité.",
+    "source_id": "source_0098",
+    "source_ids": [
+      "source_0098"
+    ],
+    "source_status": "qualified",
+    "location": "Publication directement consultée — passage sur Marsactu",
+    "verification": "web_consulted",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_030",
+    "type": "documented_summary",
+    "text": "GoMet rapporte la demande de Renaud Muselier d'une solution partagée intégrant les enjeux de territoire.",
+    "source_id": "source_0085",
+    "source_ids": [
+      "source_0085"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 38, passage sur GoMet",
+    "verification": "excel_excerpt",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_031",
+    "type": "documented_summary",
+    "text": "Le site de la Tour du Valat publie la contribution défavorable de la fondation à la MECDU du projet THT, portant notamment sur les continuités écologiques.",
+    "source_id": "source_0099",
+    "source_ids": [
+      "source_0099"
+    ],
+    "source_status": "qualified",
+    "location": "Publication directement consultée — passage sur Tourduvalat.org",
+    "verification": "web_consulted",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_032",
+    "type": "documented_summary",
+    "text": "La Tour du Valat exprime officiellement un avis défavorable aux modifications d'urbanisme nécessaires au projet THT et poursuit sa mobilisation sur la biodiversité.",
+    "source_id": "source_0099",
+    "source_ids": [
+      "source_0099"
+    ],
+    "source_status": "qualified",
+    "location": "Publication directement consultée — passage sur Tour du Valat",
+    "verification": "web_consulted",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos1_20261104_033",
+    "type": "documented_summary",
+    "text": "Renaud Muselier reconnaît le besoin d'électrifier Fos mais demande une solution territoriale partagée plutôt que le projet en l'état.",
+    "source_id": "source_0085",
+    "source_ids": [
+      "source_0085"
+    ],
+    "source_status": "qualified",
+    "location": "Fos(1).xlsx — ligne 38, passage sur Renaud Muselier",
+    "verification": "excel_excerpt",
+    "recorded_at": "2026-11-04"
   }
 ]

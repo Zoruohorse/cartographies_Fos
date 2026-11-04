@@ -128,11 +128,12 @@
     "id": "relation_0009",
     "source_id": "actor_0004",
     "target_id": "project_fos",
-    "type": "Opposé",
-    "summary": "Carole Delga présente Renaud Muselier comme partageant ses demandes d'alternatives à la solution aérienne ; cela ne signifie pas un rejet des besoins électriques.",
+    "type": "position / rattachement au dossier",
+    "summary": "Renaud Muselier reconnaît le besoin d'électrifier Fos mais demande une solution territoriale partagée plutôt que le projet en l'état.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_003"
+      "evidence_retro_fos_20261104_003",
+      "evidence_fos1_20261104_033"
     ],
     "original_link": {
       "source": "Renaud Muselier",
@@ -193,10 +194,13 @@
     "id": "relation_0013",
     "source_id": "project_fos",
     "target_id": "actor_0011",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Guillaume Meiffre, coprésident de l'ASTCC avec Cédric Bernardi, participe à l'action du conteneur symbolisant la hauteur des pylônes et s'oppose au tracé aérien. Guillaume Meiffre dénonce les conditions des visites agricoles réalisées pour les études RTE ; il s'agit de son témoignage, non d'une conclusion judiciaire.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_002",
+      "evidence_fos1_20261104_003"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Guillaume Meiffre",
@@ -380,10 +384,12 @@
     "id": "relation_0025",
     "source_id": "project_fos",
     "target_id": "actor_0023",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Isabelle Gex défend, au nom d'un collectif de riverains, un maillage électrique différent et des alternatives sous-marines plutôt que la solution aérienne proposée.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_004"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Isabelle Gex",
@@ -698,11 +704,13 @@
     "id": "relation_0046",
     "source_id": "project_fos",
     "target_id": "actor_0045",
-    "type": "position / rattachement au dossier",
-    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Le collectif a interpellé Emmanuel Macron pour solliciter une réunion et demander l'étude d'une alternative non aérienne ; cette interpellation n'établit pas sa position personnelle.",
-    "certainty": "unqualified",
+    "type": "Soutien",
+    "summary": "Emmanuel Macron déclare le 26 mai 2026 que la ligne entre le Gard et Fos est nécessaire et demande une mise en service envisagée pour 2029. Emmanuel Macron soutient explicitement le renforcement électrique 400 kV destiné aux industriels de Fos, tout en faisant face à des oppositions locales.",
+    "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_032"
+      "evidence_retro_fos_20261104_032",
+      "evidence_fos1_20261104_005",
+      "evidence_fos1_20261104_006"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -1059,10 +1067,12 @@
     "id": "relation_0069",
     "source_id": "project_fos",
     "target_id": "actor_0068",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "L'AOP Foin de Crau figure parmi les signataires de la tribune contre la ligne aérienne cités par FNE13.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_008"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "AOP Foin de Crau",
@@ -1087,10 +1097,13 @@
     "id": "relation_0071",
     "source_id": "project_fos",
     "target_id": "actor_0070",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "La LPO cosigne l'appel de quinze organismes demandant à l'État de renoncer à la ligne aérienne en Camargue et de rechercher une autre solution. L'AFP cite aussi la LPO parmi les organisations qui s'opposent à la solution aérienne et demandent une variante moins dommageable.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_009",
+      "evidence_fos1_20261104_010"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "LPO",
@@ -1101,10 +1114,13 @@
     "id": "relation_0072",
     "source_id": "project_fos",
     "target_id": "actor_0071",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "WWF France cosigne l'appel de quinze organisations contre le tracé aérien à travers les espaces protégés de Camargue. WWF France figure parmi les signataires de la lettre environnementale contre la ligne aérienne, relayée par France 3.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_011",
+      "evidence_fos1_20261104_012"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "WWF France",
@@ -1115,11 +1131,12 @@
     "id": "relation_0073",
     "source_id": "project_fos",
     "target_id": "actor_0072",
-    "type": "position / rattachement au dossier",
-    "summary": "La Tour du Valat apporte son expertise scientifique sur les oiseaux d'eau et les effets potentiels de la ligne sur les corridors migratoires.",
+    "type": "Opposé",
+    "summary": "La Tour du Valat exprime officiellement un avis défavorable aux modifications d'urbanisme nécessaires au projet THT et poursuit sa mobilisation sur la biodiversité.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_044"
+      "evidence_retro_fos_20261104_044",
+      "evidence_fos1_20261104_032"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -1177,10 +1194,12 @@
     "id": "relation_0077",
     "source_id": "project_fos",
     "target_id": "actor_0076",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Ramsar France, MAB France et Réserves naturelles de France figurent toutes trois parmi les signataires d'un appel conjoint contre la solution aérienne. Cette fiche est un regroupement documentaire, pas une personne morale unique.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_013"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Ramsar France / MAB France / Réserves naturelles",
@@ -1249,10 +1268,12 @@
     "id": "relation_0082",
     "source_id": "project_fos",
     "target_id": "actor_0081",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Arles Camargue Environnement Nature figure parmi les signataires d'une tribune environnementale de mobilisation contre la THT, recensés par FNE13.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_015"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "ACEN",
@@ -2965,10 +2986,12 @@
     "id": "relation_0203",
     "source_id": "project_fos",
     "target_id": "actor_0103",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "source / couverture",
+    "summary": "La Provence publie le récit d'exploitants dénonçant les visites de RTE, en présentant leurs accusations comme des témoignages non judiciairement établis.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_024"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "La Provence",
@@ -2979,10 +3002,12 @@
     "id": "relation_0204",
     "source_id": "project_fos",
     "target_id": "actor_0104",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "source / couverture",
+    "summary": "Objectif Gard relate le conteneur de douze mètres installé par l'ASTCC dans son opposition au tracé aérien.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_025"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Objectif Gard",
@@ -2993,10 +3018,12 @@
     "id": "relation_0205",
     "source_id": "project_fos",
     "target_id": "actor_0105",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "source / couverture",
+    "summary": "La Marseillaise décrit la mobilisation locale contre le tracé aérien et reproduit des propos de Julien Besançon.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_026"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "La Marseillaise",
@@ -3007,10 +3034,12 @@
     "id": "relation_0206",
     "source_id": "project_fos",
     "target_id": "actor_0106",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "source / couverture",
+    "summary": "France 3 / Franceinfo relate l'appel de quinze organisations environnementales contre la ligne aérienne en Camargue.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_027"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "France 3 / Franceinfo",
@@ -3021,10 +3050,12 @@
     "id": "relation_0207",
     "source_id": "project_fos",
     "target_id": "actor_0107",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "source / couverture",
+    "summary": "FNE13 publie un article associant son anniversaire au domaine Mourgues du Grès, présenté comme un symbole de sa mobilisation contre la THT aérienne.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_028"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "FNE13.fr",
@@ -3035,10 +3066,12 @@
     "id": "relation_0208",
     "source_id": "project_fos",
     "target_id": "actor_0108",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "source / couverture",
+    "summary": "Marsactu relate les réserves formulées par l'Autorité environnementale sur les besoins électriques, l'analyse environnementale et la biodiversité.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_029"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Marsactu",
@@ -3049,10 +3082,12 @@
     "id": "relation_0209",
     "source_id": "project_fos",
     "target_id": "actor_0109",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "source / couverture",
+    "summary": "GoMet rapporte la demande de Renaud Muselier d'une solution partagée intégrant les enjeux de territoire.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_030"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "GoMet",
@@ -3077,10 +3112,12 @@
     "id": "relation_0211",
     "source_id": "project_fos",
     "target_id": "actor_0111",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "source / couverture",
+    "summary": "Le site de la Tour du Valat publie la contribution défavorable de la fondation à la MECDU du projet THT, portant notamment sur les continuités écologiques.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_031"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Tourduvalat.org",

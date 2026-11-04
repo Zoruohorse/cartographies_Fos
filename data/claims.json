@@ -47,11 +47,12 @@
     "subject_id": "actor_0004",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "opposed",
-    "summary": "Carole Delga présente Renaud Muselier comme partageant ses demandes d'alternatives à la solution aérienne ; cela ne signifie pas un rejet des besoins électriques.",
+    "value": "neutral",
+    "summary": "Renaud Muselier reconnaît le besoin d'électrifier Fos mais demande une solution territoriale partagée plutôt que le projet en l'état.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_003"
+      "evidence_retro_fos_20261104_003",
+      "evidence_fos1_20261104_033"
     ],
     "updated_at": "2026-11-04"
   },
@@ -100,10 +101,13 @@
     "subject_id": "actor_0008",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Emmanuel Taché indique s'opposer depuis 2023 à la solution aérienne et avoir présenté les objections des acteurs locaux au cabinet de la ministre de l'Énergie.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_001"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0009",
@@ -136,10 +140,14 @@
     "subject_id": "actor_0011",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Guillaume Meiffre, coprésident de l'ASTCC avec Cédric Bernardi, participe à l'action du conteneur symbolisant la hauteur des pylônes et s'oppose au tracé aérien. Guillaume Meiffre dénonce les conditions des visites agricoles réalisées pour les études RTE ; il s'agit de son témoignage, non d'une conclusion judiciaire.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_002",
+      "evidence_fos1_20261104_003"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0012",
@@ -284,10 +292,13 @@
     "subject_id": "actor_0023",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Isabelle Gex défend, au nom d'un collectif de riverains, un maillage électrique différent et des alternatives sous-marines plutôt que la solution aérienne proposée.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_004"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0024",
@@ -540,11 +551,13 @@
     "subject_id": "actor_0045",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Le collectif a interpellé Emmanuel Macron pour solliciter une réunion et demander l'étude d'une alternative non aérienne ; cette interpellation n'établit pas sa position personnelle.",
-    "certainty": "unqualified",
+    "value": "favorable",
+    "summary": "Emmanuel Macron déclare le 26 mai 2026 que la ligne entre le Gard et Fos est nécessaire et demande une mise en service envisagée pour 2029. Emmanuel Macron soutient explicitement le renforcement électrique 400 kV destiné aux industriels de Fos, tout en faisant face à des oppositions locales.",
+    "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_032"
+      "evidence_retro_fos_20261104_032",
+      "evidence_fos1_20261104_005",
+      "evidence_fos1_20261104_006"
     ],
     "updated_at": "2026-11-04"
   },
@@ -594,9 +607,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "Le Grand Port Maritime de Marseille intervient dans les mesures d'évitement, réduction et compensation liées aux installations industrielles de la ZIP ; cette source ne prouve pas sa position sur le tracé THT.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos1_20261104_007"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0050",
@@ -823,10 +839,13 @@
     "subject_id": "actor_0068",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "L'AOP Foin de Crau figure parmi les signataires de la tribune contre la ligne aérienne cités par FNE13.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_008"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0069",
@@ -843,31 +862,40 @@
     "subject_id": "actor_0070",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "La LPO cosigne l'appel de quinze organismes demandant à l'État de renoncer à la ligne aérienne en Camargue et de rechercher une autre solution. L'AFP cite aussi la LPO parmi les organisations qui s'opposent à la solution aérienne et demandent une variante moins dommageable.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_009",
+      "evidence_fos1_20261104_010"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0071",
     "subject_id": "actor_0071",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "WWF France cosigne l'appel de quinze organisations contre le tracé aérien à travers les espaces protégés de Camargue. WWF France figure parmi les signataires de la lettre environnementale contre la ligne aérienne, relayée par France 3.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_011",
+      "evidence_fos1_20261104_012"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0072",
     "subject_id": "actor_0072",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "neutral",
-    "summary": "La Tour du Valat apporte son expertise scientifique sur les oiseaux d'eau et les effets potentiels de la ligne sur les corridors migratoires.",
+    "value": "opposed",
+    "summary": "La Tour du Valat exprime officiellement un avis défavorable aux modifications d'urbanisme nécessaires au projet THT et poursuit sa mobilisation sur la biodiversité.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_044"
+      "evidence_retro_fos_20261104_044",
+      "evidence_fos1_20261104_032"
     ],
     "updated_at": "2026-11-04"
   },
@@ -912,10 +940,13 @@
     "subject_id": "actor_0076",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Ramsar France, MAB France et Réserves naturelles de France figurent toutes trois parmi les signataires d'un appel conjoint contre la solution aérienne. Cette fiche est un regroupement documentaire, pas une personne morale unique.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_013"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0077",
@@ -923,9 +954,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "L'Office français de la biodiversité participe aux échanges scientifiques organisés avec la Tour du Valat sur les oiseaux d'eau de Camargue ; aucune position de l'OFB sur le tracé n'en découle.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos1_20261104_014"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0078",
@@ -965,10 +999,13 @@
     "subject_id": "actor_0081",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Arles Camargue Environnement Nature figure parmi les signataires d'une tribune environnementale de mobilisation contre la THT, recensés par FNE13.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_015"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0082",
@@ -1068,9 +1105,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "NaTran participe au corridor hydrogène H2Med/BarMar lié à l'écosystème industriel Fos-Marseille, sans prise de position démontrée sur le tracé aérien THT.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos1_20261104_016"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0091",
@@ -1213,9 +1253,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "La Provence publie le récit d'exploitants dénonçant les visites de RTE, en présentant leurs accusations comme des témoignages non judiciairement établis.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos1_20261104_024"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0104",
@@ -1223,9 +1266,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "Objectif Gard relate le conteneur de douze mètres installé par l'ASTCC dans son opposition au tracé aérien.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos1_20261104_025"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0105",
@@ -1233,9 +1279,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "La Marseillaise décrit la mobilisation locale contre le tracé aérien et reproduit des propos de Julien Besançon.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos1_20261104_026"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0106",
@@ -1243,9 +1292,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "France 3 / Franceinfo relate l'appel de quinze organisations environnementales contre la ligne aérienne en Camargue.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos1_20261104_027"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0107",
@@ -1253,9 +1305,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "FNE13 publie un article associant son anniversaire au domaine Mourgues du Grès, présenté comme un symbole de sa mobilisation contre la THT aérienne.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos1_20261104_028"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0108",
@@ -1263,9 +1318,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "Marsactu relate les réserves formulées par l'Autorité environnementale sur les besoins électriques, l'analyse environnementale et la biodiversité.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos1_20261104_029"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0109",
@@ -1273,9 +1331,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "GoMet rapporte la demande de Renaud Muselier d'une solution partagée intégrant les enjeux de territoire.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos1_20261104_030"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0110",
@@ -1293,9 +1354,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "Le site de la Tour du Valat publie la contribution défavorable de la fondation à la MECDU du projet THT, portant notamment sur les continuités écologiques.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos1_20261104_031"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0112",
@@ -1354,10 +1418,14 @@
     "subject_id": "actor_0116",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "MAB France alerte le ministère sur les risques de la ligne aérienne pour la réserve de biosphère de Camargue et les engagements de protection des habitats. MAB France est également signataire de l'appel conjoint pour renoncer à la solution aérienne.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_017",
+      "evidence_fos1_20261104_018"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0117",
@@ -1390,20 +1458,26 @@
     "subject_id": "actor_0119",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Julien Besançon, premier adjoint de Saint-Martin-de-Crau, exige une autre solution que le tracé aérien et soutient la mobilisation des élus locaux.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_019"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0120",
     "subject_id": "actor_0120",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Robert Crauste, président du syndicat mixte de Camargue gardoise, dit avoir signé un manifeste d'opposition à la ligne aérienne tout en défendant la décarbonation.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos1_20261104_020"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0121",
@@ -1424,9 +1498,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "Monique Barbut est destinataire d'un courrier de MAB France alertant sur les risques de la THT pour la réserve de biosphère ; aucune position personnelle de la ministre n'est prouvée.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos1_20261104_021"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0123",
@@ -1434,9 +1511,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "Le cabinet de Maud Bregeon a échangé avec Emmanuel Taché sur la ligne et les objections locales ; cela ne prouve pas une préférence personnelle de la ministre sur le tracé.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos1_20261104_022"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0124",
@@ -1444,9 +1524,12 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "B. Huet signe par délégation un arrêté concernant le projet Minéralier, distinct de la ligne Feuillane–Jonquières ; cet acte ne démontre aucune préférence sur la THT.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos1_20261104_023"
+    ],
+    "updated_at": "2026-11-04"
   },
   {
     "id": "claim_actor_0125",
