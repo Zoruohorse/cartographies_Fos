@@ -36,18 +36,18 @@
   },
   "final": {
     "actorCards": 151,
-    "qualifiedCards": 131,
-    "edgesQualified": 88,
-    "evidence": 247,
-    "sources": 113,
+    "qualifiedCards": 135,
+    "edgesQualified": 95,
+    "evidence": 254,
+    "sources": 117,
     "relations": 217,
-    "coverage_percent": 86.75
+    "coverage_percent": 89.4
   },
   "changes": {
-    "sources_created": 24,
-    "new_proofs": 26,
-    "actor_cards_edited": 21,
-    "project_relations_edited": 13,
+    "sources_created": 28,
+    "new_proofs": 33,
+    "actor_cards_edited": 25,
+    "project_relations_edited": 20,
     "positions_requalified": [
       {
         "id": "actor_0036",
@@ -58,6 +58,16 @@
       {
         "id": "actor_0073",
         "name": "CEN PACA",
+        "from": "unknown",
+        "to": "opposed"
+      },
+      {
+        "id": "actor_0031",
+        "from": "unknown",
+        "to": "opposed"
+      },
+      {
+        "id": "actor_0032",
         "from": "unknown",
         "to": "opposed"
       }
@@ -711,22 +721,6 @@
       "name": "Marie-Hélène Fabre"
     },
     {
-      "id": "actor_0030",
-      "name": "Richard Hardouin"
-    },
-    {
-      "id": "actor_0031",
-      "name": "Stéphane Coppey"
-    },
-    {
-      "id": "actor_0032",
-      "name": "Isabelle Charnoz"
-    },
-    {
-      "id": "actor_0037",
-      "name": "René Raimondi"
-    },
-    {
       "id": "actor_0051",
       "name": "Régis Passerieux"
     },
@@ -772,6 +766,73 @@
     "Un rôle de maître d'ouvrage dans Fos–Berre ne constitue pas une prise de position sur le tracé aérien Feuillane–Jonquières.",
     "L'ancien article sur les municipales d'Arles n'est pas utilisé comme preuve de position lorsqu'il ne traite pas précisément du projet.",
     "La mesure de comptage NACICCA est explicitement qualifiée de comptage symbolique par l'association, et non d'étude représentative sur toute la période.",
-    "Les articles 2025–mars 2026 n'effacent pas la procédure d'enquête publique prévue novembre–décembre 2026."
+    "Les articles 2025–mars 2026 n'effacent pas la procédure d'enquête publique prévue novembre–décembre 2026.",
+    "La participation de Richard Hardouin ou René Raimondi à une réunion ne permet pas d'en déduire une position personnelle ; leur qualification porte sur un rôle documenté."
+  ],
+  "additional_sources": [
+    {
+      "publisher": "FNE13",
+      "url": "https://www.fne13.fr/conseil-dadministration-du-06-juin-2026/",
+      "verification": "web_indexed_text"
+    },
+    {
+      "publisher": "FNE13",
+      "url": "https://www.fne13.fr/assemblee-generale-fne13-en-crau-le-combat-des-geants-et-des-dieux/",
+      "verification": "web_indexed_text"
+    },
+    {
+      "publisher": "Collectif THT 13/30",
+      "url": "https://www.sos-camargue-tht.fr/2026/08/30/19-septembre-theatre-antique-darles-le-rendez-vous-de-la-derniere-chance/",
+      "verification": "web_indexed_text"
+    },
+    {
+      "publisher": "Sébastien Mabile (publication LinkedIn)",
+      "url": "https://fr.linkedin.com/posts/s%C3%A9bastien-mabile-65a324140_stoptht1330-activity-7313810098995286017-brGu",
+      "verification": "web_consulted"
+    }
+  ],
+  "additional_proofs": [
+    {
+      "id": "evidence_fos2_20261104_supp_001",
+      "actor_id": "actor_0030",
+      "source_id": "source_0125",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_supp_002",
+      "actor_id": "actor_0030",
+      "source_id": "source_0124",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_supp_003",
+      "actor_id": "actor_0031",
+      "source_id": "source_0127",
+      "scope": "position"
+    },
+    {
+      "id": "evidence_fos2_20261104_supp_004",
+      "actor_id": "actor_0032",
+      "source_id": "source_0126",
+      "scope": "position"
+    },
+    {
+      "id": "evidence_fos2_20261104_supp_005",
+      "actor_id": "actor_0032",
+      "source_id": "source_0125",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_supp_006",
+      "actor_id": "actor_0037",
+      "source_id": "source_0127",
+      "scope": "role"
+    },
+    {
+      "id": "evidence_fos2_20261104_supp_007",
+      "actor_id": "actor_0055",
+      "source_id": "source_0124",
+      "scope": "new_fact"
+    }
   ]
 }

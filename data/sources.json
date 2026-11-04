@@ -1335,5 +1335,53 @@
     "verification": "web_consulted",
     "provenance": "source institutionnelle complémentaire vérifiée",
     "access": "Page consultée directement"
+  },
+  {
+    "id": "source_0124",
+    "publisher": "FNE13",
+    "title": "Conseil d’administration de FNE13 du 6 juin 2026",
+    "url": "https://www.fne13.fr/conseil-dadministration-du-06-juin-2026/",
+    "author": null,
+    "date": null,
+    "status": "qualified",
+    "verification": "web_indexed_text",
+    "provenance": "Recherche documentaire complémentaire Fos(2), 4 novembre 2026",
+    "access": "Contenu indexé public examiné ; page originale identifiée"
+  },
+  {
+    "id": "source_0125",
+    "publisher": "FNE13",
+    "title": "Assemblée générale FNE13 en Crau du 29 mars 2025",
+    "url": "https://www.fne13.fr/assemblee-generale-fne13-en-crau-le-combat-des-geants-et-des-dieux/",
+    "author": null,
+    "date": null,
+    "status": "qualified",
+    "verification": "web_indexed_text",
+    "provenance": "Recherche documentaire complémentaire Fos(2), 4 novembre 2026",
+    "access": "Contenu indexé public examiné ; page originale identifiée"
+  },
+  {
+    "id": "source_0126",
+    "publisher": "Collectif THT 13/30",
+    "title": "19 septembre, théâtre antique d’Arles : rendez-vous de la dernière chance",
+    "url": "https://www.sos-camargue-tht.fr/2026/08/30/19-septembre-theatre-antique-darles-le-rendez-vous-de-la-derniere-chance/",
+    "author": null,
+    "date": null,
+    "status": "qualified",
+    "verification": "web_indexed_text",
+    "provenance": "Recherche documentaire complémentaire Fos(2), 4 novembre 2026",
+    "access": "Contenu indexé public examiné ; page originale identifiée"
+  },
+  {
+    "id": "source_0127",
+    "publisher": "Sébastien Mabile (publication LinkedIn)",
+    "title": "Participation de Stéphane Coppey au débat public de La Provence et opposition du collectif",
+    "url": "https://fr.linkedin.com/posts/s%C3%A9bastien-mabile-65a324140_stoptht1330-activity-7313810098995286017-brGu",
+    "author": null,
+    "date": null,
+    "status": "qualified",
+    "verification": "web_consulted",
+    "provenance": "Recherche documentaire complémentaire Fos(2), 4 novembre 2026",
+    "access": "Page ouverte et contenu relevé directement"
   }
 ]

@@ -3068,5 +3068,96 @@
     "verification": "excel_content_original_url",
     "location": "Fos(2).xlsx, ligne 35, passage relatif à CNDP",
     "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_supp_001",
+    "type": "documented_summary",
+    "text": "Richard Hardouin, président de FNE Bouches-du-Rhône, participe à l’assemblée générale de mars 2025 qui place la lutte contre le projet aérien THT parmi les dossiers prioritaires et organise la convention d'honoraires avec les avocats du collectif. La pièce documente son rôle institutionnel, sans reproduire de déclaration personnelle.",
+    "source_id": "source_0125",
+    "source_ids": [
+      "source_0125"
+    ],
+    "source_status": "qualified",
+    "verification": "web_indexed_text",
+    "location": "Article/source publique, passage concernant Richard Hardouin",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_supp_002",
+    "type": "documented_summary",
+    "text": "Le conseil d'administration de FNE13, présidé par Richard Hardouin, valide en juin 2026 des recours relatifs aux autorisations liées au projet et aux visites de parcelles par RTE. Cette décision est collective et ne vaut pas citation personnelle.",
+    "source_id": "source_0124",
+    "source_ids": [
+      "source_0124"
+    ],
+    "source_status": "qualified",
+    "verification": "web_indexed_text",
+    "location": "Article/source publique, passage concernant Richard Hardouin",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_supp_003",
+    "type": "documented_summary",
+    "text": "Sébastien Mabile nomme Stéphane Coppey comme représentant de FNE13 participant avec le collectif THT 13/30 au débat de La Provence, où les participants ont rappelé leur opposition au tracé aérien et demandé l'examen d'une alternative moins dommageable.",
+    "source_id": "source_0127",
+    "source_ids": [
+      "source_0127"
+    ],
+    "source_status": "qualified",
+    "verification": "web_consulted",
+    "location": "Article/source publique, passage concernant Stéphane Coppey",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_supp_004",
+    "type": "documented_summary",
+    "text": "Le Collectif THT 13/30 cite Isabelle Charnoz parmi les élus municipaux de Saint-Martin-de-Crau lui apportant publiquement leur soutien dans sa mobilisation contre le tracé aérien. La source ne contient pas de verbatim individuel.",
+    "source_id": "source_0126",
+    "source_ids": [
+      "source_0126"
+    ],
+    "source_status": "qualified",
+    "verification": "web_indexed_text",
+    "location": "Article/source publique, passage concernant Isabelle Charnoz",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_supp_005",
+    "type": "documented_summary",
+    "text": "Isabelle Susini-Charnoz, adjointe au Développement durable de Saint-Martin-de-Crau, participe à l'assemblée FNE13 de mars 2025 consacrée notamment au combat contre la ligne THT aérienne.",
+    "source_id": "source_0125",
+    "source_ids": [
+      "source_0125"
+    ],
+    "source_status": "qualified",
+    "verification": "web_indexed_text",
+    "location": "Article/source publique, passage concernant Isabelle Charnoz",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_supp_006",
+    "type": "documented_summary",
+    "text": "René Raimondi est cité parmi les participants au débat à La Provence consacré aux projets industriels de Fos et au projet de ligne THT. La publication n'atteste pas sa position personnelle sur le tracé aérien.",
+    "source_id": "source_0127",
+    "source_ids": [
+      "source_0127"
+    ],
+    "source_status": "qualified",
+    "verification": "web_consulted",
+    "location": "Article/source publique, passage concernant René Raimondi",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos2_20261104_supp_007",
+    "type": "documented_summary",
+    "text": "FNE13 décide lors de son conseil d'administration du 6 juin 2026 d'engager de nouveaux recours concernant les autorisations et projets liés à la THT, et de contester l'accès aux parcelles accordé à RTE.",
+    "source_id": "source_0124",
+    "source_ids": [
+      "source_0124"
+    ],
+    "source_status": "qualified",
+    "verification": "web_indexed_text",
+    "location": "Article/source publique, passage concernant FNE13",
+    "recorded_at": "2026-11-04"
   }
 ]

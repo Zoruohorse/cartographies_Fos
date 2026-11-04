@@ -373,29 +373,37 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "Richard Hardouin, président de FNE Bouches-du-Rhône, participe à l’assemblée générale de mars 2025 qui place la lutte contre le projet aérien THT parmi les dossiers prioritaires et organise la convention d'honoraires avec les avocats du collectif. La pièce documente son rôle institutionnel, sans reproduire de déclaration personnelle.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_001",
+      "evidence_fos2_20261104_supp_002"
+    ]
   },
   {
     "id": "claim_actor_0031",
     "subject_id": "actor_0031",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Sébastien Mabile nomme Stéphane Coppey comme représentant de FNE13 participant avec le collectif THT 13/30 au débat de La Provence, où les participants ont rappelé leur opposition au tracé aérien et demandé l'examen d'une alternative moins dommageable.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_003"
+    ]
   },
   {
     "id": "claim_actor_0032",
     "subject_id": "actor_0032",
     "project_id": "project_fos",
     "claim_type": "position",
-    "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
-    "certainty": "unqualified",
-    "evidence_ids": []
+    "value": "opposed",
+    "summary": "Le Collectif THT 13/30 cite Isabelle Charnoz parmi les élus municipaux de Saint-Martin-de-Crau lui apportant publiquement leur soutien dans sa mobilisation contre le tracé aérien. La source ne contient pas de verbatim individuel.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_004",
+      "evidence_fos2_20261104_supp_005"
+    ]
   },
   {
     "id": "claim_actor_0033",
@@ -456,9 +464,11 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "unknown",
-    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "summary": "René Raimondi est cité parmi les participants au débat à La Provence consacré aux projets industriels de Fos et au projet de ligne THT. La publication n'atteste pas sa position personnelle sur le tracé aérien.",
     "certainty": "unqualified",
-    "evidence_ids": []
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_006"
+    ]
   },
   {
     "id": "claim_actor_0038",
@@ -687,7 +697,8 @@
     "certainty": "high",
     "evidence_ids": [
       "evidence_retro_fos_20261104_036",
-      "evidence_fos2_20261104_019"
+      "evidence_fos2_20261104_019",
+      "evidence_fos2_20261104_supp_007"
     ],
     "updated_at": "2026-11-04"
   },

@@ -476,9 +476,12 @@
     "source_id": "project_fos",
     "target_id": "actor_0030",
     "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
+    "summary": "Participation ou fonction documentée dans la controverse, sans prise de position personnelle attestée. role : Richard Hardouin, président de FNE Bouches-du-Rhône, participe à l’assemblée générale de mars 2025 qui place la lutte contre le projet aérien THT parmi les dossiers prioritaires et organise la convention d'honoraires avec les avocats du collectif. La pièce doc",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_001",
+      "evidence_fos2_20261104_supp_002"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Richard Hardouin",
@@ -489,10 +492,12 @@
     "id": "relation_0032",
     "source_id": "project_fos",
     "target_id": "actor_0031",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Sébastien Mabile nomme Stéphane Coppey comme représentant de FNE13 participant avec le collectif THT 13/30 au débat de La Provence, où les participants ont rappelé leur opposition au tracé aérien et demandé l'examen d'une alternative moins dommageable.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_003"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Stéphane Coppey",
@@ -503,10 +508,13 @@
     "id": "relation_0033",
     "source_id": "project_fos",
     "target_id": "actor_0032",
-    "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Le Collectif THT 13/30 cite Isabelle Charnoz parmi les élus municipaux de Saint-Martin-de-Crau lui apportant publiquement leur soutien dans sa mobilisation contre le tracé aérien. La source ne contient pas de verbatim individuel.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_004",
+      "evidence_fos2_20261104_supp_005"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Isabelle Charnoz",
@@ -583,9 +591,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0037",
     "type": "position / rattachement au dossier",
-    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
+    "summary": "Participation ou fonction documentée dans la controverse, sans prise de position personnelle attestée. role : René Raimondi est cité parmi les participants au débat à La Provence consacré aux projets industriels de Fos et au projet de ligne THT. La publication n'atteste pas sa position personnelle sur le tracé aérien.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_006"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "René Raimondi",
@@ -1909,9 +1919,12 @@
     "source_id": "actor_0030",
     "target_id": "actor_0055",
     "type": "rattachement / proximité",
-    "summary": "Richard Hardouin — rattachement / proximité — FNE13",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Richard Hardouin exerce la présidence de FNE13.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_001",
+      "evidence_fos2_20261104_supp_002"
+    ],
     "original_link": {
       "source": "Richard Hardouin",
       "target": "FNE13",
@@ -1923,9 +1936,11 @@
     "source_id": "actor_0031",
     "target_id": "actor_0055",
     "type": "rattachement / proximité",
-    "summary": "Stéphane Coppey — rattachement / proximité — FNE13",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Stéphane Coppey représente FNE13 dans le débat public sur la ligne aérienne.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_003"
+    ],
     "original_link": {
       "source": "Stéphane Coppey",
       "target": "FNE13",
@@ -1965,9 +1980,12 @@
     "source_id": "actor_0032",
     "target_id": "actor_0055",
     "type": "rattachement / proximité",
-    "summary": "Isabelle Charnoz — rattachement / proximité — FNE13",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Isabelle Charnoz participe aux travaux de FNE13 en tant qu'élue de Saint-Martin-de-Crau ; aucune adhésion individuelle n'est démontrée.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_004",
+      "evidence_fos2_20261104_supp_005"
+    ],
     "original_link": {
       "source": "Isabelle Charnoz",
       "target": "FNE13",
