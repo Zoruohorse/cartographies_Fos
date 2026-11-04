@@ -5,8 +5,11 @@
     "target_id": "project_fos",
     "type": "Maître d'ouvrage",
     "summary": "RTE — Maître d'ouvrage — Ligne THT Fos-Jonquières",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0022",
+      "evidence_excel_20261102_028"
+    ],
     "original_link": {
       "source": "RTE",
       "target": "Ligne THT Fos-Jonquières",
@@ -35,9 +38,12 @@
     "source_id": "actor_0003",
     "target_id": "project_fos",
     "type": "Opposé",
-    "summary": "Collectif THT 13/30 — Opposé — Ligne THT Fos-Jonquières",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Opposé au tracé aérien et favorable aux alternatives enterrées ou sous-marines. Lors de sa réunion du 23 octobre 2026, le collectif a décidé de participer à l’enquête publique et de mobiliser les contributions et expertises juridiques dans le cadre légal.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0006",
+      "evidence_update_0019"
+    ],
     "original_link": {
       "source": "Collectif THT 13/30",
       "target": "Ligne THT Fos-Jonquières",
@@ -93,7 +99,7 @@
     "source_id": "actor_0008",
     "target_id": "project_fos",
     "type": "position / rattachement au dossier",
-    "summary": "Rattachement historique non qualifié : position sur la ligne non établie par une source documentaire.",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -138,10 +144,12 @@
     "id": "relation_0010",
     "source_id": "project_fos",
     "target_id": "actor_0005",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Jean-Luc Moya",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Jean-Luc Moya est identifié comme porte-parole du Collectif THT 13/30 lors du rassemblement d'Arles en opposition au projet aérien.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_004"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Jean-Luc Moya",
@@ -152,10 +160,12 @@
     "id": "relation_0011",
     "source_id": "project_fos",
     "target_id": "actor_0010",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Jean-Laurent Lucchesi",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Jean-Laurent Lucchesi est porte-parole du collectif THT 13/30 et soutient les solutions non aériennes présentées au rassemblement d'Arles.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_009"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Jean-Laurent Lucchesi",
@@ -166,10 +176,13 @@
     "id": "relation_0012",
     "source_id": "project_fos",
     "target_id": "actor_0006",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Cédric Bernardi",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Cédric Bernardi, riziculteur et éleveur, déclare soutenir le renforcement électrique mais refuser la solution aérienne en Camargue. Cédric Bernardi copréside l'association de sauvegarde des terres de Camargue et de Crau, opposée à la ligne aérienne.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_005",
+      "evidence_retro_fos_20261104_006"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Cédric Bernardi",
@@ -181,7 +194,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0011",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Guillaume Meiffre",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -194,10 +207,13 @@
     "id": "relation_0014",
     "source_id": "project_fos",
     "target_id": "actor_0012",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Carole Guintoli",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Carole Guintoli dénonce l'accès forcé à ses parcelles dans le cadre des études RTE ; elle figure parmi les sept agriculteurs ayant refusé les visites. Carole Guintoli témoigne avoir contesté les visites réalisées ou demandées par des représentants mandatés par RTE sur son exploitation.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_010",
+      "evidence_retro_fos_20261104_011"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Carole Guintoli",
@@ -208,10 +224,12 @@
     "id": "relation_0015",
     "source_id": "project_fos",
     "target_id": "actor_0013",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Cyril Marès",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Cyril Marès, président de la COPA 30, maintient explicitement son refus du tracé aérien malgré l'accord agricole national.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_012"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Cyril Marès",
@@ -222,10 +240,12 @@
     "id": "relation_0016",
     "source_id": "project_fos",
     "target_id": "actor_0014",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Sébastien Mabile",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Sébastien Mabile a déposé au nom du collectif des démarches relatives aux conséquences environnementales du projet aérien.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_013"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Sébastien Mabile",
@@ -236,10 +256,12 @@
     "id": "relation_0017",
     "source_id": "project_fos",
     "target_id": "actor_0015",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Luc Perrin",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Luc Perrin, coprésident de l'ASTA, critique les impacts paysagers et environnementaux de la solution aérienne et appelle à une alternative.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_014"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Luc Perrin",
@@ -251,9 +273,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0016",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Michel Perronet",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Michel Perronet, intervenant du Collectif THT 13/30 au débat CNDP de juin 2025, critique le dimensionnement et la stratégie de réseau avancés par RTE.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_015"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Michel Perronet",
@@ -264,10 +288,12 @@
     "id": "relation_0019",
     "source_id": "project_fos",
     "target_id": "actor_0017",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Clément Lajoux",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Clément Lajoux, président de la COPA 13, maintient explicitement son refus de la ligne aérienne Jonquières–Fos malgré un accord national agricole.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_016"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Clément Lajoux",
@@ -279,9 +305,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0018",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Romain Collard",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Romain Collard est présenté comme chef de culture au Château Mourgues du Grès ; cette pièce ne prouve pas sa position personnelle sur la ligne.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_017"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Romain Collard",
@@ -292,10 +320,12 @@
     "id": "relation_0021",
     "source_id": "project_fos",
     "target_id": "actor_0019",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Anne Collard",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Anne Collard, vigneronne, alerte sur les risques de la ligne pour les exploitations agricoles et leurs labels.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_018"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Anne Collard",
@@ -306,10 +336,12 @@
     "id": "relation_0022",
     "source_id": "project_fos",
     "target_id": "actor_0020",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — François Collard",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "François Collard, du domaine Mourgues du Grès, témoigne auprès de Vert des impacts paysagers et viticoles redoutés de la ligne aérienne.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_019"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "François Collard",
@@ -321,7 +353,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0021",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Rémy Benson",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -335,7 +367,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0022",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Daniel Carlotti",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -349,7 +381,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0023",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Isabelle Gex",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -362,10 +394,12 @@
     "id": "relation_0026",
     "source_id": "project_fos",
     "target_id": "actor_0025",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — François Cavallo",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "François Cavallo, de NACICCA, organise ou présente des comptages d'oiseaux pour documenter les risques de collision et l'impact potentiel sur l'avifaune.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_020"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "François Cavallo",
@@ -377,7 +411,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0026",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Jean-Claude Cheinet",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -391,7 +425,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0027",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Daniel Moutet",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -405,7 +439,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0028",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Marie-Hélène Fabre",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -419,9 +453,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0029",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Cyril Girard",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Cyril Girard intervient dans une mobilisation citoyenne et climatique à Arles ; l'article ne permet pas, à lui seul, de démontrer une position individuelle sur la ligne THT.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_021"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Cyril Girard",
@@ -433,7 +469,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0030",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Richard Hardouin",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -447,7 +483,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0031",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Stéphane Coppey",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -461,7 +497,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0032",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Isabelle Charnoz",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -474,10 +510,12 @@
     "id": "relation_0034",
     "source_id": "project_fos",
     "target_id": "actor_0033",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Juan Martinez",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Le bilan CNDP des débats sur les réseaux sociaux cite Juan Martinez parmi les responsables politiques associés aux discussions opposées à la ligne aérienne.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_022"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Juan Martinez",
@@ -488,10 +526,12 @@
     "id": "relation_0035",
     "source_id": "project_fos",
     "target_id": "actor_0034",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Bertrand Mazel",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Bertrand Mazel figure dans les organisations agricoles engagées contre le tracé aérien et les atteintes aux terres de culture.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_023"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Bertrand Mazel",
@@ -502,10 +542,12 @@
     "id": "relation_0036",
     "source_id": "project_fos",
     "target_id": "actor_0035",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Carole Delga",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Carole Delga exprime par courrier au préfet son opposition au tracé aérien et demande des solutions préservant le territoire gardois.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_024"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Carole Delga",
@@ -517,9 +559,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0036",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Nicolas Koukas",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Nicolas Koukas intervient au conseil municipal d'Arles sur les risques de transfert de décisions d'urbanisme à l'État ; sa position sur la ligne elle-même reste nuancée.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_025"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Nicolas Koukas",
@@ -531,7 +575,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0037",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — René Raimondi",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -545,9 +589,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0038",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Georges-François Leclerc",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Georges-François Leclerc préside la présentation des enjeux publics de l'infrastructure lors du débat CNDP du 2 juin 2025 ; il reconnaît les fortes oppositions au tracé.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_026"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Georges-François Leclerc",
@@ -559,9 +605,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0039",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Christophe Mirmand",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Christophe Mirmand est cité comme ancien préfet ayant défendu la nécessité d'une garantie de délai électrique pour les industriels ; ce rappel ne prouve pas une prise de position sur le tracé détaillé.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_027"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Christophe Mirmand",
@@ -573,7 +621,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0040",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Jérôme Bonet",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -586,10 +634,12 @@
     "id": "relation_0042",
     "source_id": "project_fos",
     "target_id": "actor_0041",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Jacques Witkowski",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Soutien",
+    "summary": "Jacques Witkowski précise les outils fonciers et administratifs de la stratégie de réindustrialisation ; il intervient également sur le calendrier de la procédure THT.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_028"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Jacques Witkowski",
@@ -600,10 +650,12 @@
     "id": "relation_0043",
     "source_id": "project_fos",
     "target_id": "actor_0042",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Gilles Odone",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Soutien",
+    "summary": "Gilles Odone, délégué Méditerranée de RTE, présente la feuille de route et les études restant à mener avant la définition précise des pylônes.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_029"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Gilles Odone",
@@ -615,9 +667,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0043",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Vincent Fletin",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Vincent Fletin est identifié dans le verbatim CNDP comme expert national grands projets de RTE intervenant sur le projet Feuillane–Jonquières.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_030"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Vincent Fletin",
@@ -629,9 +683,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0044",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Arthur Audouard",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Arthur Audouard est identifié par le verbatim CNDP comme responsable national du programme 400 kV de RTE.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_031"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Arthur Audouard",
@@ -643,9 +699,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0045",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Emmanuel Macron",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Le collectif a interpellé Emmanuel Macron pour solliciter une réunion et demander l'étude d'une alternative non aérienne ; cette interpellation n'établit pas sa position personnelle.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_032"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Emmanuel Macron",
@@ -657,9 +715,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0046",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — État / gouvernement",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Les services de l'État organisent l'enquête publique du 9 novembre au 11 décembre 2026 relative aux demandes de DUP et de dérogation littorale.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_033"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "État / gouvernement",
@@ -670,10 +730,13 @@
     "id": "relation_0048",
     "source_id": "project_fos",
     "target_id": "actor_0047",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Provence Fabrique des Possibles",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Soutien",
+    "summary": "Soutient la réalisation rapide de la ligne pour l’électrification de Fos-Berre et propose désormais un Pacte territorial piloté par l’État, avec une séquence de cent jours afin de sécuriser la procédure et de négocier les mesures d’accompagnement.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0007",
+      "evidence_excel_20261102_010"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Provence Fabrique des Possibles",
@@ -684,10 +747,12 @@
     "id": "relation_0049",
     "source_id": "project_fos",
     "target_id": "actor_0048",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Jean-Luc Chauvin",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Soutien",
+    "summary": "Jean-Luc Chauvin, président de la CCI Aix-Marseille-Provence, soutient la réalisation rapide du renforcement électrique indépendamment de sa localisation exacte.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_034"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Jean-Luc Chauvin",
@@ -699,7 +764,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0049",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Grand Port Maritime de Marseille-Fos",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -713,7 +778,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0050",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Rémi Costantino",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -727,7 +792,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0051",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Régis Passerieux",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -741,7 +806,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0052",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — NGE / Jean Bernadet",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -755,7 +820,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0053",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Club Top 20",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -769,9 +834,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0054",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Marc Petit",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Marc Petit, professeur à CentraleSupélec, a conduit la tierce expertise examinant les stratégies et la possibilité d'un phasage des renforcements électriques.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_035"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Marc Petit",
@@ -782,10 +849,12 @@
     "id": "relation_0056",
     "source_id": "project_fos",
     "target_id": "actor_0055",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — FNE13",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "FNE Bouches-du-Rhône soutient les solutions alternatives à l'aérien et critique les incidences écologiques et les faiblesses de l'analyse du projet.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_036"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "FNE13",
@@ -796,10 +865,12 @@
     "id": "relation_0057",
     "source_id": "project_fos",
     "target_id": "actor_0056",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Association sauvegarde terres Camargue-Crau",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "L'Association de sauvegarde des terres de Camargue et de Crau, coprésidée par Cédric Bernardi et Guillaume Meiffre, mène des actions publiques contre les pylônes.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_037"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Association sauvegarde terres Camargue-Crau",
@@ -810,10 +881,13 @@
     "id": "relation_0058",
     "source_id": "project_fos",
     "target_id": "actor_0057",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — ASTA",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Structure l'opposition côté Gard (Beaucaire / Bellegarde) et Terre d'Argence.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0018",
+      "evidence_excel_20261102_019"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "ASTA",
@@ -824,10 +898,13 @@
     "id": "relation_0059",
     "source_id": "project_fos",
     "target_id": "actor_0058",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Vigueirat Nature",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Vigueirat Nature conteste officiellement les adaptations d’urbanisme pour la ligne aérienne et demande l’examen des solutions alternatives.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0019",
+      "evidence_excel_20261102_016"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Vigueirat Nature",
@@ -838,10 +915,13 @@
     "id": "relation_0060",
     "source_id": "project_fos",
     "target_id": "actor_0059",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Agir pour la Crau",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Agir pour la Crau conteste officiellement les adaptations d’urbanisme pour la ligne aérienne et demande l’examen des solutions alternatives.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_update_0019",
+      "evidence_excel_20261102_017"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Agir pour la Crau",
@@ -852,10 +932,13 @@
     "id": "relation_0061",
     "source_id": "project_fos",
     "target_id": "actor_0060",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — NACICCA",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "NACICCA formule une critique explicite des adaptations d’urbanisme de la ligne aérienne et de ses impacts écologiques, sans qu’un refus de toute infrastructure soit démontré.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_update_0020",
+      "evidence_excel_20261102_018"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "NACICCA",
@@ -866,10 +949,12 @@
     "id": "relation_0062",
     "source_id": "project_fos",
     "target_id": "actor_0061",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — COPA 13",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "La COPA 13 confirme son opposition au projet aérien, sans que l'accord FNSEA–RTE valide ce tracé local.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_038"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "COPA 13",
@@ -880,10 +965,12 @@
     "id": "relation_0063",
     "source_id": "project_fos",
     "target_id": "actor_0062",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — COPA 30",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "La COPA 30 confirme son opposition au tracé aérien malgré la signature de l'accord national sur les lignes très haute tension.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_039"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "COPA 30",
@@ -895,9 +982,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0063",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — AOC Costières de Nîmes",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. La viticulture de l'appellation Costières de Nîmes est identifiée parmi les activités exposées aux impacts agricoles et paysagers ; le texte ne prouve pas une position de l'organisme gestionnaire de l'AOC.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_040"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "AOC Costières de Nîmes",
@@ -909,9 +998,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0064",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Domaine Mourgues du Grès",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Le Château Mourgues du Grès est un domaine viticole familial exploité notamment par Anne et François Collard et employant Romain Collard comme chef de culture.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_041"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Domaine Mourgues du Grès",
@@ -923,9 +1014,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0065",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — FDSEA / Jeunes Agriculteurs",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Les fédérations agricoles, dont la FNSEA, sont citées parmi les parties prenantes mobilisées sur les conséquences agricoles de l'ouvrage ; les prises de position doivent être distinguées selon les fédérations.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_042"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "FDSEA / Jeunes Agriculteurs",
@@ -937,7 +1030,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0066",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Coordination rurale",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -951,9 +1044,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0067",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Chambres d'agriculture",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Chambres d'agriculture France a conclu le 12 octobre un accord-cadre national avec RTE et la FNSEA ; cet accord ne valide pas le tracé local aérien.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_043"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Chambres d'agriculture",
@@ -965,7 +1060,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0068",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — AOP Foin de Crau",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -979,7 +1074,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0069",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — IGP Riz de Camargue",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -993,7 +1088,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0070",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — LPO",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1007,7 +1102,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0071",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — WWF France",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1021,9 +1116,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0072",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Tour du Valat",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "La Tour du Valat apporte son expertise scientifique sur les oiseaux d'eau et les effets potentiels de la ligne sur les corridors migratoires.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_044"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Tour du Valat",
@@ -1035,7 +1132,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0073",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — CEN PACA",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1048,10 +1145,12 @@
     "id": "relation_0075",
     "source_id": "project_fos",
     "target_id": "actor_0074",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — SNPN",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "La SNPN exprime explicitement son opposition au tracé aérien et plaide pour des variantes enterrées ou ensouillées.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_045"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "SNPN",
@@ -1062,10 +1161,12 @@
     "id": "relation_0076",
     "source_id": "project_fos",
     "target_id": "actor_0075",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Réseau des Grands Sites de France",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Le Réseau des Grands Sites de France demande avec d'autres organismes d'abandonner la solution aérienne à travers les territoires protégés.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_046"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Réseau des Grands Sites de France",
@@ -1077,7 +1178,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0076",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Ramsar France / MAB France / Réserves naturelles",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1091,7 +1192,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0077",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — OFB",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1104,10 +1205,12 @@
     "id": "relation_0079",
     "source_id": "project_fos",
     "target_id": "actor_0078",
-    "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — PNR de Camargue",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "La présidente du Parc naturel régional de Camargue affirme que le Parc doit participer à la mobilisation contre le tracé aérien.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_047"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "PNR de Camargue",
@@ -1119,7 +1222,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0079",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Nacioun Gardiano",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1133,7 +1236,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0080",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — ADPLGF",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1147,7 +1250,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0081",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — ACEN",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1161,7 +1264,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0082",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Sauvons nos Étangs",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1175,7 +1278,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0083",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — MCTB Golfe de Fos Environnement",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1189,9 +1292,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0084",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — GravitHy",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. GravitHy est mentionné comme projet industriel de fabrication de fer briqueté bas-carbone à Fos, associé aux besoins futurs d'électricité ; cela ne vaut pas prise de position sur le tracé THT.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_048"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "GravitHy",
@@ -1203,9 +1308,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0085",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Marcegaglia",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Marcegaglia est cité par le collectif comme projet industriel lié à l'électrification de Fos ; aucune position sur le tracé aérien n'est établie par cette mention.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_049"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Marcegaglia",
@@ -1217,7 +1324,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0086",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — ArcelorMittal Méditerranée",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1231,9 +1338,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0087",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Carbon",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. L'article présente les projets de production bas carbone de Fos et mentionne des projets industriels ou photovoltaïques dans le contexte de l'électrification ; cela n'atteste pas une position du projet Carbon sur la THT.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_050"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Carbon",
@@ -1245,7 +1354,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0088",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Elyse / Neocarb",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1259,9 +1368,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0089",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — H2V / Hy2Gen",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. H2V et Hy2Gen sont présentés comme partenaires du projet H4 Marseille-Fos de carburant d'aviation de synthèse, dans le contexte de l'électrification industrielle.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_051"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "H2V / Hy2Gen",
@@ -1273,7 +1384,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0090",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — NaTran",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1287,7 +1398,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0091",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Geométhane",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1301,7 +1412,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0092",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — ENGIE",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1315,7 +1426,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0093",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — PIICTO / Syrius",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1329,7 +1440,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0094",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — France Hydrogène",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1343,7 +1454,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0095",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Newcleo",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1357,9 +1468,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0096",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — CNDP",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Une concertation préalable sur les documents d'urbanisme, distincte de la concertation CNDP, a eu lieu du 15 juin au 15 juillet 2026.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_052"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "CNDP",
@@ -1371,9 +1484,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0097",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Audrey Richard-Ferroudji",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Audrey Richard-Ferroudji préside la CPDP et anime le débat public Fos-Berre, cadre de discussion des options techniques.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_053"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Audrey Richard-Ferroudji",
@@ -1385,9 +1500,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0098",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Marc Papinutti",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Marc Papinutti est mentionné comme président de la CNDP dans le verbatim de la réunion publique d'Arles du 2 juin 2025.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_054"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Marc Papinutti",
@@ -1399,9 +1516,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0099",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Étienne Ballan",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Étienne Ballan est cité dans le verbatim de la CPDP comme délégué régional PACA et animateur de la réunion publique.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_055"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "Étienne Ballan",
@@ -1413,9 +1532,11 @@
     "source_id": "project_fos",
     "target_id": "actor_0100",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — DREAL Occitanie",
+    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. La DREAL Occitanie est citée parmi les services ayant signalé les risques de collision pour plusieurs espèces d'oiseaux ; cela ne démontre pas une opposition institutionnelle.",
     "certainty": "unqualified",
-    "evidence_ids": [],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_056"
+    ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
       "target": "DREAL Occitanie",
@@ -1427,7 +1548,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0101",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — DREAL PACA / MRAe PACA",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -1441,7 +1562,7 @@
     "source_id": "project_fos",
     "target_id": "actor_0102",
     "type": "position / rattachement au dossier",
-    "summary": "Ligne THT Fos-Jonquières — position / rattachement au dossier — Commission européenne / Berne / Ramsar",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -2844,8 +2965,8 @@
     "id": "relation_0203",
     "source_id": "project_fos",
     "target_id": "actor_0103",
-    "type": "source / couverture",
-    "summary": "Ligne THT Fos-Jonquières — source / couverture — La Provence",
+    "type": "position / rattachement au dossier",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -2858,8 +2979,8 @@
     "id": "relation_0204",
     "source_id": "project_fos",
     "target_id": "actor_0104",
-    "type": "source / couverture",
-    "summary": "Ligne THT Fos-Jonquières — source / couverture — Objectif Gard",
+    "type": "position / rattachement au dossier",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -2872,8 +2993,8 @@
     "id": "relation_0205",
     "source_id": "project_fos",
     "target_id": "actor_0105",
-    "type": "source / couverture",
-    "summary": "Ligne THT Fos-Jonquières — source / couverture — La Marseillaise",
+    "type": "position / rattachement au dossier",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -2886,8 +3007,8 @@
     "id": "relation_0206",
     "source_id": "project_fos",
     "target_id": "actor_0106",
-    "type": "source / couverture",
-    "summary": "Ligne THT Fos-Jonquières — source / couverture — France 3 / Franceinfo",
+    "type": "position / rattachement au dossier",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -2900,8 +3021,8 @@
     "id": "relation_0207",
     "source_id": "project_fos",
     "target_id": "actor_0107",
-    "type": "source / couverture",
-    "summary": "Ligne THT Fos-Jonquières — source / couverture — FNE13.fr",
+    "type": "position / rattachement au dossier",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -2914,8 +3035,8 @@
     "id": "relation_0208",
     "source_id": "project_fos",
     "target_id": "actor_0108",
-    "type": "source / couverture",
-    "summary": "Ligne THT Fos-Jonquières — source / couverture — Marsactu",
+    "type": "position / rattachement au dossier",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -2928,8 +3049,8 @@
     "id": "relation_0209",
     "source_id": "project_fos",
     "target_id": "actor_0109",
-    "type": "source / couverture",
-    "summary": "Ligne THT Fos-Jonquières — source / couverture — GoMet",
+    "type": "position / rattachement au dossier",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -2942,8 +3063,8 @@
     "id": "relation_0210",
     "source_id": "project_fos",
     "target_id": "actor_0110",
-    "type": "source / couverture",
-    "summary": "Ligne THT Fos-Jonquières — source / couverture — La Tribune Région Sud",
+    "type": "position / rattachement au dossier",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -2956,8 +3077,8 @@
     "id": "relation_0211",
     "source_id": "project_fos",
     "target_id": "actor_0111",
-    "type": "source / couverture",
-    "summary": "Ligne THT Fos-Jonquières — source / couverture — Tourduvalat.org",
+    "type": "position / rattachement au dossier",
+    "summary": "Lien historique avec le dossier : aucune preuve qualifiée n'établit à ce stade une position sur le tracé.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {

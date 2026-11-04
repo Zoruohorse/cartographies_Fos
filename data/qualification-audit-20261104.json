@@ -36,7 +36,9 @@
     "project_relations_rewritten": 9,
     "unsourced_links_removed": 68,
     "unused_old_evidence_deleted": 50,
-    "old_source_notices_without_url_deleted": 10
+    "old_source_notices_without_url_deleted": 10,
+    "project_actor_relations_newly_documented": 56,
+    "unqualified_project_links_marked": 50
   },
   "qualifications": [
     {
@@ -3085,5 +3087,5 @@
       "verification": "web_indexed"
     }
   },
-  "method": "Chaque assertion reformulée reprend un passage précis du texte dans Fos.xlsx ou une source publique complémentaire. La source fournit une URL, mais la vérification directe a été conservée dans son champ verification ; le lien seul ne valide pas une position. Les assertions sans preuve ne sont plus affichées comme acquises. Le réseau conserve son architecture et sa taxonomie. Les relations entre acteurs autres que les liens avec le projet doivent faire l'objet d'une qualification distincte."
+  "method": "Chaque assertion reformulée reprend un passage précis du texte dans Fos.xlsx ou une source publique complémentaire. La source fournit une URL, mais la vérification directe a été conservée dans son champ verification ; le lien seul ne valide pas une position. Les assertions sans preuve ne sont plus affichées comme acquises. Le réseau conserve son architecture et sa taxonomie. Les relations entre acteurs autres que les liens avec le projet doivent faire l'objet d'une qualification distincte. Mise à jour complémentaire : preuve identifiant l'acteur rattachée au lien projet–acteur dans les deux sens. Les relations inter-acteurs restent distinctes et ne sont pas automatiquement qualifiées."
 }
