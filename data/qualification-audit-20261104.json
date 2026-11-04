@@ -1,0 +1,3089 @@
+{
+  "project": "Ligne THT Jonquières–Fos",
+  "repository": "Zoruohorse/cartographies_Fos",
+  "date": "2026-11-04",
+  "input": "Fos.xlsx",
+  "total_excel_resources": 100,
+  "source_urls_rejected": [
+    {
+      "line": 3,
+      "reason": "URL RFI vers un podcast littéraire sans lien avec le texte de la ressource"
+    },
+    {
+      "line": 55,
+      "reason": "URL Bing = page d'agrégation non qualifiée"
+    }
+  ],
+  "baseline": {
+    "actors": 151,
+    "evidence": 146,
+    "relations": 217,
+    "sources": 29,
+    "qualified": 32
+  },
+  "final": {
+    "actors": 151,
+    "qualified_actor_cards": 94,
+    "coverage_percent": 62.25,
+    "evidence": 186,
+    "relations": 217,
+    "sources": 69
+  },
+  "changes": {
+    "new_sources": 50,
+    "new_evidences": 90,
+    "claims_rewritten": 87,
+    "project_relations_rewritten": 9,
+    "unsourced_links_removed": 68,
+    "unused_old_evidence_deleted": 50,
+    "old_source_notices_without_url_deleted": 10
+  },
+  "qualifications": [
+    {
+      "id": "actor_0001",
+      "name": "RTE",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0025"
+      ]
+    },
+    {
+      "id": "actor_0002",
+      "name": "Patrick de Carolis",
+      "position": "opposed",
+      "qualified_proofs": 2,
+      "source_ids": [
+        "source_0030",
+        "source_0046"
+      ]
+    },
+    {
+      "id": "actor_0003",
+      "name": "Collectif THT 13/30",
+      "position": "opposed",
+      "qualified_proofs": 3,
+      "source_ids": [
+        "source_0014",
+        "source_0028"
+      ]
+    },
+    {
+      "id": "actor_0004",
+      "name": "Renaud Muselier",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0031"
+      ]
+    },
+    {
+      "id": "actor_0005",
+      "name": "Jean-Luc Moya",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0032"
+      ]
+    },
+    {
+      "id": "actor_0006",
+      "name": "Cédric Bernardi",
+      "position": "opposed",
+      "qualified_proofs": 2,
+      "source_ids": [
+        "source_0033",
+        "source_0065"
+      ]
+    },
+    {
+      "id": "actor_0007",
+      "name": "Séverine Dellanegra",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0034"
+      ]
+    },
+    {
+      "id": "actor_0008",
+      "name": "Emmanuel Taché",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0009",
+      "name": "France Chimie Méditerranée",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0035"
+      ]
+    },
+    {
+      "id": "actor_0010",
+      "name": "Jean-Laurent Lucchesi",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0032"
+      ]
+    },
+    {
+      "id": "actor_0011",
+      "name": "Guillaume Meiffre",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0012",
+      "name": "Carole Guintoli",
+      "position": "opposed",
+      "qualified_proofs": 2,
+      "source_ids": [
+        "source_0036",
+        "source_0064"
+      ]
+    },
+    {
+      "id": "actor_0013",
+      "name": "Cyril Marès",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0016"
+      ]
+    },
+    {
+      "id": "actor_0014",
+      "name": "Sébastien Mabile",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0064"
+      ]
+    },
+    {
+      "id": "actor_0015",
+      "name": "Luc Perrin",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0026"
+      ]
+    },
+    {
+      "id": "actor_0016",
+      "name": "Michel Perronet",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0068"
+      ]
+    },
+    {
+      "id": "actor_0017",
+      "name": "Clément Lajoux",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0016"
+      ]
+    },
+    {
+      "id": "actor_0018",
+      "name": "Romain Collard",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0077"
+      ]
+    },
+    {
+      "id": "actor_0019",
+      "name": "Anne Collard",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0027"
+      ]
+    },
+    {
+      "id": "actor_0020",
+      "name": "François Collard",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0069"
+      ]
+    },
+    {
+      "id": "actor_0021",
+      "name": "Rémy Benson",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0022",
+      "name": "Daniel Carlotti",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0023",
+      "name": "Isabelle Gex",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0024",
+      "name": "Laura Baudino",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0025",
+      "name": "François Cavallo",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0066"
+      ]
+    },
+    {
+      "id": "actor_0026",
+      "name": "Jean-Claude Cheinet",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0027",
+      "name": "Daniel Moutet",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0028",
+      "name": "Marie-Hélène Fabre",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0029",
+      "name": "Cyril Girard",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0037"
+      ]
+    },
+    {
+      "id": "actor_0030",
+      "name": "Richard Hardouin",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0031",
+      "name": "Stéphane Coppey",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0032",
+      "name": "Isabelle Charnoz",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0033",
+      "name": "Juan Martinez",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0078"
+      ]
+    },
+    {
+      "id": "actor_0034",
+      "name": "Bertrand Mazel",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0036"
+      ]
+    },
+    {
+      "id": "actor_0035",
+      "name": "Carole Delga",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0031"
+      ]
+    },
+    {
+      "id": "actor_0036",
+      "name": "Nicolas Koukas",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0038"
+      ]
+    },
+    {
+      "id": "actor_0037",
+      "name": "René Raimondi",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0038",
+      "name": "Georges-François Leclerc",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0068"
+      ]
+    },
+    {
+      "id": "actor_0039",
+      "name": "Christophe Mirmand",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0013"
+      ]
+    },
+    {
+      "id": "actor_0040",
+      "name": "Jérôme Bonet",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0041",
+      "name": "Jacques Witkowski",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0029"
+      ]
+    },
+    {
+      "id": "actor_0042",
+      "name": "Gilles Odone",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0039"
+      ]
+    },
+    {
+      "id": "actor_0043",
+      "name": "Vincent Fletin",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0068"
+      ]
+    },
+    {
+      "id": "actor_0044",
+      "name": "Arthur Audouard",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0068"
+      ]
+    },
+    {
+      "id": "actor_0045",
+      "name": "Emmanuel Macron",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0073"
+      ]
+    },
+    {
+      "id": "actor_0046",
+      "name": "État / gouvernement",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0011"
+      ]
+    },
+    {
+      "id": "actor_0047",
+      "name": "Provence Fabrique des Possibles",
+      "position": "favorable",
+      "qualified_proofs": 2,
+      "source_ids": [
+        "source_0017"
+      ]
+    },
+    {
+      "id": "actor_0048",
+      "name": "Jean-Luc Chauvin",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0041"
+      ]
+    },
+    {
+      "id": "actor_0049",
+      "name": "Grand Port Maritime de Marseille-Fos",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0050",
+      "name": "Rémi Costantino",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0051",
+      "name": "Régis Passerieux",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0052",
+      "name": "NGE / Jean Bernadet",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0053",
+      "name": "Club Top 20",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0054",
+      "name": "Marc Petit",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0039"
+      ]
+    },
+    {
+      "id": "actor_0055",
+      "name": "FNE13",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0066"
+      ]
+    },
+    {
+      "id": "actor_0056",
+      "name": "Association sauvegarde terres Camargue-Crau",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0065"
+      ]
+    },
+    {
+      "id": "actor_0057",
+      "name": "ASTA",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0012"
+      ]
+    },
+    {
+      "id": "actor_0058",
+      "name": "Vigueirat Nature",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0012"
+      ]
+    },
+    {
+      "id": "actor_0059",
+      "name": "Agir pour la Crau",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0012"
+      ]
+    },
+    {
+      "id": "actor_0060",
+      "name": "NACICCA",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0012"
+      ]
+    },
+    {
+      "id": "actor_0061",
+      "name": "COPA 13",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0016"
+      ]
+    },
+    {
+      "id": "actor_0062",
+      "name": "COPA 30",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0016"
+      ]
+    },
+    {
+      "id": "actor_0063",
+      "name": "AOC Costières de Nîmes",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0040"
+      ]
+    },
+    {
+      "id": "actor_0064",
+      "name": "Domaine Mourgues du Grès",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0077"
+      ]
+    },
+    {
+      "id": "actor_0065",
+      "name": "FDSEA / Jeunes Agriculteurs",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0035"
+      ]
+    },
+    {
+      "id": "actor_0066",
+      "name": "Coordination rurale",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0067",
+      "name": "Chambres d'agriculture",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0016"
+      ]
+    },
+    {
+      "id": "actor_0068",
+      "name": "AOP Foin de Crau",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0069",
+      "name": "IGP Riz de Camargue",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0070",
+      "name": "LPO",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0071",
+      "name": "WWF France",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0072",
+      "name": "Tour du Valat",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0022"
+      ]
+    },
+    {
+      "id": "actor_0073",
+      "name": "CEN PACA",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0074",
+      "name": "SNPN",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0070"
+      ]
+    },
+    {
+      "id": "actor_0075",
+      "name": "Réseau des Grands Sites de France",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0071"
+      ]
+    },
+    {
+      "id": "actor_0076",
+      "name": "Ramsar France / MAB France / Réserves naturelles",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0077",
+      "name": "OFB",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0078",
+      "name": "PNR de Camargue",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0048"
+      ]
+    },
+    {
+      "id": "actor_0079",
+      "name": "Nacioun Gardiano",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0080",
+      "name": "ADPLGF",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0081",
+      "name": "ACEN",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0082",
+      "name": "Sauvons nos Étangs",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0083",
+      "name": "MCTB Golfe de Fos Environnement",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0084",
+      "name": "GravitHy",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0051"
+      ]
+    },
+    {
+      "id": "actor_0085",
+      "name": "Marcegaglia",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0073"
+      ]
+    },
+    {
+      "id": "actor_0086",
+      "name": "ArcelorMittal Méditerranée",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0087",
+      "name": "Carbon",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0051"
+      ]
+    },
+    {
+      "id": "actor_0088",
+      "name": "Elyse / Neocarb",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0089",
+      "name": "H2V / Hy2Gen",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0052"
+      ]
+    },
+    {
+      "id": "actor_0090",
+      "name": "NaTran",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0091",
+      "name": "Geométhane",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0092",
+      "name": "ENGIE",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0093",
+      "name": "PIICTO / Syrius",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0094",
+      "name": "France Hydrogène",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0095",
+      "name": "Newcleo",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0096",
+      "name": "CNDP",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0076"
+      ]
+    },
+    {
+      "id": "actor_0097",
+      "name": "Audrey Richard-Ferroudji",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0068"
+      ]
+    },
+    {
+      "id": "actor_0098",
+      "name": "Marc Papinutti",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0068"
+      ]
+    },
+    {
+      "id": "actor_0099",
+      "name": "Étienne Ballan",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0068"
+      ]
+    },
+    {
+      "id": "actor_0100",
+      "name": "DREAL Occitanie",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0040"
+      ]
+    },
+    {
+      "id": "actor_0101",
+      "name": "DREAL PACA / MRAe PACA",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0102",
+      "name": "Commission européenne / Berne / Ramsar",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0103",
+      "name": "La Provence",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0104",
+      "name": "Objectif Gard",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0105",
+      "name": "La Marseillaise",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0106",
+      "name": "France 3 / Franceinfo",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0107",
+      "name": "FNE13.fr",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0108",
+      "name": "Marsactu",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0109",
+      "name": "GoMet",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0110",
+      "name": "La Tribune Région Sud",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0111",
+      "name": "Tourduvalat.org",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0112",
+      "name": "Romain, Anne et François Collard",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0027"
+      ]
+    },
+    {
+      "id": "actor_0113",
+      "name": "Vincent Fletin & Arthur Audouard",
+      "position": "unknown",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0068"
+      ]
+    },
+    {
+      "id": "actor_0114",
+      "name": "Acteurs de la Biodiversité (LPO, Tour du Valat, CEN PACA, WWF)",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0074"
+      ]
+    },
+    {
+      "id": "actor_0115",
+      "name": "Syndicats Agricoles (COPA 13, COPA 30, FDSEA, CR)",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0016"
+      ]
+    },
+    {
+      "id": "actor_0116",
+      "name": "MAB France",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0117",
+      "name": "La Camargue à l'Unesco",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0047"
+      ]
+    },
+    {
+      "id": "actor_0118",
+      "name": "Stéphan Bonistalli",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0064"
+      ]
+    },
+    {
+      "id": "actor_0119",
+      "name": "Julien Besançon",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0120",
+      "name": "Robert Crauste",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0121",
+      "name": "Anne Claudius-Petit",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0048"
+      ]
+    },
+    {
+      "id": "actor_0122",
+      "name": "Monique Barbut",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0123",
+      "name": "Maud Bregeon",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0124",
+      "name": "B. Huet",
+      "position": "unknown",
+      "qualified_proofs": 0,
+      "source_ids": []
+    },
+    {
+      "id": "actor_0125",
+      "name": "Christophe Barassen",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0025"
+      ]
+    },
+    {
+      "id": "actor_0126",
+      "name": "Jean Jalbert",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0022"
+      ]
+    },
+    {
+      "id": "actor_0127",
+      "name": "Nelson Chaudon",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0032"
+      ]
+    },
+    {
+      "id": "actor_0128",
+      "name": "Delphine Batho",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0045"
+      ]
+    },
+    {
+      "id": "actor_0129",
+      "name": "Françoise Nyssen",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0036"
+      ]
+    },
+    {
+      "id": "actor_0130",
+      "name": "Stéphane Ravier",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0044"
+      ]
+    },
+    {
+      "id": "actor_0131",
+      "name": "Hendrik Davi",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0044"
+      ]
+    },
+    {
+      "id": "actor_0132",
+      "name": "David Ausset",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0026"
+      ]
+    },
+    {
+      "id": "actor_0133",
+      "name": "Gaël Briez",
+      "position": "opposed",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0026"
+      ]
+    },
+    {
+      "id": "actor_0134",
+      "name": "Autorité environnementale",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0049"
+      ]
+    },
+    {
+      "id": "actor_0135",
+      "name": "Pascal Galéoté",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0042"
+      ]
+    },
+    {
+      "id": "actor_0136",
+      "name": "Jean-Christophe Amarantinis",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0059"
+      ]
+    },
+    {
+      "id": "actor_0137",
+      "name": "UPE 13",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0059"
+      ]
+    },
+    {
+      "id": "actor_0138",
+      "name": "Stéphane Benhamou",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0040"
+      ]
+    },
+    {
+      "id": "actor_0139",
+      "name": "Medef Sud",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0040"
+      ]
+    },
+    {
+      "id": "actor_0140",
+      "name": "Pascal Kuhn",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0040"
+      ]
+    },
+    {
+      "id": "actor_0141",
+      "name": "UIMM Alpes-Méditerranée",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0040"
+      ]
+    },
+    {
+      "id": "actor_0142",
+      "name": "Stéphane Bergamini",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0035"
+      ]
+    },
+    {
+      "id": "actor_0143",
+      "name": "Franck Bergamini",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0040"
+      ]
+    },
+    {
+      "id": "actor_0144",
+      "name": "Jérôme Yvernault",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0035"
+      ]
+    },
+    {
+      "id": "actor_0145",
+      "name": "Philippe Maurizot",
+      "position": "favorable",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0041"
+      ]
+    },
+    {
+      "id": "actor_0146",
+      "name": "Mathieu Lefèvre",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0044"
+      ]
+    },
+    {
+      "id": "actor_0147",
+      "name": "Stéphane Paglia",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0019"
+      ]
+    },
+    {
+      "id": "actor_0148",
+      "name": "CCI du Pays d’Arles",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0019"
+      ]
+    },
+    {
+      "id": "actor_0149",
+      "name": "Isabelle Campagnola-Savon",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0020"
+      ]
+    },
+    {
+      "id": "actor_0150",
+      "name": "Jean-Louis Geiger",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0020"
+      ]
+    },
+    {
+      "id": "actor_0151",
+      "name": "Caroline Ritzenthaler",
+      "position": "neutral",
+      "qualified_proofs": 1,
+      "source_ids": [
+        "source_0017"
+      ]
+    }
+  ],
+  "statement_changes": [
+    {
+      "id": "actor_0002",
+      "name": "Patrick de Carolis",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Signe le serment des maires et estime que l'absence de consensus et les recours condamnent le projet aérien à de longs retards.",
+      "new_summary": "Patrick de Carolis réaffirme son opposition à la solution aérienne ; le conseil municipal d'Arles a rendu un avis défavorable à la dérogation à la loi Littoral. Patrick de Carolis critique publiquement le tracé aérien et juge son acceptabilité territoriale insuffisante.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_001",
+        "evidence_retro_fos_20261104_002"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0002"
+      ]
+    },
+    {
+      "id": "actor_0004",
+      "name": "Renaud Muselier",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "S'oppose à un passage en force sur la solution aérienne et avertit qu'il provoquerait un blocage irrémédiable.",
+      "new_summary": "Carole Delga présente Renaud Muselier comme partageant ses demandes d'alternatives à la solution aérienne ; cela ne signifie pas un rejet des besoins électriques.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_003"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0004"
+      ]
+    },
+    {
+      "id": "actor_0005",
+      "name": "Jean-Luc Moya",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Très investi contre l'aérien et défenseur de la biodiversité locale.",
+      "new_summary": "Jean-Luc Moya est identifié comme porte-parole du Collectif THT 13/30 lors du rassemblement d'Arles en opposition au projet aérien.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_004"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0005"
+      ]
+    },
+    {
+      "id": "actor_0006",
+      "name": "Cédric Bernardi",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "S'oppose à l'emprise sur ses terres et à la dégradation du paysage agricole.",
+      "new_summary": "Cédric Bernardi, riziculteur et éleveur, déclare soutenir le renforcement électrique mais refuser la solution aérienne en Camargue. Cédric Bernardi copréside l'association de sauvegarde des terres de Camargue et de Crau, opposée à la ligne aérienne.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_005",
+        "evidence_retro_fos_20261104_006"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0006"
+      ]
+    },
+    {
+      "id": "actor_0007",
+      "name": "Séverine Dellanegra",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "A porté l'alternative à l'Élysée et demande une table ronde ainsi qu'une étude détaillée des solutions souterraines.",
+      "new_summary": "Séverine Dellanegra défend auprès de l'Élysée une alternative à la ligne aérienne et appelle à la mobilisation ; elle ne remet pas en cause les besoins d'électricité de Fos.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_007"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0007"
+      ]
+    },
+    {
+      "id": "actor_0009",
+      "name": "France Chimie Méditerranée",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Soutient la ligne pour sécuriser la décarbonation industrielle de Fos-sur-Mer.",
+      "new_summary": "France Chimie Méditerranée participe à la conférence de presse patronale et syndicale soutenant l'accélération du projet de ligne au nom de l'emploi et de la décarbonation.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_008"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0009"
+      ]
+    },
+    {
+      "id": "actor_0010",
+      "name": "Jean-Laurent Lucchesi",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Porte une alternative structurée combinant une liaison souterraine de 2 GW en courant continu et une liaison sous-marine ultérieure.",
+      "new_summary": "Jean-Laurent Lucchesi est porte-parole du collectif THT 13/30 et soutient les solutions non aériennes présentées au rassemblement d'Arles.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_009"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0010"
+      ]
+    },
+    {
+      "id": "actor_0012",
+      "name": "Carole Guintoli",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Bloque l'accès de ses rizières aux naturalistes mandatés par RTE pour empêcher les études préalables à l'implantation des pylônes.",
+      "new_summary": "Carole Guintoli dénonce l'accès forcé à ses parcelles dans le cadre des études RTE ; elle figure parmi les sept agriculteurs ayant refusé les visites. Carole Guintoli témoigne avoir contesté les visites réalisées ou demandées par des représentants mandatés par RTE sur son exploitation.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_010",
+        "evidence_retro_fos_20261104_011"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0012"
+      ]
+    },
+    {
+      "id": "actor_0013",
+      "name": "Cyril Marès",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Porte une opposition agricole et viticole ; appelle à une union agriculteurs/écologistes/élus.",
+      "new_summary": "Cyril Marès, président de la COPA 30, maintient explicitement son refus du tracé aérien malgré l'accord agricole national.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_012"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0013",
+        "evidence_update_0026"
+      ]
+    },
+    {
+      "id": "actor_0014",
+      "name": "Sébastien Mabile",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Structure la bataille juridique et les futurs recours administratifs contre le projet aérien.",
+      "new_summary": "Sébastien Mabile a déposé au nom du collectif des démarches relatives aux conséquences environnementales du projet aérien.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_013"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0014"
+      ]
+    },
+    {
+      "id": "actor_0015",
+      "name": "Luc Perrin",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Alerte sur la détresse des agriculteurs et sur la difficulté croissante à contenir une radicalisation du mouvement.",
+      "new_summary": "Luc Perrin, coprésident de l'ASTA, critique les impacts paysagers et environnementaux de la solution aérienne et appelle à une alternative.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_014"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0015"
+      ]
+    },
+    {
+      "id": "actor_0016",
+      "name": "Michel Perronet",
+      "old_position": "opposed",
+      "new_position": "neutral",
+      "old_summary": "Alerte sur la dépendance accrue au poste de Tavel et conteste le bénéfice du projet en matière de sécurité d'approvisionnement.",
+      "new_summary": "Michel Perronet, intervenant du Collectif THT 13/30 au débat CNDP de juin 2025, critique le dimensionnement et la stratégie de réseau avancés par RTE.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_015"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0016"
+      ]
+    },
+    {
+      "id": "actor_0017",
+      "name": "Clément Lajoux",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Rappelle que les agriculteurs ne refusent pas la décarbonation, mais uniquement les pylônes.",
+      "new_summary": "Clément Lajoux, président de la COPA 13, maintient explicitement son refus de la ligne aérienne Jonquières–Fos malgré un accord national agricole.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_016"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0017",
+        "evidence_update_0026"
+      ]
+    },
+    {
+      "id": "actor_0018",
+      "name": "Romain Collard",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Vigneron beaucairois, Domaine Mourgues du Grès. Refuse que les terres viticoles et agricoles soient sacrifiées alors que des alternatives existent.",
+      "new_summary": "Romain Collard est présenté comme chef de culture au Château Mourgues du Grès ; cette pièce ne prouve pas sa position personnelle sur la ligne.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_017"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0019",
+      "name": "Anne Collard",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Anne Collard s’oppose à l’impact de la ligne aérienne sur le paysage viticole, l’activité agricole et le tourisme de son domaine.",
+      "new_summary": "Anne Collard, vigneronne, alerte sur les risques de la ligne pour les exploitations agricoles et leurs labels.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_018"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_update_0023",
+        "evidence_update_0024"
+      ]
+    },
+    {
+      "id": "actor_0020",
+      "name": "François Collard",
+      "old_position": "unknown",
+      "new_position": "opposed",
+      "old_summary": "Vigneron du Domaine / Château Mourgues du Grès, cité dans l'opposition viticole au projet aérien.",
+      "new_summary": "François Collard, du domaine Mourgues du Grès, témoigne auprès de Vert des impacts paysagers et viticoles redoutés de la ligne aérienne.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_019"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0025",
+      "name": "François Cavallo",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Porte l'argumentaire avifaune avec les comptages d'oiseaux et espèces protégées.",
+      "new_summary": "François Cavallo, de NACICCA, organise ou présente des comptages d'oiseaux pour documenter les risques de collision et l'impact potentiel sur l'avifaune.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_020"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0025"
+      ]
+    },
+    {
+      "id": "actor_0029",
+      "name": "Cyril Girard",
+      "old_position": "opposed",
+      "new_position": "unknown",
+      "old_summary": "Critique les grands projets d'infrastructures, notamment le contournement d'Arles et la THT.",
+      "new_summary": "Cyril Girard intervient dans une mobilisation citoyenne et climatique à Arles ; l'article ne permet pas, à lui seul, de démontrer une position individuelle sur la ligne THT.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_021"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0029"
+      ]
+    },
+    {
+      "id": "actor_0033",
+      "name": "Juan Martinez",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Refuse que la Terre d'Argence, la Camargue et la Crau soient balafrées.",
+      "new_summary": "Le bilan CNDP des débats sur les réseaux sociaux cite Juan Martinez parmi les responsables politiques associés aux discussions opposées à la ligne aérienne.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_022"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0033"
+      ]
+    },
+    {
+      "id": "actor_0034",
+      "name": "Bertrand Mazel",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Relaie la proposition de Michel Barnier comme tiers facilitateur neutre.",
+      "new_summary": "Bertrand Mazel figure dans les organisations agricoles engagées contre le tracé aérien et les atteintes aux terres de culture.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_023"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0034"
+      ]
+    },
+    {
+      "id": "actor_0035",
+      "name": "Carole Delga",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Demande explicitement l'abandon du projet aérien, l'examen des alternatives et signe la charte des élus.",
+      "new_summary": "Carole Delga exprime par courrier au préfet son opposition au tracé aérien et demande des solutions préservant le territoire gardois.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_024"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0035"
+      ]
+    },
+    {
+      "id": "actor_0036",
+      "name": "Nicolas Koukas",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Favorable à l'enfouissement technique, mais critique surtout la gouvernance municipale actuelle.",
+      "new_summary": "Nicolas Koukas intervient au conseil municipal d'Arles sur les risques de transfert de décisions d'urbanisme à l'État ; sa position sur la ligne elle-même reste nuancée.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_025"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0036"
+      ]
+    },
+    {
+      "id": "actor_0038",
+      "name": "Georges-François Leclerc",
+      "old_position": "favorable",
+      "new_position": "neutral",
+      "old_summary": "Cadre le débat public et la décision ; perçu par certains opposants comme pro-aérien.",
+      "new_summary": "Georges-François Leclerc préside la présentation des enjeux publics de l'infrastructure lors du débat CNDP du 2 juin 2025 ; il reconnaît les fortes oppositions au tracé.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_026"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0038"
+      ]
+    },
+    {
+      "id": "actor_0039",
+      "name": "Christophe Mirmand",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "À l'origine de la saisine de la CNDP et de l'organisation du débat global Fos-Berre.",
+      "new_summary": "Christophe Mirmand est cité comme ancien préfet ayant défendu la nécessité d'une garantie de délai électrique pour les industriels ; ce rappel ne prouve pas une prise de position sur le tracé détaillé.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_027"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0039"
+      ]
+    },
+    {
+      "id": "actor_0041",
+      "name": "Jacques Witkowski",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Le préfet de région conduit la procédure de DUP et a publiquement défendu la ligne comme un projet d’intérêt majeur dont la région ne peut se passer ; la DUP reste à décider.",
+      "new_summary": "Jacques Witkowski précise les outils fonciers et administratifs de la stratégie de réindustrialisation ; il intervient également sur le calendrier de la procédure THT.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_028"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0041"
+      ]
+    },
+    {
+      "id": "actor_0042",
+      "name": "Gilles Odone",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Maintient la nécessité de la ligne aérienne et annonce une enquête publique avant fin 2026.",
+      "new_summary": "Gilles Odone, délégué Méditerranée de RTE, présente la feuille de route et les études restant à mener avant la définition précise des pylônes.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_029"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0042"
+      ]
+    },
+    {
+      "id": "actor_0043",
+      "name": "Vincent Fletin",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Expert national grands projets chez RTE. Porte l'argumentaire technique de RTE en réunion publique.",
+      "new_summary": "Vincent Fletin est identifié dans le verbatim CNDP comme expert national grands projets de RTE intervenant sur le projet Feuillane–Jonquières.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_030"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0044",
+      "name": "Arthur Audouard",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Responsable national du programme 400 kV chez RTE. Intervient avec Vincent Fletin sur la solution aérienne.",
+      "new_summary": "Arthur Audouard est identifié par le verbatim CNDP comme responsable national du programme 400 kV de RTE.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_031"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0045",
+      "name": "Emmanuel Macron",
+      "old_position": "favorable",
+      "new_position": "unknown",
+      "old_summary": "Soutient la ligne, jugée nécessaire pour donner de la visibilité aux industriels.",
+      "new_summary": "Le collectif a interpellé Emmanuel Macron pour solliciter une réunion et demander l'étude d'une alternative non aérienne ; cette interpellation n'établit pas sa position personnelle.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_032"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0045"
+      ]
+    },
+    {
+      "id": "actor_0046",
+      "name": "État / gouvernement",
+      "old_position": "favorable",
+      "new_position": "neutral",
+      "old_summary": "Engage l'instruction de la DUP et cadre les arbitrages de réindustrialisation.",
+      "new_summary": "Les services de l'État organisent l'enquête publique du 9 novembre au 11 décembre 2026 relative aux demandes de DUP et de dérogation littorale.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_033"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0046"
+      ]
+    },
+    {
+      "id": "actor_0048",
+      "name": "Jean-Luc Chauvin",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Défend la ligne au nom de la souveraineté et de la sécurité d'approvisionnement.",
+      "new_summary": "Jean-Luc Chauvin, président de la CCI Aix-Marseille-Provence, soutient la réalisation rapide du renforcement électrique indépendamment de sa localisation exacte.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_034"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0048"
+      ]
+    },
+    {
+      "id": "actor_0054",
+      "name": "Marc Petit",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Auteur de la tierce expertise. Valide l'alternative enfouie du collectif tout en reconnaissant les avantages techniques RTE.",
+      "new_summary": "Marc Petit, professeur à CentraleSupélec, a conduit la tierce expertise examinant les stratégies et la possibilité d'un phasage des renforcements électriques.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_035"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0054"
+      ]
+    },
+    {
+      "id": "actor_0055",
+      "name": "FNE13",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Pilier du Collectif THT 13/30, apporte le relais juridique et d'expertise environnementale.",
+      "new_summary": "FNE Bouches-du-Rhône soutient les solutions alternatives à l'aérien et critique les incidences écologiques et les faiblesses de l'analyse du projet.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_036"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0055"
+      ]
+    },
+    {
+      "id": "actor_0056",
+      "name": "Association sauvegarde terres Camargue-Crau",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Fondée par les exploitants impactés, mot d'ordre strict : zéro pylône.",
+      "new_summary": "L'Association de sauvegarde des terres de Camargue et de Crau, coprésidée par Cédric Bernardi et Guillaume Meiffre, mène des actions publiques contre les pylônes.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_037"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0056"
+      ]
+    },
+    {
+      "id": "actor_0061",
+      "name": "COPA 13",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Le COPA 13 maintient explicitement son refus du tracé aérien Jonquières–Fos malgré l’accord national RTE–FNSEA–Chambres d’agriculture du 12 octobre 2026.",
+      "new_summary": "La COPA 13 confirme son opposition au projet aérien, sans que l'accord FNSEA–RTE valide ce tracé local.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_038"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_update_0026"
+      ]
+    },
+    {
+      "id": "actor_0062",
+      "name": "COPA 30",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Le COPA 30 maintient explicitement son refus du tracé aérien Jonquières–Fos malgré l’accord national RTE–FNSEA–Chambres d’agriculture du 12 octobre 2026.",
+      "new_summary": "La COPA 30 confirme son opposition au tracé aérien malgré la signature de l'accord national sur les lignes très haute tension.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_039"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_update_0026"
+      ]
+    },
+    {
+      "id": "actor_0063",
+      "name": "AOC Costières de Nîmes",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Filière viticole mobilisée contre les impacts paysagers, touristiques et agricoles des pylônes.",
+      "new_summary": "La viticulture de l'appellation Costières de Nîmes est identifiée parmi les activités exposées aux impacts agricoles et paysagers ; le texte ne prouve pas une position de l'organisme gestionnaire de l'AOC.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_040"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0064",
+      "name": "Domaine Mourgues du Grès",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Domaine viticole beaucairois, incarné par Anne, François et Romain Collard dans l'opposition viticole.",
+      "new_summary": "Le Château Mourgues du Grès est un domaine viticole familial exploité notamment par Anne et François Collard et employant Romain Collard comme chef de culture.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_041"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0065",
+      "name": "FDSEA / Jeunes Agriculteurs",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Organisations agricoles fédérées notamment dans la COPA 13 et citées dans la mobilisation contre l'impact foncier.",
+      "new_summary": "Les fédérations agricoles, dont la FNSEA, sont citées parmi les parties prenantes mobilisées sur les conséquences agricoles de l'ouvrage ; les prises de position doivent être distinguées selon les fédérations.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_042"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0067",
+      "name": "Chambres d'agriculture",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Institutions agricoles citées parmi les acteurs mobilisés sur les impacts agricoles.",
+      "new_summary": "Chambres d'agriculture France a conclu le 12 octobre un accord-cadre national avec RTE et la FNSEA ; cet accord ne valide pas le tracé local aérien.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_043"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0072",
+      "name": "Tour du Valat",
+      "old_position": "opposed",
+      "new_position": "neutral",
+      "old_summary": "La Tour du Valat critique explicitement les adaptations d’urbanisme du projet touchant les continuités écologiques et soutient scientifiquement les opposants, sans être membre du collectif.",
+      "new_summary": "La Tour du Valat apporte son expertise scientifique sur les oiseaux d'eau et les effets potentiels de la ligne sur les corridors migratoires.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_044"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_update_0021",
+        "evidence_update_0025"
+      ]
+    },
+    {
+      "id": "actor_0074",
+      "name": "SNPN",
+      "old_position": "unknown",
+      "new_position": "opposed",
+      "old_summary": "Société nationale de protection de la nature, citée dans les contenus naturalistes et les alertes environnementales.",
+      "new_summary": "La SNPN exprime explicitement son opposition au tracé aérien et plaide pour des variantes enterrées ou ensouillées.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_045"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0075",
+      "name": "Réseau des Grands Sites de France",
+      "old_position": "unknown",
+      "new_position": "opposed",
+      "old_summary": "Réseau d'espaces protégés appelant à abandonner la ligne aérienne et à préserver Camargue / Crau / Terre d'Argence.",
+      "new_summary": "Le Réseau des Grands Sites de France demande avec d'autres organismes d'abandonner la solution aérienne à travers les territoires protégés.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_046"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0078",
+      "name": "PNR de Camargue",
+      "old_position": "unknown",
+      "new_position": "opposed",
+      "old_summary": "Gestionnaire territorial et naturel, porteur de missions Natura 2000 et de plans de gestion des zones humides.",
+      "new_summary": "La présidente du Parc naturel régional de Camargue affirme que le Parc doit participer à la mobilisation contre le tracé aérien.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_047"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0084",
+      "name": "GravitHy",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Projet d'acier bas-carbone / DRI-HBI à partir d'hydrogène, emblématique des besoins électriques de Fos.",
+      "new_summary": "GravitHy est mentionné comme projet industriel de fabrication de fer briqueté bas-carbone à Fos, associé aux besoins futurs d'électricité ; cela ne vaut pas prise de position sur le tracé THT.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_048"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0085",
+      "name": "Marcegaglia",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Industriel sidérurgique, projet de restructuration à Fos et synergies avec GravitHy.",
+      "new_summary": "Marcegaglia est cité par le collectif comme projet industriel lié à l'électrification de Fos ; aucune position sur le tracé aérien n'est établie par cette mention.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_049"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0087",
+      "name": "Carbon",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Projet photovoltaïque cité dans les besoins électriques et la réindustrialisation, abandonné dans les documents.",
+      "new_summary": "L'article présente les projets de production bas carbone de Fos et mentionne des projets industriels ou photovoltaïques dans le contexte de l'électrification ; cela n'atteste pas une position du projet Carbon sur la THT.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_050"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0089",
+      "name": "H2V / Hy2Gen",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Producteurs d'hydrogène / carburants renouvelables cités dans la dynamique Fos-Berre.",
+      "new_summary": "H2V et Hy2Gen sont présentés comme partenaires du projet H4 Marseille-Fos de carburant d'aviation de synthèse, dans le contexte de l'électrification industrielle.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_051"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0096",
+      "name": "CNDP",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Organisent le débat global Fos-Berre, rappelant que l'exercice est consultatif et non référendaire.",
+      "new_summary": "Une concertation préalable sur les documents d'urbanisme, distincte de la concertation CNDP, a eu lieu du 15 juin au 15 juillet 2026.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_052"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0096"
+      ]
+    },
+    {
+      "id": "actor_0097",
+      "name": "Audrey Richard-Ferroudji",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Présidente du débat public Fos-Berre Provence / CPDP. Cadre le débat, rappelle que ce n'est pas un référendum.",
+      "new_summary": "Audrey Richard-Ferroudji préside la CPDP et anime le débat public Fos-Berre, cadre de discussion des options techniques.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_053"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0098",
+      "name": "Marc Papinutti",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Président de la CNDP cité dans les documents.",
+      "new_summary": "Marc Papinutti est mentionné comme président de la CNDP dans le verbatim de la réunion publique d'Arles du 2 juin 2025.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_054"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0099",
+      "name": "Étienne Ballan",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Animateur de la concertation, cité dans les instances du débat public.",
+      "new_summary": "Étienne Ballan est cité dans le verbatim de la CPDP comme délégué régional PACA et animateur de la réunion publique.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_055"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0100",
+      "name": "DREAL Occitanie",
+      "old_position": "unknown",
+      "new_position": "unknown",
+      "old_summary": "Service de l'État dont la note environnementale est utilisée par les opposants sur les espèces protégées et le risque juridique.",
+      "new_summary": "La DREAL Occitanie est citée parmi les services ayant signalé les risques de collision pour plusieurs espèces d'oiseaux ; cela ne démontre pas une opposition institutionnelle.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_056"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0112",
+      "name": "Romain, Anne et François Collard",
+      "old_position": "opposed",
+      "new_position": "unknown",
+      "old_summary": "Refusent que les terres viticoles soient sacrifiées et alertent sur les impacts agrotouristiques.",
+      "new_summary": "Anne Collard défend les filières agricoles et les labels locaux contre les impacts redoutés du tracé aérien ; la position des trois membres de la famille ne peut être déduite de cette seule citation.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_057"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0112"
+      ]
+    },
+    {
+      "id": "actor_0113",
+      "name": "Vincent Fletin & Arthur Audouard",
+      "old_position": "favorable",
+      "new_position": "unknown",
+      "old_summary": "Portent l'argumentaire technique de RTE en réunion publique sur le 400 kV.",
+      "new_summary": "Vincent Fletin et Arthur Audouard interviennent au titre de RTE dans le débat CNDP du 2 juin 2025 sur la ligne 400 kV.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_058"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0113"
+      ]
+    },
+    {
+      "id": "actor_0114",
+      "name": "Acteurs de la Biodiversité (LPO, Tour du Valat, CEN PACA, WWF)",
+      "old_position": "opposed",
+      "new_position": "neutral",
+      "old_summary": "Alertent massivement sur les oiseaux migrateurs (Aigle de Bonelli, Ganga cata) et l'impact sur les zones humides.",
+      "new_summary": "Le collectif rassemble des associations et des gestionnaires d'espaces naturels opposés à la ligne aérienne ; les positions institutionnelles des organisations non signataires doivent être vérifiées séparément.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_059"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0114"
+      ]
+    },
+    {
+      "id": "actor_0115",
+      "name": "Syndicats Agricoles (COPA 13, COPA 30, FDSEA, CR)",
+      "old_position": "opposed",
+      "new_position": "neutral",
+      "old_summary": "S'opposent unanimement au tracé aérien détruisant les paysages (AOC Costières) et les filières (Foin de Crau, Riz).",
+      "new_summary": "Les COPA 13 et 30 maintiennent une opposition explicite au tracé aérien tandis que l'accord national impliquant la FNSEA ne préjuge pas de son acceptation locale.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_060"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0115"
+      ]
+    },
+    {
+      "id": "actor_0117",
+      "name": "La Camargue à l'Unesco",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Soutient l'inscription du territoire au patrimoine mondial, démarche menacée par la THT.",
+      "new_summary": "L'association La Camargue à l'Unesco considère le projet de pylônes aérien comme incompatible avec son ambition de classement et plaide pour l'enfouissement.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_061"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0117"
+      ]
+    },
+    {
+      "id": "actor_0118",
+      "name": "Stéphan Bonistalli",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Accuse les agents de RTE d'intrusion nocturne sur ses terres et dépose plainte pour harcèlement.",
+      "new_summary": "Stéphan Bonistalli a déclaré avoir porté plainte après un incident sur son exploitation en lien avec les opérations d'études préparatoires de RTE ; l'allégation reste attribuée à son témoignage.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_062"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0118"
+      ]
+    },
+    {
+      "id": "actor_0121",
+      "name": "Anne Claudius-Petit",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "La présidente du Parc naturel régional de Camargue s’oppose explicitement à la solution aérienne, invoquant ses impacts paysagers, agricoles et avifaunistiques.",
+      "new_summary": "Anne Claudius-Petit soutient l'action du Parc dans la mobilisation contre la ligne THT aérienne, sans opposer ce refus à la décarbonation industrielle.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_063"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0121"
+      ]
+    },
+    {
+      "id": "actor_0125",
+      "name": "Christophe Barassen",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Défend le dispositif de compensation (1 pylône installé = 3 enlevés) et minimise l'emprise au sol.",
+      "new_summary": "Christophe Berassen, directeur du programme RTE Fos-Berre, défend la nécessité de la ligne aérienne et expose les arguments techniques et de compensation du maître d'ouvrage.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_064"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0125"
+      ]
+    },
+    {
+      "id": "actor_0126",
+      "name": "Jean Jalbert",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Dénonce une politique opposant transition énergétique et transition écologique et annonce un conflit majeur en cas de DUP.",
+      "new_summary": "Jean Jalbert, directeur de la Tour du Valat, alerte sur les risques de collision pour les oiseaux migrateurs et fournit une expertise naturaliste aux opposants.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_065"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0126",
+        "evidence_update_0025"
+      ]
+    },
+    {
+      "id": "actor_0127",
+      "name": "Nelson Chaudon",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Demande soit l'enfouissement, soit l'abandon du projet aérien, et engage les élus aux côtés du territoire.",
+      "new_summary": "Nelson Chaudon, maire de Beaucaire, a signé le serment des élus réclamant une alternative à la ligne aérienne.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_066"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0127"
+      ]
+    },
+    {
+      "id": "actor_0128",
+      "name": "Delphine Batho",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Demande l'arrêt du projet dans sa forme aérienne et l'ouverture d'une concertation territoriale sur l'enfouissement.",
+      "new_summary": "Delphine Batho dénonce la conduite du dossier par l'État et demande une solution enterrée à la place de la ligne aérienne.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_067"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0128"
+      ]
+    },
+    {
+      "id": "actor_0129",
+      "name": "Françoise Nyssen",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Soutient publiquement la mobilisation au nom de la protection du vivant et du patrimoine.",
+      "new_summary": "Françoise Nyssen est citée parmi les personnalités engagées dans le rassemblement opposé à la ligne aérienne.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_068"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0129"
+      ]
+    },
+    {
+      "id": "actor_0130",
+      "name": "Stéphane Ravier",
+      "old_position": "opposed",
+      "new_position": "neutral",
+      "old_summary": "Participe au front transpartisan opposé à la ligne aérienne.",
+      "new_summary": "Stéphane Ravier est cité parmi les participants de sensibilités politiques différentes à la mobilisation contre le tracé aérien ; aucun propos individuel direct n'est reproduit dans cette pièce.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_069"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0130"
+      ]
+    },
+    {
+      "id": "actor_0131",
+      "name": "Hendrik Davi",
+      "old_position": "opposed",
+      "new_position": "neutral",
+      "old_summary": "Soutient la mobilisation tout en critiquant l'opportunisme environnemental de certains élus.",
+      "new_summary": "Hendrik Davi participe au débat sur le projet et critique l'opportunisme écologique de certains élus présents ; sa position précise sur le tracé ne peut être déduite de la seule citation.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_070"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0131"
+      ]
+    },
+    {
+      "id": "actor_0132",
+      "name": "David Ausset",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Alerte sur la perte d'attractivité des hébergements touristiques exposés aux pylônes.",
+      "new_summary": "David Ausset, professionnel du tourisme, craint que la vue sur les pylônes fasse perdre de la clientèle à son hébergement.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_071"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0132"
+      ]
+    },
+    {
+      "id": "actor_0133",
+      "name": "Gaël Briez",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Alerte sur les annulations et pertes de clientèle que pourrait provoquer la proximité visuelle de la ligne.",
+      "new_summary": "Gaël Briez, professionnel du tourisme, alerte sur le risque d'annulations et de dégradation de l'attractivité des hébergements proches de la ligne.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_072"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0133"
+      ]
+    },
+    {
+      "id": "actor_0134",
+      "name": "Autorité environnementale",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Demande de consolider les besoins, le calendrier, les impacts et la comparaison des solutions alternatives.",
+      "new_summary": "L'Autorité environnementale demande à RTE de consolider la justification des besoins, du calendrier, des impacts et des solutions alternatives ; cet avis n'est pas un vote d'opposition de principe.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_073"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0134"
+      ]
+    },
+    {
+      "id": "actor_0135",
+      "name": "Pascal Galéoté",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Soutient la réalisation et l'accélération de la ligne au nom de l'emploi, de l'industrie et de la sécurité électrique.",
+      "new_summary": "Pascal Galéoté présente le projet comme une infrastructure d'intérêt national vital pour l'emploi industriel, la transition énergétique et la sécurité électrique.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_074"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0135"
+      ]
+    },
+    {
+      "id": "actor_0136",
+      "name": "Jean-Christophe Amarantinis",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Exige une décision rapide, un calendrier formalisé et un engagement irrévocable de l'État.",
+      "new_summary": "Jean-Christophe Amarantinis, président de l'UPE 13, qualifie la liaison THT d'enjeu stratégique pour la réindustrialisation et demande une décision rapide.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_075"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0136"
+      ]
+    },
+    {
+      "id": "actor_0137",
+      "name": "UPE 13",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Soutient la liaison Fos-Jonquières tout en demandant un pacte territorial et des compensations renforcées.",
+      "new_summary": "L'UPE 13 défend la réalisation rapide de la ligne de 400 kV au nom des besoins électriques du territoire industriel de Fos.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_076"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0137"
+      ]
+    },
+    {
+      "id": "actor_0138",
+      "name": "Stéphane Benhamou",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Demande une décision courageuse sur la DUP sans report lié aux échéances électorales.",
+      "new_summary": "Stéphane Benhamou, président du Medef Sud, demande une déclaration d'utilité publique rapide pour sécuriser les investissements industriels.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_077"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0138"
+      ]
+    },
+    {
+      "id": "actor_0139",
+      "name": "Medef Sud",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Participe à la coalition patronale et syndicale favorable à une accélération du projet.",
+      "new_summary": "Le Medef Sud participe à la coalition patronale et syndicale demandant l'accélération de la ligne au nom des investissements et de l'emploi.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_078"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0139"
+      ]
+    },
+    {
+      "id": "actor_0140",
+      "name": "Pascal Kuhn",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Présente l'électrification comme une condition vitale de survie industrielle et soutient la solution aérienne pour respecter les délais.",
+      "new_summary": "Pascal Kuhn, président de l'UIMM Alpes-Méditerranée, considère l'électrification comme nécessaire à la survie des industries régionales.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_079"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0140"
+      ]
+    },
+    {
+      "id": "actor_0141",
+      "name": "UIMM Alpes-Méditerranée",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Réclame une déclaration rapide d'utilité publique pour sécuriser les investissements industriels.",
+      "new_summary": "L'UIMM Alpes-Méditerranée participe à la mobilisation patronale en faveur d'une décision rapide sur le renforcement électrique.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_080"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0141"
+      ]
+    },
+    {
+      "id": "actor_0142",
+      "name": "Stéphane Bergamini",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Défend la ligne comme un besoin absolu pour la décarbonation et la compétitivité de la filière chimique.",
+      "new_summary": "Stéphane Bergamini est présenté comme délégué général de France Chimie Méditerranée et intervenant de la conférence économique soutenant le projet.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_081"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0142"
+      ]
+    },
+    {
+      "id": "actor_0143",
+      "name": "Franck Bergamini",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Soutient le projet au nom du maintien et de la création d'emplois industriels.",
+      "new_summary": "Franck Bergamini, secrétaire général de Force Ouvrière 13, défend une décision rapide en invoquant le maintien et la création d'emplois industriels.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_082"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0143"
+      ]
+    },
+    {
+      "id": "actor_0144",
+      "name": "Jérôme Yvernault",
+      "old_position": "favorable",
+      "new_position": "neutral",
+      "old_summary": "Défend une transition énergétique ambitieuse et économiquement réaliste.",
+      "new_summary": "Jérôme Yvernault est présenté comme délégué régional de la CFE-CGC participant à la conférence économique consacrée à la THT ; il faut distinguer sa participation d'une déclaration personnelle.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_083"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0144"
+      ]
+    },
+    {
+      "id": "actor_0145",
+      "name": "Philippe Maurizot",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Soutient l'avancement des infrastructures électriques tout en demandant de la prudence.",
+      "new_summary": "Philippe Maurizot, maire de Fos-sur-Mer, redoute l'allongement des délais et demande une décision permettant de sécuriser l'arrivée d'électricité aux industriels.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_084"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0145"
+      ]
+    },
+    {
+      "id": "actor_0146",
+      "name": "Mathieu Lefèvre",
+      "old_position": "favorable",
+      "new_position": "neutral",
+      "old_summary": "Évoque une accélération et une simplification administrative du projet selon la méthode Notre-Dame.",
+      "new_summary": "Mathieu Lefèvre évoque un traitement administratif accéléré du projet de ligne ; cette mention ne suffit pas à établir une préférence personnelle sur le tracé.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_085"
+      ],
+      "removed_unsourced_claim_ids": [
+        "evidence_actor_0146"
+      ]
+    },
+    {
+      "id": "actor_0147",
+      "name": "Stéphane Paglia",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Prône une remise autour de la table et un suivi partagé du projet ; met en garde contre les blocages si la solution aérienne est imposée.",
+      "new_summary": "Stéphane Paglia, président de la CCI du Pays d'Arles, demande une reprise de dialogue associant l'État et les acteurs du territoire, plutôt que de persister dans la confrontation.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_086"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0148",
+      "name": "CCI du Pays d’Arles",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Son président décrit un tissu économique local partagé entre activité touristique sensible à l’aérien et industrie demandeuse d’électricité rapide, et réclame une conciliation.",
+      "new_summary": "La CCI du Pays d'Arles, par la voix de son président Stéphane Paglia, appelle à une conciliation des impératifs industriels et territoriaux.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_087"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0149",
+      "name": "Isabelle Campagnola-Savon",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Affirme la nécessité de l’énergie pour la région et promet de rechercher une solution conciliant les préoccupations locales ; ne valide pas expressément le tracé aérien.",
+      "new_summary": "Isabelle Campagnola-Savon, élue régionale, affirme chercher une conciliation des enjeux électriques et des préoccupations locales plutôt qu'un soutien sans réserve au tracé aérien.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_088"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0150",
+      "name": "Jean-Louis Geiger",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Soutient la réindustrialisation de Fos, mais exprime des réserves sur son coût territorial et la ligne THT ; opposition à toute liaison aérienne non démontrée.",
+      "new_summary": "Jean-Louis Geiger soutient le principe de la réindustrialisation de Fos mais formule des réserves sur ses conséquences pour les territoires traversés.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_089"
+      ],
+      "removed_unsourced_claim_ids": []
+    },
+    {
+      "id": "actor_0151",
+      "name": "Caroline Ritzenthaler",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Met en avant le besoin de renforcer le réseau régional à 400 kV, sans prise de position explicite sur le mode aérien ou souterrain du projet Feuillane–Jonquières.",
+      "new_summary": "Caroline Ritzenthaler, d'EDF, expose les besoins régionaux de renforcement électrique 400 kV sans valider explicitement le tracé aérien étudié.",
+      "added_evidence": [
+        "evidence_retro_fos_20261104_090"
+      ],
+      "removed_unsourced_claim_ids": []
+    }
+  ],
+  "remaining_unqualified": [
+    {
+      "id": "actor_0008",
+      "name": "Emmanuel Taché",
+      "previous_position": "opposed",
+      "previous_summary": "S'oppose au projet et alerte sur le risque de création d'une ZAD."
+    },
+    {
+      "id": "actor_0011",
+      "name": "Guillaume Meiffre",
+      "previous_position": "opposed",
+      "previous_summary": "Évoque une résistance plus dure et une possible ZAD si le projet avance en force."
+    },
+    {
+      "id": "actor_0021",
+      "name": "Rémy Benson",
+      "previous_position": "opposed",
+      "previous_summary": "Défend la transmission des exploitations sans les contraintes de pylônes."
+    },
+    {
+      "id": "actor_0022",
+      "name": "Daniel Carlotti",
+      "previous_position": "opposed",
+      "previous_summary": "Concernant l'implantation potentielle de pylônes, défend l'existence d'alternatives."
+    },
+    {
+      "id": "actor_0023",
+      "name": "Isabelle Gex",
+      "previous_position": "opposed",
+      "previous_summary": "Répond à l'argument du coût soulevé par RTE en mettant en avant la volonté politique de l'État."
+    },
+    {
+      "id": "actor_0024",
+      "name": "Laura Baudino",
+      "previous_position": "opposed",
+      "previous_summary": "Défend le patrimoine culturel, les paysages et l'emploi face à la ligne THT."
+    },
+    {
+      "id": "actor_0026",
+      "name": "Jean-Claude Cheinet",
+      "previous_position": "neutral",
+      "previous_summary": "Ne rejette pas la décarbonation mais critique les zones d'ombre, l'État et le manque d'infrastructures."
+    },
+    {
+      "id": "actor_0027",
+      "name": "Daniel Moutet",
+      "previous_position": "neutral",
+      "previous_summary": "Critique le débat global Fos-Berre et le risque de dilution des sujets (hydrogène, THT, etc.)."
+    },
+    {
+      "id": "actor_0028",
+      "name": "Marie-Hélène Fabre",
+      "previous_position": "opposed",
+      "previous_summary": "Critique le contournement autoroutier d'Arles et envisage une action juridique sur la concertation."
+    },
+    {
+      "id": "actor_0030",
+      "name": "Richard Hardouin",
+      "previous_position": "opposed",
+      "previous_summary": "Figure structurante de la fédération environnementale, très impliquée dans le dossier THT."
+    },
+    {
+      "id": "actor_0031",
+      "name": "Stéphane Coppey",
+      "previous_position": "opposed",
+      "previous_summary": "Acteur des actions contentieuses et environnementales contre RTE."
+    },
+    {
+      "id": "actor_0032",
+      "name": "Isabelle Charnoz",
+      "previous_position": "opposed",
+      "previous_summary": "Engagée dans la protection de l'environnement et associée à la mobilisation anti-THT."
+    },
+    {
+      "id": "actor_0037",
+      "name": "René Raimondi",
+      "previous_position": "favorable",
+      "previous_summary": "Favorable à la réindustrialisation de Fos ; critique le débat jugé à charge par les opposants."
+    },
+    {
+      "id": "actor_0040",
+      "name": "Jérôme Bonet",
+      "previous_position": "neutral",
+      "previous_summary": "Acteur décisionnaire sur le volet gardois du tracé (Jonquières / Bellegarde)."
+    },
+    {
+      "id": "actor_0049",
+      "name": "Grand Port Maritime de Marseille-Fos",
+      "previous_position": "favorable",
+      "previous_summary": "Acteur central de la ZIP, aménageur foncier nécessitant une forte puissance électrique."
+    },
+    {
+      "id": "actor_0050",
+      "name": "Rémi Costantino",
+      "previous_position": "favorable",
+      "previous_summary": "Défend le desserrement foncier et la recherche de fonciers disponibles pour l'industrie."
+    },
+    {
+      "id": "actor_0051",
+      "name": "Régis Passerieux",
+      "previous_position": "neutral",
+      "previous_summary": "Coordonne la transition industrielle, écologique et énergétique de Fos-Berre."
+    },
+    {
+      "id": "actor_0052",
+      "name": "NGE / Jean Bernadet",
+      "previous_position": "favorable",
+      "previous_summary": "Soutient fortement la ligne et estime paradoxalement que l'enfouissement causerait davantage de dégâts."
+    },
+    {
+      "id": "actor_0053",
+      "name": "Club Top 20",
+      "previous_position": "unknown",
+      "previous_summary": "Club de grandes entreprises de la Métropole Aix-Marseille Provence, cité comme soutien à la dynamique industrielle."
+    },
+    {
+      "id": "actor_0066",
+      "name": "Coordination rurale",
+      "previous_position": "unknown",
+      "previous_summary": "Syndicat agricole cité dans la mobilisation, notamment via Rémy Benson."
+    },
+    {
+      "id": "actor_0068",
+      "name": "AOP Foin de Crau",
+      "previous_position": "unknown",
+      "previous_summary": "Filière / label agricole cité comme potentiellement affecté par le projet."
+    },
+    {
+      "id": "actor_0069",
+      "name": "IGP Riz de Camargue",
+      "previous_position": "unknown",
+      "previous_summary": "Filière / label agricole cité dans les impacts potentiels de la ligne."
+    },
+    {
+      "id": "actor_0070",
+      "name": "LPO",
+      "previous_position": "unknown",
+      "previous_summary": "Ligue pour la protection des oiseaux. Alerte sur les oiseaux migrateurs et habitats naturels ; acteur biodiversité majeur."
+    },
+    {
+      "id": "actor_0071",
+      "name": "WWF France",
+      "previous_position": "unknown",
+      "previous_summary": "ONG environnementale signataire d'appels contre la ligne aérienne."
+    },
+    {
+      "id": "actor_0073",
+      "name": "CEN PACA",
+      "previous_position": "unknown",
+      "previous_summary": "Conservatoire d'espaces naturels PACA. Alerte sur les espèces protégées, le Ganga cata et l'aigle de Bonelli."
+    },
+    {
+      "id": "actor_0076",
+      "name": "Ramsar France / MAB France / Réserves naturelles",
+      "previous_position": "unknown",
+      "previous_summary": "Réseaux d'aires protégées et zones humides, signataires ou interpellés sur les impacts du projet."
+    },
+    {
+      "id": "actor_0077",
+      "name": "OFB",
+      "previous_position": "unknown",
+      "previous_summary": "Office français de la biodiversité. Intervient dans les constats biodiversité et les programmes scientifiques."
+    },
+    {
+      "id": "actor_0079",
+      "name": "Nacioun Gardiano",
+      "previous_position": "unknown",
+      "previous_summary": "Organisation culturelle camarguaise présente dans la mobilisation, symbole de l'ancrage culturel territorial."
+    },
+    {
+      "id": "actor_0080",
+      "name": "ADPLGF",
+      "previous_position": "unknown",
+      "previous_summary": "Association de défense et de protection du littoral du golfe de Fos. Critique la gouvernance du débat global et les effets cumulés."
+    },
+    {
+      "id": "actor_0081",
+      "name": "ACEN",
+      "previous_position": "unknown",
+      "previous_summary": "Association Camargue Environnement. Plutôt liée au contournement d'Arles mais dans l'écosystème de contestation territoriale."
+    },
+    {
+      "id": "actor_0082",
+      "name": "Sauvons nos Étangs",
+      "previous_position": "unknown",
+      "previous_summary": "Collectif local né de l'opposition à HyVence, porteur d'une demande de Parc naturel régional des étangs du golfe de Fos."
+    },
+    {
+      "id": "actor_0083",
+      "name": "MCTB Golfe de Fos Environnement",
+      "previous_position": "unknown",
+      "previous_summary": "Association associée à Sauvons nos Étangs pour la demande de Parc naturel régional des étangs."
+    },
+    {
+      "id": "actor_0086",
+      "name": "ArcelorMittal Méditerranée",
+      "previous_position": "unknown",
+      "previous_summary": "Industriel sidérurgique : four à arc électrique et décarbonation, mais aussi dossier contentieux pollution."
+    },
+    {
+      "id": "actor_0088",
+      "name": "Elyse / Neocarb",
+      "previous_position": "unknown",
+      "previous_summary": "Projet de carburants de synthèse / hydrogène bas-carbone à Fos."
+    },
+    {
+      "id": "actor_0090",
+      "name": "NaTran",
+      "previous_position": "unknown",
+      "previous_summary": "Opérateur de réseau hydrogène, porteur du réseau de transport d'hydrogène en région Sud."
+    },
+    {
+      "id": "actor_0091",
+      "name": "Geométhane",
+      "previous_position": "unknown",
+      "previous_summary": "Acteur du stockage d'hydrogène à Manosque."
+    },
+    {
+      "id": "actor_0092",
+      "name": "ENGIE",
+      "previous_position": "unknown",
+      "previous_summary": "Énergéticien, porteur d'un projet de production d'hydrogène à Villeneuve."
+    },
+    {
+      "id": "actor_0093",
+      "name": "PIICTO / Syrius",
+      "previous_position": "unknown",
+      "previous_summary": "Plateforme et programme de décarbonation industrielle Fos-Berre."
+    },
+    {
+      "id": "actor_0094",
+      "name": "France Hydrogène",
+      "previous_position": "unknown",
+      "previous_summary": "Organisation professionnelle hydrogène, demande du soutien public pour structurer la filière."
+    },
+    {
+      "id": "actor_0095",
+      "name": "Newcleo",
+      "previous_position": "unknown",
+      "previous_summary": "Acteur nucléaire innovant implanté près de Marcoule ; hors THT direct mais lié au contexte énergétique régional."
+    },
+    {
+      "id": "actor_0101",
+      "name": "DREAL PACA / MRAe PACA",
+      "previous_position": "unknown",
+      "previous_summary": "Institutions environnementales citées, notamment sur le contournement d'Arles et les procédures."
+    },
+    {
+      "id": "actor_0102",
+      "name": "Commission européenne / Berne / Ramsar",
+      "previous_position": "unknown",
+      "previous_summary": "Instances européennes / internationales évoquées comme leviers de saisine sur les zones humides et espèces protégées."
+    },
+    {
+      "id": "actor_0103",
+      "name": "La Provence",
+      "previous_position": "unknown",
+      "previous_summary": "Source locale majeure sur Arles, Camargue, élus, associations et projets industriels."
+    },
+    {
+      "id": "actor_0104",
+      "name": "Objectif Gard",
+      "previous_position": "unknown",
+      "previous_summary": "Source très présente sur Terre d'Argence, Beaucaire, réunion d'Arles, CNDP et contestation gardoise."
+    },
+    {
+      "id": "actor_0105",
+      "name": "La Marseillaise",
+      "previous_position": "unknown",
+      "previous_summary": "Source sur réindustrialisation, débats sociaux, Fos-Berre, biomasse, hydrogène et critiques locales."
+    },
+    {
+      "id": "actor_0106",
+      "name": "France 3 / Franceinfo",
+      "previous_position": "unknown",
+      "previous_summary": "Source nationale-régionale sur biodiversité, cigognes, DREAL, mobilisation agricole et oppositions."
+    },
+    {
+      "id": "actor_0107",
+      "name": "FNE13.fr",
+      "previous_position": "unknown",
+      "previous_summary": "Source militante et associative sur le collectif, la tierce expertise, les recours, la biodiversité et les plaintes."
+    },
+    {
+      "id": "actor_0108",
+      "name": "Marsactu",
+      "previous_position": "unknown",
+      "previous_summary": "Source d'analyse critique sur RTE, espèces protégées et controverses territoriales."
+    },
+    {
+      "id": "actor_0109",
+      "name": "GoMet",
+      "previous_position": "unknown",
+      "previous_summary": "Source sur débat industriel, Syrius et Parc naturel régional des étangs."
+    },
+    {
+      "id": "actor_0110",
+      "name": "La Tribune Région Sud",
+      "previous_position": "unknown",
+      "previous_summary": "Source sur NGE, GravitHy, Newcleo, filières industrielles et énergétiques."
+    },
+    {
+      "id": "actor_0111",
+      "name": "Tourduvalat.org",
+      "previous_position": "unknown",
+      "previous_summary": "Source scientifique sur zones humides, oiseaux d'eau, tourbières et Camargue."
+    },
+    {
+      "id": "actor_0116",
+      "name": "MAB France",
+      "previous_position": "opposed",
+      "previous_summary": "Alerte officiellement le gouvernement sur le risque de déclassement de la Camargue de son statut de réserve de biosphère."
+    },
+    {
+      "id": "actor_0119",
+      "name": "Julien Besançon",
+      "previous_position": "opposed",
+      "previous_summary": "Rejette les arguments de coûts de l'État et soutient la contestation unanime au-delà des clivages politiques."
+    },
+    {
+      "id": "actor_0120",
+      "name": "Robert Crauste",
+      "previous_position": "opposed",
+      "previous_summary": "Rappelle sa mission de protection du vivant et signe le manifeste anti-THT face à l'urgence."
+    },
+    {
+      "id": "actor_0122",
+      "name": "Monique Barbut",
+      "previous_position": "favorable",
+      "previous_summary": "Interpellée par l'Unesco sur l'atteinte potentielle à la biodiversité causée par l'infrastructure."
+    },
+    {
+      "id": "actor_0123",
+      "name": "Maud Bregeon",
+      "previous_position": "favorable",
+      "previous_summary": "Mandate deux facilitateurs, mais ses services maintiennent publiquement que le tracé aérien est la seule option viable."
+    },
+    {
+      "id": "actor_0124",
+      "name": "B. Huet",
+      "previous_position": "favorable",
+      "previous_summary": "A ratifié l'arrêté d'exemption d'évaluation environnementale pour les raccordements sur la zone de Fos."
+    }
+  ],
+  "provenance": {
+    "r41": {
+      "id": "source_0030",
+      "url": "https://www.laprovence.com/article/politique/70357493206376/derogation-a-la-loi-littoral-pour-installer-la-ligne-tht-la-municipalite-d-arles-emet-un-avis-defavorable?id=70357493206376",
+      "verification": "excel_text_link"
+    },
+    "r73": {
+      "id": "source_0031",
+      "url": "https://www.laregion.fr/Carole-Delga-Les-Gardois-n-ont-pas-a-payer-le-prix-fort-pour-ce-projet-de-THT",
+      "verification": "excel_text_link"
+    },
+    "r61": {
+      "id": "source_0032",
+      "url": "https://www.midilibre.fr/2026/09/19/ils-etaient-2-500-a-arles-le-serment-du-peuple-de-camargue-de-lutter-contre-la-balafre-de-la-ligne-a-tres-haute-tension-13559528.php",
+      "verification": "excel_text_link"
+    },
+    "r48": {
+      "id": "source_0033",
+      "url": "https://www.sudradio.fr/societe/camargue-tous-unis-contre-une-ligne-a-haute-tension",
+      "verification": "excel_text_link"
+    },
+    "r76": {
+      "id": "source_0034",
+      "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-provence/mobilisation-contre-la-ligne-tht-avec-severine-dellanegra-maire-de-saint-martin-de-crau-3316954",
+      "verification": "excel_text_link"
+    },
+    "r96": {
+      "id": "source_0035",
+      "url": "https://gomet.net/ligne-tht-en-camargue-le-monde-economique-et-syndical-face-aux-opposants/",
+      "verification": "excel_text_link"
+    },
+    "r53": {
+      "id": "source_0036",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/ce-projet-ne-passera-pas-2500-personnes-d-horizons-differents-unies-dans-un-front-de-refus-inedit-contre-la-tht-3419990.html",
+      "verification": "excel_text_link"
+    },
+    "r43": {
+      "id": "source_0037",
+      "url": "https://www.objectifsud.fr/actualites/arles-marche-pour-le-climat-ce-samedi-dans-une-ville-en-surchauffe-169465.php",
+      "verification": "excel_text_link"
+    },
+    "r37": {
+      "id": "source_0038",
+      "url": "https://www.lamarseillaise.fr/politique/unis-contre-la-ligne-tht-mais-divises-sur-le-contournement-NH20727965",
+      "verification": "excel_text_link"
+    },
+    "r52": {
+      "id": "source_0039",
+      "url": "https://www.lamarseillaise.fr/societe/ligne-tht-le-projet-avance-l-opposition-aussi-DF20702247",
+      "verification": "excel_text_link"
+    },
+    "r80": {
+      "id": "source_0040",
+      "url": "https://mesinfos.fr/provence-alpes-cote-d-azur/mobilisation-inedite-du-monde-economique-en-faveur-de-la-ligne-tht-a-fos-sur-mer-338548.html",
+      "verification": "excel_text_link"
+    },
+    "r84": {
+      "id": "source_0041",
+      "url": "https://www.connaissancedesenergies.org/afp/decarbonation-de-fos-impatience-des-industriels-face-au-risque-denlisement-260909",
+      "verification": "excel_text_link"
+    },
+    "r50": {
+      "id": "source_0042",
+      "url": "https://www.lamarseillaise.fr/social/entretien-pascal-galeote-c-est-un-projet-d-interet-national-vital-HF20703260",
+      "verification": "excel_text_link"
+    },
+    "r45": {
+      "id": "source_0043",
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/ligne-tht-gard-fos-c-est-une-premiere-defaite-pour-rte-sept-agriculteurs-et-le-gestionnaire-acceptent-une-mediation-3420860.html",
+      "verification": "excel_text_link"
+    },
+    "r47": {
+      "id": "source_0044",
+      "url": "https://vert.eco/rapports-de-force/on-a-peur-de-ne-plus-avoir-la-meme-camargue-a-arles-2-500-personnes-reunies-contre-le-projet-de-ligne-a-tres-haute-tension/",
+      "verification": "excel_text_link"
+    },
+    "r56": {
+      "id": "source_0045",
+      "url": "https://gomet.net/delphine-batho-ge-le-gouvernement-nentend-pas-ce-que-dit-un-territoire/",
+      "verification": "excel_text_link"
+    },
+    "r58": {
+      "id": "source_0046",
+      "url": "https://gomet.net/ligne-aerienne-tht-le-requisitoire-de-patrick-de-carolis/",
+      "verification": "excel_text_link"
+    },
+    "r33": {
+      "id": "source_0047",
+      "url": "https://www.objectifsud.fr/actualites/camargue-loccitanie-soutient-le-projet-unesco-mais-la-ligne-tht-inquiete-170059.php",
+      "verification": "excel_text_link"
+    },
+    "r38": {
+      "id": "source_0048",
+      "url": "https://www.laprovence.com/article/ecoplanete/73628768081963/la-presidente-du-parc-de-camargue-rappelle-le-role-de-l-instance-dans-le-combat-contre-la-tht?id=73628768081963",
+      "verification": "excel_text_link"
+    },
+    "r97": {
+      "id": "source_0049",
+      "url": "https://www.laprovence.com/article/societe/24498320421316/ligne-tht-entre-le-gard-et-fos-sur-mer-un-avis-assorti-de-reserves-de-lautorite-environnementale?id=24498320421316",
+      "verification": "excel_text_link"
+    },
+    "r23": {
+      "id": "source_0050",
+      "url": "https://www.latribune.fr/article/entreprises-finance/28053227340318/ligne-tht-a-marseille-fos-le-contre-la-montre-des-industriels",
+      "verification": "excel_text_link"
+    },
+    "r2": {
+      "id": "source_0051",
+      "url": "https://laclepublique.fr/national/articles/2026/2026-11-02-projets-ue/",
+      "verification": "excel_text_link"
+    },
+    "r95": {
+      "id": "source_0052",
+      "url": "https://www.latribune.fr/article/entreprises-finance/14006637513974/e-saf-depot-de-permis-de-construire-imminent-pour-h4-marseille-fos",
+      "verification": "excel_text_link"
+    },
+    "r67": {
+      "id": "source_0053",
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/rassemblement-unique-de-toutes-les-forces-politiques-les-opposants-reunis-pour-se-mobiliser-a-arles-contre-le-projet-de-ligne-a-haute-tension-tht-3419873.html",
+      "verification": "excel_text_link"
+    },
+    "r32": {
+      "id": "source_0054",
+      "url": "https://www.laprovence.com/article/politique/80930464622814/accm-ligne-tht-contournement-darles-patrick-de-carolis-fait-le-point-apres-6-mois-de-mandat?id=80930464622814",
+      "verification": "excel_text_link"
+    },
+    "r79": {
+      "id": "source_0055",
+      "url": "https://www.lamarseillaise.fr/economie/la-maire-de-saint-martin-de-crau-recue-a-l-elysee-CC20665263",
+      "verification": "excel_text_link"
+    },
+    "r63": {
+      "id": "source_0056",
+      "url": "https://www.sudradio.fr/societe/un-front-du-refus-inedit-mobilise-a-arles-contre-une-ligne-aerienne-tht",
+      "verification": "excel_text_link"
+    },
+    "r65": {
+      "id": "source_0057",
+      "url": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/arles/arles-2-500-opposants-a-la-ligne-aerienne-electrique-a-tres-haute-tension-en-carmargue-3263100",
+      "verification": "excel_text_link"
+    },
+    "r78": {
+      "id": "source_0058",
+      "url": "https://batinfo.com/actualite/decarbonation-de-fos-les-industriels-pressent-letat-daccelerer-la-ligne-tht_37221",
+      "verification": "excel_text_link"
+    },
+    "r91": {
+      "id": "source_0059",
+      "url": "https://gomet.net/la-ligne-tht-un-enjeu-strategique-amarantinis/",
+      "verification": "excel_text_link"
+    },
+    "r101": {
+      "id": "source_0060",
+      "url": "https://marsactu.fr/bref/vue-sur-le-web-en-camargue-la-ligne-tht-continue-de-setendre-et-de-crisper/",
+      "verification": "excel_text_link"
+    },
+    "r72": {
+      "id": "source_0061",
+      "url": "https://www.lejournaltoulousain.fr/occitanie/gard/actualites-gard/ligne-tht-fos-carole-delga-rejoint-renaud-muselier-opposition-398273/",
+      "verification": "excel_text_link"
+    },
+    "r77": {
+      "id": "source_0062",
+      "url": "https://www.nicematin.com/environnement/energie/si-l-acces-a-l-electricite-n-est-pas-disponible-les-investisseurs-iront-ailleurs-les-organisations-patronales-et-syndicales-du-sud-mobilisees-pour-la-ligne-tres-haute-tension-10721049",
+      "verification": "excel_text_link"
+    },
+    "taché": {
+      "id": "source_0063",
+      "url": "https://questions.assemblee-nationale.fr/q16/16-17581QE.htm",
+      "verification": "web_indexed"
+    },
+    "mabile": {
+      "id": "source_0064",
+      "url": "https://www.sos-camargue-tht.fr/2026/08/08/projet-de-ligne-tht-en-camargue-et-en-crau-les-agriculteurs-denoncent-la-pression-de-rte-et-portent-plainte/",
+      "verification": "web_indexed"
+    },
+    "meiffre": {
+      "id": "source_0065",
+      "url": "https://www.objectifsud.fr/gard/arles/gard-arles-ligne-tht-les-anti-dressent-un-conteneur-de-12m-de-haut-route-des-saintes-maries-de-la-mer-166905.php",
+      "verification": "web_indexed"
+    },
+    "cavallo": {
+      "id": "source_0066",
+      "url": "https://www.fne13.fr/tht-la-tierce-expertise-juge-pertinente-la-solution-du-collectif/",
+      "verification": "web_indexed"
+    },
+    "gex": {
+      "id": "source_0067",
+      "url": "https://fr.linkedin.com/posts/isabellegex_arles-oral-mp-jll-19-juin-2024-activity-7221066580883841024-ZO5j",
+      "verification": "web_indexed"
+    },
+    "perronet": {
+      "id": "source_0068",
+      "url": "https://www.debatpublic.fr/sites/default/files/2025-06/FBP-verbatim-20250602-Arles.pdf",
+      "verification": "web_indexed"
+    },
+    "guillaume": {
+      "id": "source_0064",
+      "url": "https://www.sos-camargue-tht.fr/2026/08/08/projet-de-ligne-tht-en-camargue-et-en-crau-les-agriculteurs-denoncent-la-pression-de-rte-et-portent-plainte/",
+      "verification": "web_indexed"
+    },
+    "francoiscollard": {
+      "id": "source_0069",
+      "url": "https://vert.eco/rapports-de-force/une-balafre-au-paysage-dans-le-sud-est-le-projet-de-ligne-a-tres-haute-tension-electrise-agriculteurs-et-militants-ecologistes/",
+      "verification": "web_indexed"
+    },
+    "sn pn": {
+      "id": "source_0070",
+      "url": "https://www.snpn.com/ligne-tres-haute-tension-en-camargue-la-snpn-mobilisee-pour-le-vivant/",
+      "verification": "web_indexed"
+    },
+    "grandsites": {
+      "id": "source_0071",
+      "url": "https://www.grandsitedefrance.com/actus/799-camargue-appel-a-l-etat",
+      "verification": "web_indexed"
+    },
+    "sosserment": {
+      "id": "source_0072",
+      "url": "https://www.sos-camargue-tht.fr/2026/09/20/serment-des-elus-le-front-uni-des-territoires-exige-du-president-de-la-republique-une-alternative-a-la-ligne-aerienne-tht/",
+      "verification": "web_indexed"
+    },
+    "sosappel": {
+      "id": "source_0073",
+      "url": "https://www.sos-camargue-tht.fr/2026/10/13/le-collectif-tht13-30-adresse-le-serment-des-elu%C2%B7es-au-president-de-la-republique/",
+      "verification": "web_indexed"
+    },
+    "sosnature": {
+      "id": "source_0074",
+      "url": "https://www.sos-camargue-tht.fr/2026/09/25/3227/",
+      "verification": "web_indexed"
+    },
+    "fne13": {
+      "id": "source_0066",
+      "url": "https://www.fne13.fr/tht-la-tierce-expertise-juge-pertinente-la-solution-du-collectif/",
+      "verification": "web_indexed"
+    },
+    "rteprog": {
+      "id": "source_0075",
+      "url": "https://www.rte-france.com/projets/nos-projets/programme-electrification-fos-berre-provence-2030",
+      "verification": "web_indexed"
+    },
+    "rteconcert": {
+      "id": "source_0076",
+      "url": "https://www.rte-france.com/actualites/2026-06-16-concertation-prealable-feuillane-jonquieres",
+      "verification": "web_indexed"
+    },
+    "pref": {
+      "id": "source_0011",
+      "url": "https://www.gard.gouv.fr/publications/enquetes-publiques/enquetes-publiques-publiees-en-2026/fos-sur-mer-et-jonquieres-saint-vincent-creation-dune-ligne-electrique-aerienne-2-circuits-400000-1",
+      "verification": "web_indexed"
+    },
+    "mourgues": {
+      "id": "source_0077",
+      "url": "https://www.mourguesdugres.com/notre-equipe",
+      "verification": "web_indexed"
+    },
+    "debat": {
+      "id": "source_0068",
+      "url": "https://www.debatpublic.fr/sites/default/files/2025-06/FBP-verbatim-20250602-Arles.pdf",
+      "verification": "web_indexed"
+    },
+    "cn dp": {
+      "id": "source_0078",
+      "url": "https://www.debatpublic.fr/sites/default/files/2025-09/FBP-Synthese-Actions-Reseaux-sociaux.pdf",
+      "verification": "web_indexed"
+    },
+    "sosstatut": {
+      "id": "source_0079",
+      "url": "https://www.sos-camargue-tht.fr/2026/07/02/neocarbonisation/",
+      "verification": "web_indexed"
+    }
+  },
+  "method": "Chaque assertion reformulée reprend un passage précis du texte dans Fos.xlsx ou une source publique complémentaire. La source fournit une URL, mais la vérification directe a été conservée dans son champ verification ; le lien seul ne valide pas une position. Les assertions sans preuve ne sont plus affichées comme acquises. Le réseau conserve son architecture et sa taxonomie. Les relations entre acteurs autres que les liens avec le projet doivent faire l'objet d'une qualification distincte."
+}

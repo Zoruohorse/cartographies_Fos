@@ -18,9 +18,12 @@
     "source_id": "actor_0002",
     "target_id": "project_fos",
     "type": "Opposé",
-    "summary": "Patrick de Carolis — Opposé — Ligne THT Fos-Jonquières",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Patrick de Carolis réaffirme son opposition à la solution aérienne ; le conseil municipal d'Arles a rendu un avis défavorable à la dérogation à la loi Littoral. Patrick de Carolis critique publiquement le tracé aérien et juge son acceptabilité territoriale insuffisante.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_001",
+      "evidence_retro_fos_20261104_002"
+    ],
     "original_link": {
       "source": "Patrick de Carolis",
       "target": "Ligne THT Fos-Jonquières",
@@ -73,10 +76,12 @@
     "id": "relation_0006",
     "source_id": "actor_0007",
     "target_id": "project_fos",
-    "type": "Opposée",
-    "summary": "Séverine Dellanegra — Opposée — Ligne THT Fos-Jonquières",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Séverine Dellanegra défend auprès de l'Élysée une alternative à la ligne aérienne et appelle à la mobilisation ; elle ne remet pas en cause les besoins d'électricité de Fos.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_007"
+    ],
     "original_link": {
       "source": "Séverine Dellanegra",
       "target": "Ligne THT Fos-Jonquières",
@@ -87,8 +92,8 @@
     "id": "relation_0007",
     "source_id": "actor_0008",
     "target_id": "project_fos",
-    "type": "Opposé",
-    "summary": "Emmanuel Taché — Opposé — Ligne THT Fos-Jonquières",
+    "type": "position / rattachement au dossier",
+    "summary": "Rattachement historique non qualifié : position sur la ligne non établie par une source documentaire.",
     "certainty": "unqualified",
     "evidence_ids": [],
     "original_link": {
@@ -102,9 +107,11 @@
     "source_id": "actor_0009",
     "target_id": "project_fos",
     "type": "Soutien",
-    "summary": "France Chimie Méditerranée — Soutien — Ligne THT Fos-Jonquières",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "France Chimie Méditerranée participe à la conférence de presse patronale et syndicale soutenant l'accélération du projet de ligne au nom de l'emploi et de la décarbonation.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_008"
+    ],
     "original_link": {
       "source": "France Chimie Méditerranée",
       "target": "Ligne THT Fos-Jonquières",
@@ -115,10 +122,12 @@
     "id": "relation_0009",
     "source_id": "actor_0004",
     "target_id": "project_fos",
-    "type": "Critique nuancé",
-    "summary": "Renaud Muselier — Critique nuancé — Ligne THT Fos-Jonquières",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "type": "Opposé",
+    "summary": "Carole Delga présente Renaud Muselier comme partageant ses demandes d'alternatives à la solution aérienne ; cela ne signifie pas un rejet des besoins électriques.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_003"
+    ],
     "original_link": {
       "source": "Renaud Muselier",
       "target": "Ligne THT Fos-Jonquières",
@@ -2973,11 +2982,11 @@
     "id": "relation_0213",
     "source_id": "actor_0148",
     "target_id": "project_fos",
-    "type": "Critique nuancé",
-    "summary": "La CCI du Pays d’Arles réclame une conciliation pour éviter les retards et les blocages de la liaison.",
+    "type": "position / rattachement au dossier",
+    "summary": "La CCI du Pays d'Arles, par la voix de son président Stéphane Paglia, appelle à une conciliation des impératifs industriels et territoriaux.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_update_0009"
+      "evidence_retro_fos_20261104_087"
     ],
     "original_link": null
   },
@@ -2986,10 +2995,10 @@
     "source_id": "actor_0149",
     "target_id": "project_fos",
     "type": "position / rattachement au dossier",
-    "summary": "Isabelle Campagnola-Savon défend le besoin régional en électricité et une conciliation des intérêts locaux.",
+    "summary": "Isabelle Campagnola-Savon, élue régionale, affirme chercher une conciliation des enjeux électriques et des préoccupations locales plutôt qu'un soutien sans réserve au tracé aérien.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_update_0010"
+      "evidence_retro_fos_20261104_088"
     ],
     "original_link": null
   },
@@ -2997,11 +3006,11 @@
     "id": "relation_0215",
     "source_id": "actor_0150",
     "target_id": "project_fos",
-    "type": "Critique nuancé",
-    "summary": "Jean-Louis Geiger demande une réindustrialisation conditionnée à la prise en compte des impacts territoriaux de la ligne.",
+    "type": "position / rattachement au dossier",
+    "summary": "Jean-Louis Geiger soutient le principe de la réindustrialisation de Fos mais formule des réserves sur ses conséquences pour les territoires traversés.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_update_0011"
+      "evidence_retro_fos_20261104_089"
     ],
     "original_link": null
   },
@@ -3010,10 +3019,10 @@
     "source_id": "actor_0151",
     "target_id": "project_fos",
     "type": "position / rattachement au dossier",
-    "summary": "Caroline Ritzenthaler souligne le besoin de renforcer le 400 kV régional, sans aval explicite de l’aérien.",
+    "summary": "Caroline Ritzenthaler, d'EDF, expose les besoins régionaux de renforcement électrique 400 kV sans valider explicitement le tracé aérien étudié.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_update_0012"
+      "evidence_retro_fos_20261104_090"
     ],
     "original_link": null
   },
@@ -3021,11 +3030,11 @@
     "id": "relation_0217",
     "source_id": "actor_0121",
     "target_id": "project_fos",
-    "type": "Opposée",
-    "summary": "Anne Claudius-Petit s’oppose explicitement au projet de solution aérienne.",
+    "type": "Opposé",
+    "summary": "Anne Claudius-Petit soutient l'action du Parc dans la mobilisation contre la ligne THT aérienne, sans opposer ce refus à la décarbonation industrielle.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_update_0004"
+      "evidence_retro_fos_20261104_063"
     ],
     "original_link": null
   }
