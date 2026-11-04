@@ -3159,5 +3159,135 @@
     "verification": "web_indexed_text",
     "location": "Article/source publique, passage concernant FNE13",
     "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos4_20261104_001",
+    "type": "documented_summary",
+    "text": "Dans un article consacré à la THT, Cyril Girard, membre de Changeons d’avenir, critique l'opposition qu'il estime de façade du maire d'Arles et appelle à amplifier la mobilisation pour obtenir une issue différente au projet aérien.",
+    "source_id": "source_0129",
+    "source_ids": [
+      "source_0129"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_in_uploaded_excel_url_not_rechecked",
+    "location": "Fos(4).xlsx, feuille Informations qualifiées, ligne 52 — Passage attribué à Cyril Girard dans l'article, réunion municipale du 19 mai 2026",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos4_20261104_002",
+    "type": "documented_summary",
+    "text": "Cyril Marès, président de l’AOC Costières de Nîmes, indique que le projet aérien retenu par l’État n’est pas adapté au territoire et dénonce les risques paysagers, agricoles et juridiques, à la suite de son entretien à l’Élysée avec le conseiller agricole.",
+    "source_id": "source_0130",
+    "source_ids": [
+      "source_0130"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_in_uploaded_excel_url_not_rechecked",
+    "location": "Fos(4).xlsx, feuille Informations qualifiées, ligne 67 — Article du 5 mars 2026, entretien avec Cyril Marès",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos4_20261104_003",
+    "type": "documented_summary",
+    "text": "L’AOC Costières de Nîmes figure nommément parmi les premiers signataires de la tribune collective contre la ligne THT aérienne en Camargue, Crau et Terre d’Argence.",
+    "source_id": "source_0097",
+    "source_ids": [
+      "source_0097"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_in_uploaded_excel_url_not_rechecked",
+    "location": "Fos(4).xlsx, feuille Informations qualifiées, ligne 79 — Liste des premiers signataires, entrée 10",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos4_20261104_004",
+    "type": "documented_summary",
+    "text": "Anne Collard, citée comme propriétaire du Château Mourgues du Grès, conteste l’impact de la ligne aérienne sur l'accueil au domaine, la perception de ses vins et la démarche agricole biologique qu'elle défend.",
+    "source_id": "source_0026",
+    "source_ids": [
+      "source_0026"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_in_uploaded_excel_url_not_rechecked",
+    "location": "Fos(4).xlsx, feuille Informations qualifiées, ligne 15 — Article du 16 septembre 2026, déclaration d’Anne Collard sur son domaine",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos4_20261104_005",
+    "type": "documented_summary",
+    "text": "La FNSEA 13–30 et les Jeunes Agriculteurs figurent parmi les organisations d'un communiqué agricole commun s'opposant à la ligne aérienne traversant Camargue, Crau, Terre d’Argence et Costières de Nîmes, et défendant une solution enterrée.",
+    "source_id": "source_0128",
+    "source_ids": [
+      "source_0128"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_in_uploaded_excel_url_not_rechecked",
+    "location": "Fos(4).xlsx, feuille Informations qualifiées, ligne 43 — Passage « la profession agricole a publié un communiqué commun »",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos4_20261104_006",
+    "type": "documented_summary",
+    "text": "Romain Blanchard, président de la FDSEA des Bouches-du-Rhône, et David Sève, président de la FDSEA du Gard, signent nominalement une tribune collective contestant la ligne aérienne à travers Camargue, Crau et Terre d’Argence.",
+    "source_id": "source_0104",
+    "source_ids": [
+      "source_0104"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_in_uploaded_excel_url_not_rechecked",
+    "location": "Fos(4).xlsx, feuille Informations qualifiées, ligne 73 — Tribune du Monde du 4 février 2026, liste des signataires",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos4_20261104_007",
+    "type": "documented_summary",
+    "text": "FDSEA Bouches-du-Rhône, FDSEA du Gard, Jeunes Agriculteurs des Bouches-du-Rhône et Jeunes Agriculteurs du Gard sont tous inscrits parmi les premiers signataires de la tribune anti-ligne aérienne.",
+    "source_id": "source_0097",
+    "source_ids": [
+      "source_0097"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_in_uploaded_excel_url_not_rechecked",
+    "location": "Fos(4).xlsx, feuille Informations qualifiées, ligne 79 — Liste des premiers signataires, entrées 36, 37, 42 et 43",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos4_20261104_008",
+    "type": "documented_summary",
+    "text": "Les chambres d’agriculture du Gard et des Bouches-du-Rhône participent à un communiqué de la profession agricole réaffirmant l’opposition au tracé aérien et privilégiant une alternative par enfouissement.",
+    "source_id": "source_0128",
+    "source_ids": [
+      "source_0128"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_in_uploaded_excel_url_not_rechecked",
+    "location": "Fos(4).xlsx, feuille Informations qualifiées, ligne 43 — Passage du communiqué agricole départemental commun",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos4_20261104_009",
+    "type": "documented_summary",
+    "text": "Laurent Israelian, président de la Chambre d’agriculture des Bouches-du-Rhône, et Magalie Saumade, présidente de celle du Gard, sont nommément signataires d'une tribune hostile au tracé aérien.",
+    "source_id": "source_0104",
+    "source_ids": [
+      "source_0104"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_in_uploaded_excel_url_not_rechecked",
+    "location": "Fos(4).xlsx, feuille Informations qualifiées, ligne 73 — Tribune du Monde du 4 février 2026, liste des signataires",
+    "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos4_20261104_010",
+    "type": "documented_summary",
+    "text": "Les chambres d’agriculture des Bouches-du-Rhône et du Gard figurent parmi les premiers signataires de la tribune recensés par FNE13.",
+    "source_id": "source_0097",
+    "source_ids": [
+      "source_0097"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_in_uploaded_excel_url_not_rechecked",
+    "location": "Fos(4).xlsx, feuille Informations qualifiées, ligne 79 — Liste des premiers signataires, entrées 19 et 20",
+    "recorded_at": "2026-11-04"
   }
 ]

@@ -813,7 +813,7 @@
     "id": "actor_0029",
     "name": "Cyril Girard",
     "short_name": "Cyril Girard",
-    "description": "Cyril Girard intervient dans une mobilisation citoyenne et climatique à Arles ; l'article ne permet pas, à lui seul, de démontrer une position individuelle sur la ligne THT.",
+    "description": "Cyril Girard, membre de Changeons d’avenir, revendique publiquement la mobilisation contre la ligne THT aérienne et conteste la stratégie de Patrick de Carolis, dont il juge l’opposition insuffisante. Son appel à poursuivre le combat concerne explicitement ce projet.",
     "categories": [
       "opposants"
     ],
@@ -1740,7 +1740,7 @@
     "id": "actor_0063",
     "name": "AOC Costières de Nîmes",
     "short_name": "AOC Costières de Nîmes",
-    "description": "La viticulture de l'appellation Costières de Nîmes est identifiée parmi les activités exposées aux impacts agricoles et paysagers ; le texte ne prouve pas une position de l'organisme gestionnaire de l'AOC.",
+    "description": "La filière AOC Costières de Nîmes s’oppose au tracé aérien : son président Cyril Marès déclare que la solution retenue par l’État n’est pas adaptée au territoire et défend les alternatives ; l’AOC figure également parmi les signataires de la tribune contre la ligne aérienne.",
     "categories": [
       "orgs"
     ],
@@ -1758,7 +1758,7 @@
     "id": "actor_0064",
     "name": "Domaine Mourgues du Grès",
     "short_name": "Domaine Mourgues du Grès",
-    "description": "Le Château Mourgues du Grès est un domaine viticole familial exploité notamment par Anne et François Collard et employant Romain Collard comme chef de culture.",
+    "description": "Anne Collard, propriétaire du Château Mourgues du Grès, exprime publiquement son refus des conséquences du tracé aérien pour le domaine, son paysage, son accueil viticole et son image. La position est celle de sa propriétaire, pas une délibération formelle d’une organisation distincte.",
     "categories": [
       "orgs"
     ],
@@ -1776,7 +1776,7 @@
     "id": "actor_0065",
     "name": "FDSEA / Jeunes Agriculteurs",
     "short_name": "FDSEA / Jeunes Agriculteurs",
-    "description": "Les fédérations agricoles, dont la FNSEA, sont citées parmi les parties prenantes mobilisées sur les conséquences agricoles de l'ouvrage ; les prises de position doivent être distinguées selon les fédérations.",
+    "description": "Les organisations agricoles locales FDSEA/FNSEA 13 et 30 et Jeunes Agriculteurs des deux départements contestent explicitement le tracé aérien et défendent l’enfouissement. Cette opposition locale ne doit pas être confondue avec la portée de l’accord national RTE–FNSEA.",
     "categories": [
       "orgs"
     ],
@@ -1812,7 +1812,7 @@
     "id": "actor_0067",
     "name": "Chambres d'agriculture",
     "short_name": "Chambres d'agriculture",
-    "description": "Chambres d'agriculture France a conclu le 12 octobre un accord-cadre national avec RTE et la FNSEA ; cet accord ne valide pas le tracé local aérien.",
+    "description": "Les chambres d’agriculture départementales des Bouches-du-Rhône et du Gard s’opposent au tracé aérien et demandent l’étude de l’enfouissement, comme l’attestent leur communiqué commun et les signatures de leurs présidents. Cette qualification concerne ces deux chambres locales, non Chambres d’agriculture France dans son ensemble, signataire d’un accord-cadre national distinct.",
     "categories": [
       "orgs"
     ],

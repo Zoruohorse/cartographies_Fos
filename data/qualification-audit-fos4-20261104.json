@@ -1,0 +1,524 @@
+{
+  "project": "Fos–Jonquières",
+  "input": "Fos(4).xlsx",
+  "date": "2026-11-04",
+  "scope": "Uniquement les acteurs initialement classés unknown",
+  "resources_read": 100,
+  "excel_rows_used": [
+    15,
+    43,
+    52,
+    67,
+    73,
+    79
+  ],
+  "prior": {
+    "actors": 151,
+    "unknown": 59,
+    "evidence": 254,
+    "sources": 117,
+    "relations": 217
+  },
+  "after": {
+    "actors": 151,
+    "unknown": 54,
+    "evidence": 264,
+    "sources": 120,
+    "relations": 217
+  },
+  "changes": {
+    "positions_created": 5,
+    "documentation_created": 10,
+    "sources_created": 3,
+    "relations_project_changed": 5,
+    "relations_interactor_documented": 2
+  },
+  "deltas": [
+    {
+      "actor_id": "actor_0029",
+      "name": "Cyril Girard",
+      "old_position": "unknown",
+      "new_position": "opposed",
+      "old_summary": "Cyril Girard intervient dans une mobilisation citoyenne et climatique à Arles ; l'article ne permet pas, à lui seul, de démontrer une position individuelle sur la ligne THT.",
+      "new_summary": "Cyril Girard, membre de Changeons d’avenir, revendique publiquement la mobilisation contre la ligne THT aérienne et conteste la stratégie de Patrick de Carolis, dont il juge l’opposition insuffisante. Son appel à poursuivre le combat concerne explicitement ce projet.",
+      "certainty": "high",
+      "evidence_created": [
+        "evidence_fos4_20261104_001"
+      ],
+      "prior_evidence_preserved": [
+        "evidence_retro_fos_20261104_021"
+      ]
+    },
+    {
+      "actor_id": "actor_0063",
+      "name": "AOC Costières de Nîmes",
+      "old_position": "unknown",
+      "new_position": "opposed",
+      "old_summary": "La viticulture de l'appellation Costières de Nîmes est identifiée parmi les activités exposées aux impacts agricoles et paysagers ; le texte ne prouve pas une position de l'organisme gestionnaire de l'AOC.",
+      "new_summary": "La filière AOC Costières de Nîmes s’oppose au tracé aérien : son président Cyril Marès déclare que la solution retenue par l’État n’est pas adaptée au territoire et défend les alternatives ; l’AOC figure également parmi les signataires de la tribune contre la ligne aérienne.",
+      "certainty": "high",
+      "evidence_created": [
+        "evidence_fos4_20261104_002",
+        "evidence_fos4_20261104_003"
+      ],
+      "prior_evidence_preserved": [
+        "evidence_retro_fos_20261104_040"
+      ]
+    },
+    {
+      "actor_id": "actor_0064",
+      "name": "Domaine Mourgues du Grès",
+      "old_position": "unknown",
+      "new_position": "opposed",
+      "old_summary": "Le Château Mourgues du Grès est un domaine viticole familial exploité notamment par Anne et François Collard et employant Romain Collard comme chef de culture.",
+      "new_summary": "Anne Collard, propriétaire du Château Mourgues du Grès, exprime publiquement son refus des conséquences du tracé aérien pour le domaine, son paysage, son accueil viticole et son image. La position est celle de sa propriétaire, pas une délibération formelle d’une organisation distincte.",
+      "certainty": "medium",
+      "evidence_created": [
+        "evidence_fos4_20261104_004"
+      ],
+      "prior_evidence_preserved": [
+        "evidence_retro_fos_20261104_041"
+      ]
+    },
+    {
+      "actor_id": "actor_0065",
+      "name": "FDSEA / Jeunes Agriculteurs",
+      "old_position": "unknown",
+      "new_position": "opposed",
+      "old_summary": "Les fédérations agricoles, dont la FNSEA, sont citées parmi les parties prenantes mobilisées sur les conséquences agricoles de l'ouvrage ; les prises de position doivent être distinguées selon les fédérations.",
+      "new_summary": "Les organisations agricoles locales FDSEA/FNSEA 13 et 30 et Jeunes Agriculteurs des deux départements contestent explicitement le tracé aérien et défendent l’enfouissement. Cette opposition locale ne doit pas être confondue avec la portée de l’accord national RTE–FNSEA.",
+      "certainty": "high",
+      "evidence_created": [
+        "evidence_fos4_20261104_005",
+        "evidence_fos4_20261104_006",
+        "evidence_fos4_20261104_007"
+      ],
+      "prior_evidence_preserved": [
+        "evidence_retro_fos_20261104_042"
+      ]
+    },
+    {
+      "actor_id": "actor_0067",
+      "name": "Chambres d'agriculture",
+      "old_position": "unknown",
+      "new_position": "opposed",
+      "old_summary": "Chambres d'agriculture France a conclu le 12 octobre un accord-cadre national avec RTE et la FNSEA ; cet accord ne valide pas le tracé local aérien.",
+      "new_summary": "Les chambres d’agriculture départementales des Bouches-du-Rhône et du Gard s’opposent au tracé aérien et demandent l’étude de l’enfouissement, comme l’attestent leur communiqué commun et les signatures de leurs présidents. Cette qualification concerne ces deux chambres locales, non Chambres d’agriculture France dans son ensemble, signataire d’un accord-cadre national distinct.",
+      "certainty": "medium",
+      "evidence_created": [
+        "evidence_fos4_20261104_008",
+        "evidence_fos4_20261104_009",
+        "evidence_fos4_20261104_010"
+      ],
+      "prior_evidence_preserved": [
+        "evidence_retro_fos_20261104_043"
+      ]
+    }
+  ],
+  "proof_registry": [
+    {
+      "id": "evidence_fos4_20261104_001",
+      "actor_id": "actor_0029",
+      "excel_row": 52,
+      "source_id": "source_0129",
+      "text": "Dans un article consacré à la THT, Cyril Girard, membre de Changeons d’avenir, critique l'opposition qu'il estime de façade du maire d'Arles et appelle à amplifier la mobilisation pour obtenir une issue différente au projet aérien."
+    },
+    {
+      "id": "evidence_fos4_20261104_002",
+      "actor_id": "actor_0063",
+      "excel_row": 67,
+      "source_id": "source_0130",
+      "text": "Cyril Marès, président de l’AOC Costières de Nîmes, indique que le projet aérien retenu par l’État n’est pas adapté au territoire et dénonce les risques paysagers, agricoles et juridiques, à la suite de son entretien à l’Élysée avec le conseiller agricole."
+    },
+    {
+      "id": "evidence_fos4_20261104_003",
+      "actor_id": "actor_0063",
+      "excel_row": 79,
+      "source_id": "source_0097",
+      "text": "L’AOC Costières de Nîmes figure nommément parmi les premiers signataires de la tribune collective contre la ligne THT aérienne en Camargue, Crau et Terre d’Argence."
+    },
+    {
+      "id": "evidence_fos4_20261104_004",
+      "actor_id": "actor_0064",
+      "excel_row": 15,
+      "source_id": "source_0026",
+      "text": "Anne Collard, citée comme propriétaire du Château Mourgues du Grès, conteste l’impact de la ligne aérienne sur l'accueil au domaine, la perception de ses vins et la démarche agricole biologique qu'elle défend."
+    },
+    {
+      "id": "evidence_fos4_20261104_005",
+      "actor_id": "actor_0065",
+      "excel_row": 43,
+      "source_id": "source_0128",
+      "text": "La FNSEA 13–30 et les Jeunes Agriculteurs figurent parmi les organisations d'un communiqué agricole commun s'opposant à la ligne aérienne traversant Camargue, Crau, Terre d’Argence et Costières de Nîmes, et défendant une solution enterrée."
+    },
+    {
+      "id": "evidence_fos4_20261104_006",
+      "actor_id": "actor_0065",
+      "excel_row": 73,
+      "source_id": "source_0104",
+      "text": "Romain Blanchard, président de la FDSEA des Bouches-du-Rhône, et David Sève, président de la FDSEA du Gard, signent nominalement une tribune collective contestant la ligne aérienne à travers Camargue, Crau et Terre d’Argence."
+    },
+    {
+      "id": "evidence_fos4_20261104_007",
+      "actor_id": "actor_0065",
+      "excel_row": 79,
+      "source_id": "source_0097",
+      "text": "FDSEA Bouches-du-Rhône, FDSEA du Gard, Jeunes Agriculteurs des Bouches-du-Rhône et Jeunes Agriculteurs du Gard sont tous inscrits parmi les premiers signataires de la tribune anti-ligne aérienne."
+    },
+    {
+      "id": "evidence_fos4_20261104_008",
+      "actor_id": "actor_0067",
+      "excel_row": 43,
+      "source_id": "source_0128",
+      "text": "Les chambres d’agriculture du Gard et des Bouches-du-Rhône participent à un communiqué de la profession agricole réaffirmant l’opposition au tracé aérien et privilégiant une alternative par enfouissement."
+    },
+    {
+      "id": "evidence_fos4_20261104_009",
+      "actor_id": "actor_0067",
+      "excel_row": 73,
+      "source_id": "source_0104",
+      "text": "Laurent Israelian, président de la Chambre d’agriculture des Bouches-du-Rhône, et Magalie Saumade, présidente de celle du Gard, sont nommément signataires d'une tribune hostile au tracé aérien."
+    },
+    {
+      "id": "evidence_fos4_20261104_010",
+      "actor_id": "actor_0067",
+      "excel_row": 79,
+      "source_id": "source_0097",
+      "text": "Les chambres d’agriculture des Bouches-du-Rhône et du Gard figurent parmi les premiers signataires de la tribune recensés par FNE13."
+    }
+  ],
+  "project_relations": [
+    {
+      "id": "relation_0030",
+      "actor_id": "actor_0029",
+      "from": "position / rattachement au dossier",
+      "to": "Opposé",
+      "added": [
+        "evidence_fos4_20261104_001"
+      ]
+    },
+    {
+      "id": "relation_0064",
+      "actor_id": "actor_0063",
+      "from": "position / rattachement au dossier",
+      "to": "Opposé",
+      "added": [
+        "evidence_fos4_20261104_002",
+        "evidence_fos4_20261104_003"
+      ]
+    },
+    {
+      "id": "relation_0065",
+      "actor_id": "actor_0064",
+      "from": "position / rattachement au dossier",
+      "to": "Opposé",
+      "added": [
+        "evidence_fos4_20261104_004"
+      ]
+    },
+    {
+      "id": "relation_0066",
+      "actor_id": "actor_0065",
+      "from": "position / rattachement au dossier",
+      "to": "Opposé",
+      "added": [
+        "evidence_fos4_20261104_005",
+        "evidence_fos4_20261104_006",
+        "evidence_fos4_20261104_007"
+      ]
+    },
+    {
+      "id": "relation_0068",
+      "actor_id": "actor_0067",
+      "from": "position / rattachement au dossier",
+      "to": "Opposé",
+      "added": [
+        "evidence_fos4_20261104_008",
+        "evidence_fos4_20261104_009",
+        "evidence_fos4_20261104_010"
+      ]
+    }
+  ],
+  "interactor_relations": [
+    "relation_0113",
+    "relation_0120"
+  ],
+  "remaining_unknown": [
+    {
+      "actor_id": "actor_0018",
+      "name": "Romain Collard",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0021",
+      "name": "Rémy Benson",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0022",
+      "name": "Daniel Carlotti",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0024",
+      "name": "Laura Baudino",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0026",
+      "name": "Jean-Claude Cheinet",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0027",
+      "name": "Daniel Moutet",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0028",
+      "name": "Marie-Hélène Fabre",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0030",
+      "name": "Richard Hardouin",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0037",
+      "name": "René Raimondi",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0040",
+      "name": "Jérôme Bonet",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0043",
+      "name": "Vincent Fletin",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0044",
+      "name": "Arthur Audouard",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0049",
+      "name": "Grand Port Maritime de Marseille-Fos",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0050",
+      "name": "Rémi Costantino",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0051",
+      "name": "Régis Passerieux",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0052",
+      "name": "NGE / Jean Bernadet",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0053",
+      "name": "Club Top 20",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0077",
+      "name": "OFB",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0079",
+      "name": "Nacioun Gardiano",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0080",
+      "name": "ADPLGF",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0082",
+      "name": "Sauvons nos Étangs",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0083",
+      "name": "MCTB Golfe de Fos Environnement",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0084",
+      "name": "GravitHy",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0085",
+      "name": "Marcegaglia",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0086",
+      "name": "ArcelorMittal Méditerranée",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0087",
+      "name": "Carbon",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0088",
+      "name": "Elyse / Neocarb",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0089",
+      "name": "H2V / Hy2Gen",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0090",
+      "name": "NaTran",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0091",
+      "name": "Geométhane",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0092",
+      "name": "ENGIE",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0093",
+      "name": "PIICTO / Syrius",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0094",
+      "name": "France Hydrogène",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0095",
+      "name": "Newcleo",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0097",
+      "name": "Audrey Richard-Ferroudji",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0098",
+      "name": "Marc Papinutti",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0099",
+      "name": "Étienne Ballan",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0100",
+      "name": "DREAL Occitanie",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0101",
+      "name": "DREAL PACA / MRAe PACA",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0102",
+      "name": "Commission européenne / Berne / Ramsar",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0103",
+      "name": "La Provence",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0104",
+      "name": "Objectif Gard",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0105",
+      "name": "La Marseillaise",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0106",
+      "name": "France 3 / Franceinfo",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0107",
+      "name": "FNE13.fr",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0108",
+      "name": "Marsactu",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0109",
+      "name": "GoMet",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0110",
+      "name": "La Tribune Région Sud",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0111",
+      "name": "Tourduvalat.org",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0112",
+      "name": "Romain, Anne et François Collard",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0113",
+      "name": "Vincent Fletin & Arthur Audouard",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0122",
+      "name": "Monique Barbut",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0123",
+      "name": "Maud Bregeon",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    },
+    {
+      "actor_id": "actor_0124",
+      "name": "B. Huet",
+      "reason": "Fos(4).xlsx ne permet pas d’établir une position individuelle ou homogène sur le tracé aérien."
+    }
+  ],
+  "method": "La preuve doit concerner précisément la position sur le tracé aérien ; une mention dans un autre projet, un mandat ou une participation ne suffit pas. Position FDSEA/JA limitée aux fédérations locales 13/30 ; Chambres d'agriculture limitée aux chambres départementales Gard et Bouches-du-Rhône. Les extraits proviennent intégralement du tableur, sans nouvelle recherche Internet. Les URLs éditoriales proviennent des lignes de l'Excel, leur accès direct n'est pas vérifié dans cette passe.",
+  "notes": [
+    "Aucune position attribuée à des médias, à la DREAL, au gouvernement ou à des projets industriels du seul fait de leur rôle.",
+    "Romain Collard ou le groupe Romain, Anne et François Collard : pas de position globale de l'ensemble établie par ce lot.",
+    "Le siège national Chambres d’agriculture France a signé un accord national ; celui-ci n'atteste pas l'acceptation du tracé local, malgré les positions des deux chambres locales."
+  ]
+}

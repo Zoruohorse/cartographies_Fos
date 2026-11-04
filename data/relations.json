@@ -459,11 +459,12 @@
     "id": "relation_0030",
     "source_id": "project_fos",
     "target_id": "actor_0029",
-    "type": "position / rattachement au dossier",
-    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Cyril Girard intervient dans une mobilisation citoyenne et climatique à Arles ; l'article ne permet pas, à lui seul, de démontrer une position individuelle sur la ligne THT.",
-    "certainty": "unqualified",
+    "type": "Opposé",
+    "summary": "Cyril Girard, membre de Changeons d’avenir, revendique publiquement la mobilisation contre la ligne THT aérienne et conteste la stratégie de Patrick de Carolis, dont il juge l’opposition insuffisante. Son appel à poursuivre le combat concerne explicitement ce projet.",
+    "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_021"
+      "evidence_retro_fos_20261104_021",
+      "evidence_fos4_20261104_001"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -1004,11 +1005,13 @@
     "id": "relation_0064",
     "source_id": "project_fos",
     "target_id": "actor_0063",
-    "type": "position / rattachement au dossier",
-    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. La viticulture de l'appellation Costières de Nîmes est identifiée parmi les activités exposées aux impacts agricoles et paysagers ; le texte ne prouve pas une position de l'organisme gestionnaire de l'AOC.",
-    "certainty": "unqualified",
+    "type": "Opposé",
+    "summary": "La filière AOC Costières de Nîmes s’oppose au tracé aérien : son président Cyril Marès déclare que la solution retenue par l’État n’est pas adaptée au territoire et défend les alternatives ; l’AOC figure également parmi les signataires de la tribune contre la ligne aérienne.",
+    "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_040"
+      "evidence_retro_fos_20261104_040",
+      "evidence_fos4_20261104_002",
+      "evidence_fos4_20261104_003"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -1020,11 +1023,12 @@
     "id": "relation_0065",
     "source_id": "project_fos",
     "target_id": "actor_0064",
-    "type": "position / rattachement au dossier",
-    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Le Château Mourgues du Grès est un domaine viticole familial exploité notamment par Anne et François Collard et employant Romain Collard comme chef de culture.",
-    "certainty": "unqualified",
+    "type": "Opposé",
+    "summary": "Anne Collard, propriétaire du Château Mourgues du Grès, exprime publiquement son refus des conséquences du tracé aérien pour le domaine, son paysage, son accueil viticole et son image. La position est celle de sa propriétaire, pas une délibération formelle d’une organisation distincte.",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_041"
+      "evidence_retro_fos_20261104_041",
+      "evidence_fos4_20261104_004"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -1036,11 +1040,14 @@
     "id": "relation_0066",
     "source_id": "project_fos",
     "target_id": "actor_0065",
-    "type": "position / rattachement au dossier",
-    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Les fédérations agricoles, dont la FNSEA, sont citées parmi les parties prenantes mobilisées sur les conséquences agricoles de l'ouvrage ; les prises de position doivent être distinguées selon les fédérations.",
-    "certainty": "unqualified",
+    "type": "Opposé",
+    "summary": "Les organisations agricoles locales FDSEA/FNSEA 13 et 30 et Jeunes Agriculteurs des deux départements contestent explicitement le tracé aérien et défendent l’enfouissement. Cette opposition locale ne doit pas être confondue avec la portée de l’accord national RTE–FNSEA.",
+    "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_042"
+      "evidence_retro_fos_20261104_042",
+      "evidence_fos4_20261104_005",
+      "evidence_fos4_20261104_006",
+      "evidence_fos4_20261104_007"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -1068,11 +1075,14 @@
     "id": "relation_0068",
     "source_id": "project_fos",
     "target_id": "actor_0067",
-    "type": "position / rattachement au dossier",
-    "summary": "Rattachement au projet documenté ; la source ne démontre pas de prise de position sur le tracé. Chambres d'agriculture France a conclu le 12 octobre un accord-cadre national avec RTE et la FNSEA ; cet accord ne valide pas le tracé local aérien.",
-    "certainty": "unqualified",
+    "type": "Opposé",
+    "summary": "Les chambres d’agriculture départementales des Bouches-du-Rhône et du Gard s’opposent au tracé aérien et demandent l’étude de l’enfouissement, comme l’attestent leur communiqué commun et les signatures de leurs présidents. Cette qualification concerne ces deux chambres locales, non Chambres d’agriculture France dans son ensemble, signataire d’un accord-cadre national distinct.",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_043"
+      "evidence_retro_fos_20261104_043",
+      "evidence_fos4_20261104_008",
+      "evidence_fos4_20261104_009",
+      "evidence_fos4_20261104_010"
     ],
     "original_link": {
       "source": "Ligne THT Fos-Jonquières",
@@ -1751,9 +1761,11 @@
     "source_id": "actor_0013",
     "target_id": "actor_0063",
     "type": "rattachement / proximité",
-    "summary": "Cyril Marès — rattachement / proximité — AOC Costières de Nîmes",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Cyril Marès exerce la présidence de l’AOC Costières de Nîmes et défend auprès des pouvoirs publics une alternative au tracé THT aérien.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos4_20261104_002"
+    ],
     "original_link": {
       "source": "Cyril Marès",
       "target": "AOC Costières de Nîmes",
@@ -1849,9 +1861,11 @@
     "source_id": "actor_0019",
     "target_id": "actor_0064",
     "type": "rattachement / proximité",
-    "summary": "Anne Collard — rattachement / proximité — Domaine Mourgues du Grès",
-    "certainty": "unqualified",
-    "evidence_ids": [],
+    "summary": "Anne Collard est citée comme propriétaire du Château Mourgues du Grès et dénonce les impacts de la ligne aérienne sur son domaine.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos4_20261104_004"
+    ],
     "original_link": {
       "source": "Anne Collard",
       "target": "Domaine Mourgues du Grès",

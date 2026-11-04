@@ -1383,5 +1383,41 @@
     "verification": "web_consulted",
     "provenance": "Recherche documentaire complémentaire Fos(2), 4 novembre 2026",
     "access": "Page ouverte et contenu relevé directement"
+  },
+  {
+    "id": "source_0128",
+    "title": "Avant les visites de terrain de RTE, la contestation se durcit",
+    "publisher": "La Provence",
+    "url": "https://www.laprovence.com/article/ecoplanete/27275630126977/ligne-tht-en-camargue-et-en-crau-avant-les-premieres-visites-de-terrain-de-rte-la-contestation-se-durcit",
+    "author": null,
+    "date": null,
+    "status": "qualified",
+    "verification": "text_supplied_in_excel_not_directly_reopened",
+    "provenance": "Fos(4).xlsx, feuille Informations qualifiées, ligne 43",
+    "access": "Texte de la source présent dans le classeur fourni ; lien éditorial fourni ; accès original non confirmé lors de ce lot"
+  },
+  {
+    "id": "source_0129",
+    "title": "Ligne THT : Patrick de Carolis lance un appel à Michel Barnier",
+    "publisher": "La Provence",
+    "url": "https://www.laprovence.com/article/ecoplanete/63938082185053/ligne-tht-le-maire-darles-patrick-de-carolis-lance-un-appel-a-lex-premier-ministre-michel-barnier?id=63938082185053",
+    "author": null,
+    "date": null,
+    "status": "qualified",
+    "verification": "text_supplied_in_excel_not_directly_reopened",
+    "provenance": "Fos(4).xlsx, feuille Informations qualifiées, ligne 52",
+    "access": "Texte de la source présent dans le classeur fourni ; lien éditorial fourni ; accès original non confirmé lors de ce lot"
+  },
+  {
+    "id": "source_0130",
+    "title": "Ligne THT : le président des Costières de Nîmes reçu à l'Élysée",
+    "publisher": "Midi Libre",
+    "url": "https://www.midilibre.fr/2026/03/05/ligne-tht-entre-jonquieres-saint-vincent-et-fos-le-president-des-costieres-de-nimes-recu-a-lelysee-13255142.php",
+    "author": null,
+    "date": null,
+    "status": "qualified",
+    "verification": "text_supplied_in_excel_not_directly_reopened",
+    "provenance": "Fos(4).xlsx, feuille Informations qualifiées, ligne 67",
+    "access": "Texte de la source présent dans le classeur fourni ; lien éditorial fourni ; accès original non confirmé lors de ce lot"
   }
 ]
