@@ -66,12 +66,14 @@ assert len(cards['griefs'])==17 and len(cards['vigilance'])==25
 assert len(content['milestones'])==21 and len(content['fact_sheet'])==9
 for event in timeline:
     assert event['actor_id'] in A,event['id']
-    assert event['source_ids'] and all(sid in S for sid in event['source_ids']),event['id']
+    assert all(sid in S for sid in event.get('source_ids',[])),event['id']
     assert all(eid in E for eid in event.get('evidence_ids',[])),event['id']
     if event['status']=='confirmed':
+        assert event.get('source_ids'),event['id']
         assert re.fullmatch(r'\d{4}-\d{2}-\d{2}',event['date']),event['id']
         assert date.fromisoformat(event['date'])<=date(2026,11,10),event['id']
     else:
+        # Certaines fiches historiques sans source ni date exploitable restent hors graphique.
         assert event['status']=='undated' and event['date'] is None,event['id']
 assert sum(x['status']=='confirmed' for x in timeline)==93
 
