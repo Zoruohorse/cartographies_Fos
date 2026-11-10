@@ -99,5 +99,23 @@
     "unescospk": "source_0047",
     "rteprogramme": "source_0075",
     "region_presidence": "source_fos5_20261110_023"
+  },
+  "timeline_audit": {
+    "date": "2026-11-10",
+    "total_entries": 160,
+    "dated": 93,
+    "undated": 67,
+    "by_scope": {
+      "direct": 79,
+      "context": 11,
+      "excluded": 3
+    },
+    "by_position": {
+      "opposed": 46,
+      "favorable": 18,
+      "neutral": 15,
+      "unknown": 11
+    },
+    "method": "La date est une publication connue reliée à la fiche, non la première prise de position réelle ; acteurs composites et médias exclus de la visualisation."
   }
 }

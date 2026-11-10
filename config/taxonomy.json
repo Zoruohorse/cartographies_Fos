@@ -134,5 +134,66 @@
       "label": "source / couverture",
       "directed": false
     }
+  },
+  "timeline": {
+    "grouping": "month",
+    "event_type": "first_documented_appearance",
+    "default_mode": "cumulative",
+    "default_scope": "direct",
+    "categories": [
+      {
+        "id": "elus",
+        "label": "Élus et responsables",
+        "color": "#9379bc"
+      },
+      {
+        "id": "associations",
+        "label": "Associations et riverains",
+        "color": "#dc9067"
+      },
+      {
+        "id": "entreprises",
+        "label": "Entreprises et filières",
+        "color": "#12978e"
+      },
+      {
+        "id": "institutions",
+        "label": "Institutions et services",
+        "color": "#3577a8"
+      },
+      {
+        "id": "experts",
+        "label": "Experts et enquête",
+        "color": "#7b9e71"
+      },
+      {
+        "id": "medias",
+        "label": "Médias (hors graphique)",
+        "color": "#94a3b8"
+      }
+    ],
+    "stances": [
+      {
+        "id": "opposed",
+        "label": "Opposés ou critiques du projet aérien",
+        "color": "#dc2626"
+      },
+      {
+        "id": "favorable",
+        "label": "Favorables ou soutiens",
+        "color": "#16a34a"
+      },
+      {
+        "id": "neutral",
+        "label": "Prudents / institutionnels",
+        "color": "#f59e0b"
+      },
+      {
+        "id": "unknown",
+        "label": "Position non établie",
+        "color": "#94a3b8"
+      }
+    ],
+    "methodology": "Le cumul suit la première mention datée parmi les preuves. Acteurs composites et médias exclus des comptes pour ne pas double compter. Par position classe les positions actuelles des fiches sans suggérer une évolution historique des opinions."
   }
 }

@@ -3811,5 +3811,18 @@
     "source_status": "qualified",
     "published_at": "2026-10-23",
     "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "evidence_fos5_20261110_037",
+    "type": "reported_or_attributed",
+    "text": "La CNDP organise à Arles le 2 juin 2025 une réunion du débat public Fos–Berre, en présence de RTE et de représentants locaux. Débat sur les besoins et alternatives, distinct des autorisations ultérieures.",
+    "source_id": "source_0068",
+    "source_ids": [
+      "source_0068"
+    ],
+    "source_status": "qualified",
+    "date": "2025-06-02",
+    "published_at": "2025-06-02",
+    "accessed_at": "2026-11-10"
   }
 ]

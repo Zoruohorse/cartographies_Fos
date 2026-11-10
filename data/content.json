@@ -1,0 +1,336 @@
+{
+  "project_status": "Enquête ouverte le 9 novembre 2026 jusqu’au 11 décembre, DUP et autorisations encore à instruire.",
+  "project_summary": "Liaison aérienne 400 kV entre Jonquières-Saint-Vincent et Fos-sur-Mer, destinée à renforcer l’électrification industrielle, objet d’une forte opposition à la solution aérienne en Camargue et Crau.",
+  "fact_sheet": [
+    {
+      "id": "fos_fact_001",
+      "label": "Nature de l’ouvrage",
+      "value": "Double circuit aérien 400 kV",
+      "qualifier": "Projet de liaison Jonquières–Fos, encore soumis aux autorisations.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_001",
+        "evidence_fos5_20261110_002"
+      ]
+    },
+    {
+      "id": "fos_fact_002",
+      "label": "Statut au 10 novembre 2026",
+      "value": "Enquête ouverte ; DUP non accordée",
+      "qualifier": "Ouverture du 9 novembre au 11 décembre, ne pas confondre MECDU et DUP.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_001",
+        "evidence_fos5_20261110_002",
+        "evidence_fos5_20261110_034"
+      ]
+    },
+    {
+      "id": "fos_fact_003",
+      "label": "Consultation",
+      "value": "7 communes, 5 commissaires, 35 permanences",
+      "qualifier": "Arles, Beaucaire, Bellegarde, Fourques, Jonquières-Saint-Vincent, Saint-Martin-de-Crau, Fos-sur-Mer.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_002",
+        "evidence_fos5_20261110_003"
+      ]
+    },
+    {
+      "id": "fos_fact_004",
+      "label": "Coût aérien annoncé par RTE",
+      "value": "Environ 400 M€",
+      "qualifier": "Montant attribué au maître d’ouvrage, non devis public indépendant validé.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_011"
+      ]
+    },
+    {
+      "id": "fos_fact_005",
+      "label": "Enfouissement selon RTE",
+      "value": "3,5–3,6 Md€ ; horizon 2035",
+      "qualifier": "Estimations contestées par les opposants, comparaison à périmètre constant non arbitrée.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_010",
+        "evidence_fos5_20261110_011"
+      ]
+    },
+    {
+      "id": "fos_fact_006",
+      "label": "Demandes de raccordement Fos–Berre",
+      "value": ">6 GW exprimés",
+      "qualifier": "Demandes industrielles, pas de puissance livrée ou utilisée.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_027"
+      ]
+    },
+    {
+      "id": "fos_fact_007",
+      "label": "Compensation pylônes proposée par RTE",
+      "value": "3 retirés pour 1 implanté",
+      "qualifier": "Annonce prospective, non bilan environnemental réalisé.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_005"
+      ]
+    },
+    {
+      "id": "fos_fact_008",
+      "label": "Présidence régionale",
+      "value": "François de Canson depuis le 12 octobre 2026",
+      "qualifier": "Soutient la concrétisation du projet avec des réserves environnementales.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_015",
+        "evidence_fos5_20261110_016"
+      ]
+    },
+    {
+      "id": "fos_fact_009",
+      "label": "Demande agricole",
+      "value": "Prolongation sollicitée par l’ASTCC",
+      "qualifier": "Demande liée aux inondations, aucune prolongation actée dans le corpus.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_012"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "id": "fos_milestone_001",
+      "date": "2024-09-27",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Fuseau de moindre impact retenu par RTE",
+      "details": "RTE présente le fuseau de la future liaison ; ce choix n'est pas la DUP.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_020"
+      ]
+    },
+    {
+      "id": "fos_milestone_002",
+      "date": "2025-06-02",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Débat public CNDP à Arles",
+      "details": "Réunion autour des besoins industriels, de l’électricité et des alternatives, sans autorisation de travaux.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_037"
+      ]
+    },
+    {
+      "id": "fos_milestone_003",
+      "date": "2026-09-19",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Rassemblement contre le tracé aérien",
+      "details": "Environ 2 500 manifestants à Arles selon les comptes rendus ; chiffre de mobilisation, non recensement exhaustif.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_033"
+      ]
+    },
+    {
+      "id": "fos_milestone_004",
+      "date": "2026-09-21",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Médiation sur l’accès aux parcelles agricoles",
+      "details": "Ouverture de médiation entre exploitants et RTE, distincte de la DUP.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_032"
+      ]
+    },
+    {
+      "id": "fos_milestone_005",
+      "date": "2026-09-24",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Avis défavorable du conseil municipal d’Arles",
+      "details": "Avis sur la dérogation au titre de la loi Littoral, distinct de la décision d’État.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_031"
+      ]
+    },
+    {
+      "id": "fos_milestone_006",
+      "date": "2026-10-08",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "CRE : zone de mutualisation de Fos-Lavéra",
+      "details": "Délibération sur les raccordements industriels, sans accord sur la DUP de la ligne.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_035"
+      ]
+    },
+    {
+      "id": "fos_milestone_007",
+      "date": "2026-10-12",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "François de Canson prend la présidence de la Région Sud",
+      "details": "Succession de Renaud Muselier devenu sénateur ; ne présume pas la position de tous les élus.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_016"
+      ]
+    },
+    {
+      "id": "fos_milestone_008",
+      "date": "2026-10-14",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Arrêté prescrivant l’enquête publique",
+      "details": "Arrêté inter-préfectoral définissant le périmètre, les dates et les procédures instruites.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_002"
+      ]
+    },
+    {
+      "id": "fos_milestone_009",
+      "date": "2026-10-16",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Bilan de concertation MECDU approuvé",
+      "details": "Approbation ministérielle du bilan, non de la déclaration d’utilité publique.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_034"
+      ]
+    },
+    {
+      "id": "fos_milestone_010",
+      "date": "2026-10-23",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Le Collectif annonce sa participation à l’enquête",
+      "details": "Le Collectif THT 13/30 maintient son opposition aérienne et décide de participer au registre.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_036"
+      ]
+    },
+    {
+      "id": "fos_milestone_011",
+      "date": "2026-11-04",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "RTE publie les modalités et perspectives",
+      "details": "Dossier, permanences et calendrier prévisionnel présentés par le maître d’ouvrage.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_004",
+        "evidence_fos5_20261110_005"
+      ]
+    },
+    {
+      "id": "fos_milestone_012",
+      "date": "2026-11-05",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "L’ASTCC sollicite une prolongation",
+      "details": "Demande liée aux inondations d’octobre ; aucune prorogation démontrée.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_012"
+      ]
+    },
+    {
+      "id": "fos_milestone_013",
+      "date": "2026-11-06",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Édouard Philippe évoque les alternatives",
+      "details": "Appel à préserver la Camargue en étudiant d’autres solutions, sans refus général de l’électrification.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_014"
+      ]
+    },
+    {
+      "id": "fos_milestone_014",
+      "date": "2026-11-09",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Ouverture effective de l’enquête publique",
+      "details": "Début du recueil d’observations jusqu’au 11 décembre, cinq commissaires et 35 permanences, DUP non accordée.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_001",
+        "evidence_fos5_20261110_002",
+        "evidence_fos5_20261110_003",
+        "evidence_fos5_20261110_030"
+      ]
+    },
+    {
+      "id": "fos_milestone_015",
+      "date": "2026-11-09",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Réunion publique municipale à Arles",
+      "details": "Claire Mailhan, Bertrand Mazel et des représentants du Collectif encouragent les contributions argumentées.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_006",
+        "evidence_fos5_20261110_007",
+        "evidence_fos5_20261110_009"
+      ]
+    },
+    {
+      "id": "fos_milestone_016",
+      "date": "2026-11-09",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Coûts de l’alternative souterraine contestés",
+      "details": "RTE avance 400 M€ en aérien et 3,5–3,6 Md€ en souterrain avec une échéance 2035 ; le Collectif conteste.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_010",
+        "evidence_fos5_20261110_011"
+      ]
+    },
+    {
+      "id": "fos_milestone_017",
+      "date": "2026-11-10",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "La Ville d’Arles appelle à participer",
+      "details": "La mairie rappelle les modalités de l’enquête et s’oppose toujours à la variante aérienne.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_026"
+      ]
+    },
+    {
+      "id": "fos_milestone_018",
+      "date": "2026-12-11",
+      "period_precision": "day",
+      "status": "forecast",
+      "title": "Clôture initiale de l’enquête publique",
+      "details": "Date prévue au dossier, sous réserve de prolongation administrative.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_001",
+        "evidence_fos5_20261110_002"
+      ]
+    },
+    {
+      "id": "fos_milestone_019",
+      "date": "2027",
+      "period_precision": "year",
+      "status": "forecast",
+      "title": "Arbitrages administratifs et DUP éventuelle",
+      "details": "Les rapports de l’enquête et les décisions de l’État restent à venir.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_004"
+      ]
+    },
+    {
+      "id": "fos_milestone_020",
+      "date": "2028",
+      "period_precision": "year",
+      "status": "forecast",
+      "title": "Travaux envisageables sous réserve d’autorisations",
+      "details": "Horizon annoncé par RTE, non date de lancement garanti.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_004"
+      ]
+    },
+    {
+      "id": "fos_milestone_021",
+      "date": "2029",
+      "period_precision": "year",
+      "status": "forecast",
+      "title": "Mise en service envisagée en 2029–2030",
+      "details": "Horizon prévisionnel de RTE et non raccordement livré.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_004"
+      ]
+    }
+  ],
+  "methodology": "Les événements attestés sont séparés des échéances futures et des positions attribuées. La consultation n’emporte pas la DUP.",
+  "last_updated": "2026-11-10"
+}

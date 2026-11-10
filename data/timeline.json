@@ -1,0 +1,3458 @@
+[
+  {
+    "id": "timeline_fos_actor_0125",
+    "actor_id": "actor_0125",
+    "event_type": "first_documented_appearance",
+    "date": "2024-09-27",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_fos5_20261110_013"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_020"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Christophe Berassen, directeur du programme RTE Fos-Berre, défend la variante aérienne et indique que RTE a étudié quatorze stratégies. RTE lui-même confirme l’orthographe de son nom.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0016",
+    "actor_id": "actor_0016",
+    "event_type": "first_documented_appearance",
+    "date": "2025-06-02",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0068"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_015"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Michel Perronet, intervenant du Collectif THT 13/30 au débat CNDP de juin 2025, critique le dimensionnement et la stratégie de réseau avancés par RTE.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0038",
+    "actor_id": "actor_0038",
+    "event_type": "first_documented_appearance",
+    "date": "2025-06-02",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0068"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_026"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Georges-François Leclerc préside la présentation des enjeux publics de l'infrastructure lors du débat CNDP du 2 juin 2025 ; il reconnaît les fortes oppositions au tracé.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0043",
+    "actor_id": "actor_0043",
+    "event_type": "first_documented_appearance",
+    "date": "2025-06-02",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0068"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_030"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Vincent Fletin est identifié dans le verbatim CNDP comme expert national grands projets de RTE intervenant sur le projet Feuillane–Jonquières.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0044",
+    "actor_id": "actor_0044",
+    "event_type": "first_documented_appearance",
+    "date": "2025-06-02",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0068"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_031"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Arthur Audouard est identifié par le verbatim CNDP comme responsable national du programme 400 kV de RTE.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0097",
+    "actor_id": "actor_0097",
+    "event_type": "first_documented_appearance",
+    "date": "2025-06-02",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "experts",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0068"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_053"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Audrey Richard-Ferroudji préside la CPDP et anime le débat public Fos-Berre, cadre de discussion des options techniques.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0098",
+    "actor_id": "actor_0098",
+    "event_type": "first_documented_appearance",
+    "date": "2025-06-02",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "experts",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0068"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_054"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Marc Papinutti est mentionné comme président de la CNDP dans le verbatim de la réunion publique d'Arles du 2 juin 2025.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0099",
+    "actor_id": "actor_0099",
+    "event_type": "first_documented_appearance",
+    "date": "2025-06-02",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "experts",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0068"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_055"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Étienne Ballan est cité dans le verbatim de la CPDP comme délégué régional PACA et animateur de la réunion publique.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0113",
+    "actor_id": "actor_0113",
+    "event_type": "first_documented_appearance",
+    "date": "2025-06-02",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "excluded",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0068"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_058"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Vincent Fletin et Arthur Audouard interviennent au titre de RTE dans le débat CNDP du 2 juin 2025 sur la ligne 400 kV.",
+    "is_aggregate": true,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0025",
+    "actor_id": "actor_0025",
+    "event_type": "first_documented_appearance",
+    "date": "2025-06-04",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0066"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_020"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "François Cavallo, de NACICCA, organise ou présente des comptages d'oiseaux pour documenter les risques de collision et l'impact potentiel sur l'avifaune.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0055",
+    "actor_id": "actor_0055",
+    "event_type": "first_documented_appearance",
+    "date": "2025-06-04",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0066"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_036"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "FNE Bouches-du-Rhône soutient les solutions alternatives à l'aérien et critique les incidences écologiques et les faiblesses de l'analyse du projet.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0033",
+    "actor_id": "actor_0033",
+    "event_type": "first_documented_appearance",
+    "date": "2025-09-01",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0078"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_022"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Le bilan CNDP des débats sur les réseaux sociaux cite Juan Martinez parmi les responsables politiques associés aux discussions opposées à la ligne aérienne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0020",
+    "actor_id": "actor_0020",
+    "event_type": "first_documented_appearance",
+    "date": "2026-01-04",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0069"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_019"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "François Collard, du domaine Mourgues du Grès, témoigne auprès de Vert des impacts paysagers et viticoles redoutés de la ligne aérienne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0074",
+    "actor_id": "actor_0074",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-01",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0070"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_045"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "La SNPN exprime explicitement son opposition au tracé aérien et plaide pour des variantes enterrées ou ensouillées.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0070",
+    "actor_id": "actor_0070",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-29",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0071"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_009"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "La LPO cosigne l'appel de quinze organismes demandant à l'État de renoncer à la ligne aérienne en Camargue et de rechercher une autre solution. L'AFP cite aussi la LPO parmi les organisations qui s'opposent à la solution aérienne et demandent une variante moins dommageable.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0071",
+    "actor_id": "actor_0071",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-29",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0071"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_011"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "WWF France cosigne l'appel de quinze organisations contre le tracé aérien à travers les espaces protégés de Camargue. WWF France figure parmi les signataires de la lettre environnementale contre la ligne aérienne, relayée par France 3.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0075",
+    "actor_id": "actor_0075",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-29",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0071"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_046"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Le Réseau des Grands Sites de France demande avec d'autres organismes d'abandonner la solution aérienne à travers les territoires protégés.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0076",
+    "actor_id": "actor_0076",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-29",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "excluded",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0071"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_013"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Ramsar France, MAB France et Réserves naturelles de France figurent toutes trois parmi les signataires d'un appel conjoint contre la solution aérienne. Cette fiche est un regroupement documentaire, pas une personne morale unique.",
+    "is_aggregate": true,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0116",
+    "actor_id": "actor_0116",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-29",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0071"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_018"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "MAB France alerte le ministère sur les risques de la ligne aérienne pour la réserve de biosphère de Camargue et les engagements de protection des habitats. MAB France est également signataire de l'appel conjoint pour renoncer à la solution aérienne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0096",
+    "actor_id": "actor_0096",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-16",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0076"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_052"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Une concertation préalable sur les documents d'urbanisme, distincte de la concertation CNDP, a eu lieu du 15 juin au 15 juillet 2026.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0006",
+    "actor_id": "actor_0006",
+    "event_type": "first_documented_appearance",
+    "date": "2026-07-14",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0065"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_006"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Cédric Bernardi, riziculteur et éleveur, déclare soutenir le renforcement électrique mais refuser la solution aérienne en Camargue. Cédric Bernardi copréside l'association de sauvegarde des terres de Camargue et de Crau, opposée à la ligne aérienne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0056",
+    "actor_id": "actor_0056",
+    "event_type": "first_documented_appearance",
+    "date": "2026-07-14",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0065"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_037"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "L’Association de sauvegarde des terres de Camargue et de Crau (ASTCC) maintient son opposition au tracé aérien et demande le 5 novembre une prolongation de l’enquête, invoquant les dégâts d’inondations survenus dans les exploitations fin octobre.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0012",
+    "actor_id": "actor_0012",
+    "event_type": "first_documented_appearance",
+    "date": "2026-08-08",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0064"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_011"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Carole Guintoli, rizicultrice opposée à l’aérien, encourage les citoyens à participer à l’enquête publique et à formuler des objections argumentées, parallèlement à la médiation concernant l’accès aux parcelles.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0014",
+    "actor_id": "actor_0014",
+    "event_type": "first_documented_appearance",
+    "date": "2026-08-08",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0064"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_013"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Sébastien Mabile a déposé au nom du collectif des démarches relatives aux conséquences environnementales du projet aérien.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0118",
+    "actor_id": "actor_0118",
+    "event_type": "first_documented_appearance",
+    "date": "2026-08-08",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0064"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_062"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Stéphan Bonistalli a déclaré avoir porté plainte après un incident sur son exploitation en lien avec les opérations d'études préparatoires de RTE ; l'allégation reste attribuée à son témoignage.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0009",
+    "actor_id": "actor_0009",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-03",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0035"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_008"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "France Chimie Méditerranée participe à la conférence de presse patronale et syndicale soutenant l'accélération du projet de ligne au nom de l'emploi et de la décarbonation.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0065",
+    "actor_id": "actor_0065",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-03",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0035"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_042"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Les organisations agricoles locales FDSEA/FNSEA 13 et 30 et Jeunes Agriculteurs des deux départements contestent explicitement le tracé aérien et défendent l’enfouissement. Cette opposition locale ne doit pas être confondue avec la portée de l’accord national RTE–FNSEA.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0089",
+    "actor_id": "actor_0089",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-03",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0052"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_051"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "H2V et Hy2Gen sont présentés comme partenaires du projet H4 Marseille-Fos de carburant d'aviation de synthèse, dans le contexte de l'électrification industrielle.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0134",
+    "actor_id": "actor_0134",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-03",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0049"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_073"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "L'Autorité environnementale demande à RTE de consolider la justification des besoins, du calendrier, des impacts et des solutions alternatives ; cet avis n'est pas un vote d'opposition de principe.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0142",
+    "actor_id": "actor_0142",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-03",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0035"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_081"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Stéphane Bergamini est présenté comme délégué général de France Chimie Méditerranée et intervenant de la conférence économique soutenant le projet.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0144",
+    "actor_id": "actor_0144",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-03",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0035"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_083"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Jérôme Yvernault est présenté comme délégué régional de la CFE-CGC participant à la conférence économique consacrée à la THT ; il faut distinguer sa participation d'une déclaration personnelle.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0136",
+    "actor_id": "actor_0136",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-04",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0059"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_075"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Jean-Christophe Amarantinis, président de l'UPE 13, qualifie la liaison THT d'enjeu stratégique pour la réindustrialisation et demande une décision rapide.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0137",
+    "actor_id": "actor_0137",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-04",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0059"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_076"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "L'UPE 13 défend la réalisation rapide de la ligne de 400 kV au nom des besoins électriques du territoire industriel de Fos.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0048",
+    "actor_id": "actor_0048",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-09",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0041"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_034"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Jean-Luc Chauvin, président de la CCI Aix-Marseille-Provence, soutient la réalisation rapide du renforcement électrique indépendamment de sa localisation exacte.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0063",
+    "actor_id": "actor_0063",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-09",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0040"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_040"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "La filière AOC Costières de Nîmes s’oppose au tracé aérien : son président Cyril Marès déclare que la solution retenue par l’État n’est pas adaptée au territoire et défend les alternatives ; l’AOC figure également parmi les signataires de la tribune contre la ligne aérienne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0100",
+    "actor_id": "actor_0100",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-09",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "experts",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0040"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_056"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "La DREAL Occitanie est citée parmi les services ayant signalé les risques de collision pour plusieurs espèces d'oiseaux ; cela ne démontre pas une opposition institutionnelle.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0138",
+    "actor_id": "actor_0138",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-09",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0040"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_077"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Stéphane Benhamou, président du Medef Sud, demande une déclaration d'utilité publique rapide pour sécuriser les investissements industriels.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0139",
+    "actor_id": "actor_0139",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-09",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0040"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_078"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Le Medef Sud participe à la coalition patronale et syndicale demandant l'accélération de la ligne au nom des investissements et de l'emploi.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0140",
+    "actor_id": "actor_0140",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-09",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0040"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_079"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Pascal Kuhn, président de l'UIMM Alpes-Méditerranée, considère l'électrification comme nécessaire à la survie des industries régionales.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0141",
+    "actor_id": "actor_0141",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-09",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0040"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_080"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "L'UIMM Alpes-Méditerranée participe à la mobilisation patronale en faveur d'une décision rapide sur le renforcement électrique.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0143",
+    "actor_id": "actor_0143",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-09",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0040"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_082"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Franck Bergamini, secrétaire général de Force Ouvrière 13, défend une décision rapide en invoquant le maintien et la création d'emplois industriels.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0145",
+    "actor_id": "actor_0145",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-09",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0041"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_084"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Philippe Maurizot, maire de Fos-sur-Mer, redoute l'allongement des délais et demande une décision permettant de sécuriser l'arrivée d'électricité aux industriels.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0007",
+    "actor_id": "actor_0007",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-14",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0034"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_007"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Séverine Dellanegra, maire de Saint-Martin-de-Crau, maintient la demande d’alternatives étudiées au tracé aérien et sa mobilisation contre le projet dans sa configuration actuelle.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0004",
+    "actor_id": "actor_0004",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-17",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0031"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_003"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Renaud Muselier, devenu sénateur en octobre 2026 après son départ de la présidence de la Région Sud, avait demandé en tant que président régional une solution négociée et l’examen d’alternatives plutôt qu’un passage en force.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0035",
+    "actor_id": "actor_0035",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-17",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0031"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_024"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Carole Delga exprime par courrier au préfet son opposition au tracé aérien et demande des solutions préservant le territoire gardois.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0005",
+    "actor_id": "actor_0005",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0032"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_004"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Jean-Luc Moya demeure porte-parole du Collectif THT 13/30 : le 9 novembre, il appelle à utiliser l’enquête publique pour contester l’alternative aérienne et plaider pour l’enfouissement. Ses contestations des coûts RTE sont présentées comme ses propres arguments.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0010",
+    "actor_id": "actor_0010",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0032"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_009"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Jean-Laurent Lucchesi appelle les contributeurs à produire des observations précises et opposables lors de l’enquête publique ouverte le 9 novembre ; le collectif qu’il représente conserve son opposition à la voie aérienne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0127",
+    "actor_id": "actor_0127",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0032"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_066"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Nelson Chaudon, maire de Beaucaire, a signé le serment des élus réclamant une alternative à la ligne aérienne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0002",
+    "actor_id": "actor_0002",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-20",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0046"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_002"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Patrick de Carolis, maire d’Arles, poursuit son opposition au tracé aérien ; la Ville organise le 9 novembre une réunion pour encourager les contributions à l’enquête. Le conseil municipal avait émis le 24 septembre un avis défavorable à la dérogation littorale.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0034",
+    "actor_id": "actor_0034",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-20",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0036"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_023"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Bertrand Mazel, élu arlésien et responsable de la filière rizicole, participe à la réunion municipale du 9 novembre et appelle à formaliser les critiques du tracé aérien dans le dossier d’enquête.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0128",
+    "actor_id": "actor_0128",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-20",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0045"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_067"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Delphine Batho dénonce la conduite du dossier par l'État et demande une solution enterrée à la place de la ligne aérienne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0129",
+    "actor_id": "actor_0129",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-20",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0036"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_068"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Françoise Nyssen est citée parmi les personnalités engagées dans le rassemblement opposé à la ligne aérienne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0042",
+    "actor_id": "actor_0042",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-21",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0039"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_029"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Gilles Odone, représentant de RTE en Méditerranée, soutient l’ouverture de l’enquête publique et défend le choix aérien. Il évalue à environ 3,5–3,6 Md€ une option souterraine contre 400 M€ pour la solution aérienne, avec délai avancé jusqu’en 2035 ; ces chiffres sont des estimations de RTE.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0054",
+    "actor_id": "actor_0054",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-21",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0039"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_035"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Marc Petit, professeur à CentraleSupélec, a conduit la tierce expertise examinant les stratégies et la possibilité d'un phasage des renforcements électriques.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0130",
+    "actor_id": "actor_0130",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-21",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0044"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_069"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Stéphane Ravier est cité parmi les participants de sensibilités politiques différentes à la mobilisation contre le tracé aérien ; aucun propos individuel direct n'est reproduit dans cette pièce.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0131",
+    "actor_id": "actor_0131",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-21",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0044"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_070"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Hendrik Davi participe au débat sur le projet et critique l'opportunisme écologique de certains élus présents ; sa position précise sur le tracé ne peut être déduite de la seule citation.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0135",
+    "actor_id": "actor_0135",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-21",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0042"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_074"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Pascal Galéoté présente le projet comme une infrastructure d'intérêt national vital pour l'emploi industriel, la transition énergétique et la sécurité électrique.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0146",
+    "actor_id": "actor_0146",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-21",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0044"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_085"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Mathieu Lefèvre évoque un traitement administratif accéléré du projet de ligne ; cette mention ne suffit pas à établir une préférence personnelle sur le tracé.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0029",
+    "actor_id": "actor_0029",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-23",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0037"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_021"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Cyril Girard, membre de Changeons d’avenir, revendique publiquement la mobilisation contre la ligne THT aérienne et conteste la stratégie de Patrick de Carolis, dont il juge l’opposition insuffisante. Son appel à poursuivre le combat concerne explicitement ce projet.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0155",
+    "actor_id": "actor_0155",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-24",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0030"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_031"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Le conseil municipal d’Arles a émis un avis défavorable à la dérogation littorale requise pour le tracé aérien et la Ville a organisé une réunion publique le 9 novembre pour expliquer la procédure et encourager les contributions.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0114",
+    "actor_id": "actor_0114",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "excluded",
+    "category": "associations",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0074"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_059"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Le collectif rassemble des associations et des gestionnaires d'espaces naturels opposés à la ligne aérienne ; les positions institutionnelles des organisations non signataires doivent être vérifiées séparément.",
+    "is_aggregate": true,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0160",
+    "actor_id": "actor_0160",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "neutral",
+    "source_ids": [
+      "source_fos5_20261110_020"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_024"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Mélinda Guarese demande une appréciation cohérente des impacts de la ligne THT et du contournement d’Arles. Cette intervention ne permet pas de qualifier séparément un rejet personnel de la solution aérienne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0036",
+    "actor_id": "actor_0036",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-26",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0038"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_025"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Nicolas Koukas indique vouloir recourir aux mécanismes internationaux de protection du patrimoine si l'État impose la ligne aérienne en Camargue ; il réclame une solution différente du tracé proposé.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0078",
+    "actor_id": "actor_0078",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-26",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0048"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_047"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Le Parc naturel régional de Camargue soutient l’objectif de décarbonation de Fos-Berre mais affirme officiellement s’opposer à l’implantation de la ligne 400 kV par voie aérienne pour des raisons écologiques, paysagères et socio-économiques.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0121",
+    "actor_id": "actor_0121",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-26",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0048"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_063"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Anne Claudius-Petit soutient l'action du Parc dans la mobilisation contre la ligne THT aérienne, sans opposer ce refus à la décarbonation industrielle.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0158",
+    "actor_id": "actor_0158",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-26",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0038"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_023"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Lucille Venet affirme son refus de la THT aérienne lors du débat municipal du 24 septembre, en comparant son impact foncier à celui du contournement autoroutier d’Arles ; les procédures des deux projets sont distinctes.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0117",
+    "actor_id": "actor_0117",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-02",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0047"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_025"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "L’association La Camargue à l’Unesco, par la voix de Véronique Jullian, juge le tracé aérien incompatible avec son objectif patrimonial et préconise une solution enterrée. Un refus de candidature Unesco n’est pas établi.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0159",
+    "actor_id": "actor_0159",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-02",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0047"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_025"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Véronique Jullian juge le tracé aérien contraire aux objectifs de protection patrimoniale de la Camargue et évoque l’enfouissement comme solution ; cela ne signifie pas qu’un classement Unesco serait déjà compromis.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0039",
+    "actor_id": "actor_0039",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-09",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0013"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_027"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Christophe Mirmand est cité comme ancien préfet ayant défendu la nécessité d'une garantie de délai électrique pour les industriels ; ce rappel ne prouve pas une prise de position sur le tracé détaillé.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0045",
+    "actor_id": "actor_0045",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-13",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0073"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_032"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Emmanuel Macron déclare le 26 mai 2026 que la ligne entre le Gard et Fos est nécessaire et demande une mise en service envisagée pour 2029. Emmanuel Macron soutient explicitement le renforcement électrique 400 kV destiné aux industriels de Fos, tout en faisant face à des oppositions locales.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0085",
+    "actor_id": "actor_0085",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-13",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0073"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_049"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Marcegaglia est cité par le collectif comme projet industriel lié à l'électrification de Fos ; aucune position sur le tracé aérien n'est établie par cette mention.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0057",
+    "actor_id": "actor_0057",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-23",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0012"
+    ],
+    "evidence_ids": [
+      "evidence_excel_20261102_019"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "L’ASTA défend l’alternative à la ligne aérienne côté Terre d’Argence ; son cogestionnaire Luc Perrin appelle à participer à l’enquête ouverte le 9 novembre 2026.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0058",
+    "actor_id": "actor_0058",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-23",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0012"
+    ],
+    "evidence_ids": [
+      "evidence_excel_20261102_016"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Vigueirat Nature conteste officiellement les adaptations d’urbanisme pour la ligne aérienne et demande l’examen des solutions alternatives.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0059",
+    "actor_id": "actor_0059",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-23",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0012"
+    ],
+    "evidence_ids": [
+      "evidence_excel_20261102_017"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Agir pour la Crau conteste officiellement les adaptations d’urbanisme pour la ligne aérienne et demande l’examen des solutions alternatives.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0060",
+    "actor_id": "actor_0060",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-23",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0012"
+    ],
+    "evidence_ids": [
+      "evidence_excel_20261102_018"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "NACICCA formule une critique explicite des adaptations d’urbanisme de la ligne aérienne et de ses impacts écologiques, sans qu’un refus de toute infrastructure soit démontré.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0084",
+    "actor_id": "actor_0084",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-03",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0051"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_048"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "GravitHy est mentionné comme projet industriel de fabrication de fer briqueté bas-carbone à Fos, associé aux besoins futurs d'électricité ; cela ne vaut pas prise de position sur le tracé THT.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0087",
+    "actor_id": "actor_0087",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-03",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0051"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_050"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "L'article présente les projets de production bas carbone de Fos et mentionne des projets industriels ou photovoltaïques dans le contexte de l'électrification ; cela n'atteste pas une position du projet Carbon sur la THT.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0001",
+    "actor_id": "actor_0001",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-04",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_fos5_20261110_001"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_028"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "RTE maintient la solution aérienne 400 kV et ouvre l’enquête publique du 9 novembre au 11 décembre 2026. Il justifie le choix par les besoins régionaux et estime une solution souterraine beaucoup plus coûteuse et tardive ; ces chiffres restent ceux du maître d’ouvrage.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0018",
+    "actor_id": "actor_0018",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-04",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0077"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_017"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Romain Collard est présenté comme chef de culture au Château Mourgues du Grès ; cette pièce ne prouve pas sa position personnelle sur la ligne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0046",
+    "actor_id": "actor_0046",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-04",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "neutral",
+    "source_ids": [
+      "source_fos5_20261110_001"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_003"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "L’État a organisé l’enquête publique du 9 novembre au 11 décembre 2026 sur les demandes relatives à la ligne aérienne 400 kV. Cette décision d’ouverture ne préjuge pas de la future DUP.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0064",
+    "actor_id": "actor_0064",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-04",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0077"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_041"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Anne Collard, propriétaire du Château Mourgues du Grès, exprime publiquement son refus des conséquences du tracé aérien pour le domaine, son paysage, son accueil viticole et son image. La position est celle de sa propriétaire, pas une délibération formelle d’une organisation distincte.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0157",
+    "actor_id": "actor_0157",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-04",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "experts",
+    "stance": "neutral",
+    "source_ids": [
+      "source_fos5_20261110_001"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_030"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "La commission d’enquête doit recueillir les contributions et rendre un avis motivé. Elle n’a pas encore rendu ses conclusions et ne doit pas être présentée comme favorable ou opposée au tracé aérien.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0153",
+    "actor_id": "actor_0153",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "favorable",
+    "source_ids": [
+      "source_fos5_20261110_005"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_016"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "François de Canson estime que l’absence de réalisation de la liaison THT serait dommageable à Fos ; il demande également de tenir compte de l’environnement et des éventuels aménagements issus de l’enquête. Soutien conditionnel, pas autorisation.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0013",
+    "actor_id": "actor_0013",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-06",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_fos5_20261110_010"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_013"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Cyril Marès, président de la COPA 30, rappelle que l’accord national d’accompagnement agricole signé avec RTE ne vaut pas soutien à la ligne aérienne de Fos-Jonquières.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0017",
+    "actor_id": "actor_0017",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-06",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_fos5_20261110_010"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_013"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Clément Lajoux, président de la COPA 13, maintient son refus du tracé aérien malgré l’accord national FNSEA–RTE.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0061",
+    "actor_id": "actor_0061",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-06",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_fos5_20261110_010"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_013"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "La COPA 13 maintient son refus de la ligne aérienne, indépendamment de l’accord national d’accompagnement agricole du 12 octobre 2026.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0062",
+    "actor_id": "actor_0062",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-06",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_fos5_20261110_010"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_013"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "La COPA 30 maintient son opposition à la voie aérienne malgré le cadre agricole national négocié avec RTE.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0154",
+    "actor_id": "actor_0154",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-06",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "neutral",
+    "source_ids": [
+      "source_fos5_20261110_012"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_014"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Édouard Philippe recommande d’examiner sérieusement les alternatives au tracé aérien pour préserver la Camargue. Sa déclaration ne suffit pas à le classer opposant à tout renforcement électrique ni comme adhérent au collectif.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0003",
+    "actor_id": "actor_0003",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-09",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_fos5_20261110_008"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_010"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Opposé à la variante aérienne, le Collectif THT 13/30 participe à l’enquête ouverte le 9 novembre, sollicite un examen des alternatives, une prolongation et des réunions publiques, et prépare des contributions formalisées. Ses critiques du coût et des études de RTE sont attribuées au collectif.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0015",
+    "actor_id": "actor_0015",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-09",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_fos5_20261110_017"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_017"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Luc Perrin, coprésident de l’ASTA et élu d’opposition à Beaucaire, appelle le 9 novembre à contester la solution aérienne lors de l’enquête publique.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0008",
+    "actor_id": "actor_0008",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_fos5_20261110_006"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_007"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Emmanuel Taché soutient les démarches des opposants au tracé aérien ; le 9 novembre 2026 il est cité parmi les intervenants demandant d’étudier une prolongation de l’enquête publique.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0152",
+    "actor_id": "actor_0152",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_fos5_20261110_003"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_026"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "Claire Mailhan, adjointe au maire d’Arles, invite le public à contester la ligne aérienne dans le cadre de l’enquête publique du 9 novembre au 11 décembre. Ne pas attribuer automatiquement cette position à l’AOP Taureau de Camargue.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0156",
+    "actor_id": "actor_0156",
+    "event_type": "first_documented_appearance",
+    "date": "2026-11-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "favorable",
+    "source_ids": [
+      "source_fos5_20261110_007"
+    ],
+    "evidence_ids": [
+      "evidence_fos5_20261110_008"
+    ],
+    "confidence": "high",
+    "date_basis": "Première publication explicitement datée dans les preuves retenues ; ne vaut pas date de première prise de position réelle.",
+    "summary": "La Marseillaise du 10 novembre signale la CGT des dockers et portuaires parmi les soutiens à la liaison aérienne. Information de presse attribuée, sans prise de parole syndicale reproduite : certitude moyenne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0011",
+    "actor_id": "actor_0011",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0084"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_002"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Guillaume Meiffre, coprésident de l'ASTCC avec Cédric Bernardi, participe à l'action du conteneur symbolisant la hauteur des pylônes et s'oppose au tracé aérien. Guillaume Meiffre dénonce les conditions des visites agricoles réalisées pour les études RTE ; il s'agit de son témoignage, non d'une conclusion judiciaire.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0019",
+    "actor_id": "actor_0019",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0027"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_018"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Anne Collard, vigneronne, alerte sur les risques de la ligne pour les exploitations agricoles et leurs labels.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0021",
+    "actor_id": "actor_0021",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0022",
+    "actor_id": "actor_0022",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0023",
+    "actor_id": "actor_0023",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0087"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_004"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Isabelle Gex défend, au nom d'un collectif de riverains, un maillage électrique différent et des alternatives sous-marines plutôt que la solution aérienne proposée.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0024",
+    "actor_id": "actor_0024",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0026",
+    "actor_id": "actor_0026",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0027",
+    "actor_id": "actor_0027",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0028",
+    "actor_id": "actor_0028",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0030",
+    "actor_id": "actor_0030",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0125"
+    ],
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_001"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Richard Hardouin, président de FNE Bouches-du-Rhône, participe à l’assemblée générale de mars 2025 qui place la lutte contre le projet aérien THT parmi les dossiers prioritaires et organise la convention d'honoraires avec les avocats du collectif. La pièce documente son rôle institutionnel, sans reproduire de déclaration personnelle.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0031",
+    "actor_id": "actor_0031",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0127"
+    ],
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_003"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Sébastien Mabile nomme Stéphane Coppey comme représentant de FNE13 participant avec le collectif THT 13/30 au débat de La Provence, où les participants ont rappelé leur opposition au tracé aérien et demandé l'examen d'une alternative moins dommageable.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0032",
+    "actor_id": "actor_0032",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0126"
+    ],
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_004"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Le Collectif THT 13/30 cite Isabelle Charnoz parmi les élus municipaux de Saint-Martin-de-Crau lui apportant publiquement leur soutien dans sa mobilisation contre le tracé aérien. La source ne contient pas de verbatim individuel.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0037",
+    "actor_id": "actor_0037",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "elus",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0127"
+    ],
+    "evidence_ids": [
+      "evidence_fos2_20261104_supp_006"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "René Raimondi est cité parmi les participants au débat à La Provence consacré aux projets industriels de Fos et au projet de ligne THT. La publication n'atteste pas sa position personnelle sur le tracé aérien.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0040",
+    "actor_id": "actor_0040",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "elus",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0114"
+    ],
+    "evidence_ids": [
+      "evidence_fos2_20261104_002"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Jérôme Bonet est identifié comme préfet du Gard compétent pour l'instruction et les décisions administratives du projet Feuillane–Jonquières ; le document ne lui attribue pas de préférence personnelle sur le tracé.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0041",
+    "actor_id": "actor_0041",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0029"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_028"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Jacques Witkowski précise les outils fonciers et administratifs de la stratégie de réindustrialisation ; il intervient également sur le calendrier de la procédure THT.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0047",
+    "actor_id": "actor_0047",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0017"
+    ],
+    "evidence_ids": [
+      "evidence_excel_20261102_010"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Soutient la réalisation rapide de la ligne pour l’électrification de Fos-Berre et propose désormais un Pacte territorial piloté par l’État, avec une séquence de cent jours afin de sécuriser la procédure et de négocier les mesures d’accompagnement.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0049",
+    "actor_id": "actor_0049",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0096"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_007"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Le Grand Port Maritime de Marseille intervient dans les mesures d'évitement, réduction et compensation liées aux installations industrielles de la ZIP ; cette source ne prouve pas sa position sur le tracé THT.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0050",
+    "actor_id": "actor_0050",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0118"
+    ],
+    "evidence_ids": [
+      "evidence_fos2_20261104_003"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Rémi Costantino, directeur général adjoint du GPMM, indique que le port oriente une partie de son plan d'investissement pluriannuel selon les résultats du programme de décarbonation Syrius. Aucune approbation explicite du tracé aérien THT n'est rapportée. Le GPMM participe au dialogue territorial Fos–Berre comme maître d'ouvrage de projets industriels distincts de la ligne THT ; cette responsabilité ne vaut pas approbation individuelle de Rémi Costantino sur le tracé.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0051",
+    "actor_id": "actor_0051",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "elus",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0052",
+    "actor_id": "actor_0052",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0053",
+    "actor_id": "actor_0053",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0066",
+    "actor_id": "actor_0066",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0097"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_034"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "La Coordination rurale des Bouches-du-Rhône est citée nommément parmi les signataires de la tribune recensés par FNE13 contre le projet de ligne aérienne THT en Camargue et en Crau. Cette signature ne vaut pas position de toutes les fédérations départementales ou nationales du syndicat.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0067",
+    "actor_id": "actor_0067",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0016"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_043"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Les chambres d’agriculture départementales des Bouches-du-Rhône et du Gard s’opposent au tracé aérien et demandent l’étude de l’enfouissement, comme l’attestent leur communiqué commun et les signatures de leurs présidents. Cette qualification concerne ces deux chambres locales, non Chambres d’agriculture France dans son ensemble, signataire d’un accord-cadre national distinct.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0068",
+    "actor_id": "actor_0068",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0097"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_008"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "L'AOP Foin de Crau figure parmi les signataires de la tribune contre la ligne aérienne cités par FNE13.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0069",
+    "actor_id": "actor_0069",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0097"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_035"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "L'IGP Riz de Camargue figure nommément sur la liste de premiers signataires de la tribune publiée par FNE Bouches-du-Rhône contre le projet de ligne aérienne THT en Camargue et en Crau.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0072",
+    "actor_id": "actor_0072",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0022"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_044"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "La Tour du Valat exprime officiellement un avis défavorable aux modifications d'urbanisme nécessaires au projet THT et poursuit sa mobilisation sur la biodiversité.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0073",
+    "actor_id": "actor_0073",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0113"
+    ],
+    "evidence_ids": [
+      "evidence_fos2_20261104_004"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Le CEN PACA conteste publiquement les impacts du tracé THT aérien sur les espèces protégées de Crau, notamment le Ganga cata, et critique le caractère insuffisant de plusieurs mesures compensatoires de RTE.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0077",
+    "actor_id": "actor_0077",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "elus",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0092"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_014"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "L'Office français de la biodiversité participe aux échanges scientifiques organisés avec la Tour du Valat sur les oiseaux d'eau de Camargue ; aucune position de l'OFB sur le tracé n'en découle.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0079",
+    "actor_id": "actor_0079",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0080",
+    "actor_id": "actor_0080",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0081",
+    "actor_id": "actor_0081",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0097"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_015"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Arles Camargue Environnement Nature figure parmi les signataires d'une tribune environnementale de mobilisation contre la THT, recensés par FNE13.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0082",
+    "actor_id": "actor_0082",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0101"
+    ],
+    "evidence_ids": [
+      "evidence_fos2_20261104_007"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Le collectif Sauvons nos Étangs cosigne avec plusieurs associations du golfe de Fos un plaidoyer municipal sur les impacts sanitaires, l'eau et la biodiversité des projets industriels. Cette action ne démontre pas une opposition de ce collectif à la ligne THT.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0083",
+    "actor_id": "actor_0083",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0086",
+    "actor_id": "actor_0086",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0106"
+    ],
+    "evidence_ids": [
+      "evidence_fos2_20261104_008"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "ArcelorMittal figure parmi les six principaux maîtres d'ouvrage industriels ayant répondu aux recommandations du débat public Fos–Étang de Berre. Le projet de four électrique est distinct de la ligne RTE ; aucune position d'ArcelorMittal sur son tracé aérien n'est démontrée.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0088",
+    "actor_id": "actor_0088",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0107"
+    ],
+    "evidence_ids": [
+      "evidence_fos2_20261104_009"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "NeoCarb est cité parmi les cinq projets industriels envisagés sur le môle central de Fos, avec un calendrier et des caractéristiques propres. Cette mention n'établit pas une prise de position sur la ligne THT. Elyse Energy porte le projet NeoCarb de carburants de synthèse bas carbone dans la ZIP de Fos, accompagné par des acteurs régionaux. Aucune position explicite sur la variante aérienne THT n'est rapportée.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0090",
+    "actor_id": "actor_0090",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0096"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_016"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "NaTran participe au corridor hydrogène H2Med/BarMar lié à l'écosystème industriel Fos-Marseille, sans prise de position démontrée sur le tracé aérien THT.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0091",
+    "actor_id": "actor_0091",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0106"
+    ],
+    "evidence_ids": [
+      "evidence_fos2_20261104_011"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Géométhane figure parmi les six maîtres d'ouvrage du débat public Fos–Berre ; son projet de stockage GéoH2 relève d'une procédure distincte de la ligne 400 kV.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0092",
+    "actor_id": "actor_0092",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0106"
+    ],
+    "evidence_ids": [
+      "evidence_fos2_20261104_012"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "ENGIE figure parmi les maîtres d'ouvrage du débat public Fos–Berre, notamment pour le projet d'hydrogène Hygreen. Cela ne démontre pas de préférence d'ENGIE sur le tracé aérien de RTE.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0093",
+    "actor_id": "actor_0093",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0117"
+    ],
+    "evidence_ids": [
+      "evidence_fos2_20261104_013"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Le programme Syrius, porté par PIICTO et ses partenaires, a présenté le bilan de sa phase 2023–2025 et prépare une phase 2026–2030 de décarbonation industrielle avec plusieurs scénarios d'infrastructures. PIICTO, l'Ademe et des partenaires industriels et publics coordonnent Syrius, un programme de décarbonation du bassin Fos–Berre. Le texte présente l'électrification comme un levier, sans engagement explicite de PIICTO sur le tracé aérien Jonquières–Fos.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0094",
+    "actor_id": "actor_0094",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0095",
+    "actor_id": "actor_0095",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0101",
+    "actor_id": "actor_0101",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "experts",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0102",
+    "actor_id": "actor_0102",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "experts",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Position non établie par une preuve documentaire qualifiée. Fiche historique conservée pour l'identification et la veille.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0103",
+    "actor_id": "actor_0103",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "excluded",
+    "category": "medias",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0080"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_024"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "La Provence publie le récit d'exploitants dénonçant les visites de RTE, en présentant leurs accusations comme des témoignages non judiciairement établis.",
+    "is_aggregate": false,
+    "is_media": true
+  },
+  {
+    "id": "timeline_fos_actor_0104",
+    "actor_id": "actor_0104",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "excluded",
+    "category": "medias",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0084"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_025"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Objectif Gard relate le conteneur de douze mètres installé par l'ASTCC dans son opposition au tracé aérien.",
+    "is_aggregate": false,
+    "is_media": true
+  },
+  {
+    "id": "timeline_fos_actor_0105",
+    "actor_id": "actor_0105",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "excluded",
+    "category": "medias",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0083"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_026"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "La Marseillaise décrit la mobilisation locale contre le tracé aérien et reproduit des propos de Julien Besançon.",
+    "is_aggregate": false,
+    "is_media": true
+  },
+  {
+    "id": "timeline_fos_actor_0106",
+    "actor_id": "actor_0106",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "excluded",
+    "category": "medias",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0089"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_027"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "France 3 / Franceinfo relate l'appel de quinze organisations environnementales contre la ligne aérienne en Camargue.",
+    "is_aggregate": false,
+    "is_media": true
+  },
+  {
+    "id": "timeline_fos_actor_0107",
+    "actor_id": "actor_0107",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "excluded",
+    "category": "medias",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0095"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_028"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "FNE13 publie un article associant son anniversaire au domaine Mourgues du Grès, présenté comme un symbole de sa mobilisation contre la THT aérienne.",
+    "is_aggregate": false,
+    "is_media": true
+  },
+  {
+    "id": "timeline_fos_actor_0108",
+    "actor_id": "actor_0108",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "excluded",
+    "category": "medias",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0098"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_029"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Marsactu relate les réserves formulées par l'Autorité environnementale sur les besoins électriques, l'analyse environnementale et la biodiversité.",
+    "is_aggregate": false,
+    "is_media": true
+  },
+  {
+    "id": "timeline_fos_actor_0109",
+    "actor_id": "actor_0109",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "excluded",
+    "category": "medias",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0085"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_030"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "GoMet rapporte la demande de Renaud Muselier d'une solution partagée intégrant les enjeux de territoire.",
+    "is_aggregate": false,
+    "is_media": true
+  },
+  {
+    "id": "timeline_fos_actor_0110",
+    "actor_id": "actor_0110",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "excluded",
+    "category": "medias",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0103"
+    ],
+    "evidence_ids": [
+      "evidence_fos2_20261104_015"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "La Tribune Région Sud a publié un article sur les arbitrages de tracé, le report de l'instruction de DUP et les besoins d'électricité industrielle liés à la ligne Fos–Jonquières. Une couverture journalistique ne constitue pas un soutien du média au projet.",
+    "is_aggregate": false,
+    "is_media": true
+  },
+  {
+    "id": "timeline_fos_actor_0111",
+    "actor_id": "actor_0111",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "excluded",
+    "category": "medias",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0099"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_031"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Le site de la Tour du Valat publie la contribution défavorable de la fondation à la MECDU du projet THT, portant notamment sur les continuités écologiques.",
+    "is_aggregate": false,
+    "is_media": true
+  },
+  {
+    "id": "timeline_fos_actor_0112",
+    "actor_id": "actor_0112",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "excluded",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0027"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_057"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Anne Collard défend les filières agricoles et les labels locaux contre les impacts redoutés du tracé aérien ; la position des trois membres de la famille ne peut être déduite de cette seule citation.",
+    "is_aggregate": true,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0115",
+    "actor_id": "actor_0115",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "excluded",
+    "category": "associations",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0016"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_060"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Les COPA 13 et 30 maintiennent une opposition explicite au tracé aérien tandis que l'accord national impliquant la FNSEA ne préjuge pas de son acceptation locale.",
+    "is_aggregate": true,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0119",
+    "actor_id": "actor_0119",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0083"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_019"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Julien Besançon, premier adjoint de Saint-Martin-de-Crau, exige une autre solution que le tracé aérien et soutient la mobilisation des élus locaux.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0120",
+    "actor_id": "actor_0120",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0081"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_020"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Robert Crauste, président du syndicat mixte de Camargue gardoise, dit avoir signé un manifeste d'opposition à la ligne aérienne tout en défendant la décarbonation.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0122",
+    "actor_id": "actor_0122",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "elus",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0081"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_021"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Monique Barbut est destinataire d'un courrier de MAB France alertant sur les risques de la THT pour la réserve de biosphère ; aucune position personnelle de la ministre n'est prouvée.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0123",
+    "actor_id": "actor_0123",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "elus",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0086"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_022"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Le cabinet de Maud Bregeon a échangé avec Emmanuel Taché sur la ligne et les objections locales ; cela ne prouve pas une préférence personnelle de la ministre sur le tracé.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0124",
+    "actor_id": "actor_0124",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0082"
+    ],
+    "evidence_ids": [
+      "evidence_fos1_20261104_023"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "B. Huet signe par délégation un arrêté concernant le projet Minéralier, distinct de la ligne Feuillane–Jonquières ; cet acte ne démontre aucune préférence sur la THT.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0126",
+    "actor_id": "actor_0126",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0022"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_065"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Jean Jalbert, directeur de la Tour du Valat, alerte sur les risques de collision pour les oiseaux migrateurs et fournit une expertise naturaliste aux opposants.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0132",
+    "actor_id": "actor_0132",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0026"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_071"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "David Ausset, professionnel du tourisme, craint que la vue sur les pylônes fasse perdre de la clientèle à son hébergement.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0133",
+    "actor_id": "actor_0133",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "associations",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0026"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_072"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Gaël Briez, professionnel du tourisme, alerte sur le risque d'annulations et de dégradation de l'attractivité des hébergements proches de la ligne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0147",
+    "actor_id": "actor_0147",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0019"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_086"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Stéphane Paglia, président de la CCI du Pays d'Arles, demande une reprise de dialogue associant l'État et les acteurs du territoire, plutôt que de persister dans la confrontation.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0148",
+    "actor_id": "actor_0148",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0019"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_087"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "La CCI du Pays d'Arles, par la voix de son président Stéphane Paglia, appelle à une conciliation des impératifs industriels et territoriaux.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0149",
+    "actor_id": "actor_0149",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0020"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_088"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Isabelle Campagnola-Savon, élue régionale, affirme chercher une conciliation des enjeux électriques et des préoccupations locales plutôt qu'un soutien sans réserve au tracé aérien.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0150",
+    "actor_id": "actor_0150",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0020"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_089"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Jean-Louis Geiger soutient le principe de la réindustrialisation de Fos mais formule des réserves sur ses conséquences pour les territoires traversés.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_fos_actor_0151",
+    "actor_id": "actor_0151",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0017"
+    ],
+    "evidence_ids": [
+      "evidence_retro_fos_20261104_090"
+    ],
+    "confidence": "low",
+    "date_basis": "Absence de date de publication fiable : exclu des histogrammes.",
+    "summary": "Caroline Ritzenthaler, d'EDF, expose les besoins régionaux de renforcement électrique 400 kV sans valider explicitement le tracé aérien étudié.",
+    "is_aggregate": false,
+    "is_media": false
+  }
+]
