@@ -14,3 +14,10 @@
 .source-status{display:inline-flex;margin-top:7px;border-radius:999px;padding:3px 8px;background:#fef3c7;color:#92400e;font-size:.75rem;font-weight:700}
 .editorial-tab .proof,.editorial-tab .source-item{overflow-wrap:anywhere}.editorial-tab .proof{line-height:1.5}.editorial-tab .proof small{display:block;margin-top:6px}
 @media(max-width:650px){.tab-btn{flex:1 1 100%}.grief-card,.list-card{padding:20px}}
+
+#tab-timeline .fos-date{display:block;font-size:.8rem;font-weight:750;color:#475569;margin-bottom:6px}
+#tab-timeline .fos-future{border-left:4px solid #d69e39}
+#tab-timeline .griefs-grid{margin:16px 0}
+#tab-timeline .fos-citations{border-top:1px solid #e2e8f0;padding-top:10px;margin-top:12px;font-size:.85rem}
+#tab-timeline .fos-citations a{color:#2563eb;text-decoration:underline}
+#tab-timeline .fos-value{font-size:1.1rem;font-weight:800;color:#0f172a}

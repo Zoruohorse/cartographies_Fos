@@ -1,0 +1,65 @@
+/* Styles isolés de l'onglet Évolution */
+.evolution-app { display: grid; gap: 22px; }
+.evolution-top { display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
+.evolution-top h2 { margin: 0 0 4px; font-size: 1.55rem; }
+.evolution-top p { margin: 0; color: var(--muted, #64748b); }
+.evolution-modes { display: flex; gap: 5px; padding: 5px; border-radius: 12px; background: #e2e8f0; }
+.evolution-modes button { border: 0; padding: 10px 16px; border-radius: 9px; cursor: pointer; background: transparent; color: #475569; font-weight: 700; }
+.evolution-modes button.is-active { background: #fff; color: #1d4ed8; box-shadow: 0 2px 5px #0f172a16; }
+.evolution-metrics { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.evolution-metric, .evolution-panel { background: #fff; border: 1px solid var(--border, #e2e8f0); border-radius: 12px; box-shadow: var(--shadow, 0 3px 8px #0f172a0a); }
+.evolution-metric { padding: 18px; display: grid; gap: 5px; }
+.evolution-metric span { font-size: .85rem; color: var(--muted, #64748b); }
+.evolution-metric strong { font-size: 2rem; font-variant-numeric: tabular-nums; }
+.evolution-panel { padding: 24px; min-width: 0; }
+.evolution-section-title { display: flex; justify-content: space-between; align-items: center; gap: 18px; flex-wrap: wrap; margin-bottom: 18px; }
+.evolution-section-title h3 { margin: 0; font-size: 1.1rem; }
+.evolution-section-title label { display: flex; align-items: center; gap: 8px; color: #475569; font-size: .85rem; font-weight: 600; }
+.evolution-section-title select, .evolution-section-title input { padding: 9px 12px; border: 1px solid #cbd5e1; border-radius: 9px; background: #fff; color: #0f172a; font: inherit; min-width: 160px; }
+.evolution-chart { width: 100%; overflow-x: auto; }
+.evolution-chart svg { display: block; height: auto; max-height: 400px; }
+.evolution-legend { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 16px; }
+.evolution-legend-button { display: inline-flex; align-items: center; gap: 7px; border: 1px solid #cbd5e1; border-radius: 999px; padding: 6px 10px; background: #fff; color: #64748b; font-size: .82rem; cursor: pointer; opacity: .5; }
+.evolution-legend-button.is-on { opacity: 1; color: #0f172a; }
+.evolution-swatch { display: inline-block; flex-shrink: 0; width: 12px; height: 12px; border-radius: 3px; }
+.evolution-hint { font-size: .83rem; color: var(--muted, #64748b); }
+.evolution-roster { display: grid; gap: 9px; }
+.evolution-person { display: flex; align-items: flex-start; gap: 12px; padding: 12px; border-radius: 9px; border: 1px solid #e2e8f0; }
+.evolution-person .evolution-swatch { margin-top: 5px; }
+.evolution-person strong { display: block; font-size: .92rem; }
+.evolution-person small { display: block; color: #64748b; margin-top: 3px; line-height: 1.45; }
+.evolution-warning { color: #92400e; font-size: .85rem; }
+.evolution-empty h2 { margin-top: 0; }
+@media (max-width: 650px) {
+  .evolution-metrics { grid-template-columns: 1fr; }
+  .evolution-panel { padding: 15px; } 
+  .evolution-section-title { align-items: stretch; flex-direction: column; }
+  .evolution-section-title input { width: 100%; }
+}
+
+/* Ajustements Bosquel : isolation des contrôles du graphique et traçabilité. */
+#tab-evolution .evolution-wrap{max-width:1400px}
+#tab-evolution .evolution-method{font-size:.82rem;line-height:1.45;margin-top:8px;max-width:880px;color:#64748b}
+#tab-evolution .evolution-sources a{color:#1d4ed8;text-decoration:underline;text-underline-offset:2px}
+#tab-evolution .evolution-person>div{min-width:0}
+#tab-evolution .evolution-section-title input{width:auto;margin-top:0;border:1px solid #cbd5e1}
+#tab-evolution .evolution-section-title select{margin-top:0;width:auto}
+#tab-evolution .evolution-person small{overflow-wrap:anywhere}
+
+/* Escaudain — classification des positions et filtres de périmètre. */
+#tab-evolution .evolution-scope{display:flex;gap:5px;background:#e2e8f0;padding:5px;border-radius:12px;flex-wrap:wrap}
+#tab-evolution .evolution-scope button{border:0;background:transparent;border-radius:9px;cursor:pointer;padding:10px 13px;font-weight:700;color:#475569}
+#tab-evolution .evolution-scope button.is-active{background:#fff;color:#1d4ed8;box-shadow:0 2px 5px #0f172a16}
+#tab-evolution .evolution-top{align-items:flex-start}
+#tab-evolution .evolution-method{max-width:920px;line-height:1.5;margin-top:9px;font-size:.86rem}
+#tab-evolution .evolution-sources a{color:#1d4ed8;text-decoration:underline;text-underline-offset:2px}
+#tab-evolution .evolution-person small{overflow-wrap:anywhere}
+#tab-evolution .evolution-section-title input,#tab-evolution .evolution-section-title select{width:auto;margin-top:0}
+@media (max-width:900px){#tab-evolution .evolution-scope,#tab-evolution .evolution-modes{width:100%;justify-content:flex-start;flex-wrap:wrap}}
+
+#tab-evolution .evolution-app{max-width:1420px;margin:auto}
+#tab-evolution .evolution-method{max-width:950px;line-height:1.5;font-size:.84rem;margin-top:8px}
+#tab-evolution .evolution-modes,#tab-evolution .evolution-scope{flex-wrap:wrap}
+#tab-evolution .evolution-sources a{color:#2563eb;text-decoration:underline}
+#tab-evolution .evolution-person small{overflow-wrap:anywhere}
+@media(max-width:850px){#tab-evolution .evolution-modes{width:100%}}

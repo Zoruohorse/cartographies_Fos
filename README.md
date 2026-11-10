@@ -46,3 +46,13 @@ Ouvrir http://localhost:8000. L’ouverture directe en file:// ne permet pas le 
 ## Vérifications réalisées
 
 Syntaxe des scripts, unicité des identifiants, références entre fichiers, conservation des données d’origine et comparaison des styles et du moteur avec le modèle accepté. Tests dans un DOM simulé : navigation des trois onglets, recherche, filtres, réinitialisation, fiches acteurs, affichage des extraits, sélection réseau, fermeture du panneau, recentrage et 60 étapes de simulation sans coordonnées invalides. Aucun contrôle visuel dans un navigateur réel n’a été réalisé.
+
+
+## Actualisation Fos(5) — 10 novembre 2026
+Relecture de 100 articles : 9 nouveaux acteurs, 36 preuves initiales plus une pour le débat CNDP, sources URL qualifiées, mise à jour des positions et correction « Christophe Berassen ». Renaud Muselier a été remplacé le 12 octobre par François de Canson comme président de la Région Sud.
+
+L'enquête publique **est ouverte du 9 novembre au 11 décembre 2026** ; ni la DUP ni un permis de construire ne sont acquis.
+
+Cinq onglets : Cartographie / Synthèse / Vigilance & sources / Chronologie / Évolution des acteurs. Dans l'évolution, trois modes (Nouveaux, Cumulés, Par position) et deux périmètres (direct / contexte). Les dates sont celles des premières sources citées datées, pas celles des changements d'opinion. Les médias et groupes composites sont exclus des histogrammes.
+
+Données : `data/content.json`, `data/timeline.json`, `data/audit-fos5-20261110.json`.
