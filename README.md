@@ -56,3 +56,10 @@ L'enquête publique **est ouverte du 9 novembre au 11 décembre 2026** ; ni la D
 Cinq onglets : Cartographie / Synthèse / Vigilance & sources / Chronologie / Évolution des acteurs. Dans l'évolution, trois modes (Nouveaux, Cumulés, Par position) et deux périmètres (direct / contexte). Les dates sont celles des premières sources citées datées, pas celles des changements d'opinion. Les médias et groupes composites sont exclus des histogrammes.
 
 Données : `data/content.json`, `data/timeline.json`, `data/audit-fos5-20261110.json`.
+
+
+## Vérification du passif documentaire — 10 novembre 2026
+
+L'actualisation Fos(5) n'efface pas les données historiques sans preuve : elle conserve les fiches et relations anciennes, mais **ne les prétend pas toutes sourcées**. Le référentiel comprend **16 positions sans preuve rattachée**, **1 position avec preuve non qualifiée**, **120 relations sans preuve**, **12 vigilances historiques sans preuve rattachée**, et **36 anciens extraits sans URL source résolue**. Les identifiants correspondants sont publiés dans `data/legacy-source-gaps-20261110.json` ; ces assertions restent à requalifier avant toute réutilisation comme faits établis.
+
+Les **37 preuves nouvelles du lot Fos(5)** disposent toutes d'une URL qualifiée. Les cinq onglets intègrent la chronologie sourcée (21 jalons), la synthèse (17 thèmes), les vigilances (25) et l'évolution des acteurs (Nouveaux, Cumulés, Par position ; périmètres direct/contexte). Le fichier a été lu sur 100 lignes documentaires, avec distinction systématique entre date de collecte et date de publication.

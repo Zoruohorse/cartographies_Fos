@@ -744,5 +744,13 @@
     "already_covered_or_historical_corrob": 56
   },
   "row_decisions_are": "Audit de reprise des contenus du classeur (date de collecte et titre présents dans le fichier source) et de la qualification différentielle. Les classifications ne signifient pas que chaque article a produit un nouvel acteur. Les URLs des preuves retenues figurent dans data/sources.json ; aucun lien non canonique n'est utilisé.",
-  "validation_note": "Le référentiel comporte 301 preuves (37 preuves supplémentaires, dont une de débat public) ; 139 sources URL, 160 positions et 226 relations. Validation du chargement des cartes par sélection explicite des identifiants HTML."
+  "validation_note": "Les 37 nouvelles preuves Fos(5) disposent d'une source URL. Le passif historique comporte des relations ou positions dépourvues de preuve qualifiée, conservées mais auditées séparément dans data/legacy-source-gaps-20261110.json.",
+  "legacy_provenance_gaps": {
+    "claims_no_evidence": 16,
+    "claims_with_unqualified_evidence": 1,
+    "relations_no_evidence": 120,
+    "vigilances_no_evidence": 12,
+    "evidence_no_resolvable_source": 36,
+    "new_fos5_evidence_without_url": 0
+  }
 }

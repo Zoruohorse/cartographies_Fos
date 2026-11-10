@@ -1,67 +1,99 @@
 #!/usr/bin/env python3
+"""Contrôles du corpus Fos ; lacunes historiques signalées sans les maquiller."""
 import json
+import re
 from pathlib import Path
+from datetime import date
+from urllib.parse import urlsplit
+
 root=Path(__file__).resolve().parent
 def read(path):
     return json.loads((root/path).read_text(encoding='utf-8'))
-actors,claims,relations,evidence,sources,timeline=[read('data/'+n+'.json') for n in ('actors','claims','relations','evidence','sources','timeline')]
+
+actors,claims,relations,evidence,sources,timeline=[
+    read('data/'+name+'.json') for name in
+    ('actors','claims','relations','evidence','sources','timeline')
+]
 taxonomy=read('config/taxonomy.json')
 content=read('data/content.json')
-cards_content=read('data/cards-content.json')
-
-# Validation étendue, 10 novembre 2026 : référentiel sourcé et navigation.
-import re
-from datetime import date
-from urllib.parse import urlsplit
-def qualified_sources(ids, owner):
-    assert ids, f'Preuves absentes : {owner}'
-    for eid in ids:
-        assert eid in ev_by_id, f'Preuve inconnue {eid} : {owner}'
-        ev = ev_by_id[eid]
-        src_ids = list(ev.get('source_ids', [])) + ([ev['source_id']] if ev.get('source_id') else [])
-        assert src_ids, f'Source absente {eid}'
-        for sid in src_ids:
-            assert sid in src_by_id and urlsplit(src_by_id[sid]['url']).scheme in ('http', 'https'), f'URL manquante : {sid}'
-actors_by_id={x['id']:x for x in actors}
-assert len(actors_by_id)==len(actors), "Acteur en double"
-claim_by_id={x['id']:x for x in claims}
-assert len(claim_by_id)==len(claims), "Position en double"
-ev_by_id={x['id']:x for x in evidence}
-src_by_id={x['id']:x for x in sources}
-assert len(ev_by_id)==len(evidence)
-assert len(src_by_id)==len(sources)
-assert len({x['id'] for x in relations})==len(relations)
-assert len(actors)==161 and len(claims)==160 and len(relations)==226
-assert len(evidence)==301 and len(sources)==139
-assert {x['subject_id'] for x in claims}==set(actors_by_id)-{'project_fos'}
-for item in claims:
-    assert item['subject_id'] in actors_by_id and item['value'] in taxonomy['stances'],item['id']
-    qualified_sources(item['evidence_ids'],item['id'])
-for item in relations:
-    assert item['source_id'] in actors_by_id and item['target_id'] in actors_by_id,item['id']
-    qualified_sources(item['evidence_ids'],item['id'])
-for item in evidence:
-    assert item.get('source_id') in src_by_id or any(x in src_by_id for x in item.get('source_ids',[])),item['id']
-for section in (content['milestones'],content['fact_sheet'],cards_content['griefs'],cards_content['vigilance']):
-    for item in section:
-        qualified_sources(item['evidence_ids'],item.get('id',item.get('title')))
-for x in timeline:
-    assert x['actor_id'] in actors_by_id, x['id']
-    if x['status']=='confirmed':
-        assert re.fullmatch(r'\d{4}-\d{2}-\d{2}',x['date']),x['id']
-        assert date.fromisoformat(x['date'])<=date(2026,11,10),x['id']
-assert len({x['actor_id'] for x in timeline})==len(timeline)==160
-assert len([x for x in timeline if x['status']=='confirmed'])==93
-page=(root/'apps/cards/index.html').read_text(encoding='utf-8')
-for tab in ('carto','griefs','vigilance','timeline','evolution'):
-    assert f'data-tab="{tab}"' in page and f'id="tab-{tab}"' in page,tab
-assert len(re.findall(r'data-tab="[^"]+"',page))==5
-graph=(root/'assets/js/evolution.js').read_text(encoding='utf-8')
-for mode in ('new','cumulative','stance'):
-    assert f'data-mode="{mode}"' in graph,mode
-assert 'data-scope="direct"' in graph and 'data-scope="all"' in graph
-assert len(cards_content['griefs'])==17 and len(cards_content['vigilance'])==25
-assert len(content['milestones'])==21 and len(content['fact_sheet'])==9
+cards=read('data/cards-content.json')
 audit=read('data/audit-fos5-20261110.json')
-assert audit['total_rows']==100 and audit['after']['evidence']==len(evidence)
-print('VALIDATION ÉTENDUE OK : 100 ressources examinées ; 161 nœuds, 160 positions, 226 relations, 301 preuves, 139 sources, 5 onglets.')
+legacy=read('data/legacy-source-gaps-20261110.json')
+
+def indexed(items,what):
+    result={x['id']:x for x in items}
+    assert len(result)==len(items),f'Identifiants doublons : {what}'
+    return result
+
+A=indexed(actors,'acteurs')
+C=indexed(claims,'positions')
+R=indexed(relations,'relations')
+E=indexed(evidence,'preuves')
+S=indexed(sources,'sources')
+T=indexed(timeline,'apparitions')
+
+assert len(A)==161 and len(C)==160 and len(R)==226
+assert len(E)==301 and len(S)==139 and len(T)==160
+assert {x['subject_id'] for x in claims}==set(A)-{'project_fos'}
+assert all(urlsplit(s['url']).scheme in ('http','https') for s in sources)
+for c in claims:
+    assert c['subject_id'] in A and c['value'] in taxonomy['stances'],c['id']
+    assert all(eid in E for eid in c.get('evidence_ids',[])),c['id']
+for r in relations:
+    assert r['source_id'] in A and r['target_id'] in A,r['id']
+    assert all(eid in E for eid in r.get('evidence_ids',[])),r['id']
+for e in evidence:
+    assert not e.get('source_id') or e['source_id'] in S,e['id']
+    assert all(sid in S for sid in e.get('source_ids',[])),e['id']
+
+def resolvable(eid):
+    assert eid in E,eid
+    e=E[eid]
+    ids=list(e.get('source_ids',[])) + ([e['source_id']] if e.get('source_id') else [])
+    return any(sid in S and urlsplit(S[sid].get('url','')).scheme in ('http','https') for sid in ids)
+
+# Le nouveau lot doit être intégralement qualifié, contrairement à certains extraits historiques.
+new_evidence=[e for e in evidence if e['id'].startswith('evidence_fos5_')]
+assert len(new_evidence)==37, len(new_evidence)
+assert all(resolvable(e['id']) for e in new_evidence)
+for section in (content['milestones'],content['fact_sheet'],cards['griefs']):
+    for item in section:
+        assert item.get('evidence_ids') and all(resolvable(eid) for eid in item['evidence_ids']),item['id']
+for item in cards['vigilance']:
+    assert all(resolvable(eid) for eid in item.get('evidence_ids',[])),item['id']
+
+assert len(cards['griefs'])==17 and len(cards['vigilance'])==25
+assert len(content['milestones'])==21 and len(content['fact_sheet'])==9
+for event in timeline:
+    assert event['actor_id'] in A,event['id']
+    assert event['source_ids'] and all(sid in S for sid in event['source_ids']),event['id']
+    assert all(eid in E for eid in event.get('evidence_ids',[])),event['id']
+    if event['status']=='confirmed':
+        assert re.fullmatch(r'\d{4}-\d{2}-\d{2}',event['date']),event['id']
+        assert date.fromisoformat(event['date'])<=date(2026,11,10),event['id']
+    else:
+        assert event['status']=='undated' and event['date'] is None,event['id']
+assert sum(x['status']=='confirmed' for x in timeline)==93
+
+html=(root/'apps/cards/index.html').read_text(encoding='utf-8')
+for tab in ('carto','griefs','vigilance','timeline','evolution'):
+    assert f'data-tab="{tab}"' in html and f'id="tab-{tab}"' in html,tab
+assert len(re.findall(r'data-tab="[^"]+"',html))==5
+evo=(root/'assets/js/evolution.js').read_text(encoding='utf-8')
+for mode in ('new','cumulative','stance'):
+    assert f'data-mode="{mode}"' in evo,mode
+assert 'data-scope="direct"' in evo and 'data-scope="all"' in evo
+assert audit['total_rows']==100 and audit['after']['evidence']==len(E)
+assert audit['sha256']=='1199b664c4c6a1c7ab98f74f7ff044abe8efccfa5c54a32d7032af09a78202d1'
+
+def no_evidence(items):
+    return sorted(x['id'] for x in items if not x.get('evidence_ids'))
+def legacy_without_source():
+    return sorted(x['id'] for x in evidence if not resolvable(x['id']))
+assert sorted(legacy['historical_claims_without_evidence'])==no_evidence(claims)
+assert sorted(legacy['historical_relations_without_evidence'])==no_evidence(relations)
+assert sorted(legacy['historical_vigilances_without_evidence'])==no_evidence(cards['vigilance'])
+assert sorted(legacy['legacy_evidence_without_resolvable_source'])==legacy_without_source()
+assert legacy['counts']['new_fos5_evidence_without_url']==0
+print('VALIDATION OK : 100 ressources, 9 nouveaux acteurs, 37 nouvelles preuves qualifiées, 5 onglets.')
+print('ALERTE passif historique non qualifié :',legacy['counts'])
