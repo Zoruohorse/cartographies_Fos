@@ -117,5 +117,631 @@
       "unknown": 11
     },
     "method": "La date est une publication connue reliée à la fiche, non la première prise de position réelle ; acteurs composites et médias exclus de la visualisation."
-  }
+  },
+  "row_by_row": [
+    {
+      "excel_row": 2,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [
+        "Claire Mailhan",
+        "Ville d’Arles"
+      ],
+      "note": "Enquête ouverte, participation à Arles, Claire Mailhan et Bertrand Mazel"
+    },
+    {
+      "excel_row": 3,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [
+        "CGT des dockers et portuaires"
+      ],
+      "note": "Prises de position rapportées dont soutien syndical à qualifier"
+    },
+    {
+      "excel_row": 4,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Information du lot confrontée aux fiches et sources déjà qualifiées ; source reprise seulement si nouvelle preuve utile."
+    },
+    {
+      "excel_row": 5,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Jean-Luc Moya, appels à observations, alternatives contestées"
+    },
+    {
+      "excel_row": 6,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Gilles Odone, coût et calendrier comparatifs attribués à RTE"
+    },
+    {
+      "excel_row": 7,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [
+        "François de Canson"
+      ],
+      "note": "Changement de présidence de Région Sud et position conditionnelle du nouveau président"
+    },
+    {
+      "excel_row": 8,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Information du lot confrontée aux fiches et sources déjà qualifiées ; source reprise seulement si nouvelle preuve utile."
+    },
+    {
+      "excel_row": 9,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Information du lot confrontée aux fiches et sources déjà qualifiées ; source reprise seulement si nouvelle preuve utile."
+    },
+    {
+      "excel_row": 10,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Information du lot confrontée aux fiches et sources déjà qualifiées ; source reprise seulement si nouvelle preuve utile."
+    },
+    {
+      "excel_row": 11,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Information du lot confrontée aux fiches et sources déjà qualifiées ; source reprise seulement si nouvelle preuve utile."
+    },
+    {
+      "excel_row": 12,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Information du lot confrontée aux fiches et sources déjà qualifiées ; source reprise seulement si nouvelle preuve utile."
+    },
+    {
+      "excel_row": 13,
+      "decision": "context_no_stance_inferred",
+      "actors_added": [],
+      "note": "Contexte industriel/territorial, ne donne pas en soi une position sur le tracé aérien."
+    },
+    {
+      "excel_row": 14,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Information du lot confrontée aux fiches et sources déjà qualifiées ; source reprise seulement si nouvelle preuve utile."
+    },
+    {
+      "excel_row": 15,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Information du lot confrontée aux fiches et sources déjà qualifiées ; source reprise seulement si nouvelle preuve utile."
+    },
+    {
+      "excel_row": 16,
+      "decision": "context_no_stance_inferred",
+      "actors_added": [],
+      "note": "Contexte industriel/territorial, ne donne pas en soi une position sur le tracé aérien."
+    },
+    {
+      "excel_row": 17,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [
+        "Édouard Philippe"
+      ],
+      "note": "Propos d'Édouard Philippe sur l'étude des alternatives, sans inférer opposition générale"
+    },
+    {
+      "excel_row": 18,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Refus des COPA du tracé aérien malgré l'accord agricole national"
+    },
+    {
+      "excel_row": 19,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "ASTCC demande prolongation après inondations, non accordée"
+    },
+    {
+      "excel_row": 20,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [
+        "Commission indépendante d’enquête publique"
+      ],
+      "note": "Commission d'enquête et permanences, rôle procédural neutre"
+    },
+    {
+      "excel_row": 21,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Tag sans auteur identifié, ne pas attribuer à une organisation"
+    },
+    {
+      "excel_row": 22,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Ouverture de l'enquête confirmée par le maître d'ouvrage et l'administration"
+    },
+    {
+      "excel_row": 23,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Enjeux RTE et divergences sur la solution aérienne"
+    },
+    {
+      "excel_row": 24,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Contestation du dossier, positions citées non conclusions d'expertise"
+    },
+    {
+      "excel_row": 25,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "RTE défend électrification et aérien, besoins exprimés à distinguer des MW livrés"
+    },
+    {
+      "excel_row": 26,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Christophe Berassen, directeur de programme RTE, orthographe corrigée par source RTE primaire"
+    },
+    {
+      "excel_row": 27,
+      "decision": "context_no_stance_inferred",
+      "actors_added": [],
+      "note": "Contexte industriel/territorial, ne donne pas en soi une position sur le tracé aérien."
+    },
+    {
+      "excel_row": 28,
+      "decision": "excluded_mismatch_or_out_of_scope",
+      "actors_added": [],
+      "note": "Le texte fourni est celui d'une émission de radio différente du lien RFI, impossible d'attribuer la preuve à l'URL."
+    },
+    {
+      "excel_row": 29,
+      "decision": "context_no_stance_inferred",
+      "actors_added": [],
+      "note": "Contexte industriel/territorial, ne donne pas en soi une position sur le tracé aérien."
+    },
+    {
+      "excel_row": 30,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 31,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Information du lot confrontée aux fiches et sources déjà qualifiées ; source reprise seulement si nouvelle preuve utile."
+    },
+    {
+      "excel_row": 32,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 33,
+      "decision": "context_no_stance_inferred",
+      "actors_added": [],
+      "note": "Contexte industriel/territorial, ne donne pas en soi une position sur le tracé aérien."
+    },
+    {
+      "excel_row": 34,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 35,
+      "decision": "context_no_stance_inferred",
+      "actors_added": [],
+      "note": "Contexte industriel/territorial, ne donne pas en soi une position sur le tracé aérien."
+    },
+    {
+      "excel_row": 36,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [],
+      "note": "Information du lot confrontée aux fiches et sources déjà qualifiées ; source reprise seulement si nouvelle preuve utile."
+    },
+    {
+      "excel_row": 37,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 38,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 39,
+      "decision": "context_no_stance_inferred",
+      "actors_added": [],
+      "note": "Contexte industriel/territorial, ne donne pas en soi une position sur le tracé aérien."
+    },
+    {
+      "excel_row": 40,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 41,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 42,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 43,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 44,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 45,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 46,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 47,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 48,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 49,
+      "decision": "context_no_stance_inferred",
+      "actors_added": [],
+      "note": "Contexte industriel/territorial, ne donne pas en soi une position sur le tracé aérien."
+    },
+    {
+      "excel_row": 50,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 51,
+      "decision": "context_no_stance_inferred",
+      "actors_added": [],
+      "note": "Contexte industriel/territorial, ne donne pas en soi une position sur le tracé aérien."
+    },
+    {
+      "excel_row": 52,
+      "decision": "context_no_stance_inferred",
+      "actors_added": [],
+      "note": "Contexte industriel/territorial, ne donne pas en soi une position sur le tracé aérien."
+    },
+    {
+      "excel_row": 53,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 54,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 55,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 56,
+      "decision": "context_no_stance_inferred",
+      "actors_added": [],
+      "note": "Contexte industriel/territorial, ne donne pas en soi une position sur le tracé aérien."
+    },
+    {
+      "excel_row": 57,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 58,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [
+        "Véronique Jullian"
+      ],
+      "note": "Véronique Jullian, démarche Camargue UNESCO, enjeu patrimonial non déclassement acquis"
+    },
+    {
+      "excel_row": 59,
+      "decision": "excluded_mismatch_or_out_of_scope",
+      "actors_added": [],
+      "note": "Article sur les data centers de Fouju, autre projet ; pas utilisé pour qualifier un acteur de la THT."
+    },
+    {
+      "excel_row": 60,
+      "decision": "context_no_stance_inferred",
+      "actors_added": [],
+      "note": "Contexte industriel/territorial, ne donne pas en soi une position sur le tracé aérien."
+    },
+    {
+      "excel_row": 61,
+      "decision": "context_no_stance_inferred",
+      "actors_added": [],
+      "note": "Contexte industriel/territorial, ne donne pas en soi une position sur le tracé aérien."
+    },
+    {
+      "excel_row": 62,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [
+        "Lucille Venet"
+      ],
+      "note": "Lucille Venet, opposition aérienne et comparaison contournement routier"
+    },
+    {
+      "excel_row": 63,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 64,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 65,
+      "decision": "qualified_delta_or_corrob",
+      "actors_added": [
+        "Mélinda Guarese"
+      ],
+      "note": "Mélinda Guarese, débat municipal comparatif, position personnelle sur l'aérien non explicite"
+    },
+    {
+      "excel_row": 66,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 67,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 68,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 69,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 70,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 71,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 72,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 73,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 74,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 75,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 76,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 77,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 78,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 79,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 80,
+      "decision": "excluded_mismatch_or_out_of_scope",
+      "actors_added": [],
+      "note": "Lien Bing redirigeant vers un média, non URL primaire de l'article ; non intégré comme preuve."
+    },
+    {
+      "excel_row": 81,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 82,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 83,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 84,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 85,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 86,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 87,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 88,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 89,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 90,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 91,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 92,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 93,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 94,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 95,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 96,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 97,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 98,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 99,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 100,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    },
+    {
+      "excel_row": 101,
+      "decision": "already_covered_or_historical_corrob",
+      "actors_added": [],
+      "note": "Article historique ou doublon du même événement ; n'ajoute pas une position nouvelle sans preuve individualisée."
+    }
+  ],
+  "row_by_row_summary": {
+    "qualified_delta_or_corrob": 28,
+    "context_no_stance_inferred": 13,
+    "excluded_mismatch_or_out_of_scope": 3,
+    "already_covered_or_historical_corrob": 56
+  },
+  "row_decisions_are": "Audit de reprise des contenus du classeur (date de collecte et titre présents dans le fichier source) et de la qualification différentielle. Les classifications ne signifient pas que chaque article a produit un nouvel acteur. Les URLs des preuves retenues figurent dans data/sources.json ; aucun lien non canonique n'est utilisé."
 }
