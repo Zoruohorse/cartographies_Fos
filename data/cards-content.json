@@ -1,5 +1,5 @@
 {
-  "intro": "Qualification rétrospective au 4 novembre 2026 : seules les déclarations et relations appuyées par des articles précis ou des publications institutionnelles sont présentées comme établies. Les positions historiques non corroborées ont été requalifiées « inconnues ». Les ressources dont l’URL ne correspond pas au texte (RFI, Bing) ont été écartées.",
+  "intro": "État au 10 novembre 2026 : consultation publique ouverte depuis le 9 novembre jusqu’au 11 décembre (7 communes, 5 commissaires, 35 permanences). Les oppositions portent principalement sur le tracé aérien, pas sur l’objectif de décarbonation de Fos. Les déclarations des acteurs sont attribuées et accompagnées des sources ; hypothèses de coûts et effets environnementaux ne sont pas traités comme des faits validés.",
   "griefs": [
     {
       "title": "🌍 Risque de déclassement Unesco",
@@ -151,6 +151,86 @@
       ],
       "source_ids": [
         "source_0106"
+      ]
+    },
+    {
+      "title": "🗳️ Enquête ouverte et procédures distinctes",
+      "text": "Depuis le 9 novembre et jusqu’au 11 décembre 2026, les contributions sont recueillies par une commission indépendante. Ni l’ouverture de l’enquête, ni l’arrêté ministériel relatif à la MECDU ne constituent la DUP ou une autorisation de travaux. Les remarques portent notamment sur le périmètre, les alternatives et les études d’impact.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_001",
+        "evidence_fos5_20261110_002",
+        "evidence_fos5_20261110_003",
+        "evidence_fos5_20261110_030",
+        "evidence_fos5_20261110_034"
+      ],
+      "source_ids": [
+        "source_fos5_20261110_001",
+        "source_0011"
+      ]
+    },
+    {
+      "title": "📝 Participation structurée des opposants",
+      "text": "Le Collectif THT 13/30, Jean-Luc Moya, Jean-Laurent Lucchesi et la mairie d’Arles encouragent des contributions argumentées plutôt que le boycott. Selon la Ville d’Arles, Claire Mailhan et Bertrand Mazel ont animé cette mobilisation le 9 novembre. La portée juridique des futures observations n’est pas encore connue.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_006",
+        "evidence_fos5_20261110_007",
+        "evidence_fos5_20261110_009",
+        "evidence_fos5_20261110_010",
+        "evidence_fos5_20261110_022",
+        "evidence_fos5_20261110_026"
+      ],
+      "source_ids": [
+        "source_fos5_20261110_003",
+        "source_fos5_20261110_008"
+      ]
+    },
+    {
+      "title": "🌧️ Inondations et demande de prolongation",
+      "text": "L’ASTCC demande un délai supplémentaire en raison des inondations d’octobre 2026 qui compliquent la participation des agriculteurs. Demande attribuée à l’association, non décision administrative de prolongation de l’enquête.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_012",
+        "evidence_fos5_20261110_022"
+      ],
+      "source_ids": [
+        "source_fos5_20261110_011",
+        "source_fos5_20261110_016"
+      ]
+    },
+    {
+      "title": "💶 Désaccord chiffré sur l’enfouissement",
+      "text": "Gilles Odone (RTE) chiffre l’aérien à environ 400 M€ et la variante souterraine de capacité comparable à 3,5–3,6 Md€ avec une réalisation pouvant aller à 2035. Le collectif conteste ces hypothèses ; ces coûts et délais ne constituent pas une expertise indépendante contradictoire tranchée.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_011",
+        "evidence_fos5_20261110_010",
+        "evidence_fos5_20261110_019"
+      ],
+      "source_ids": [
+        "source_fos5_20261110_009",
+        "source_fos5_20261110_008"
+      ]
+    },
+    {
+      "title": "🏛️ Recomposition des positions régionales",
+      "text": "François de Canson a succédé à Renaud Muselier à la présidence de la Région Sud le 12 octobre. Le 9 novembre, il soutient la nécessité de concrétiser la THT tout en admettant des aménagements environnementaux ; Édouard Philippe réclame l’étude des alternatives et n’est pas classé opposant à l’électrification.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_014",
+        "evidence_fos5_20261110_015",
+        "evidence_fos5_20261110_016"
+      ],
+      "source_ids": [
+        "source_fos5_20261110_005",
+        "source_fos5_20261110_012",
+        "source_fos5_20261110_004"
+      ]
+    },
+    {
+      "title": "⚓ Soutiens syndicaux et économiques",
+      "text": "La Marseillaise indique que la CGT des dockers et portuaires figure parmi les soutiens à la ligne, sans reproduire une déclaration directe du syndicat. Cette attribution de presse ne vaut pas mandat représentatif de tous les salariés.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_008"
+      ],
+      "source_ids": [
+        "source_fos5_20261110_007"
       ]
     }
   ],
@@ -319,6 +399,81 @@
       "source_ids": [
         "source_0014"
       ]
+    },
+    {
+      "id": "vigilance_fos5_001",
+      "title": "Enquête publique réellement ouverte, sans DUP accordée",
+      "text": "Le registre est ouvert du 9 novembre au 11 décembre 2026. Rapport de la commission, DUP, permis et dérogations encore à suivre ; ne pas déduire d’autorisation de construire de l’ouverture de l’enquête.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_001",
+        "evidence_fos5_20261110_002",
+        "evidence_fos5_20261110_003",
+        "evidence_fos5_20261110_030"
+      ],
+      "source_ids": [
+        "source_fos5_20261110_001",
+        "source_0011"
+      ]
+    },
+    {
+      "id": "vigilance_fos5_002",
+      "title": "Prolongation demandée après inondations",
+      "text": "L’ASTCC demande davantage de temps pour les exploitants sinistrés ; aucune prorogation n’est confirmée dans les sources retenues.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_012"
+      ],
+      "source_ids": [
+        "source_fos5_20261110_011"
+      ]
+    },
+    {
+      "id": "vigilance_fos5_003",
+      "title": "Coûts contestés et délais de l’enfouissement",
+      "text": "Selon RTE, 400 M€ en aérien contre 3,5–3,6 Md€ en souterrain et livraison plus tardive ; les opposants réfutent ces hypothèses. Éviter une comparaison sans méthode commune et périmètre de coûts.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_010",
+        "evidence_fos5_20261110_011"
+      ],
+      "source_ids": [
+        "source_fos5_20261110_009",
+        "source_fos5_20261110_008"
+      ]
+    },
+    {
+      "id": "vigilance_fos5_004",
+      "title": "Présidence de la Région Sud et opposition institutionnelle",
+      "text": "François de Canson préside la Région Sud depuis le 12 octobre, Renaud Muselier est sénateur. Les propos du nouveau président soutiennent la concrétisation de la ligne sous réserves, ce qui ne constitue pas un retournement documenté de tous les élus régionaux.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_015",
+        "evidence_fos5_20261110_016"
+      ],
+      "source_ids": [
+        "source_fos5_20261110_005",
+        "source_fos5_20261110_004"
+      ]
+    },
+    {
+      "id": "vigilance_fos5_005",
+      "title": "Position de la CGT des dockers : déclaration directe à confirmer",
+      "text": "La Marseillaise mentionne un soutien des dockers CGT ; le syndicat n’est pas cité directement dans l’extrait, ce qui limite le niveau de certitude.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_008"
+      ],
+      "source_ids": [
+        "source_fos5_20261110_007"
+      ]
+    },
+    {
+      "id": "vigilance_fos5_006",
+      "title": "Acte de dégradation sans auteur identifié",
+      "text": "La Marseillaise rapporte le tag « No THT Camargue » au siège régional de RTE, condamné par Gilles Odone. Aucun lien établi avec une organisation particulière.",
+      "evidence_ids": [
+        "evidence_fos5_20261110_018"
+      ],
+      "source_ids": [
+        "source_fos5_20261110_018"
+      ]
     }
-  ]
+  ],
+  "updated_at": "2026-11-10"
 }

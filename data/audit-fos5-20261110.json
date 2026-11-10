@@ -1,0 +1,103 @@
+{
+  "reviewed_at": "2026-11-10",
+  "spreadsheet": "Fos(5).xlsx",
+  "sha256": "1199b664c4c6a1c7ab98f74f7ff044abe8efccfa5c54a32d7032af09a78202d1",
+  "sheet": "✅ Informations qualifiées",
+  "range": "A2:G101",
+  "total_rows": 100,
+  "total_content_characters": 411489,
+  "rationale": "Relecture des 100 ressources ; articles redondants d’actualité septembre-octobre déjà présents dans la base historique non réimportés comme acteurs. Les dates de trouvaille des lignes Excel ne sont pas automatiquement assimilées à une date de publication. Nouveaux éléments surtout du 4 au 10 novembre.",
+  "before": {
+    "actors": 152,
+    "claims": 151,
+    "relations": 217,
+    "evidence": 264,
+    "sources": 120,
+    "griefs": 11,
+    "vigilance": 19
+  },
+  "after": {
+    "actors": 161,
+    "claims": 160,
+    "relations": 226,
+    "evidence": 300,
+    "sources": 139,
+    "griefs": 17,
+    "vigilance": 25
+  },
+  "new_actor_ids": [
+    "actor_0152",
+    "actor_0153",
+    "actor_0154",
+    "actor_0155",
+    "actor_0156",
+    "actor_0157",
+    "actor_0158",
+    "actor_0159",
+    "actor_0160"
+  ],
+  "updated_actor_ids": [
+    "actor_0001",
+    "actor_0002",
+    "actor_0003",
+    "actor_0004",
+    "actor_0005",
+    "actor_0007",
+    "actor_0008",
+    "actor_0010",
+    "actor_0012",
+    "actor_0013",
+    "actor_0015",
+    "actor_0017",
+    "actor_0034",
+    "actor_0042",
+    "actor_0046",
+    "actor_0056",
+    "actor_0057",
+    "actor_0061",
+    "actor_0062",
+    "actor_0078",
+    "actor_0117",
+    "actor_0125"
+  ],
+  "excluded": [
+    {
+      "row": 28,
+      "reason": "L’URL RFI est associée dans l’export au verbatim d’une émission Sud Radio : contenu non attribuable à cette URL ; preuve non réutilisée."
+    },
+    {
+      "row": 80,
+      "reason": "URL Bing indexant un article du Point : URL moteur de recherche non retenue comme preuve originale."
+    },
+    {
+      "row": 59,
+      "reason": "Article sur Fouju et les data centers, non sur le projet Feuillane-Jonquières : évité comme preuve de position sur Fos."
+    }
+  ],
+  "historical_note": "Le corpus répète plusieurs dizaines de récits du rassemblement du 19 septembre et de l’arrêté d’octobre. Ils corroborent les précédentes qualifications, mais ne sont pas des événements nouveaux du 10 novembre.",
+  "source_keys": {
+    "rte": "source_fos5_20261110_001",
+    "gard": "source_0011",
+    "arles": "source_fos5_20261110_003",
+    "canson": "source_fos5_20261110_004",
+    "region": "source_fos5_20261110_005",
+    "provence_reunion": "source_fos5_20261110_006",
+    "marseillaise": "source_fos5_20261110_007",
+    "maritima": "source_fos5_20261110_008",
+    "franceinfo": "source_fos5_20261110_009",
+    "copa": "source_fos5_20261110_010",
+    "inondations": "source_fos5_20261110_011",
+    "philippe": "source_fos5_20261110_012",
+    "berassen": "source_fos5_20261110_013",
+    "pnr": "source_fos5_20261110_014",
+    "madeinmarseille": "source_fos5_20261110_015",
+    "objectif9": "source_fos5_20261110_016",
+    "ici_luc": "source_fos5_20261110_017",
+    "tags": "source_fos5_20261110_018",
+    "sept_arles": "source_0038",
+    "sept_arles2": "source_fos5_20261110_020",
+    "unescospk": "source_0047",
+    "rteprogramme": "source_0075",
+    "region_presidence": "source_fos5_20261110_023"
+  }
+}

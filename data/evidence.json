@@ -3289,5 +3289,527 @@
     "verification": "article_text_in_uploaded_excel_url_not_rechecked",
     "location": "Fos(4).xlsx, feuille Informations qualifiées, ligne 79 — Liste des premiers signataires, entrées 19 et 20",
     "recorded_at": "2026-11-04"
+  },
+  {
+    "id": "evidence_fos5_20261110_001",
+    "type": "reported_or_attributed",
+    "text": "RTE annonce l’ouverture effective de l’enquête publique de la ligne aérienne à deux circuits 400 kV du 9 novembre au 11 décembre 2026. L’ouverture de l’enquête ne vaut ni DUP accordée ni autorisation de travaux.",
+    "source_id": "source_fos5_20261110_001",
+    "source_ids": [
+      "source_fos5_20261110_001"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-09",
+    "published_at": "2026-11-09",
+    "accessed_at": "2026-11-10",
+    "excel_row": 22,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_002",
+    "type": "reported_or_attributed",
+    "text": "L’arrêté inter-préfectoral du 14 octobre 2026 prévoit une enquête publique dans sept communes (Arles, Beaucaire, Bellegarde, Fourques, Jonquières-Saint-Vincent, Saint-Martin-de-Crau, Fos-sur-Mer), préalable aux décisions de DUP, MECDU et dérogation à la loi Littoral.",
+    "source_id": "source_0011",
+    "source_ids": [
+      "source_0011"
+    ],
+    "source_status": "qualified",
+    "date": "2026-10-14",
+    "published_at": "2026-10-14",
+    "accessed_at": "2026-11-10",
+    "excel_row": 20,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_003",
+    "type": "reported_or_attributed",
+    "text": "Cinq commissaires enquêteurs indépendants et 35 permanences sont annoncés. Les observations sont recevables en ligne, par registre et lors des permanences.",
+    "source_id": "source_fos5_20261110_001",
+    "source_ids": [
+      "source_fos5_20261110_001"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-09",
+    "published_at": "2026-11-09",
+    "accessed_at": "2026-11-10",
+    "excel_row": 22,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_004",
+    "type": "reported_or_attributed",
+    "text": "RTE envisage une instruction administrative et de DUP en 2027-2028, des travaux à compter de 2028 et une mise en service prévisionnelle en 2029-2030. Ces dates ne sont pas des décisions acquises.",
+    "source_id": "source_fos5_20261110_001",
+    "source_ids": [
+      "source_fos5_20261110_001"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-04",
+    "published_at": "2026-11-04",
+    "accessed_at": "2026-11-10",
+    "excel_row": 22,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_005",
+    "type": "reported_or_attributed",
+    "text": "RTE annonce à l’échelle du Gard et des Bouches-du-Rhône un retrait de trois pylônes de tension inférieure pour un pylône THT implanté et présente un modèle de pylône ZEN, dont il revendique 80 % d’acier recyclé et -28 % d’émissions de cycle de vie.",
+    "source_id": "source_fos5_20261110_001",
+    "source_ids": [
+      "source_fos5_20261110_001"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-04",
+    "published_at": "2026-11-04",
+    "accessed_at": "2026-11-10",
+    "excel_row": 22,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_006",
+    "type": "reported_or_attributed",
+    "text": "Le 9 novembre 2026, Claire Mailhan, adjointe au maire d’Arles, a appelé les citoyens à contribuer massivement à l’enquête publique pour contester le tracé aérien. La Ville d’Arles réaffirme son opposition à cette variante.",
+    "source_id": "source_fos5_20261110_003",
+    "source_ids": [
+      "source_fos5_20261110_003"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-09",
+    "published_at": "2026-11-09",
+    "accessed_at": "2026-11-10",
+    "excel_row": 2,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_007",
+    "type": "reported_or_attributed",
+    "text": "La réunion publique organisée par la Ville d’Arles le 9 novembre 2026 a rassemblé environ 200 personnes, selon La Provence. Claire Mailhan, Bertrand Mazel, Jean-Laurent Lucchesi et Jean-Luc Moya ont encouragé les contributions au dossier d’enquête, sans prétendre que la DUP était déjà accordée.",
+    "source_id": "source_fos5_20261110_006",
+    "source_ids": [
+      "source_fos5_20261110_006"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-09",
+    "published_at": "2026-11-09",
+    "accessed_at": "2026-11-10",
+    "excel_row": 2,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_008",
+    "type": "reported_or_attributed",
+    "text": "La Marseillaise du 10 novembre rapporte que la CGT des dockers et portuaires figure parmi les soutiens au projet aérien 400 kV, aux côtés d’organisations économiques. Aucune déclaration directe du syndicat n’est reproduite dans l’extrait.",
+    "source_id": "source_fos5_20261110_007",
+    "source_ids": [
+      "source_fos5_20261110_007"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-10",
+    "published_at": "2026-11-10",
+    "accessed_at": "2026-11-10",
+    "excel_row": 3,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_009",
+    "type": "reported_or_attributed",
+    "text": "Carole Guintoli et Jean-Laurent Lucchesi préconisent aux opposants de consigner des objections précises dans l’enquête publique ; ils contestent notamment le fuseau de 100 m et la comparaison des alternatives. Ces objections sont leur appréciation, et non un constat réglementaire.",
+    "source_id": "source_fos5_20261110_007",
+    "source_ids": [
+      "source_fos5_20261110_007"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-09",
+    "published_at": "2026-11-09",
+    "accessed_at": "2026-11-10",
+    "excel_row": 3,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_010",
+    "type": "reported_or_attributed",
+    "text": "Jean-Luc Moya, porte-parole du Collectif THT 13/30, affirme le 9 novembre 2026 vouloir utiliser l’enquête pour faire instruire les alternatives souterraines. Il conteste les hypothèses de coût et de délai de RTE ; ses accusations sont attribuées, non entérinées.",
+    "source_id": "source_fos5_20261110_008",
+    "source_ids": [
+      "source_fos5_20261110_008"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-09",
+    "published_at": "2026-11-09",
+    "accessed_at": "2026-11-10",
+    "excel_row": 5,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_011",
+    "type": "reported_or_attributed",
+    "text": "Gilles Odone déclare le 9 novembre 2026 qu’une solution souterraine de capacité comparable reviendrait selon RTE à environ 3,5–3,6 Md€, contre environ 400 M€ pour la ligne aérienne, et ne pourrait aboutir qu’en 2035. Il s’agit d’estimations et d’un calendrier attribués à RTE, contestés par le collectif.",
+    "source_id": "source_fos5_20261110_009",
+    "source_ids": [
+      "source_fos5_20261110_009"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-09",
+    "published_at": "2026-11-09",
+    "accessed_at": "2026-11-10",
+    "excel_row": 6,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_012",
+    "type": "reported_or_attributed",
+    "text": "Le 5 novembre 2026, l’ASTCC demande au préfet de prolonger la durée de l’enquête, faisant valoir les inondations des 19-21 octobre et les difficultés des exploitants pour consulter le dossier. Il s’agit d’une demande, non d’une prolongation accordée.",
+    "source_id": "source_fos5_20261110_011",
+    "source_ids": [
+      "source_fos5_20261110_011"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-05",
+    "published_at": "2026-11-05",
+    "accessed_at": "2026-11-10",
+    "excel_row": 19,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_013",
+    "type": "reported_or_attributed",
+    "text": "Les COPA 13 et 30 rappellent en novembre 2026 que l’accord national RTE–FNSEA–Chambres d’agriculture France ne vaut pas approbation du tracé aérien Jonquières–Fos ; elles maintiennent leur opposition.",
+    "source_id": "source_fos5_20261110_010",
+    "source_ids": [
+      "source_fos5_20261110_010"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-06",
+    "published_at": "2026-11-06",
+    "accessed_at": "2026-11-10",
+    "excel_row": 18,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_014",
+    "type": "reported_or_attributed",
+    "text": "Lors de sa visite à Arles le 6 novembre 2026, Édouard Philippe demande que les alternatives à la ligne THT aérienne soient sérieusement étudiées pour préserver la Camargue. Il n’exprime pas un refus de l’électrification industrielle et son propos ne vaut pas adhésion formelle au collectif anti-aérien.",
+    "source_id": "source_fos5_20261110_012",
+    "source_ids": [
+      "source_fos5_20261110_012"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-06",
+    "published_at": "2026-11-06",
+    "accessed_at": "2026-11-10",
+    "excel_row": 17,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_015",
+    "type": "reported_or_attributed",
+    "text": "Dans un entretien diffusé le 9 novembre 2026, François de Canson qualifie Fos de territoire industriel stratégique, juge essentiel de concrétiser la ligne THT, tout en évoquant des aménagements éventuels suivant l’enquête et la prise en compte de l’environnement.",
+    "source_id": "source_fos5_20261110_004",
+    "source_ids": [
+      "source_fos5_20261110_004"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-09",
+    "published_at": "2026-11-09",
+    "accessed_at": "2026-11-10",
+    "excel_row": 7,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_016",
+    "type": "reported_or_attributed",
+    "text": "La Région Sud confirme l’élection de François de Canson à sa présidence le 12 octobre 2026, en remplacement de Renaud Muselier devenu sénateur. Ne pas présenter Renaud Muselier comme président régional en exercice en novembre.",
+    "source_id": "source_fos5_20261110_005",
+    "source_ids": [
+      "source_fos5_20261110_005"
+    ],
+    "source_status": "qualified",
+    "date": "2026-10-12",
+    "published_at": "2026-10-12",
+    "accessed_at": "2026-11-10",
+    "excel_row": 7,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_017",
+    "type": "reported_or_attributed",
+    "text": "Le 9 novembre 2026, Luc Perrin, conseiller municipal d’opposition à Beaucaire et cogestionnaire de l’ASTA, exprime publiquement son opposition au tracé aérien dans le cadre de l’ouverture de l’enquête.",
+    "source_id": "source_fos5_20261110_017",
+    "source_ids": [
+      "source_fos5_20261110_017"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-09",
+    "published_at": "2026-11-09",
+    "accessed_at": "2026-11-10",
+    "excel_row": 9,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_018",
+    "type": "reported_or_attributed",
+    "text": "Début novembre, la façade du siège régional de RTE a été taguée « No THT Camargue ». La Marseillaise rapporte la condamnation de l’acte par Gilles Odone ; aucun auteur n’est identifié dans la source, ne pas attribuer l’acte à un collectif.",
+    "source_id": "source_fos5_20261110_018",
+    "source_ids": [
+      "source_fos5_20261110_018"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-05",
+    "published_at": "2026-11-05",
+    "accessed_at": "2026-11-10",
+    "excel_row": 21,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_019",
+    "type": "reported_or_attributed",
+    "text": "Christophe Berassen, directeur du programme RTE Fos-Berre-Provence, indique que RTE a étudié jusqu’à 14 stratégies et présente le dossier mis à l’enquête comme ouvert aux observations. Les critiques du Collectif sur les alternatives demeurent distinctes de cette déclaration.",
+    "source_id": "source_fos5_20261110_015",
+    "source_ids": [
+      "source_fos5_20261110_015"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-09",
+    "published_at": "2026-11-09",
+    "accessed_at": "2026-11-10",
+    "excel_row": 10,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_020",
+    "type": "reported_or_attributed",
+    "text": "Une publication de RTE du 27 septembre 2024 désigne explicitement « Christophe Berassen » comme directeur responsable du projet. Le référentiel historique écrivait à tort « Christophe Barassen ».",
+    "source_id": "source_fos5_20261110_013",
+    "source_ids": [
+      "source_fos5_20261110_013"
+    ],
+    "source_status": "qualified",
+    "date": "2024-09-27",
+    "published_at": "2024-09-27",
+    "accessed_at": "2026-11-10",
+    "excel_row": 26,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_021",
+    "type": "reported_or_attributed",
+    "text": "Le Parc naturel régional de Camargue affirme soutenir la décarbonation de Fos-Berre tout en s’opposant au tracé aérien pour des raisons écologiques, paysagères et socio-économiques. Position officielle visible sur sa page dédiée à l’enquête 2026.",
+    "source_id": "source_fos5_20261110_014",
+    "source_ids": [
+      "source_fos5_20261110_014"
+    ],
+    "source_status": "qualified",
+    "date": null,
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "excel_row": 12,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_022",
+    "type": "reported_or_attributed",
+    "text": "À l’ouverture de l’enquête le 9 novembre, Stop THT 13/30 demande un délai supplémentaire, des réunions d’information dans les communes traversées et une clarification du périmètre ; ces requêtes ne sont pas des décisions administratives accordées.",
+    "source_id": "source_fos5_20261110_016",
+    "source_ids": [
+      "source_fos5_20261110_016"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-09",
+    "published_at": "2026-11-09",
+    "accessed_at": "2026-11-10",
+    "excel_row": 5,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_023",
+    "type": "reported_or_attributed",
+    "text": "Le 26 septembre 2026, Lucille Venet (Union pour Arles), conseillère municipale, exprime une opposition à la ligne THT et souligne une possible incohérence avec le soutien municipal au contournement autoroutier. Cette critique porte sur les deux projets mais ne les confond pas.",
+    "source_id": "source_0038",
+    "source_ids": [
+      "source_0038"
+    ],
+    "source_status": "qualified",
+    "date": "2026-09-26",
+    "published_at": "2026-09-26",
+    "accessed_at": "2026-11-10",
+    "excel_row": 62,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_024",
+    "type": "reported_or_attributed",
+    "text": "Mélinda Guarese (conseillère municipale RN) questionne le 24 septembre 2026 la cohérence de la mairie sur les impacts de la THT et du contournement d’Arles ; une opposition personnelle distincte à l’aérien n’est pas explicitement isolée dans l’article.",
+    "source_id": "source_fos5_20261110_020",
+    "source_ids": [
+      "source_fos5_20261110_020"
+    ],
+    "source_status": "qualified",
+    "date": "2026-09-24",
+    "published_at": "2026-09-24",
+    "accessed_at": "2026-11-10",
+    "excel_row": 65,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_025",
+    "type": "reported_or_attributed",
+    "text": "Véronique Jullian, porte-parole de la démarche « La Camargue à l’Unesco », juge le projet de ligne aérienne incompatible avec l’ambition patrimoniale et soutient une solution enterrée. La dégradation ou le rejet de la candidature Unesco ne sont pas établis.",
+    "source_id": "source_0047",
+    "source_ids": [
+      "source_0047"
+    ],
+    "source_status": "qualified",
+    "date": "2026-09-16",
+    "published_at": "2026-09-16",
+    "accessed_at": "2026-11-10",
+    "excel_row": 58,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_026",
+    "type": "reported_or_attributed",
+    "text": "La Ville d’Arles explique le 10 novembre que ses élus Claire Mailhan et Bertrand Mazel se sont exprimés contre le tracé aérien et ont encouragé les contributions à l’enquête du 9 novembre au 11 décembre.",
+    "source_id": "source_fos5_20261110_003",
+    "source_ids": [
+      "source_fos5_20261110_003"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-10",
+    "published_at": "2026-11-10",
+    "accessed_at": "2026-11-10",
+    "excel_row": 2,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_027",
+    "type": "reported_or_attributed",
+    "text": "RTE rapporte plus de 6 GW de demandes de raccordement exprimées dans la zone Fos-Berre, et un programme régional de renforcement distinct de la seule nouvelle ligne. Les puissances demandées ne sont pas des MW raccordés ou consommés.",
+    "source_id": "source_0075",
+    "source_ids": [
+      "source_0075"
+    ],
+    "source_status": "qualified",
+    "date": null,
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "excel_row": 22,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_028",
+    "type": "reported_or_attributed",
+    "text": "RTE défend l’utilité de la nouvelle ligne aérienne pour la résilience du réseau et l’électrification des usages régionaux au-delà des seules demandes industrielles de Fos. Il ne démontre pas à lui seul la validité du scénario économique, soumise au débat.",
+    "source_id": "source_fos5_20261110_001",
+    "source_ids": [
+      "source_fos5_20261110_001"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-04",
+    "published_at": "2026-11-04",
+    "accessed_at": "2026-11-10",
+    "excel_row": 22,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_029",
+    "type": "reported_or_attributed",
+    "text": "La mairie d’Arles organise une réunion d’information sur la THT le 9 novembre, afin de permettre la participation au registre public, indépendamment du résultat ultérieur de l’instruction.",
+    "source_id": "source_fos5_20261110_003",
+    "source_ids": [
+      "source_fos5_20261110_003"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-09",
+    "published_at": "2026-11-09",
+    "accessed_at": "2026-11-10",
+    "excel_row": 2,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_030",
+    "type": "reported_or_attributed",
+    "text": "RTE prévoit une consultation publique jusqu’au 11 décembre 2026 ; les rapports et conclusions de la commission d’enquête ne sont pas encore rendus au 10 novembre 2026.",
+    "source_id": "source_fos5_20261110_001",
+    "source_ids": [
+      "source_fos5_20261110_001"
+    ],
+    "source_status": "qualified",
+    "date": "2026-11-10",
+    "published_at": "2026-11-10",
+    "accessed_at": "2026-11-10",
+    "excel_row": 22,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_fos5_20261110_031",
+    "type": "reported_or_attributed",
+    "text": "Le 24 septembre 2026, le conseil municipal d’Arles a émis un avis défavorable à la dérogation à la loi Littoral pour la ligne aérienne portée par RTE. Il s’agit d’un avis local, distinct de la décision de l’État sur la DUP.",
+    "source_id": "source_0030",
+    "source_ids": [
+      "source_0030"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-09-24",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "evidence_fos5_20261110_032",
+    "type": "reported_or_attributed",
+    "text": "Le 21 septembre 2026, le juge des référés et les parties ont accepté l’ouverture d’une médiation au sujet des demandes d’accès de RTE aux parcelles de sept agriculteurs. La médiation ne tranche pas la DUP de la ligne.",
+    "source_id": "source_0043",
+    "source_ids": [
+      "source_0043"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-09-21",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "evidence_fos5_20261110_033",
+    "type": "reported_or_attributed",
+    "text": "Le 19 septembre 2026, une mobilisation d’environ 2 500 personnes selon les organisateurs se tient au théâtre antique d’Arles contre le tracé aérien, avec de nombreux élus. Ce nombre est un ordre de grandeur de la mobilisation, non un recensement indépendant.",
+    "source_id": "source_0032",
+    "source_ids": [
+      "source_0032"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-09-19",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "evidence_fos5_20261110_034",
+    "type": "reported_or_attributed",
+    "text": "L’arrêté ministériel du 16 octobre 2026 approuve le bilan de la concertation préalable de mise en compatibilité des documents d’urbanisme. Il ne prononce pas la déclaration d’utilité publique.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-10-16",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "evidence_fos5_20261110_035",
+    "type": "reported_or_attributed",
+    "text": "La CRE a autorisé le 8 octobre 2026 une zone de mutualisation de raccordement à Fos-Lavéra pour des besoins industriels, décision distincte de l’enquête et de l’autorisation de la ligne aérienne Feuillane–Jonquières.",
+    "source_id": "source_0013",
+    "source_ids": [
+      "source_0013"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-10-08",
+    "accessed_at": "2026-11-10"
+  },
+  {
+    "id": "evidence_fos5_20261110_036",
+    "type": "reported_or_attributed",
+    "text": "Le Collectif THT 13/30 décide lors de sa réunion du 23 octobre 2026 de participer à l’enquête et de mobiliser les contributions, sans renoncer à son opposition à la voie aérienne.",
+    "source_id": "source_0014",
+    "source_ids": [
+      "source_0014"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-10-23",
+    "accessed_at": "2026-11-10"
   }
 ]

@@ -3247,5 +3247,111 @@
       "evidence_retro_fos_20261104_063"
     ],
     "original_link": null
+  },
+  {
+    "id": "relation_fos5_actor_0152",
+    "source_id": "actor_0152",
+    "target_id": "project_fos",
+    "type": "Opposé",
+    "summary": "Claire Mailhan, adjointe au maire d’Arles, invite le public à contester la ligne aérienne dans le cadre de l’enquête publique du 9 novembre au 11 décembre. Ne pas attribuer automatiquement cette position à l’AOP Taureau de Camargue.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos5_20261110_006",
+      "evidence_fos5_20261110_007",
+      "evidence_fos5_20261110_026"
+    ]
+  },
+  {
+    "id": "relation_fos5_actor_0153",
+    "source_id": "actor_0153",
+    "target_id": "project_fos",
+    "type": "Soutien",
+    "summary": "François de Canson estime que l’absence de réalisation de la liaison THT serait dommageable à Fos ; il demande également de tenir compte de l’environnement et des éventuels aménagements issus de l’enquête. Soutien conditionnel, pas autorisation.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos5_20261110_015",
+      "evidence_fos5_20261110_016"
+    ]
+  },
+  {
+    "id": "relation_fos5_actor_0154",
+    "source_id": "actor_0154",
+    "target_id": "project_fos",
+    "type": "position / rattachement au dossier",
+    "summary": "Édouard Philippe recommande d’examiner sérieusement les alternatives au tracé aérien pour préserver la Camargue. Sa déclaration ne suffit pas à le classer opposant à tout renforcement électrique ni comme adhérent au collectif.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos5_20261110_014"
+    ]
+  },
+  {
+    "id": "relation_fos5_actor_0155",
+    "source_id": "actor_0155",
+    "target_id": "project_fos",
+    "type": "Opposé",
+    "summary": "Le conseil municipal d’Arles a émis un avis défavorable à la dérogation littorale requise pour le tracé aérien et la Ville a organisé une réunion publique le 9 novembre pour expliquer la procédure et encourager les contributions.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos5_20261110_026",
+      "evidence_fos5_20261110_029",
+      "evidence_fos5_20261110_031"
+    ]
+  },
+  {
+    "id": "relation_fos5_actor_0156",
+    "source_id": "actor_0156",
+    "target_id": "project_fos",
+    "type": "Soutien",
+    "summary": "La Marseillaise du 10 novembre signale la CGT des dockers et portuaires parmi les soutiens à la liaison aérienne. Information de presse attribuée, sans prise de parole syndicale reproduite : certitude moyenne.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_fos5_20261110_008"
+    ]
+  },
+  {
+    "id": "relation_fos5_actor_0157",
+    "source_id": "actor_0157",
+    "target_id": "project_fos",
+    "type": "position / rattachement au dossier",
+    "summary": "La commission d’enquête doit recueillir les contributions et rendre un avis motivé. Elle n’a pas encore rendu ses conclusions et ne doit pas être présentée comme favorable ou opposée au tracé aérien.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos5_20261110_002",
+      "evidence_fos5_20261110_003",
+      "evidence_fos5_20261110_030"
+    ]
+  },
+  {
+    "id": "relation_fos5_actor_0158",
+    "source_id": "actor_0158",
+    "target_id": "project_fos",
+    "type": "Opposé",
+    "summary": "Lucille Venet affirme son refus de la THT aérienne lors du débat municipal du 24 septembre, en comparant son impact foncier à celui du contournement autoroutier d’Arles ; les procédures des deux projets sont distinctes.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos5_20261110_023"
+    ]
+  },
+  {
+    "id": "relation_fos5_actor_0159",
+    "source_id": "actor_0159",
+    "target_id": "project_fos",
+    "type": "Opposé",
+    "summary": "Véronique Jullian juge le tracé aérien contraire aux objectifs de protection patrimoniale de la Camargue et évoque l’enfouissement comme solution ; cela ne signifie pas qu’un classement Unesco serait déjà compromis.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos5_20261110_025"
+    ]
+  },
+  {
+    "id": "relation_fos5_actor_0160",
+    "source_id": "actor_0160",
+    "target_id": "project_fos",
+    "type": "position / rattachement au dossier",
+    "summary": "Mélinda Guarese demande une appréciation cohérente des impacts de la ligne THT et du contournement d’Arles. Cette intervention ne permet pas de qualifier séparément un rejet personnel de la solution aérienne.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_fos5_20261110_024"
+    ]
   }
 ]

@@ -5,12 +5,19 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "favorable",
-    "summary": "RTE, maître d’ouvrage, soutient explicitement la réalisation de la ligne 400 kV aérienne et défend ce choix contre les solutions souterraines.",
+    "summary": "RTE maintient la solution aérienne 400 kV et ouvre l’enquête publique du 9 novembre au 11 décembre 2026. Il justifie le choix par les besoins régionaux et estime une solution souterraine beaucoup plus coûteuse et tardive ; ces chiffres restent ceux du maître d’ouvrage.",
     "certainty": "high",
     "evidence_ids": [
       "evidence_update_0022",
-      "evidence_excel_20261102_028"
-    ]
+      "evidence_excel_20261102_028",
+      "evidence_fos5_20261110_001",
+      "evidence_fos5_20261110_003",
+      "evidence_fos5_20261110_004",
+      "evidence_fos5_20261110_011",
+      "evidence_fos5_20261110_019",
+      "evidence_fos5_20261110_028"
+    ],
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0002",
@@ -18,13 +25,17 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "Patrick de Carolis réaffirme son opposition à la solution aérienne ; le conseil municipal d'Arles a rendu un avis défavorable à la dérogation à la loi Littoral. Patrick de Carolis critique publiquement le tracé aérien et juge son acceptabilité territoriale insuffisante.",
+    "summary": "Patrick de Carolis, maire d’Arles, poursuit son opposition au tracé aérien ; la Ville organise le 9 novembre une réunion pour encourager les contributions à l’enquête. Le conseil municipal avait émis le 24 septembre un avis défavorable à la dérogation littorale.",
     "certainty": "high",
     "evidence_ids": [
       "evidence_retro_fos_20261104_001",
-      "evidence_retro_fos_20261104_002"
+      "evidence_retro_fos_20261104_002",
+      "evidence_fos5_20261110_007",
+      "evidence_fos5_20261110_026",
+      "evidence_fos5_20261110_031"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0003",
@@ -32,15 +43,20 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "Opposé au tracé aérien et favorable aux alternatives enterrées ou sous-marines. Lors de sa réunion du 23 octobre 2026, le collectif a décidé de participer à l’enquête publique et de mobiliser les contributions et expertises juridiques dans le cadre légal.",
+    "summary": "Opposé à la variante aérienne, le Collectif THT 13/30 participe à l’enquête ouverte le 9 novembre, sollicite un examen des alternatives, une prolongation et des réunions publiques, et prépare des contributions formalisées. Ses critiques du coût et des études de RTE sont attribuées au collectif.",
     "certainty": "high",
     "evidence_ids": [
       "evidence_update_0006",
       "evidence_excel_20261102_001",
       "evidence_excel_20261102_005",
-      "evidence_fos2_20261104_018"
+      "evidence_fos2_20261104_018",
+      "evidence_fos5_20261110_009",
+      "evidence_fos5_20261110_010",
+      "evidence_fos5_20261110_022",
+      "evidence_fos5_20261110_036"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0004",
@@ -48,13 +64,15 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "neutral",
-    "summary": "Renaud Muselier reconnaît le besoin d'électrifier Fos mais demande une solution territoriale partagée plutôt que le projet en l'état.",
+    "summary": "Renaud Muselier, devenu sénateur en octobre 2026 après son départ de la présidence de la Région Sud, avait demandé en tant que président régional une solution négociée et l’examen d’alternatives plutôt qu’un passage en force.",
     "certainty": "high",
     "evidence_ids": [
       "evidence_retro_fos_20261104_003",
-      "evidence_fos1_20261104_033"
+      "evidence_fos1_20261104_033",
+      "evidence_fos5_20261110_016"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0005",
@@ -62,12 +80,15 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "Jean-Luc Moya est identifié comme porte-parole du Collectif THT 13/30 lors du rassemblement d'Arles en opposition au projet aérien.",
+    "summary": "Jean-Luc Moya demeure porte-parole du Collectif THT 13/30 : le 9 novembre, il appelle à utiliser l’enquête publique pour contester l’alternative aérienne et plaider pour l’enfouissement. Ses contestations des coûts RTE sont présentées comme ses propres arguments.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_004"
+      "evidence_retro_fos_20261104_004",
+      "evidence_fos5_20261110_007",
+      "evidence_fos5_20261110_010"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0006",
@@ -90,12 +111,14 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "Séverine Dellanegra défend auprès de l'Élysée une alternative à la ligne aérienne et appelle à la mobilisation ; elle ne remet pas en cause les besoins d'électricité de Fos.",
+    "summary": "Séverine Dellanegra, maire de Saint-Martin-de-Crau, maintient la demande d’alternatives étudiées au tracé aérien et sa mobilisation contre le projet dans sa configuration actuelle.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_007"
+      "evidence_retro_fos_20261104_007",
+      "evidence_fos5_20261110_033"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0008",
@@ -103,12 +126,14 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "Emmanuel Taché indique s'opposer depuis 2023 à la solution aérienne et avoir présenté les objections des acteurs locaux au cabinet de la ministre de l'Énergie.",
+    "summary": "Emmanuel Taché soutient les démarches des opposants au tracé aérien ; le 9 novembre 2026 il est cité parmi les intervenants demandant d’étudier une prolongation de l’enquête publique.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_fos1_20261104_001"
+      "evidence_fos1_20261104_001",
+      "evidence_fos5_20261110_007"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0009",
@@ -129,12 +154,15 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "Jean-Laurent Lucchesi est porte-parole du collectif THT 13/30 et soutient les solutions non aériennes présentées au rassemblement d'Arles.",
+    "summary": "Jean-Laurent Lucchesi appelle les contributeurs à produire des observations précises et opposables lors de l’enquête publique ouverte le 9 novembre ; le collectif qu’il représente conserve son opposition à la voie aérienne.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_009"
+      "evidence_retro_fos_20261104_009",
+      "evidence_fos5_20261110_007",
+      "evidence_fos5_20261110_009"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0011",
@@ -156,13 +184,16 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "Carole Guintoli dénonce l'accès forcé à ses parcelles dans le cadre des études RTE ; elle figure parmi les sept agriculteurs ayant refusé les visites. Carole Guintoli témoigne avoir contesté les visites réalisées ou demandées par des représentants mandatés par RTE sur son exploitation.",
+    "summary": "Carole Guintoli, rizicultrice opposée à l’aérien, encourage les citoyens à participer à l’enquête publique et à formuler des objections argumentées, parallèlement à la médiation concernant l’accès aux parcelles.",
     "certainty": "high",
     "evidence_ids": [
       "evidence_retro_fos_20261104_010",
-      "evidence_retro_fos_20261104_011"
+      "evidence_retro_fos_20261104_011",
+      "evidence_fos5_20261110_009",
+      "evidence_fos5_20261110_032"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0013",
@@ -170,12 +201,14 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "Cyril Marès, président de la COPA 30, maintient explicitement son refus du tracé aérien malgré l'accord agricole national.",
+    "summary": "Cyril Marès, président de la COPA 30, rappelle que l’accord national d’accompagnement agricole signé avec RTE ne vaut pas soutien à la ligne aérienne de Fos-Jonquières.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_012"
+      "evidence_retro_fos_20261104_012",
+      "evidence_fos5_20261110_013"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0014",
@@ -196,12 +229,14 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "Luc Perrin, coprésident de l'ASTA, critique les impacts paysagers et environnementaux de la solution aérienne et appelle à une alternative.",
+    "summary": "Luc Perrin, coprésident de l’ASTA et élu d’opposition à Beaucaire, appelle le 9 novembre à contester la solution aérienne lors de l’enquête publique.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_014"
+      "evidence_retro_fos_20261104_014",
+      "evidence_fos5_20261110_017"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0016",
@@ -222,12 +257,14 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "Clément Lajoux, président de la COPA 13, maintient explicitement son refus de la ligne aérienne Jonquières–Fos malgré un accord national agricole.",
+    "summary": "Clément Lajoux, président de la COPA 13, maintient son refus du tracé aérien malgré l’accord national FNSEA–RTE.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_016"
+      "evidence_retro_fos_20261104_016",
+      "evidence_fos5_20261110_013"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0018",
@@ -425,12 +462,15 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "Bertrand Mazel figure dans les organisations agricoles engagées contre le tracé aérien et les atteintes aux terres de culture.",
+    "summary": "Bertrand Mazel, élu arlésien et responsable de la filière rizicole, participe à la réunion municipale du 9 novembre et appelle à formaliser les critiques du tracé aérien dans le dossier d’enquête.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_023"
+      "evidence_retro_fos_20261104_023",
+      "evidence_fos5_20261110_007",
+      "evidence_fos5_20261110_026"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0035",
@@ -529,12 +569,16 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "favorable",
-    "summary": "Gilles Odone, délégué Méditerranée de RTE, présente la feuille de route et les études restant à mener avant la définition précise des pylônes.",
+    "summary": "Gilles Odone, représentant de RTE en Méditerranée, soutient l’ouverture de l’enquête publique et défend le choix aérien. Il évalue à environ 3,5–3,6 Md€ une option souterraine contre 400 M€ pour la solution aérienne, avec délai avancé jusqu’en 2035 ; ces chiffres sont des estimations de RTE.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_029"
+      "evidence_retro_fos_20261104_029",
+      "evidence_fos5_20261110_011",
+      "evidence_fos5_20261110_018",
+      "evidence_fos5_20261110_028"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0043",
@@ -583,12 +627,16 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "neutral",
-    "summary": "Les services de l'État organisent l'enquête publique du 9 novembre au 11 décembre 2026 relative aux demandes de DUP et de dérogation littorale.",
+    "summary": "L’État a organisé l’enquête publique du 9 novembre au 11 décembre 2026 sur les demandes relatives à la ligne aérienne 400 kV. Cette décision d’ouverture ne préjuge pas de la future DUP.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_033"
+      "evidence_retro_fos_20261104_033",
+      "evidence_fos5_20261110_001",
+      "evidence_fos5_20261110_002",
+      "evidence_fos5_20261110_003"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0047",
@@ -709,13 +757,15 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "L'Association de sauvegarde des terres de Camargue et de Crau, coprésidée par Cédric Bernardi et Guillaume Meiffre, mène des actions publiques contre les pylônes.",
+    "summary": "L’Association de sauvegarde des terres de Camargue et de Crau (ASTCC) maintient son opposition au tracé aérien et demande le 5 novembre une prolongation de l’enquête, invoquant les dégâts d’inondations survenus dans les exploitations fin octobre.",
     "certainty": "high",
     "evidence_ids": [
       "evidence_retro_fos_20261104_037",
-      "evidence_fos2_20261104_023"
+      "evidence_fos2_20261104_023",
+      "evidence_fos5_20261110_012"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0057",
@@ -723,13 +773,15 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "Structure l'opposition côté Gard (Beaucaire / Bellegarde) et Terre d'Argence.",
+    "summary": "L’ASTA défend l’alternative à la ligne aérienne côté Terre d’Argence ; son cogestionnaire Luc Perrin appelle à participer à l’enquête ouverte le 9 novembre 2026.",
     "certainty": "high",
     "evidence_ids": [
       "evidence_actor_0057",
       "evidence_update_0018",
-      "evidence_excel_20261102_019"
-    ]
+      "evidence_excel_20261102_019",
+      "evidence_fos5_20261110_017"
+    ],
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0058",
@@ -777,12 +829,14 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "La COPA 13 confirme son opposition au projet aérien, sans que l'accord FNSEA–RTE valide ce tracé local.",
+    "summary": "La COPA 13 maintient son refus de la ligne aérienne, indépendamment de l’accord national d’accompagnement agricole du 12 octobre 2026.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_038"
+      "evidence_retro_fos_20261104_038",
+      "evidence_fos5_20261110_013"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0062",
@@ -790,12 +844,14 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "La COPA 30 confirme son opposition au tracé aérien malgré la signature de l'accord national sur les lignes très haute tension.",
+    "summary": "La COPA 30 maintient son opposition à la voie aérienne malgré le cadre agricole national négocié avec RTE.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_039"
+      "evidence_retro_fos_20261104_039",
+      "evidence_fos5_20261110_013"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0063",
@@ -1013,12 +1069,14 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "La présidente du Parc naturel régional de Camargue affirme que le Parc doit participer à la mobilisation contre le tracé aérien.",
+    "summary": "Le Parc naturel régional de Camargue soutient l’objectif de décarbonation de Fos-Berre mais affirme officiellement s’opposer à l’implantation de la ligne 400 kV par voie aérienne pour des raisons écologiques, paysagères et socio-économiques.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_047"
+      "evidence_retro_fos_20261104_047",
+      "evidence_fos5_20261110_021"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0079",
@@ -1505,12 +1563,14 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "opposed",
-    "summary": "L'association La Camargue à l'Unesco considère le projet de pylônes aérien comme incompatible avec son ambition de classement et plaide pour l'enfouissement.",
+    "summary": "L’association La Camargue à l’Unesco, par la voix de Véronique Jullian, juge le tracé aérien incompatible avec son objectif patrimonial et préconise une solution enterrée. Un refus de candidature Unesco n’est pas établi.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_061"
+      "evidence_retro_fos_20261104_061",
+      "evidence_fos5_20261110_025"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0118",
@@ -1609,12 +1669,15 @@
     "project_id": "project_fos",
     "claim_type": "position",
     "value": "favorable",
-    "summary": "Christophe Berassen, directeur du programme RTE Fos-Berre, défend la nécessité de la ligne aérienne et expose les arguments techniques et de compensation du maître d'ouvrage.",
+    "summary": "Christophe Berassen, directeur du programme RTE Fos-Berre, défend la variante aérienne et indique que RTE a étudié quatorze stratégies. RTE lui-même confirme l’orthographe de son nom.",
     "certainty": "high",
     "evidence_ids": [
-      "evidence_retro_fos_20261104_064"
+      "evidence_retro_fos_20261104_064",
+      "evidence_fos5_20261110_019",
+      "evidence_fos5_20261110_020"
     ],
-    "updated_at": "2026-11-04"
+    "updated_at": "2026-11-04",
+    "last_reviewed_at": "2026-11-10"
   },
   {
     "id": "claim_actor_0126",
@@ -1953,5 +2016,147 @@
       "evidence_retro_fos_20261104_090"
     ],
     "updated_at": "2026-11-04"
+  },
+  {
+    "id": "claim_actor_0152",
+    "subject_id": "actor_0152",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Claire Mailhan, adjointe au maire d’Arles, invite le public à contester la ligne aérienne dans le cadre de l’enquête publique du 9 novembre au 11 décembre. Ne pas attribuer automatiquement cette position à l’AOP Taureau de Camargue.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos5_20261110_006",
+      "evidence_fos5_20261110_007",
+      "evidence_fos5_20261110_026"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_actor_0153",
+    "subject_id": "actor_0153",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "François de Canson estime que l’absence de réalisation de la liaison THT serait dommageable à Fos ; il demande également de tenir compte de l’environnement et des éventuels aménagements issus de l’enquête. Soutien conditionnel, pas autorisation.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos5_20261110_015",
+      "evidence_fos5_20261110_016"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_actor_0154",
+    "subject_id": "actor_0154",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Édouard Philippe recommande d’examiner sérieusement les alternatives au tracé aérien pour préserver la Camargue. Sa déclaration ne suffit pas à le classer opposant à tout renforcement électrique ni comme adhérent au collectif.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos5_20261110_014"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_actor_0155",
+    "subject_id": "actor_0155",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Le conseil municipal d’Arles a émis un avis défavorable à la dérogation littorale requise pour le tracé aérien et la Ville a organisé une réunion publique le 9 novembre pour expliquer la procédure et encourager les contributions.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos5_20261110_026",
+      "evidence_fos5_20261110_029",
+      "evidence_fos5_20261110_031"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_actor_0156",
+    "subject_id": "actor_0156",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "favorable",
+    "summary": "La Marseillaise du 10 novembre signale la CGT des dockers et portuaires parmi les soutiens à la liaison aérienne. Information de presse attribuée, sans prise de parole syndicale reproduite : certitude moyenne.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_fos5_20261110_008"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_actor_0157",
+    "subject_id": "actor_0157",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "La commission d’enquête doit recueillir les contributions et rendre un avis motivé. Elle n’a pas encore rendu ses conclusions et ne doit pas être présentée comme favorable ou opposée au tracé aérien.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos5_20261110_002",
+      "evidence_fos5_20261110_003",
+      "evidence_fos5_20261110_030"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_actor_0158",
+    "subject_id": "actor_0158",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Lucille Venet affirme son refus de la THT aérienne lors du débat municipal du 24 septembre, en comparant son impact foncier à celui du contournement autoroutier d’Arles ; les procédures des deux projets sont distinctes.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos5_20261110_023"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_actor_0159",
+    "subject_id": "actor_0159",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "opposed",
+    "summary": "Véronique Jullian juge le tracé aérien contraire aux objectifs de protection patrimoniale de la Camargue et évoque l’enfouissement comme solution ; cela ne signifie pas qu’un classement Unesco serait déjà compromis.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_fos5_20261110_025"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_actor_0160",
+    "subject_id": "actor_0160",
+    "project_id": "project_fos",
+    "claim_type": "position",
+    "value": "neutral",
+    "summary": "Mélinda Guarese demande une appréciation cohérente des impacts de la ligne THT et du contournement d’Arles. Cette intervention ne permet pas de qualifier séparément un rejet personnel de la solution aérienne.",
+    "certainty": "medium",
+    "evidence_ids": [
+      "evidence_fos5_20261110_024"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
   }
 ]

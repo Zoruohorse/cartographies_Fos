@@ -105,7 +105,7 @@
     ],
     "roles": [
       {
-        "label": "Président de la Région Sud"
+        "label": "Sénateur des Bouches-du-Rhône depuis septembre 2026 ; ancien président de la Région Sud"
       }
     ],
     "original_graph": {
@@ -119,7 +119,7 @@
       "name": "Renaud Muselier",
       "category": "elus-opp",
       "stance": "opposed",
-      "role": "Président de la Région Sud",
+      "role": "Sénateur (depuis septembre 2026), ancien président de Région Sud",
       "position": "S'oppose à un passage en force sur la solution aérienne et avertit qu'il provoquerait un blocage irrémédiable.",
       "evidence": "Un passage en force entraînera un blocage irrémédiable.",
       "certainty": "Haute"
@@ -2947,9 +2947,9 @@
   },
   {
     "id": "actor_0125",
-    "name": "Christophe Barassen",
-    "short_name": "Christophe Barassen",
-    "description": "Christophe Berassen, directeur du programme RTE Fos-Berre, défend la nécessité de la ligne aérienne et expose les arguments techniques et de compensation du maître d'ouvrage.",
+    "name": "Christophe Berassen",
+    "short_name": "Christophe Berassen",
+    "description": "Christophe Berassen, directeur du programme d’électrification Fos-Berre-Provence chez RTE, présente le projet aérien et les stratégies étudiées ; orthographe confirmée par une publication de RTE.",
     "categories": [
       "porteurs"
     ],
@@ -2960,7 +2960,7 @@
     ],
     "original_graph": null,
     "original_card": {
-      "name": "Christophe Barassen",
+      "name": "Christophe Berassen",
       "category": "porteurs",
       "stance": "favorable",
       "role": "Directeur programme électrification (RTE)",
@@ -3530,6 +3530,177 @@
       "porteurs"
     ],
     "roles": [],
+    "original_graph": null,
+    "original_card": null
+  },
+  {
+    "id": "actor_0152",
+    "name": "Claire Mailhan",
+    "short_name": "Claire Mailhan",
+    "description": "Adjointe au maire d’Arles, manadière et présidente de l’AOP Taureau de Camargue ; elle combat le tracé aérien et coordonne l’appel aux observations lors de la réunion du 9 novembre.",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Adjointe au maire d’Arles, manadière et présidente de l’AOP Taureau de Camargue "
+      }
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-10",
+    "origin": "Fos(5).xlsx",
+    "original_graph": null,
+    "original_card": null
+  },
+  {
+    "id": "actor_0153",
+    "name": "François de Canson",
+    "short_name": "François de Canson",
+    "description": "Président de la Région Sud depuis le 12 octobre 2026, successeur de Renaud Muselier ; défend la nécessité de réaliser la ligne THT tout en admettant d’éventuels aménagements après enquête.",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [
+      {
+        "label": "Président de la Région Sud depuis le 12 octobre 2026, successeur de Renaud Muselier "
+      }
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-10",
+    "origin": "Fos(5).xlsx",
+    "original_graph": null,
+    "original_card": null
+  },
+  {
+    "id": "actor_0154",
+    "name": "Édouard Philippe",
+    "short_name": "Édouard Philippe",
+    "description": "Ancien Premier ministre et candidat à la présidentielle 2027, présent à Arles le 6 novembre ; appelle à étudier les alternatives techniques pour la Camargue.",
+    "categories": [
+      "elus-fav"
+    ],
+    "roles": [
+      {
+        "label": "Ancien Premier ministre et candidat à la présidentielle 2027, présent à Arles le 6 novembre "
+      }
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-10",
+    "origin": "Fos(5).xlsx",
+    "original_graph": null,
+    "original_card": null
+  },
+  {
+    "id": "actor_0155",
+    "name": "Ville d’Arles / conseil municipal",
+    "short_name": "Ville d’Arles / conseil municipal",
+    "description": "Collectivité directement traversée, à l’origine de la réunion du 9 novembre et d’un avis défavorable le 24 septembre à la dérogation à la loi Littoral.",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Collectivité directement traversée, à l’origine de la réunion du 9 novembre et d’un avis défavorable"
+      }
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-10",
+    "origin": "Fos(5).xlsx",
+    "original_graph": null,
+    "original_card": null
+  },
+  {
+    "id": "actor_0156",
+    "name": "CGT des dockers et portuaires",
+    "short_name": "CGT des dockers et portuaires",
+    "description": "Organisation syndicale mentionnée par La Marseillaise parmi les soutiens à la ligne, dans un contexte de sécurisation de l’emploi et de l’approvisionnement du port ; déclaration directe non fournie.",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [
+      {
+        "label": "Organisation syndicale mentionnée par La Marseillaise parmi les soutiens à la ligne, dans un context"
+      }
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-10",
+    "origin": "Fos(5).xlsx",
+    "original_graph": null,
+    "original_card": null
+  },
+  {
+    "id": "actor_0157",
+    "name": "Commission indépendante d’enquête publique — Fos-Jonquières",
+    "short_name": "Commission indépendante d’enquête publique — Fos-Jonquières",
+    "description": "Commission de cinq commissaires enquêteurs désignés par le tribunal administratif pour la consultation du 9 novembre au 11 décembre ; rôle procédural et non soutien à l’opérateur.",
+    "categories": [
+      "experts"
+    ],
+    "roles": [
+      {
+        "label": "Commission de cinq commissaires enquêteurs désignés par le tribunal administratif pour la consultati"
+      }
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-10",
+    "origin": "Fos(5).xlsx",
+    "original_graph": null,
+    "original_card": null
+  },
+  {
+    "id": "actor_0158",
+    "name": "Lucille Venet",
+    "short_name": "Lucille Venet",
+    "description": "Conseillère municipale d’opposition Union pour Arles, critique la THT aérienne et interroge la cohérence avec le contournement autoroutier d’Arles.",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Conseillère municipale d’opposition Union pour Arles, critique la THT aérienne et interroge la cohér"
+      }
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-10",
+    "origin": "Fos(5).xlsx",
+    "original_graph": null,
+    "original_card": null
+  },
+  {
+    "id": "actor_0159",
+    "name": "Véronique Jullian",
+    "short_name": "Véronique Jullian",
+    "description": "Représentante de la démarche « La Camargue à l’Unesco », défend la qualité des paysages et une alternative enterrée à l’aérien.",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Représentante de la démarche « La Camargue à l’Unesco », défend la qualité des paysages et une alter"
+      }
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-10",
+    "origin": "Fos(5).xlsx",
+    "original_graph": null,
+    "original_card": null
+  },
+  {
+    "id": "actor_0160",
+    "name": "Mélinda Guarese",
+    "short_name": "Mélinda Guarese",
+    "description": "Conseillère municipale RN à Arles ; demande une cohérence d’analyse des impacts entre ligne THT et contournement autoroutier.",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Conseillère municipale RN à Arles "
+      }
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-10",
+    "origin": "Fos(5).xlsx",
     "original_graph": null,
     "original_card": null
   }

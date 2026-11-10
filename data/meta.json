@@ -3,7 +3,10 @@
   "subtitle": "Projet de ligne aérienne 400 kV porté par RTE entre Jonquières-Saint-Vincent et Fos-sur-Mer. Le dossier cristallise un conflit majeur entre l'urgence de décarbonation industrielle de Fos et la préservation d'écosystèmes et de terres agricoles uniques (Camargue, Crau, Terre d'Argence).",
   "id": "project_fos",
   "network_center_id": "project_fos",
-  "data_notice": "Mise à jour documentaire du 4 novembre 2026 avec Fos(2).xlsx : source exacte URL et provenance conservées (consultation web directe ou texte Excel). Les prises de position sur la THT sont distinctes des simples rôles dans les projets industriels liés. Les publications antérieures à l'enquête de novembre 2026 ne remplacent pas le dernier état de la procédure.",
+  "data_notice": "Actualisation au 10 novembre 2026, après lecture des 100 ressources de Fos(5).xlsx (lignes 2 à 101) : enquête publique OUVERTE le 9 novembre, jusqu’au 11 décembre ; la DUP reste à instruire. Nouvelles positions attribuées et vérifiées, distinctions entre soutien aux besoins électriques et opposition au TRACÉ aérien ; aucune affirmation de coût ou délai contradictoire présentée comme vérité arbitrée. Dates de trouvaille Excel distinctes des dates de publication.",
   "original_graph_count": 112,
-  "original_cards_count": 86
+  "original_cards_count": 86,
+  "last_updated": "2026-11-10",
+  "source_workbook_last": "Fos(5).xlsx",
+  "source_workbook_sha256": "1199b664c4c6a1c7ab98f74f7ff044abe8efccfa5c54a32d7032af09a78202d1"
 }
