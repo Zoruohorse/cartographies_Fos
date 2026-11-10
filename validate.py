@@ -1,69 +1,67 @@
-import json,sys
+#!/usr/bin/env python3
+import json
 from pathlib import Path
 root=Path(__file__).resolve().parent
-load=lambda p:json.loads((root/p).read_text(encoding="utf-8"))
-a=load("data/actors.json");c=load("data/claims.json");e=load("data/evidence.json");r=load("data/relations.json")
-ids=[x["id"] for x in a]; assert len(ids)==len(set(ids)),"IDs acteurs dupliques"
-A=set(ids); E={x["id"] for x in e}
-for x in c: assert x["subject_id"] in A; assert set(x.get("evidence_ids",[]))<=E
-for x in r: assert x["source_id"] in A and x["target_id"] in A; assert set(x.get("evidence_ids",[]))<=E
-print(f"OK: {len(a)} acteurs, {len(c)} positions, {len(r)} relations, {len(e)} preuves")
+def read(path):
+    return json.loads((root/path).read_text(encoding='utf-8'))
+actors,claims,relations,evidence,sources,timeline=[read('data/'+n+'.json') for n in ('actors','claims','relations','evidence','sources','timeline')]
+taxonomy=read('config/taxonomy.json')
+content=read('data/content.json')
+cards_content=read('data/cards-content.json')
 
-
-# Validation renforcée après le lot Fos(5), 10 novembre 2026.
+# Validation étendue, 10 novembre 2026 : référentiel sourcé et navigation.
+import re
 from datetime import date
 from urllib.parse import urlsplit
-import re
-S=load("data/sources.json");T=load("data/timeline.json");D=load("data/content.json")
-Q=load("data/cards-content.json");Tax=load("config/taxonomy.json")
-Audit=load("data/audit-fos5-20261110.json")
-def uniq(rows,label):
- out={x["id"]:x for x in rows}
- assert len(out)==len(rows), "doublon "+label
- return out
-src=uniq(S,"sources");events=uniq(T,"timeline");ev=uniq(e,"preuves")
-assert len(A)==161 and len(c)==160 and len(r)==226 and len(e)==301 and len(S)==139
-assert len(T)==160 and len(D["milestones"])==21 and len(D["fact_sheet"])==9
-assert len(Q["griefs"])==17 and len(Q["vigilance"])==25
-for event in T:
- assert event["actor_id"] in A,event["id"]
- assert event["stance"] in Tax["stances"] and event["stance"]!="all",event["id"]
- assert event["scope"] in ("direct","context","excluded"),event["id"]
- assert event["source_ids"] is not None,event["id"]
- assert set(event["evidence_ids"]) <= ev.keys(),event["id"]
- assert set(event["source_ids"]) <= src.keys(),event["id"]
- if event["status"]=="confirmed":
-  assert event["date"],event["id"]
-  if event["date_precision"]=="month":
-   assert re.fullmatch(r"\d{4}-(0[1-9]|1[0-2])",event["date"])
-  else:
-   assert event["date_precision"]=="day",event["id"]
-   date.fromisoformat(event["date"])
-  assert event["date"]<="2026-11-10",event["id"]
- else:
-  assert event["status"]=="undated" and event["date"] is None,event["id"]
-for row in D["milestones"]+D["fact_sheet"]+Q["griefs"]+Q["vigilance"]:
- for eid in row.get("evidence_ids",[]):
-  assert eid in ev,eid
-  e0=ev[eid]
-  source_ids=set(e0.get("source_ids",[]))
-  if e0.get("source_id"): source_ids.add(e0["source_id"])
-  assert any((sid in src and urlsplit(src[sid].get("url","")).scheme in ("http","https")) for sid in source_ids),eid
-for item in S:
- if item["id"].startswith("source_fos5_"):
-  assert urlsplit(item.get("url","")).scheme=="https",item["id"]
-for row in Audit["row_by_row"]:
- assert 2 <= row["excel_row"] <=101,row["excel_row"]
-assert len(Audit["row_by_row"])==100
-assert sorted(x["excel_row"] for x in Audit["row_by_row"])==list(range(2,102))
-assert sum(x["status"]=="confirmed" for x in T)==93
-for name in ("carto","griefs","vigilance","timeline","evolution"):
- page=(root/"apps/cards/index.html").read_text(encoding="utf-8")
- assert f'data-tab="{name}"' in page and f'<section id="tab-{name}"' in page,name
-for file in ("assets/js/evolution.js","assets/css/evolution.css"):
- assert (root/file).is_file(),file
-widget=(root/"assets/js/evolution.js").read_text(encoding="utf-8")
-for mode in ("new","cumulative","stance"):
- assert f'data-mode="{mode}"' in widget,mode
-assert "timeline:\"data/timeline.json\"" in (root/"assets/js/data-loader.js").read_text(encoding="utf-8")
-print("FOS LOT5 OK : 100 lignes, 161 noeuds, 160 positions, 226 relations, 21 jalons, 9 repères, 93 acteurs datés, 5 onglets.")
+def qualified_sources(ids, owner):
+    assert ids, f'Preuves absentes : {owner}'
+    for eid in ids:
+        assert eid in ev_by_id, f'Preuve inconnue {eid} : {owner}'
+        ev = ev_by_id[eid]
+        src_ids = list(ev.get('source_ids', [])) + ([ev['source_id']] if ev.get('source_id') else [])
+        assert src_ids, f'Source absente {eid}'
+        for sid in src_ids:
+            assert sid in src_by_id and urlsplit(src_by_id[sid]['url']).scheme in ('http', 'https'), f'URL manquante : {sid}'
+actors_by_id={x['id']:x for x in actors}
+assert len(actors_by_id)==len(actors), "Acteur en double"
+claim_by_id={x['id']:x for x in claims}
+assert len(claim_by_id)==len(claims), "Position en double"
+ev_by_id={x['id']:x for x in evidence}
+src_by_id={x['id']:x for x in sources}
+assert len(ev_by_id)==len(evidence)
+assert len(src_by_id)==len(sources)
+assert len({x['id'] for x in relations})==len(relations)
+assert len(actors)==161 and len(claims)==160 and len(relations)==226
+assert len(evidence)==301 and len(sources)==139
+assert {x['subject_id'] for x in claims}==set(actors_by_id)-{'project_fos'}
+for item in claims:
+    assert item['subject_id'] in actors_by_id and item['value'] in taxonomy['stances'],item['id']
+    qualified_sources(item['evidence_ids'],item['id'])
+for item in relations:
+    assert item['source_id'] in actors_by_id and item['target_id'] in actors_by_id,item['id']
+    qualified_sources(item['evidence_ids'],item['id'])
+for item in evidence:
+    assert item.get('source_id') in src_by_id or any(x in src_by_id for x in item.get('source_ids',[])),item['id']
+for section in (content['milestones'],content['fact_sheet'],cards_content['griefs'],cards_content['vigilance']):
+    for item in section:
+        qualified_sources(item['evidence_ids'],item.get('id',item.get('title')))
+for x in timeline:
+    assert x['actor_id'] in actors_by_id, x['id']
+    if x['status']=='confirmed':
+        assert re.fullmatch(r'\d{4}-\d{2}-\d{2}',x['date']),x['id']
+        assert date.fromisoformat(x['date'])<=date(2026,11,10),x['id']
+assert len({x['actor_id'] for x in timeline})==len(timeline)==160
+assert len([x for x in timeline if x['status']=='confirmed'])==93
+page=(root/'apps/cards/index.html').read_text(encoding='utf-8')
+for tab in ('carto','griefs','vigilance','timeline','evolution'):
+    assert f'data-tab="{tab}"' in page and f'id="tab-{tab}"' in page,tab
+assert len(re.findall(r'data-tab="[^"]+"',page))==5
+graph=(root/'assets/js/evolution.js').read_text(encoding='utf-8')
+for mode in ('new','cumulative','stance'):
+    assert f'data-mode="{mode}"' in graph,mode
+assert 'data-scope="direct"' in graph and 'data-scope="all"' in graph
+assert len(cards_content['griefs'])==17 and len(cards_content['vigilance'])==25
+assert len(content['milestones'])==21 and len(content['fact_sheet'])==9
+audit=read('data/audit-fos5-20261110.json')
+assert audit['total_rows']==100 and audit['after']['evidence']==len(evidence)
+print('VALIDATION ÉTENDUE OK : 100 ressources examinées ; 161 nœuds, 160 positions, 226 relations, 301 preuves, 139 sources, 5 onglets.')

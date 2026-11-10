@@ -20,7 +20,7 @@
     "actors": 161,
     "claims": 160,
     "relations": 226,
-    "evidence": 300,
+    "evidence": 301,
     "sources": 139,
     "griefs": 17,
     "vigilance": 25
@@ -743,5 +743,6 @@
     "excluded_mismatch_or_out_of_scope": 3,
     "already_covered_or_historical_corrob": 56
   },
-  "row_decisions_are": "Audit de reprise des contenus du classeur (date de collecte et titre présents dans le fichier source) et de la qualification différentielle. Les classifications ne signifient pas que chaque article a produit un nouvel acteur. Les URLs des preuves retenues figurent dans data/sources.json ; aucun lien non canonique n'est utilisé."
+  "row_decisions_are": "Audit de reprise des contenus du classeur (date de collecte et titre présents dans le fichier source) et de la qualification différentielle. Les classifications ne signifient pas que chaque article a produit un nouvel acteur. Les URLs des preuves retenues figurent dans data/sources.json ; aucun lien non canonique n'est utilisé.",
+  "validation_note": "Le référentiel comporte 301 preuves (37 preuves supplémentaires, dont une de débat public) ; 139 sources URL, 160 positions et 226 relations. Validation du chargement des cartes par sélection explicite des identifiants HTML."
 }
